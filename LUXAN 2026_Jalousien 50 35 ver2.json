@@ -1,0 +1,1602 @@
+{
+  "source_file": "LUXAN 2026_Jalousien 50 35 ver2.pdf",
+  "total_pages": 122,
+  "pages": [
+    {
+      "products": [],
+      "page_notes": "Cover page for 'LUXAN 2026_Jalousien 50 35 ver2.pdf' displaying the title 'Jalousien 50 / 35 mm', image of a room with blinds, and general pricing note: 'All prices are recommended retail prices incl. statutory VAT in euros. Price lists valid from 2026. All previous price lists become invalid. Each unit is custom-made, exchange or return is not possible. For intermediate sizes, the next higher price applies.'",
+      "page_number": 1
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no visible content or product information.",
+      "page_number": 2
+    },
+    {
+      "products": [],
+      "page_notes": "This page is a table of contents from the 'LUXAN 2026_Jalousien 50 35 ver2.pdf' catalogue. It lists sections such as KINDERSICHERHEIT, MODELÜBERSICHT, MODELLBESCHREIBUNG, AUFPREISE, PREISE, and BEDIENVARIANTEN MONOKOMMANDO with corresponding page numbers for models like I50 S, I50 Slope, I50 LR, I50 E, I50 EL, I50 Tilt, I50 K, I50 KG, A50 E, and A50 EL.",
+      "page_number": 3
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the table of contents for the 'LUXAN 2026_Jalousien 50 35 ver2.pdf'. It lists various sections such as prices, model descriptions, installation instructions, and technical information for different jalousie models.",
+      "page_number": 4
+    },
+    {
+      "products": [],
+      "page_notes": "This page is the table of contents for the 'LUXAN 2026_Jalousien 50 35 ver2.pdf' catalogue. It includes sections such as AUFPREISE, PREISE, AUFMAßANLEITUNG, MONTAGE, and more, but no specific product information.",
+      "page_number": 5
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains information about child safety standards for blinds, referring to European Norm EN 13120 and additional norms EN 16433 and EN 16434. It outlines safety features and installation requirements for various models including l35 SS, l35 SD, l50 S, l50 E, and l50 Slope. It also describes the Ausreiß-Schnurverbinder and Schnuraufwickler devices.",
+      "page_number": 6
+    },
+    {
+      "products": [
+        {
+          "name": "Kettenspanner/Schnurspanner",
+          "description": "Der Kettenspanner/Schnurspanner soll an der Wand 150 cm vom Fußboden entfernt befestigt werden. Es ist dabei sicherzustellen, dass die richtige Ketten/Schnur-Spannung gewährleistet wird (die maximale Entfernung zwischen den zwei Ketten/Schnur-strängen beträgt maximal 50 mm).",
+          "additional_info": "Kettenspanner/Schnurspanner werden bei Modellen mit Kettenbedienung oder Bedienung mit Endlosschnur geliefert: I35 MKESS, I35 MKESv, I50 E (alle Typen)."
+        }
+      ],
+      "page_notes": "Section about child safety mechanisms for window blinds, including installation and safety instructions, EN-Norm 13120 warnings, and installation height conditions.",
+      "page_number": 7
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank.",
+      "page_number": 8
+    },
+    {
+      "products": [],
+      "page_notes": "The page features a large text banner 'JALOUSIEN 50 MM' with a list of product codes: I50 S, I50 E, I50 EL, I50 TILT, I50 SLOPE, A50 E, A50 K, A50 KG, alongside an image of a cat sitting next to blinds by a window. No specific product details are provided.",
+      "page_number": 9
+    },
+    {
+      "products": [
+        {
+          "name": "I50 S",
+          "sku": "I50 S",
+          "description": "Innen, Schnurzug",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of interior blinds with cord pull"
+        },
+        {
+          "name": "I50 E",
+          "sku": "I50 E",
+          "description": "Innen, Endlosschnur",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of interior blinds with endless cord"
+        },
+        {
+          "name": "I50 K",
+          "sku": "I50 K",
+          "description": "Innen, Kurbel",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of interior blinds with crank"
+        },
+        {
+          "name": "I50 EL",
+          "sku": "I50 EL",
+          "description": "Innen, elektrisch",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "additional_info": "Preisfindung: Preise Jalousie 50 mm E",
+          "image_description": "Image of interior electric blinds with lightning symbol"
+        },
+        {
+          "name": "I50 Slope",
+          "sku": "I50 Slope",
+          "description": "Innen, Schnurzug",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of interior blinds with slope design"
+        },
+        {
+          "name": "A50 E",
+          "sku": "A50 E",
+          "description": "Aussen, Endlosschnur",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of exterior blinds with endless cord"
+        },
+        {
+          "name": "A50 K",
+          "sku": "A50 K",
+          "description": "Aussen, Kurbel",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of exterior blinds with crank"
+        },
+        {
+          "name": "A50 KG",
+          "sku": "A50 KG",
+          "description": "Aussen, Monokommande gekoppelt",
+          "specifications": {
+            "size": "50 mm"
+          },
+          "image_description": "Image of exterior blinds with monocommand coupled"
+        }
+      ],
+      "page_notes": "Modellübersicht for Jalousien 50 mm. Page 10 of Technik & Preise 2026.",
+      "page_number": 10
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 S",
+          "description": "Jalousie mit Schnur (Zug/Wendung)",
+          "specifications": {
+            "operation": "Schnur /Schnur, Zugschnur mit Schnurklemme, Schnurschloss wahlweise rechts oder links",
+            "material": "Ober- und Unterschiene aus Aluminium",
+            "optional_accessories": "Texband in 10 mm, 25 mm oder 38 mm gegen Aufpreis, Seitenführung gegen Aufpreis: Stahlseil 3 mm, kunststoffummantelt",
+            "width_range": "min. Breite [cm] LR, RL: 30 cm, min. Breite [cm] LL, RR: 45 cm",
+            "max_width": "400 cm",
+            "max_height": "350 cm",
+            "max_area": "9 m²"
+          },
+          "image_description": "Diagram of a jalousie with and without side guidance",
+          "additional_info": "Optional Texband and side guidance available for additional cost"
+        }
+      ],
+      "page_notes": "Product description page for Modell I50 S Jalousie with operation methods details and specifications",
+      "page_number": 11
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 Slope",
+          "description": "Jalousie mit Schnur (Zug/Wendung)",
+          "specifications": {
+            "minimale Breite": "40 cm",
+            "maximale Breite": "300 cm*",
+            "maximale Höhe": "300 cm",
+            "maximale Fläche": "6 m²"
+          },
+          "image_description": "Illustration of a sloped blind model",
+          "additional_info": "Das Hochziehen der Jalousie ist nur bis zur kleinen Höhe möglich. Bedienung: Schnur/ Schnur, Leiterkordel in der Standardausführung, optional Seitenführung gegen Aufpreis: Stahlseil 3 mm, kunststoffummantelt."
+        }
+      ],
+      "page_notes": "Section header: MODELLBESCHREIBUNG. Includes possible slope forms and an important notice regarding slope suitability.",
+      "page_number": 12
+    },
+    {
+      "products": [
+        {
+          "name": "Model I50 LR (LiteRise)",
+          "description": "Jalousie ohne Zugschnur mit Drehstab",
+          "specifications": {
+            "min_width": "46 cm",
+            "max_width": "300 cm",
+            "max_height": "240 cm",
+            "max_area": "7.2 m²"
+          },
+          "image_description": "Illustration of a horizontal blind with a control rod.",
+          "additional_info": "- freihängende 50 mm Jalousie,\n- Anlage wird an der Unterschiene bewegt,\n- Wenden der Lamellen mit Drehstab möglich,\n- Drehstab immer an der linken Seite,\n- kein Texband und keine Seitenführung möglich."
+        }
+      ],
+      "page_notes": "Model description and technical specifications for Model I50 LR (LiteRise) by Luxan.",
+      "page_number": 13
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF I50",
+          "price": "38,00"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF I50 3S",
+          "price": "53,35"
+        },
+        {
+          "name": "Slope",
+          "sku": "SLOPE",
+          "price": "200% (PGO)"
+        },
+        {
+          "name": "LiteRise",
+          "sku": "LR",
+          "price": "167,00"
+        },
+        {
+          "name": "Texband 10 mm",
+          "sku": "T10",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 25 mm",
+          "sku": "T25",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 38 mm",
+          "sku": "T38",
+          "price": "30%"
+        },
+        {
+          "name": "gemischte Farben",
+          "sku": "gF",
+          "price": "25% aber mindestens 52,80"
+        }
+      ],
+      "page_notes": "Modell I50 S, I50 Slope, I50 LR - Aufpreise",
+      "page_number": 14
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price chart for 'Jalousien 50 S'. The chart lists prices in relation to width (Breite [cm]) and height (Höhe [cm]) for different PG categories and sizes. Page header shows 'PREISE' and footer marks 'Aufpreisliste Seite 14' with 'Technik & Preise | 2026'.",
+      "page_number": 15
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a table of additional charges ('AUFPREISE') for Jalousien 50 mm, specifically for models ISO 5, ISO Slope, and ISO LR. It lists prices based on width (Breite) and height (Höhe) in centimeters for different profile groups (PG).",
+      "page_number": 16
+    },
+    {
+      "products": [],
+      "page_notes": "Price supplement table for models ISO S, ISO Slope, ISO LR with dimensions width in cm and height in cm. Page includes tables at various widths (200, 210, 220, 230, 240, 250 cm) and heights ranging from 100 to 350 cm. Prices are given in a grid format for different product configurations. Header: 'AUFPREISE'. Footer indicates page 14 of Technik & Preise 2026.",
+      "page_number": 17
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a table showing additional costs (Aufpreise) for JALOUSIEN 50 mm, Modell ISO S, ISO Slope, ISO LR. The costs are organized by width (Breite) in cm from 260 to 310 and by height (Höhe) in cm from 100 to 350, and PG (price group) numbers from 0 to 5.",
+      "page_number": 18
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains pricing information for different models of blinds (Modell I50 S, I50 Slope, I50 LR) based on width and height dimensions in centimeters. The prices are organized in a grid, with dimensions along the axes and prices inside the grid.",
+      "page_number": 19
+    },
+    {
+      "products": [],
+      "page_notes": "Price table for Modell ISO S, ISO Slope, ISO LR for widths of 380, 390, 400 in various heights. Contains numerical price data organized in a tabular format. Section labeled 'AUFPREISE'.",
+      "page_number": 20
+    },
+    {
+      "products": [
+        {
+          "name": "Monokommande Endlosschnur",
+          "description": "50 mm Monokommande-Jalousien",
+          "specifications": {
+            "A": "60 mm"
+          },
+          "image_description": "Jalousie system with continuous cord coming out from the front."
+        },
+        {
+          "name": "Monokommande Endlosschnur",
+          "description": "50 mm Monokommande-Jalousien",
+          "specifications": {
+            "Lamellenüberlappung": "> 10 mm",
+            "35 mm": ""
+          },
+          "image_description": "Jalousie system with continuous cord coming out from the side."
+        },
+        {
+          "name": "Monokommande KURBEL 45°",
+          "description": "Monokommande with crank at 45° angle.",
+          "specifications": {
+            "35 mm": ""
+          },
+          "image_description": "Jalousie system with a crank handle at a 45° angle."
+        },
+        {
+          "name": "Monokommande KURBEL 90°",
+          "description": "Monokommande with crank at 90° angle.",
+          "specifications": {
+            "35 mm": ""
+          },
+          "image_description": "Jalousie system with a crank handle at a 90° angle."
+        },
+        {
+          "name": "Monokommande elektrisch",
+          "description": "Motorized 50 mm Monokommande system.",
+          "image_description": "Jalousie system with motorized operation."
+        }
+      ],
+      "page_notes": "This page includes various operation options for 50 mm Monokommande-Jalousien. There is a special warning for Type S and a note about additional charges for electric systems, see Electric Variants.",
+      "page_number": 21
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 E",
+          "description": "Jalousie mit Endlosschnur",
+          "specifications": {
+            "Bedienung": "Monokommando",
+            "Schienenmaß": "Lamellenbreite + 25 mm",
+            "Bestellbreite": "Lamellenmaß",
+            "min. Breite": "45 cm",
+            "max. Breite": "400 cm",
+            "max. Höhe": "350 cm",
+            "max. Fläche": "9 m²"
+          },
+          "image_description": "Diagrams of Typ V and Typ S jalousies",
+          "additional_info": "Monokommandobedienung über Endlosschnur (wahlweise rechts oder links), Ober- und Unterschiene aus Aluminium, Leiterkordel in Standardausführung, optional Texband 25 mm oder 38 mm gegen Aufpreis, optional Seiteneinführung gegen Aufpreis: Stahlseil 3 mm, kunststoffummantelt mit Wandhaltern."
+        }
+      ],
+      "page_notes": "JALOUSIEN 50 mm BEDIENVARIANTEN MONOKOMMANDO",
+      "page_number": 22
+    },
+    {
+      "products": [
+        {
+          "name": "Modell 150 EL",
+          "description": "Jalousie mit Motor",
+          "specifications": {
+            "minimale Breite": "75 cm",
+            "maximale Breite": "400 cm",
+            "maximale Höhe": "350 cm",
+            "maximale Fläche": "9 m²"
+          },
+          "image_description": "Illustration of blinds with motor and electricity warning symbol",
+          "additional_info": "Elektrische Steuerung with various options (Kabelsteuerung, Funksteuerung, Smarthome); Aluminum upper and lower rail; Standard operating cord; Optional side guide for additional cost: 3 mm steel cable, plastic coated with wall brackets."
+        }
+      ],
+      "page_notes": "Section: Bedienvarianten Monokomando. Note about additional shipping costs for widths over 260 cm.",
+      "page_number": 23
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 Tilt",
+          "description": "Jalousie mit Motor zur Lamellenwendung (Aufzug mit Zugschur)",
+          "specifications": {
+            "min_breite_cm": "75 cm",
+            "max_breite_cm": "400 cm",
+            "max_höhe_cm": "350 cm",
+            "max_fläche_m2": "6 m²"
+          },
+          "image_description": "Illustration of blinds with a motor and electrical warning symbol",
+          "additional_info": "- Tilt-Motoren zur Auswahl (Brel),\n- verfügbares Handsender: 15-Kanal,\n- Leiterkordel in der Standardausführung,\n- Ober- und Unterschiene aus Aluminium,\n- Seitenführung optional gegen Aufpreis: Stahlseil 3 mm, kunststoffummantelt."
+        }
+      ],
+      "page_notes": "JALOUSIEN 50 mm, BEDIENVARIANTEN MONOKOMMANDO",
+      "page_number": 24
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF I50",
+          "price": "38,00"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF I50 3S",
+          "price": "53,35"
+        },
+        {
+          "name": "Monokomando Endlosschnur, Typ V",
+          "sku": "I50 Typ V",
+          "price": "71,85"
+        },
+        {
+          "name": "Texband 10 mm",
+          "sku": "T10",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 25 mm",
+          "sku": "T25",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 38 mm",
+          "sku": "T38",
+          "price": "30%"
+        },
+        {
+          "name": "gemischte Farben",
+          "sku": "gF",
+          "price": "25% aber mindestens 52,80"
+        },
+        {
+          "name": "elektrische Jalousie",
+          "sku": "I50 EL",
+          "description": "Aufpreis je nach gewählter elektrischer Variante"
+        }
+      ],
+      "page_notes": "Modell I50 E, I50 EL. Aufpreise.",
+      "page_number": 25
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for Modell 150 E, 150 EL, 150 Tilt in Jalousien 50 mm category, displaying prices based on width (Breite in cm) and height (Höhe in cm) for different configurations.",
+      "page_number": 26
+    },
+    {
+      "products": [],
+      "page_notes": "The page is a price list for models I50 E, I50 EL, and I50 Tilt, with dimensions in centimeters and prices based on height, width, and price group. No specific product details are provided.",
+      "page_number": 27
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price table for JALOUSIEN 50 mm with models I50 E, I50 EL, and I50 Tilt. The table displays prices based on width (in cm) and height (in cm) for different product groups and measurements.",
+      "page_number": 28
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price chart for Modell I50 E, I50 EL, I50 Tilt from the LUXAN 2026 catalogue. The chart provides prices based on Breite [cm] (width) and Höhe [cm] (height) for different product groups (PG) under widths 260, 270, 280, 290, 300, and 310 cm. No specific product information is provided.",
+      "page_number": 29
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains a price list for 'Modell I50 EI, I50 EL, I50 Tilt' blinds, with dimensions in centimeters for width and height and corresponding prices in euros. No specific product descriptions or images, just tables of prices based on size.",
+      "page_number": 30
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list for Modell I50 E, I50 EL, I50 Tilt with a table that shows prices based on width and height in centimeters. It includes various price values but lacks individual product descriptions or specifications.",
+      "page_number": 31
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 K",
+          "description": "Jalousie mit Kurbel",
+          "specifications": {
+            "max_breite": "400 cm",
+            "min_breite": "45 cm",
+            "max_hoehe": "350 cm",
+            "max_flaeche": "9 m²"
+          },
+          "image_description": "Image of a jalousie with a crank mechanism and a detailed view showing 35 mm measurement",
+          "additional_info": "- Bedienung: Kurbel\n- Kurbel wahlweise rechts oder links\n- Kurbellänge bitte als gestrecktes Mass angeben\n- Ober- und Unterschiene aus Aluminium\n- Leiterkordel als Standard\n- Optional Texband 25 mm oder 38 mm gegen Aufpreis\n- Optional Seitenführung gegen Aufpreis: Stahlseil 3 mm, kunststoffummantelt."
+        }
+      ],
+      "page_notes": "Section titled 'MODELLBESCHREIBUNG' for Jalousien 50 mm, includes Bedienvarianten with options for Bedienung L and R, and a note about additional costs for widths over 260 cm.",
+      "page_number": 32
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF I50",
+          "price": "38,00"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF I50 3S",
+          "price": "53,35"
+        },
+        {
+          "name": "Monokomando, Kurbel Typ 90",
+          "sku": "I50 Typ 90",
+          "price": "38,55"
+        },
+        {
+          "name": "Texband 10 mm",
+          "sku": "T10",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 25 mm",
+          "sku": "T25",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 38 mm",
+          "sku": "T38",
+          "price": "30%"
+        },
+        {
+          "name": "gemischte Farben",
+          "sku": "gF",
+          "price": "25% aber mindestens 52,80"
+        },
+        {
+          "name": "abnehmbare Kurbel",
+          "price": "34,30"
+        }
+      ],
+      "page_notes": "Section header: Modell I50 K. Aufpreise: Additional pricing information for various items.",
+      "page_number": 33
+    },
+    {
+      "products": [],
+      "page_notes": "Page 34 contains a pricing table for 'Jalousien 50 K' with dimensions (Breite [cm] and Höhe [cm]) and pricing information. No specific product details are given.",
+      "page_number": 34
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains pricing tables for 'Jalousien 50 K' categorized by width (Breite) in centimeters and height (Höhe) in centimeters. The tables list prices for different configurations across widths of 140, 150, 160, 170, 180, and 190 cm. Page header shows 'PREISE' indicating pricing information. No individual product details are provided.",
+      "page_number": 35
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list for Jalousien 50 mm categorized by the width and height. The table includes pricing for different width categories (Breite [cm]): 200, 210, 220, 230, 240, and 250 cm and various height categories (Höhe [cm]). The prices are organized under PG (Price Group) with numbers ranging from 0 to 5 for each width category. Additional information at the bottom mentions 'Technik & Preise 2026', and 'Aufpreisse Seite 33'.",
+      "page_number": 36
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains pricing information for 'Jalousien 50 K', showing prices based on width and height in cm. Prices are listed for different PG (Product Groups) numbers for three widths: 260, 270, 280, 290, 300, and 310 cm. Additional note at the bottom: 'Aufpreisseite Seite 33'.",
+      "page_number": 37
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price chart for 'Jalousien 50 K' with dimensions listed in width (cm) and height (cm). No specific product information other than sizes and associated prices is provided. The document is from 'LUXAN 2026' on page 38, focusing on technical and price details for jalousies.",
+      "page_number": 38
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for 'Jalousien 50 K' with width and height dimensions in cm and corresponding prices. It features a header 'PREISE' and is part of the 'Technik & Preise 2026' catalogue.",
+      "page_number": 39
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 KG/ A50 KG",
+          "description": "Gekoppelte Monokommandojalousie ohne Antrieb und ohne Bedienung. Um die gekoppelte Jalousie bedienen zu können, muss diese an eine zweite Jalousie mit eigenem Antrieb/Bedienung angekoppelt werden.",
+          "specifications": {
+            "min_width_cm": "40 cm",
+            "max_width_cm": "300 cm",
+            "max_height_cm": "300 cm",
+            "max_area_m2": "6 m²",
+            "max_width_inclusive_connector_cm": "450 cm",
+            "lead_cord": "Standardausführung",
+            "side_guiding": "Stahlseil 3 mm kunststoffummantelt",
+            "I50_KG": "erhältlich gegen Aufpreis",
+            "A50_KG": "in der Standardausführung"
+          },
+          "additional_info": "Lieferbar als I50 KG für Innenbereich und A50 KG für Außenbereich."
+        }
+      ],
+      "page_notes": "Beispiel von gekoppelter Anlage (siehe unten). Technische und Preis Informationen. Hinweis: Ab einer Breite von 260 cm zusätzlich Speditionskosten anfallen.",
+      "page_number": 40
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF I50",
+          "price": "38,00"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF I50 3S",
+          "price": "53,35"
+        },
+        {
+          "name": "Texband 25 mm",
+          "sku": "T25",
+          "price": "15%"
+        },
+        {
+          "name": "Texband 38 mm",
+          "sku": "T38",
+          "price": "30%"
+        },
+        {
+          "name": "gemischte Farben",
+          "sku": "gF",
+          "price": "25% aber mindestens 52,80"
+        }
+      ],
+      "page_notes": "Section for additional charges for Modell I50 KG/A50 KG. The table includes articles, abbreviations, and pricing information.",
+      "page_number": 41
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a pricing table for 'Jalousien 150 KG' with dimensions and associated prices for different widths and heights in centimeters. The table has sections covering various widths (80, 90, 100, 110, 120, 130) and heights, ranging from 100 to 350 cm. It provides prices for up to 5 columns for each width.",
+      "page_number": 42
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for 'Jalousien 150 KG' with dimensions shown in cm. The table includes pricing for different widths and heights. There are no specific product details such as names or descriptions, just a detailed grid of prices.",
+      "page_number": 43
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for Jalousien 50 KG with dimensions and height options. It's a grid of prices for different widths and heights, across projections 200, 210, 220, 230, 240, and 250, with pricing group (PG) from 0 to 5. The bottom of the page notes a reference to additional pricing on page 41.",
+      "page_number": 44
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for 'Jalousien 50 KG' by LUXAN, with dimensions listed in centimeters for various widths (260, 270, 280, 290, 300, 310) and heights, showing prices for each configuration.",
+      "page_number": 45
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A50 E",
+          "description": "Jalousie mit Endlosschnur",
+          "specifications": {
+            "bedienvarianten": {
+              "bedienung_l": "Bedienung links",
+              "bedienung_r": "Bedienung rechts",
+              "groessenbereich": {
+                "min_breite_cm": "45 cm",
+                "max_breite_cm": "400 cm",
+                "max_hoehe_cm": "350 cm",
+                "max_flaeche_m2": "9 m²"
+              }
+            },
+            "material": "Aluminium, Stahlseil 3 mm, kunststoffummantelt"
+          },
+          "additional_info": [
+            "Systemfarbe: weiß oder silber",
+            "Monokomando-Bedienung",
+            "Leiterkordel in der Standardausführung"
+          ],
+          "image_description": "Diagram showing jalousie with dimensions and components."
+        }
+      ],
+      "page_notes": "Section header: Modellbeschreibung; Note about additional costs for widths above 260 cm; Available lamella and rail colors listed.",
+      "page_number": 46
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A50 EL",
+          "description": "Jalousie mit Motor",
+          "specifications": {
+            "min_width_cm": "75 cm",
+            "max_width_cm": "400 cm",
+            "max_height_cm": "350 cm",
+            "max_area_m2": "9 m²"
+          },
+          "image_description": "Illustration of a jalousie with an electric hazard symbol",
+          "additional_info": "Bitte berücksichtigen Sie, dass ab einer Breite von 260 cm zusätzlich Speditionskosten anfallen (Kosten auf Anfrage über unseren Kundenservice).",
+          "modifications": "elektrische Steuerung, verschiedene elektrische Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome), Ober- und Unterschiene Aluminium, Leiterkordel als Standard, Seitenführung in der Standardausführung: Stahlseil 3 mm, kunststoffummantelt.",
+          "colors": {
+            "lamellenfarbe": [
+              "4007 - weiß",
+              "4064 - creme",
+              "4018 - silber"
+            ],
+            "schienenfarbe": [
+              "4007 - weiß",
+              "4064 - creme",
+              "4018 - silber"
+            ]
+          }
+        }
+      ],
+      "page_notes": "LUXAN catalog page for Modell A50 EL with motorized jalousie specifications and available color options.",
+      "page_number": 47
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF A50",
+          "price": "im Preis enthalten"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF A50 3S",
+          "price": "18,50"
+        },
+        {
+          "name": "elektrische Jalousie",
+          "sku": "EL",
+          "price": "Aufpreis je nach gewählter elektrischer Variante"
+        }
+      ],
+      "page_notes": "JALOUSIEN 50 mm - AUFPREISE - Modell A50 E, A50 EL",
+      "page_number": 48
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price chart for 'Jalousien A50 E' from LUXAN, listing prices by width and height in centimeters from 80 to 350, with various PG (price group) values. No specific products are listed.",
+      "page_number": 49
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a table of additional prices (AUFPREISE) for 'Jalousien 50 mm' with measurements in cm for widths from 280 to 340 and heights from 100 to 350. It also includes another table for widths from 350 to 400. It is labelled 'Jalousien A50 E.'",
+      "page_number": 50
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A50 K",
+          "description": "Jalousie mit Kurbel",
+          "specifications": {
+            "min_width": "45 cm",
+            "max_width": "400 cm",
+            "max_height": "350 cm",
+            "max_area": "9 m²",
+            "system_color": "weiß oder silber",
+            "operating_mode": "Monokomando-Bedienung über Kurbel",
+            "crank_operation": [
+              "45° Innenbedienung (Typ 45° mit Gelenkplatte)",
+              "90° Innenbedienung (Typ 90° mit Gelenkplatte)"
+            ],
+            "fixed_crank": "Ja",
+            "removable_crank": "gegen Aufpreis",
+            "cord_guide": "Standardausführung",
+            "side_guidance": "Stahlseil 3 mm, kunststoffummantelt"
+          },
+          "image_description": "Illustrations of Wanddurchführung, Typ 90°, and Typ 45°",
+          "additional_info": "Bitte berücksichtigen Sie, dass ab einer Breite von 260 cm zusätzlich Speditionskosten anfallen (Kosten auf Anfrage über unseren Kundenservice)."
+        }
+      ],
+      "page_notes": "Lamellenfarbe A50: 4007 - weiß, 4064 - creme, 4018 - silber. Schienenfarbe A50: 4007 - weiß, 4064 - creme, 4018 - silber.",
+      "page_number": 51
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "abbreviation": "SF A50",
+          "price": "im Preis enthalten"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "abbreviation": "SF A50 3S",
+          "price": "18,50"
+        },
+        {
+          "name": "Monokommand, Kurbel Typ 90",
+          "abbreviation": "A50 Typ 90",
+          "price": "38,55"
+        },
+        {
+          "name": "abnehmbare Kurbel",
+          "price": "34,30"
+        }
+      ],
+      "page_notes": "Modell A50 K; Section: AUFPREISE",
+      "page_number": 52
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for Jalousien A50 K with width and height dimensions in centimeters. It shows various prices according to size options, but no specific product details or images are presented.",
+      "page_number": 53
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains pricing information for Jalousien A50 K with a chart showing prices based on various widths (Breite) and heights (Höhe).",
+      "page_number": 54
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I50 KG / A50 KG",
+          "description": "Gekoppelte Monokommandojalousie ohne Antrieb und ohne Bedienung. Für die Bedienung an eine zweite Jalousie mit eigenem Antrieb/Bedienung ankoppelbar. Lieferbar als I50 KG für Innenbereich und A50 KG für Außenbereich. Max. Breite der gekoppelten Anlagen inklusive Verbinder: 450 cm.",
+          "specifications": {
+            "min_breite": "40 cm",
+            "max_breite": "300 cm",
+            "max_hoehe": "300 cm",
+            "max_flaeche": "6 m²"
+          },
+          "additional_info": "Leiterkordel in der Standardausführung. Seitenführung (Stahlseil 3 mm kunststoffummantelt): I50 KG - erhältlich gegen Aufpreis, A50 KG - in der Standardausführung."
+        },
+        {
+          "name": "Wellenverbinder",
+          "specifications": {
+            "dimensions": "10 mm x 10 mm"
+          },
+          "additional_info": "Wellenverbinder aus Aluminium, erhältlich in Laufmeter."
+        }
+      ],
+      "page_notes": "Modellbeschreibung for I50 KG / A50 KG with examples of applications and specifications. Includes note about potential additional freight costs for widths over 260 cm.",
+      "page_number": 55
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung 2 Seile",
+          "sku": "SF A50",
+          "price": "im Preis enthalten"
+        },
+        {
+          "name": "Seitenführung 3 Seile",
+          "sku": "SF A50 3S",
+          "price": "18,50"
+        }
+      ],
+      "page_notes": "Model: I50 KG/ A50 KG. Section titled 'AUFPREISE'.",
+      "page_number": 56
+    },
+    {
+      "products": [],
+      "page_notes": "Pricing table for 'Jalousien A50 KG'. Dimensions include width (Breite [cm]) ranging from 80 to 270 and height (Höhe [cm]) ranging from 100 to 350, with corresponding prices. Page includes a header with the title 'PREISE' and footer notes referencing Page 56 and 'Technik & Preise | 2026'.",
+      "page_number": 57
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for 'Jalousien A50 KG' based on width (Breite) and height (Höhe) measurements. It includes additional information about potential extra shipping costs for widths over 260 cm. The page is labeled 'Technik & Preise | 2026'.",
+      "page_number": 58
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation instructions for blinds, focusing on glass rebate mounting and niche installation. It includes diagrams with measurements and notes on minimum installation dimensions and specific instructions for different models, such as the MKES Typ S.",
+      "page_number": 59
+    },
+    {
+      "products": [
+        {
+          "name": "Träger",
+          "description": "Typen: 307, 313, 280, 296",
+          "image_description": "Images of four different types of mounting brackets.",
+          "additional_info": "Anzahl der Träger for different widths in cm: <122 (2), 123-212 (3), 213-302 (4), 303-392 (5), 392-410 (6)"
+        },
+        {
+          "name": "Jalousien-Typ I50 S",
+          "description": "Montage: Standard and Alternative",
+          "specifications": {
+            "Pakethöhen": "50 mm Jalousien",
+            "Höhe [cm]": [
+              50,
+              100,
+              150,
+              200,
+              250,
+              300,
+              350,
+              400
+            ],
+            "Pakethöhe [cm]": [
+              9.5,
+              10.0,
+              12.0,
+              13.0,
+              14.0,
+              14.5,
+              15.0,
+              15.5
+            ]
+          },
+          "image_description": "Diagram of package heights for I50 S."
+        },
+        {
+          "name": "Jalousien-Typ I50 E",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ I50 K",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ I50 EL",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ A50 S",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ A50 E",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ A50 K",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Jalousien-Typ A50 EL",
+          "description": "Montage: Standard and Alternative",
+          "image_description": "Diagram similar to I50 S, showing package heights."
+        },
+        {
+          "name": "Endlosschnur",
+          "description": "Artikelnummer, Länge [cm], Durchmesser [mm], Typ",
+          "specifications": {
+            "Artikelnummer": [
+              "500500100000",
+              "500500150000",
+              "500500200000",
+              "500500220000",
+              "500500240000",
+              "500500250000",
+              "500500260000",
+              "500500270000",
+              "500500300000",
+              "500500320000",
+              "500500340000",
+              "500500350000",
+              "500500360000",
+              "500500400000",
+              "500500450000",
+              "500500500000",
+              "500500700000"
+            ],
+            "Länge [cm]": [
+              50,
+              75,
+              100,
+              110,
+              120,
+              125,
+              130,
+              135,
+              150,
+              160,
+              170,
+              175,
+              180,
+              200,
+              225,
+              250,
+              350
+            ],
+            "Durchmesser [mm]": 5,
+            "Typ": 50
+          },
+          "image_description": "Diagram of endless cord length."
+        }
+      ],
+      "page_notes": "Page detailing montage options for Jalousien 50 mm and specifications for Endlosschnur.",
+      "page_number": 60
+    },
+    {
+      "products": [
+        {
+          "name": "Wandhalter SF außen",
+          "sku": "180369-0000",
+          "image_description": "Diagram of Wandhalter SF außen with measurements"
+        },
+        {
+          "name": "Träger für SF innen",
+          "sku": "950",
+          "image_description": "Diagram of Träger für SF innen"
+        }
+      ],
+      "page_notes": "Section on measurement instructions with diagrams and descriptions of fixed and removable cranks, side guidance for blinds, and wall holders for SF outside and inside.",
+      "page_number": 61
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains technical information about the distribution and number of slats for 50 mm jalousies, including diagrams and tables for dimensions and configurations. It is not a product listing page.",
+      "page_number": 62
+    },
+    {
+      "products": [
+        {
+          "name": "Getriebe EE",
+          "specifications": {
+            "max_area": "8 m²",
+            "gear_ratio": "1:2.6",
+            "dimensions": "75 mm x 74 mm"
+          },
+          "image_description": "Technical drawing of EE type gearbox with dimensions and specifications."
+        },
+        {
+          "name": "Getriebe CD/EF",
+          "specifications": {
+            "max_area": "10 m²",
+            "gear_ratio_CD": "1:1.2",
+            "gear_ratio_EF": "1:2.7",
+            "dimensions_CD": "67 mm x 45.5 mm",
+            "dimensions_EF": "74 mm x 28-33 mm"
+          },
+          "image_description": "Technical drawing of CD and EF type gearboxes with dimensions and specifications."
+        },
+        {
+          "name": "Träger für Schiene 51 mm x 57 mm",
+          "sku": "16.0307",
+          "image_description": "Technical drawing of a bracket for rail with associated dimensions.",
+          "specifications": {
+            "dimensions": "51 mm x 57 mm"
+          }
+        },
+        {
+          "name": "Zusätzliche Träger",
+          "sku": "16.0313",
+          "image_description": "Technical drawing of additional bracket with dimensions."
+        },
+        {
+          "name": "Träger für Seitenführung",
+          "sku": "16.0280",
+          "image_description": "Technical drawing of bracket for lateral guidance with dimensions."
+        },
+        {
+          "name": "Träger für Seitenführung",
+          "sku": "16.0296",
+          "image_description": "Technical drawing of bracket for lateral guidance with dimensions."
+        },
+        {
+          "name": "H3I",
+          "sku": "950",
+          "image_description": "Technical drawing of an H3I component."
+        },
+        {
+          "name": "Additional Component",
+          "sku": "180369-0000",
+          "image_description": "Technical drawing of an additional component with dimensions."
+        },
+        {
+          "name": "Träger für Seitenführung",
+          "sku": "16.0385",
+          "image_description": "Technical drawing of bracket for lateral guidance with dimensions."
+        }
+      ],
+      "page_notes": "Page contains technical specifications for gearboxes and brackets, including dimensions and gear ratios. Includes technical diagrams and illustrations.",
+      "page_number": 63
+    },
+    {
+      "products": [
+        {
+          "name": "Somfy Motor Sonesse 40 PA 6/20",
+          "sku": "M23 1002940",
+          "brand": "Somfy",
+          "price": "€ 245",
+          "category": "Tube & Kabelsteuerung"
+        },
+        {
+          "name": "Somfy Motor Sonesse 40 RTS 6/20",
+          "sku": "M25 1002297",
+          "brand": "Somfy",
+          "price": "€ 311",
+          "category": "Tube & Funksteuerung"
+        },
+        {
+          "name": "Somfy Motor Sonesse 40 io 6/20",
+          "sku": "M28 1003226",
+          "brand": "Somfy",
+          "price": "€ 370",
+          "category": "Tube & Funksteuerung IO"
+        },
+        {
+          "name": "Somfy J406 WT 6/24 230 V",
+          "sku": "M32 1210335",
+          "brand": "Somfy",
+          "price": "€ 178",
+          "category": "Block & Kabelsteuerung"
+        },
+        {
+          "name": "Somfy J406 io 6/24 230 V",
+          "sku": "M33 1210698",
+          "brand": "Somfy",
+          "price": "€ 418",
+          "category": "Block & Funksteuerung IO",
+          "description": "Diese Variante können Sie mit Funksender ausbauen, die Ihnen weiter unter „Funksender für Variante Somfy for io-Homecontrol” zur Auswahl stehen."
+        },
+        {
+          "name": "Somfy Schalter Smoove Uno WT",
+          "sku": "R25 1800588",
+          "brand": "Somfy",
+          "price": "€ 36",
+          "category": "Zusatzkomponenten - Somfy Schalter"
+        },
+        {
+          "name": "Somfy 1-Kanal-Handsender Situo 1 RTS Pure II EE",
+          "sku": "R08 1870403",
+          "brand": "Somfy",
+          "price": "€ 55",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 5-Kanal-Handsender Situo 5 RTS Pure II EE",
+          "sku": "R09 1870419",
+          "brand": "Somfy",
+          "price": "€ 98",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 1-Kanal-Handsender Situo 1 VAR RTS Pure II mit Scrollrad",
+          "sku": "R10 1811606",
+          "brand": "Somfy",
+          "price": "€ 107",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 5-Kanal-Handsender Situo 5 VAR RTS Pure II mit Scrollrad",
+          "sku": "R11 1811610",
+          "brand": "Somfy",
+          "price": "€ 145",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy Wandsender Smoove Origin RTS",
+          "sku": "R17 1811045",
+          "brand": "Somfy",
+          "price": "€ 64",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 16-Kanal-Handsender Telis 16 RTS Pure",
+          "sku": "R18 1811079",
+          "brand": "Somfy",
+          "price": "€ 299",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 6-Kanal-Handsender Telis 6 Chronis RTS Pure",
+          "sku": "R20 1811080",
+          "brand": "Somfy",
+          "price": "€ 335",
+          "category": "Zusatzkomponenten - Somfy RTS"
+        },
+        {
+          "name": "Somfy 1-Kanal-Handsender Situo 1 io Pure",
+          "sku": "R12 1800466",
+          "brand": "Somfy",
+          "price": "€ 72",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy 5-Kanal-Handsender Situo 5 io Pure",
+          "sku": "R13 1811300",
+          "brand": "Somfy",
+          "price": "€ 100",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy 1-Kanal-Handsender Situo 1 Variation io Pure mit Scrollrad",
+          "sku": "R14 1801341",
+          "brand": "Somfy",
+          "price": "€ 110",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy 5-Kanal-Handsender Situo 5 Variation A/M io Pure mit Scrollrad",
+          "sku": "R15 1811337",
+          "brand": "Somfy",
+          "price": "€ 150",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy Funk-Wandsender Smoove Origin io",
+          "sku": "R16 1811066",
+          "brand": "Somfy",
+          "price": "€ 67",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy Nina io - Multi-Kanal-Handsender mit Touch-Display",
+          "sku": "R21 1805251",
+          "brand": "Somfy",
+          "price": "€ 418",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy Nina Timer io - Multi-Kanal-Handsender mit Touch-Display mit Zeitschaltuhr",
+          "sku": "R22 1811047",
+          "brand": "Somfy",
+          "price": "€ 437",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Somfy TaHoma Switch Pro",
+          "sku": "A04 1870594",
+          "brand": "Somfy",
+          "price": "€ 382",
+          "category": "Zusatzkomponenten - Somfy io"
+        },
+        {
+          "name": "Coulisse Motor Silent 8 Nm 15 U/min 230 V, Endlage mechanisch",
+          "sku": "M14 CM-10-QMC",
+          "brand": "Coulisse",
+          "price": "€ 252",
+          "category": "Motion Tube & Kabelsteuerung"
+        },
+        {
+          "name": "Coulisse Motor Silent Radio 8 Nm 15 U/min 230 V, Endlage elektr.",
+          "sku": "M13 CM-10-QC",
+          "brand": "Coulisse",
+          "price": "€ 249",
+          "category": "Motion Tube & Funksteuerung"
+        },
+        {
+          "name": "Coulisse Akku-Motor 6 Nm 24 U/min, Endlage elektr.",
+          "sku": "M06 CM-06",
+          "brand": "Coulisse",
+          "price": "€ 325",
+          "category": "Motion Tube & Funksteuerung"
+        },
+        {
+          "name": "Coulisse Akku-Motor EVE Matter 6 Nm 24 U/min, Endlage elektr.",
+          "sku": "M47 CM-06-E",
+          "brand": "Coulisse",
+          "price": "€ 392",
+          "category": "Motion Tube & Funksteuerung"
+        },
+        {
+          "name": "Coulisse 1-Kanal-Handsender",
+          "sku": "R01 CM-11",
+          "brand": "Coulisse",
+          "price": "€ 27",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse 5-Kanal-Handsender",
+          "sku": "R02 CM-12",
+          "brand": "Coulisse",
+          "price": "€ 36",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse 15-Kanal-Handsender",
+          "sku": "R03 CM-13",
+          "brand": "Coulisse",
+          "price": "€ 50",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse Design 4-Kanal-Wandfernbedienung",
+          "sku": "R04 GM-16",
+          "brand": "Coulisse",
+          "price": "€ 150",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse Design 4-Kanal Tischfernbedienung",
+          "sku": "R05 CM-17",
+          "brand": "Coulisse",
+          "price": "€ 69",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse Matter WiFi Bridge",
+          "sku": "A07 CM-55",
+          "brand": "Coulisse",
+          "price": "€ 221",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse WiFi Hub Motion - USB Ausführung",
+          "sku": "A02 CMD-01",
+          "brand": "Coulisse",
+          "price": "€ 136",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse Ladegerät 12 V mit USB-C Kabel",
+          "sku": "P03 DC20-CM-4A",
+          "brand": "Coulisse",
+          "price": "€ 29",
+          "category": "Zusatzkomponenten Motion"
+        },
+        {
+          "name": "Coulisse Dauerstromnetzteil 12 V",
+          "sku": "P41 CM-21-EU",
+          "brand": "Coulisse",
+          "price": "€ 34",
+          "category": "Zusatzkomponenten Motion",
+          "description": "nicht in Kombination mit Akku"
+        }
+      ],
+      "page_notes": "This page lists various electrical components and controls for blinds, categorized as Tube & Kabelsteuerung, Funksteuerung, and additional components like switches and remotes from brands Somfy and Coulisse.",
+      "page_number": 64
+    },
+    {
+      "products": [
+        {
+          "name": "MOTOR SOMFY SONESSE 40 WT 6/20",
+          "description": "Motor für Kabelsteuerung",
+          "specifications": {
+            "Spannung/Frequenz": "230 V/50 Hz",
+            "Kabel-Typ": "VVF",
+            "Kabellänge": "2,5 m",
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "20 U/min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II"
+          },
+          "image_description": "Cylindrical motor with cable"
+        },
+        {
+          "name": "MOTOR SOMFY SONESSE 40 RTS 6/20",
+          "description": "Motor für Funksteuerung",
+          "specifications": {
+            "Funkfrequenz": "RTS 433,42 MHz",
+            "Spannung/Frequenz": "230 V/50 Hz",
+            "Kabel-Typ": "VVF",
+            "Kabellänge": "3 m",
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "20 U/min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II"
+          },
+          "image_description": "Cylindrical motor with antenna"
+        },
+        {
+          "name": "MOTOR SOMFY SONESSE 40 IO 6/20",
+          "description": "Motor für iO",
+          "specifications": {
+            "Spannung/Frequenz": "230 V/50 Hz",
+            "Kabel-Typ": "RNF",
+            "Funkfrequenz": "io 868-870 (tri band) MHz",
+            "Laufzeit": "4 min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II",
+            "Endschalter-Typ": "elektronisch"
+          },
+          "image_description": "Cylindrical motor with yellow connector"
+        },
+        {
+          "name": "MOTOR J406 6/24 WT",
+          "description": "STAS3-Stecker (auf Anfrage auch mit STAS3-Stecker/Hirschmann-Stecker erhältlich)",
+          "specifications": {
+            "Elektronische Einstellung": "oberen und unteren Endlage",
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "24 U/min",
+            "Frequenz": "in Hz 50 Hz",
+            "IP-Schutzklasse": "IP 54",
+            "Lautstärke": "50 dB"
+          },
+          "image_description": "Square motor with dark casing"
+        }
+      ],
+      "page_notes": "Page on 'ELEKTRISCHES ZUBEHÖR' from LUXAN catalogue, featuring various motor specifications.",
+      "page_number": 65
+    },
+    {
+      "products": [
+        {
+          "name": "J406 IO 6/24 230 V",
+          "description": "basierend auf io-homecontrol® Funktechnologie für Kommunikation und Sicherheitssteuerung.",
+          "specifications": {
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "24 U/min",
+            "Frequenz": "50 Hz",
+            "Funkfrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 54",
+            "Lautstärke": "50 dB",
+            "Funkfrequenz io-homecontrol®": "868-870 MHz",
+            "Betriebsspannung": "230 V ~ 50 Hz"
+          },
+          "image_description": "Motor with connector"
+        },
+        {
+          "name": "SCHALTER SMOOVE UNO WT",
+          "description": "Schalter für Steuerung.",
+          "specifications": {
+            "Abmessungen": "80 x 80 mm",
+            "Steuerspannung": "230 VAC Antriebe",
+            "Schutzgrad": "IP40"
+          },
+          "image_description": "Switch panel"
+        },
+        {
+          "name": "SITUO 1 RTS PURE II",
+          "description": "1-Kanal-Handsener",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device"
+        },
+        {
+          "name": "SITUO 5 RTS PURE II",
+          "description": "5-Kanal-Handsener",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device"
+        },
+        {
+          "name": "SITUO 1 VAR RTS PURE II",
+          "description": "1-Kanal-Handsener mit Scrollrad zur präzisen Wendung der Lamellen.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device with scroll wheel"
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section, focusing on various electronic control devices.",
+      "page_number": 66
+    },
+    {
+      "products": [
+        {
+          "name": "Situo 5 VAR RTS Pure II",
+          "description": "5-Kanal-Handsender, Scrollrad zur präzisen Wendung der Lamellen, Betriebs-spannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m, Dimensionen: 136 x 42 x 17 mm.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with multiple buttons and a scroll wheel"
+        },
+        {
+          "name": "Funkwandsender Somfy Smoove Origin RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen der Schalterhersteller, sowie Befestigungsplatte für andere Schalterprogramme, Vielzahl an Gestaltungsmöglichkeiten mit dem Somfy Smoove Rahmen, Einzel-, Gruppen- oder Zentralbedienung möglich, AUF- und AB-Taste zum Öffnen und Schließen, „my“-Taste zum Stoppen oder Aufrufen der Lieblingsposition, Programmier-taste auf der Rückseite des Moduls, Befestigungsplatte für einfache und flexible Wandmontage, keine UP-Dose erforderlich, LED zur Sendeanzeige, drahtlos/ batteriebetrieben, daher geringster Installationsaufwand, verwendbar mit allen externen oder integrierten RTS-Empfängern, Funkfrequenz: 433,42 MHz, IP Schutzklasse: IP 30, Dimensionen: 50 x 50 mm, Farbe: Weiß.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 30",
+            "Dimensionen": "50 x 50 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Square wall-mounted remote with a 'my' button and additional controls"
+        },
+        {
+          "name": "Handsender Somfy Telis 16 RTS",
+          "description": "Bis zu 16 Kanäle ansteuerbar, individuelle Namensgebung pro Kanal möglich, jedem Kanal kann ein Symbol Rollladen, Markise oder Dachfensterrollladen zugeordnet werden, AUF- und AB-Taste zum Öffnen und Schließen, die „my“-Taste erlaubt das schnelle Aufrufen der individuellen Lieblingsposition, großes Display mit Digitalanzeige, verwendbar mit allen externen oder integrierten RTS-Empfängern, drahtlos/ die Telis 6 Chronis RTS wird mit zwei 1,5 V Batterien vom Typ AAA (LR3) mit Energie versorgt, Batterie-zustandsanzeige, Betriebstemperatur: -0°C bis +60°C, Funkfrequenz: 433,42 MHz, Schutzgrad: IP 30, Dimensionen: 145 x 47 x 18 mm, Farbe: Weiß.",
+          "specifications": {
+            "Betriebstemperatur": "-0°C bis +60°C",
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Handheld remote with multiple buttons and a display"
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section. Product accessories by LUXAN with technical specifications and images.",
+      "page_number": 67
+    },
+    {
+      "products": [
+        {
+          "name": "Handsänder Somfy Telis 6 Chronis RTS Pure",
+          "description": "Informationen: - bis zu 6 Kanäle ansteuerbar, - De-/aktivieren der Sonnenfunktion, manuell pro Kanal, - individuelle Benennung der Kanäle möglich, - AUF- und AB-Taste zum Öffnen und Schließen, - Anfahren einer Zwischenposition auf Wunsch manuell oder über die Uhrzeit, - 6 Schaltzeiten pro Tag, bei denen Sie bestimmen, welche Position angefahren werden soll (AUF, AB oder my-Position), - Einstellen von Tages- und Wochenprogramme, - Einstellen von individuellen Öffnungs- und Schließzeiten für die gesamte Woche (Montag- Sonntag), - voreingestellte Öffnungs- und Schließzeiten, - automatische Einstellung von Uhrzeit und Datum, - Cosmic-Programm: die Produkte werden automatisch nach den vorgespeicherten und veränderbaren Zeiten des Sonnenauf- und -untergangs geöffnet und geschlossen, - Security-Urlaubsschaltung: verändert automatisch die Öffnungs- und Schließzeiten im Bereich von 0-30 Minuten, - automatische Umstellung von Sommer- auf Winterzeit, - drahtlos/ die Telis 6 Chronis RTS wird mit zwei 1,5 V Batterien vom Typ AAA (LR3) mit Energie versorgt, - Batteriezustandsanzeige, - unbegrenzter Erhalt der gespeicherten Schaltzeiten auch bei Batteriewechsel, - großes, übersichtliches Display, - Betriebstemperatur: 0°C bis +60°C, - Funkfrequenz: 433,42 MHz, - Schutzgrad: IP 30, - Dimensionen: 145 x 47 x 18 mm, - Farbe: Weiß ",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Remote control device with display and buttons"
+        },
+        {
+          "name": "1-Kanal-Handsänder Situo 1 iO",
+          "description": "Informationen: - manuelle Vor-Ort-Steuerung eines io-Antriebes oder io-Funkempfängers per Funk, - Einzel-, Gruppen- oder Zentralbedienung möglich, - AUF- und AB-Taste sowie 'my'-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition, - Programmiertaste auf der Rückseite des Funkhandsenders, - drahtlos/ batteriebetrieben, - Funkfrequenz: 868 MHz, - Dimensionen: 36 x 145 x 15 mm.",
+          "specifications": {
+            "Funkfrequenz": "868 MHz",
+            "Dimensionen": "36 x 145 x 15 mm"
+          },
+          "image_description": "Slim remote control with three buttons"
+        }
+      ],
+      "page_notes": "Section on electrical accessories for blinds or shutters, including remote control devices with detailed specifications and features.",
+      "page_number": 68
+    },
+    {
+      "products": [
+        {
+          "name": "5-KANAL-HANDSENDER SITUO 5 iO",
+          "description": "Manuelle Vor-Ort-Steuerung eines io-Antriebes oder io-Funkempfängers per Funk. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF- und AB-Taste sowie „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. Programmiertaste auf der Rückseite des Funkhandsenders. Drahtlos/ batteriebetrieben. Funkfrequenz: 868 MHz. Dimensionen: 36 x 145 x 15 mm.",
+          "specifications": {
+            "Funkfrequenz": "868 MHz",
+            "Dimensionen": "36 x 145 x 15 mm"
+          },
+          "image_description": "Remote control with several buttons for operation."
+        },
+        {
+          "name": "HANDSENDER SITUO 1 VARIATION iO",
+          "description": "1-Kanal-Funkwandsender mit Scrollrad zum komfortablen und präzisen Einstellung der Wendung. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Produktes bzw. Einschalten der Beleuchtung. „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. AB-Taste zum Schließen des Produktes bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige. Drahtlos/ batteriebetriebenen/ Wandhalter für flexible Montage.",
+          "image_description": "Remote control with a scroll wheel and multiple buttons."
+        },
+        {
+          "name": "HANDSENDER SITUO 5 VARIATION iO",
+          "description": "5-Kanal-Funkwandsender mit Scrollrad zum komfortablen und präzisen Einstellung der Wendung. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Produktes bzw. Einschalten der Beleuchtung. „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. AB-Taste zum Schließen des Produktes bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige. Drahtlos/ batteriebetriebenen/ Wandhalter für flexible Montage. „Select“-Taste und LED Anzeige für die Kanalwahl. A/M Funktion: zum Ein-/ Ausschalten der Automatik für alle Kanäle gleichzeitig. Aktivierung/ Deaktivierung des Bedienmodus für Solar- Produkte.",
+          "image_description": "Remote control with a scroll wheel, multiple buttons, and a select function."
+        }
+      ],
+      "page_notes": "Section titled ELEKTRISCHES ZUBEHÖR featuring various remote control devices for manual operation and control.",
+      "page_number": 69
+    },
+    {
+      "products": [
+        {
+          "name": "SCHALTER SMOOVE ORIGIN IO PURE",
+          "description": "1-Kanal-Funkwandsender, manuelle Steuerung eines io-Funkantriebs/ io-Funkempfänger gleichzeitig per Funk, Bedienung über Drucktasten, Vielzahl an Gestaltungsmöglichkeiten mit den Einzel- oder Gruppenbedienung möglich, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen der Schalterhersteller, sowie Befestigungsplatte für andere Schalterprogramme, AUF- und AB-Taste sowie „my“-Taste zum Stoppen oder Aufrufen der Lieblingsposition, Programmiertaste auf der Rückseite des Moduls, Befestigungsplatte für einfache und flexible Wandmontage, keine UP-Dose erforderlich, LED zur Sendeanzeige, drahtlos und batteriebetrieben, daher geringster Installationsaufwand, mit Batteriezustandsanzeige, Funkfrequenz: 868.95 MHz, Dimensionen: 50 x 50 mm, IP Schutzklasse: IP30.",
+          "specifications": {
+            "Funkfrequenz": "868.95 MHz",
+            "Dimensionen": "50 x 50 mm",
+            "IP Schutzklasse": "IP30"
+          },
+          "image_description": "Square wall switch with arrow and 'my' button."
+        },
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA IO",
+          "description": "Manuelle Bedienung: über Piktogramme können iO-Antriebe oder iO-Empfänger in die gewünschte Position gefahren werden, Bidirektionale Kommunikation zwischen Touch-Display Steuerung und iO-Antrieb/ iO-Empfänger, Rückmeldung über den ausgeführten Befehl im Display, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien: in Räumen, Gruppen, Etagen und dem kompletten Haus können Szenarien einfach erstellt werden, Funkfrequenz: io 868 - 870 MHz, Reichweite freies Feld: 250, Anzahl der Kanäle: Multi, Volt/ Frequenz: 100-240V/ 50-60 Hz, Dimensionen: 159.8 x 68 x 69.9 mm, IP-Schutzklasse: IP20, Farbe: Schwarz-Weiß.",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite freies Feld": "250",
+            "Anzahl der Kanäle": "Multi",
+            "Volt/ Frequenz": "100-240V/ 50-60 Hz",
+            "Dimensionen": "159.8 x 68 x 69.9 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz-Weiß"
+          },
+          "image_description": "Handheld device with touch display and stand."
+        }
+      ],
+      "page_notes": "Section header: ELEKTRISCHES ZUBEHÖR. Variantes shown: VARIANTE SOMFY IO.",
+      "page_number": 70
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA TIMER iO",
+          "description": "Bidirektionale Touch-Display Steuerung mit Zeitautomatik, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien.",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite im Raum": "20 m",
+            "Volt/Frequenz": "100-240V/50-60 Hz",
+            "Dimensionen": "150 x 65 x 90 mm",
+            "Tiefe": "45 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz"
+          },
+          "image_description": "Handsender device with a touch-display",
+          "additional_info": "Erstellung von Szenarien in Räumen, Gruppen, Etagen und dem kompletten Haus."
+        },
+        {
+          "name": "SOMFY TAHOMA® SWITCH PRO",
+          "description": "Individuelle Somfy Smart Home-Steuerung, 24-Stunden Zugriff auf vernetztes Zuhause und individuelle Home-Steuerung.",
+          "additional_info": "Kompatibel mit Somfy-eigenen Funkprotokollen iO, RTS, RTD, RTDS und weiteren Funkstandards wie EnOcean und Z-Wave."
+        },
+        {
+          "name": "CM-10-QMC",
+          "description": "Motor 8 Nm 15 U/min, Versorgung 230 V AC, Endlage mechanisch, Mindestbreite (Anlage) 72 cm, Bedienung Wandschalter.",
+          "specifications": {
+            "Motor": "8 Nm 15 U/min",
+            "Versorgung": "230 V AC",
+            "Endlage": "mechanisch",
+            "Mindestbreite (Anlage)": "72 cm",
+            "Bedienung": "Wandschalter"
+          }
+        },
+        {
+          "name": "CM-10-QC",
+          "description": "Motor 8 Nm 15 U/min, Versorgung 230 V AC, Endlage elektrisch, Mindestbreite (Anlage) 72 cm, Bedienung Fernbedienung, Bluetooth App.",
+          "specifications": {
+            "Motor": "8 Nm 15 U/min",
+            "Versorgung": "230 V AC",
+            "Endlage": "elektrisch",
+            "Mindestbreite (Anlage)": "72 cm",
+            "Bedienung": "Fernbedienung, Bluetooth App"
+          }
+        }
+      ],
+      "page_notes": "Elektrisches Zubehör section, VARIANTE SOMFY iO, VARIANTE COULISSE.",
+      "page_number": 71
+    },
+    {
+      "products": [
+        {
+          "name": "CM-06",
+          "description": "Motor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C, Mindestbreite (Anlage): 86 cm, Bedienung: Fernbedienung, Bluetooth App.",
+          "image_description": "Image of a motor device."
+        },
+        {
+          "name": "CM-06-E",
+          "description": "Motor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C, Mindestbreite (Anlage): 86 cm, Bedienung: Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "image_description": "Image of a motor device."
+        },
+        {
+          "name": "LADEGERÄT COULISSE 12 V",
+          "sku": "DC220+CM-41",
+          "description": "Transformator 12 V, USB-C Kabel.",
+          "image_description": "Image of a charger with a cable."
+        },
+        {
+          "name": "1 - KANAL HANDSENDER CM-11",
+          "description": "1-Kanal-Handsänder, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm",
+          "image_description": "Image of a single-channel remote."
+        },
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsänder, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm",
+          "image_description": "Image of a five-channel remote."
+        }
+      ],
+      "page_notes": "Section titled ELEKTRISCHES ZUBEHÖR for JALOUSIEN 50 mm, focusing on electronic accessories.",
+      "page_number": 72
+    }
+  ],
+  "total_products": 148
+}

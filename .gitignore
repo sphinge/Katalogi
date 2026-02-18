@@ -1,0 +1,20 @@
+# PDF catalogues (too large for git)
+*.pdf
+*.PDF
+
+# Helper scripts (not needed in repo)
+list_shares.py
+copy_catalogues.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
