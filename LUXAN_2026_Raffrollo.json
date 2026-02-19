@@ -1,0 +1,1182 @@
+{
+  "source_file": "LUXAN_2026_Raffrollo.pdf",
+  "total_pages": 46,
+  "pages": [
+    {
+      "products": [],
+      "page_notes": "Cover page of the catalogue 'RAFFROLLO & VORHÄNGE'. Includes a promotional image of a window with a curtain. Text about pricing policy and terms. Year 2026 mentioned, along with 'Technik & Preise'.",
+      "page_number": 1
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no product information or content visible.",
+      "page_number": 2
+    },
+    {
+      "products": [],
+      "page_notes": "Table of contents for the 'LUXAN_2026_Raffrollo.pdf'. Sections include child safety, raffrollo systems, raffrollo fabric design, curtain fabric design, and terms and conditions. Each section and its subsections are listed with corresponding page numbers.",
+      "page_number": 3
+    },
+    {
+      "products": [],
+      "page_notes": "The page discusses child safety standards related to European Norm EN 13120 for blinds. It includes information on supplementary EN standards EN 16433 and EN 16434, and explains the importance of safety components like system cord connectors and chain tensioners. There are guidelines on installation and the specified lengths for chains in different product height scenarios.",
+      "page_number": 4
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains safety information related to 'KINDERSICHERHEIT' (child safety) for products conforming to the EN-Norm 13120. It includes warnings and instructions for installation and packaging, with focus on preventing child access and ensuring safety compliance according to EU language requirements.",
+      "page_number": 5
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no product information shown.",
+      "page_number": 6
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a section header '1. RAFFROLLO - SYSTEME' with an image of a woman operating a window blind. No specific product information is provided.",
+      "page_number": 7
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a system overview for 'System Luxan' from a Raffrollo catalogue. It includes technical specifications, available system colors, and options for metal chain operation. It has a table detailing the number of system cords required based on the width for both chain operation and motorized systems. There is no specific product listing, but diagrams and color options are provided.",
+      "page_number": 8
+    },
+    {
+      "products": [
+        {
+          "name": "Wandmontage / Deckenmontage",
+          "description": "Universaltaräger",
+          "sku": "155372-000",
+          "image_description": "Diagram of a universal carrier"
+        },
+        {
+          "name": "Klemmträger weiß",
+          "sku": "3.143.244.000",
+          "description": "Mounting on the frame (without drilling)",
+          "image_description": "Diagram of white clamp holder"
+        },
+        {
+          "name": "Klemmträger schwarz",
+          "sku": "4.150.230.049",
+          "description": "Mounting on the frame (without drilling)",
+          "image_description": "Diagram of black clamp holder"
+        }
+      ],
+      "page_notes": "Section heading: PREISE. Descriptions of installation options and size range table are provided. System Luxan width range information included.",
+      "page_number": 9
+    },
+    {
+      "products": [
+        {
+          "name": "System Easy Pin",
+          "specifications": {
+            "dimensions": "35 mm x 17 mm",
+            "features": [
+              "Klettbandprofil",
+              "Befestigungsschrauben",
+              "Knebelträger",
+              "Bedienungskette",
+              "Flauschband und Klettband",
+              "Welle in weiß",
+              "Schnur mit Schnurmitnehmer",
+              "Oberclip und Schnurfeststeller",
+              "Beschwerungsprofil aus PVC",
+              "Getriebe 1:3",
+              "Kettenhalter laut EN13120"
+            ]
+          },
+          "additional_info": "MORE-IN-ONE Bedienung möglich"
+        }
+      ],
+      "page_notes": "1. RAFFROLLO - SYSTEME, SYSTEMÜBERSICHT, Bedienarten include Kettengetriebe mit Perl- oder Metallkette",
+      "page_number": 10
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains pricing information and specifications for a product called 'System Easy Pin'. It includes size ranges, prices, and technical specifications such as min. and max. width and height, package height, weight, and max. fabric size. The page also contains a warning note about length calculations.",
+      "page_number": 11
+    },
+    {
+      "products": [
+        {
+          "sku": "610407",
+          "description": "Antriebslement inkl. Bedienkette 125 cm lang und Gegenlage",
+          "price": "35,70/ St.",
+          "image_description": "Diagram of Antriebslement with dimensions"
+        },
+        {
+          "sku": "610203",
+          "description": "Wandträger 25 mm Wandabstand",
+          "price": "1,75/ St.",
+          "image_description": "Diagram of Wandträger with dimensions"
+        },
+        {
+          "sku": "610199",
+          "description": "Enddeckel",
+          "price": "3,00/ St.",
+          "image_description": "Diagram of Enddeckel with dimensions"
+        },
+        {
+          "sku": "610204",
+          "description": "Knebelträger Decken- und Wandbefestigung 30 mm Wandabstand",
+          "price": "3,20/ St.",
+          "image_description": "Diagram of Knebelträger with dimensions"
+        },
+        {
+          "sku": "610198",
+          "description": "Wellenstütze",
+          "price": "1,40/ St.",
+          "image_description": "Diagram of Wellenstütze with dimensions"
+        },
+        {
+          "sku": "610205",
+          "description": "Raffvorhang-Adapter zur Verwendung in Innenlaufschiene mit 4mm Laufkanal",
+          "price": "3,20/ St.",
+          "image_description": "Diagram of Raffvorhang-Adapter"
+        },
+        {
+          "sku": "610558",
+          "description": "Oberclip",
+          "price": "2,40/ St.",
+          "image_description": "Diagram of Oberclip with dimensions"
+        },
+        {
+          "sku": "610207",
+          "description": "Klemmträger zur Befestigung am Fensterflügel",
+          "price": "4,90/ St.",
+          "image_description": "Diagram of Klemmträger with dimensions"
+        },
+        {
+          "sku": "610559",
+          "description": "Mitnehmer",
+          "price": "5,90/ St.",
+          "image_description": "Diagram of Mitnehmer with dimensions"
+        },
+        {
+          "sku": "600268",
+          "description": "Mitnehmer-Welle",
+          "price": "17,20/ Lfm.",
+          "image_description": "Diagram of Mitnehmer-Welle"
+        },
+        {
+          "sku": "610220",
+          "description": "Schnurfeststeller",
+          "price": "1,60/ St.",
+          "image_description": "Diagram of Schnurfeststeller",
+          "additional_info": "RB-xx*-DP-yy*"
+        },
+        {
+          "description": "Bedienkette aus Kunststoff",
+          "price": "2,50/ Lfm.",
+          "additional_info": "weiß, grau, schwarz"
+        },
+        {
+          "sku": "610202",
+          "description": "Deckenträger 24 mm Wandabstand",
+          "price": "1,60/ St.",
+          "image_description": "Diagram of Deckenträger with dimensions"
+        },
+        {
+          "description": "Bedienkette aus Metall",
+          "price": "8,10/ Lfm.",
+          "additional_info": "V15M-CH Chrom, V15M-SN Satin Nickel, V15M-GN Gold matt, V15M-OB Altmessing, V15M-C Kupfer, V15M-BN Schwarz Nickel, V15M-GN Grau Nickel"
+        }
+      ],
+      "page_notes": "Section header: ZUBEHÖR; Subsection: System Easy Pin",
+      "page_number": 12
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a model overview for 'System Easy Pin - Behängtypen', showing different width categories and technical drawings for each. Descriptions include measurements and features like 'Band', 'Mitnehmer', 'Schnurverlauf', 'Doppelt gefädelt', and 'Oberclip'.",
+      "page_number": 13
+    },
+    {
+      "products": [
+        {
+          "name": "System Vario VS1 RP",
+          "description": "Aluminiumprofil in weiß, silber, schwarzbraun, messing, anthrazit und alu gebürstet (Mehrpreis)",
+          "specifications": {
+            "features": [
+              "Verspanntes Plisseesystem für Deko- und Gardinenstoffe",
+              "Exklusivgriff aus Aluminium passend zur Profilfarbe erhältlich",
+              "Behang frei verschieb- und positionierbar",
+              "Stoff leicht mittels Schnurhaken an der Anlage zu befestigen",
+              "Montage im Fensterfalz möglich",
+              "Mögliche Montageraten (Falz/Decke, Wand oder Klemmträger)",
+              "Bedienung mit Bediengriff oder Bedienstab möglich"
+            ]
+          },
+          "image_description": "Diagram of VS1 RP system"
+        },
+        {
+          "name": "System Vario VS2 RP",
+          "description": "Aluminiumprofil in weiß, silber, schwarzbraun, messing, anthrazit und alu gebürstet (Mehrpreis)",
+          "specifications": {
+            "features": [
+              "Verspanntes Plisseesystem für Deko- und Gardinenstoffe",
+              "Exklusivgriff aus Aluminium passend zur Profilfarbe erhältlich",
+              "Behang frei verschieb- und positionierbar",
+              "Stoff leicht mittels Schnurhaken an der Anlage zu befestigen",
+              "Montage im Fensterfalz möglich",
+              "Mögliche Montageraten (Falz/Decke, Wand oder Klemmträger)",
+              "Bedienung mit Bediengriff oder Bedienstab möglich"
+            ]
+          },
+          "image_description": "Diagram of VS2 RP system"
+        }
+      ],
+      "page_notes": "Systemübersicht for Raffrollo - Systeme with specific features and assembly instructions. Includes a notice about grip installation for widths over 130 cm.",
+      "page_number": 14
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains pricing information for System Vario VS1 RP, VS2 RP, including dimensions, package weight, installation instructions, and available colors for fabric systems. Includes notes on fabric consumption, confection, and technical notes. No specific product information is outlined.",
+      "page_number": 15
+    },
+    {
+      "products": [
+        {
+          "name": "System Vario VS2 RP KL",
+          "specifications": {
+            "min. Breite (B)": "30 cm",
+            "max. Breite (B)": "150 cm",
+            "min. Höhe (H)": "20 cm",
+            "max. Höhe (H)": "150 cm",
+            "max. bis 120cm Breite": "220 cm"
+          },
+          "image_description": "Illustration of the System Vario VS2 RP KL window mount.",
+          "additional_info": "Size dependent on fabric weight."
+        }
+      ],
+      "page_notes": "Section on SYSTEMÜBERSICHT with installation instructions for System Vario VS2 RP KL.",
+      "page_number": 16
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for 'Sytem Vario VS2 RP KL' with dimensions in cm and corresponding prices. The table lists widths from 50 to 150 cm and heights from 80 to 220 cm, showing price values for each size combination. LUXAN branding is present.",
+      "page_number": 17
+    },
+    {
+      "products": [
+        {
+          "name": "Winkel für VS2 RP und VS2 RP KL",
+          "sku": "223299",
+          "color": "silber",
+          "price": "2,10/St."
+        },
+        {
+          "name": "Spannschuh links und rechts für VS2 RP und VS2 RP KL",
+          "sku": "223820, 223803, 223824",
+          "price": "8,30/Paar"
+        },
+        {
+          "name": "Klemmblech für Klebeprofil",
+          "sku": "292199",
+          "color": "silber",
+          "price": "0,80/St."
+        },
+        {
+          "name": "Reinigunstuch für Klebeprofil",
+          "sku": "900699",
+          "price": "2,60/St."
+        },
+        {
+          "name": "Klebeprofil",
+          "sku": "100120, 100102",
+          "color": "weiß matt, grau",
+          "price": "18,00/Lfm."
+        },
+        {
+          "name": "Klemmträger",
+          "sku": "230220, 230203, 230205",
+          "color": "weiß, grau, schwarzbraun",
+          "price": "8,10/St."
+        },
+        {
+          "name": "Klemmträger VS2 mit Spannschuhadapter, 4er Set",
+          "sku": "230202, 230303, 230305",
+          "color": "weiß, grau, schwarzbraun",
+          "price": "32,60/Set."
+        },
+        {
+          "name": "Bediengriff",
+          "sku": "303020",
+          "color": "weiß",
+          "price": "8,00/St."
+        },
+        {
+          "name": "inkl. Griffadapter",
+          "sku": "303003",
+          "color": "grau",
+          "price": "3,80/St."
+        },
+        {
+          "name": "schwarzbraun und Schrauben",
+          "sku": "303005",
+          "price": "3,80/St."
+        },
+        {
+          "name": "anthrazit",
+          "sku": "303024",
+          "price": "3,80/St."
+        },
+        {
+          "name": "bronze",
+          "sku": "303026",
+          "price": "3,80/St."
+        },
+        {
+          "name": "Designgriff inkl. Griffadapter",
+          "sku": "804920",
+          "color": "weiß",
+          "price": "20,05/St."
+        },
+        {
+          "name": "Griffadapter",
+          "sku": "804903",
+          "color": "grau",
+          "price": "20,05/St."
+        },
+        {
+          "name": "schwarzbraun und Schrauben",
+          "sku": "804905",
+          "price": "20,05/St."
+        },
+        {
+          "name": "anthrazit",
+          "sku": "804924",
+          "price": "20,05/St."
+        },
+        {
+          "name": "bronze",
+          "sku": "804926",
+          "price": "20,05/St."
+        },
+        {
+          "name": "Spannschuh links und rechts für VS2 RP und VS2 RP KL",
+          "sku": "223820, 223803, 223824",
+          "price": "12,75/Paar",
+          "additional_info": "magnetische Fixierung"
+        },
+        {
+          "name": "Bedienstab",
+          "sku": "292403",
+          "color": "grau",
+          "price": "3,40/St."
+        },
+        {
+          "name": "Bedienstab mit Gelenk",
+          "sku": "330902, 331002, 311102, 331202",
+          "specifications": {
+            "length": "125 cm, 150 cm, 200 cm, 250 cm"
+          },
+          "price": "67,95/St., 70,80/St., 76,70/St., 82,30/St."
+        },
+        {
+          "name": "Montageclip",
+          "sku": "235402",
+          "color": "silber",
+          "price": "2,40/St."
+        }
+      ],
+      "page_notes": "Section header 'Zubehör' for System Vario VS1 RP, VS2 RP, VS2 RP KL",
+      "page_number": 18
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the section header '2. RAFFROLLO STOFFKONFEKTION' with an image of fabric roll-up blinds in a window setting.",
+      "page_number": 19
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A (ohne Querstäbe)",
+          "description": "- Ösenband mit Kunststoffringen,\n- vertikal vernäht\n- bei Konus-Systemtechnik: erste Schnur bei 10 cm von außen.",
+          "additional_info": "Dieses Modell empfiehlt sich vor allem bei Chiffonstoffen.",
+          "image_description": "Illustration of Modell A with a view from the front and back."
+        },
+        {
+          "name": "Modell B (mit Querstäben hinten im aufgenähten Band)",
+          "price": "Aufpreis 40 €",
+          "description": "- Baumwollband bzw. ein transparentes Band horizontal vernäht,\n- Querstäbe werden durch Öffnung im Baumwollband geführt,\n- Systemschnüre werden durch Ösen im Baumwollband eingefädelt,\n- Abstand zwischen Querstäben beträgt 28 cm,\n- bei Konus-Systemtechnik: erste Schnur bei 10 cm von außen.",
+          "additional_info": "Dieses Modell empfiehlt sich vor allem bei gemusterten Stoffen. Das Baumwollband wird an den Stoff hinten angenäht, damit das Muster nicht gestört wirkt.",
+          "image_description": "Illustration of Modell B with a view from the front and back."
+        }
+      ],
+      "page_notes": "2. RAFFROLLO STOFFKONFEKTION. KONFEKTIONSARTEN section header",
+      "page_number": 20
+    },
+    {
+      "products": [
+        {
+          "name": "Modell C (mit Querstäben hinten im Tunnel)",
+          "price": "Aufpreis 40 €",
+          "description": "- die Querstabtunnel werden auf der Rückseite in Abständen von 28 cm genäht, - die Querstäbe werden in die Tunnel eingesetzt, - als Schnurführung werden an den Tunnels Kunststoffringe befestigt, - an den Tunneln werden Kunststoffösen zur Schnurführung befestigt, - dieses Modell empfiehlt sich vor allem bei Uni - und Streifen-Dessins, - bei Konus-Systemtechnik: erste Schnur bei 10 cm von aussen.",
+          "image_description": "Diagram showing front and back views of Modell C."
+        },
+        {
+          "name": "Modell D (mit Querstäben vorne im Tunnel)",
+          "price": "Aufpreis 40 €",
+          "description": "Das Modell wird wie Modell C genäht, jedoch mit nach vorne vernähten Querstabtunneln.",
+          "image_description": "Diagram showing front and back views of Modell D."
+        }
+      ],
+      "page_notes": "Section titled KONFEKTIONSARTEN. Brand LUXAN is visible.",
+      "page_number": 21
+    },
+    {
+      "products": [
+        {
+          "name": "Modell E (ohne Querstäbe)",
+          "description": "- Ösenband mit Stoffschlaufen,\n- vertikal vernäht\n- bei Konus-Systemtechnik: erste Schnur bei 10 cm von aussen.",
+          "additional_info": "Dieses Modell empfiehlt sich vor allem bei Chiffonstoffen.",
+          "image_description": "Illustration of Modell E (no crossbars) showing front and back view"
+        }
+      ],
+      "page_notes": "Section: KONFEKTIONSARTEN (Tailoring Types) from 2. RAFFROLLO STOFFKONFEKTION",
+      "page_number": 22
+    },
+    {
+      "products": [
+        {
+          "name": "Querstäbe aus Aluminium",
+          "sku": "509.0030.006",
+          "specifications": {
+            "material": "Aluminium",
+            "diameter": "6 mm"
+          },
+          "image_description": "Image of an aluminum rod."
+        }
+      ],
+      "page_notes": "This page contains technical data for various models, including information on the number of crossbars, segments, segment heights, and package heights. It also includes details on the required fabric amount for production and instructions for configuring the fabric for models A, B, C, and D.",
+      "page_number": 23
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains pricing tables for 'Konfektionierung eines uns überlassenen Stoffes,' detailing various dimensions and corresponding prices for fabric processing. It includes width and height measurements in centimeters and their associated prices. Notes mention 'Konfektion mit Futterstoff: doppelter Preis.'",
+      "page_number": 24
+    },
+    {
+      "products": [
+        {
+          "name": "Mod. B, C, D",
+          "price": "40,00"
+        },
+        {
+          "name": "Seitenführung",
+          "price": "26,20/ Anl."
+        },
+        {
+          "name": "Seitenführung bei Montage mittels PVC-Klemmträger",
+          "price": "26,20/ Anl. + Aufpreis für Klemmträger"
+        },
+        {
+          "name": "PVC-Klemmträger PVC oben",
+          "price": "8,10/ St."
+        },
+        {
+          "name": "PVC-Klemmträger PVC unten bei Seitenführung",
+          "price": "8,10/ St."
+        },
+        {
+          "name": "Elektrisches Raffrollo",
+          "description": "nur in Verbindung mit System Luxan",
+          "additional_info": "Aufpreise je nach ausgewählter elektrischer Variante."
+        },
+        {
+          "name": "CSD11-TR",
+          "description": "Systemschnurverbinder transparent",
+          "price": "1,70/ St.",
+          "image_description": "Image of a transparent cord connector"
+        },
+        {
+          "description": "Kindersicherheit"
+        },
+        {
+          "name": "RAS12",
+          "description": "Systemschnurverbinder fest",
+          "price": "1,50/ St.",
+          "image_description": "Image of a fixed cord connector"
+        },
+        {
+          "name": "RAS27-H-6",
+          "description": "Feder 6 mm mit Kappe für Querstäbe",
+          "price": "11,20/ St.",
+          "image_description": "Image of a spring with cap for cross bars"
+        }
+      ],
+      "page_notes": "Additional charges for various components and systems.",
+      "page_number": 25
+    },
+    {
+      "products": [
+        {
+          "name": "Mittelmotor TLW 25",
+          "sku": "M48",
+          "brand": "Somfy",
+          "description": "Mittelmotor TLW 25, 24 V DC, 0,8 Nm, 30 U/min",
+          "price": "€ 207"
+        },
+        {
+          "name": "Mittelmotor TLW 25",
+          "sku": "M48",
+          "brand": "Somfy",
+          "description": "Mittelmotor TLW 25, 24 V DC, 0,8 Nm, 30 U/min",
+          "price": "€ 312"
+        },
+        {
+          "name": "Wandschalter",
+          "sku": "R23",
+          "brand": "Somfy",
+          "description": "Centrals DC IB (VB) Wandschalter"
+        },
+        {
+          "name": "Motor Tilt & Lift 25 RTS CENTRAL",
+          "sku": "M17",
+          "brand": "Somfy",
+          "description": "Motor Tilt & Lift 25 RTS CENTRAL 12 V DC, 0,5 Nm, 30 U/min",
+          "price": "€ 155"
+        },
+        {
+          "name": "Netzteil",
+          "sku": "P14",
+          "brand": "Somfy",
+          "description": "Netzteil 12 V AC/DC"
+        },
+        {
+          "name": "Schalter Centrals DC IB (VB)",
+          "sku": "R23",
+          "brand": "Somfy",
+          "price": "€ 105"
+        },
+        {
+          "name": "Funk-Empfänger 24V",
+          "sku": "X05",
+          "brand": "Somfy",
+          "description": "Funk-Empfänger 24V DC für 2 Antriebe, rund, für Oberschiene",
+          "price": "€ 159"
+        },
+        {
+          "name": "Aufputz-Funk-Empfänger RTS 24 V DC",
+          "sku": "X06",
+          "brand": "Somfy",
+          "price": "€ 174"
+        },
+        {
+          "name": "Netzteil Power 1,5 DC",
+          "sku": "P11",
+          "brand": "Somfy",
+          "description": "Netzteil Power 1,5 DC - 24 V + Versorgungskabel 2,5 m ~230 V EU",
+          "price": "€ 128"
+        },
+        {
+          "name": "Netzteil Power 2.7 DC",
+          "sku": "P12",
+          "brand": "Somfy",
+          "description": "Netzteil Power 2.7 DC - 230 V/24 V, 24 V DC, für 4 - 6 Antriebe",
+          "price": "€ 200"
+        },
+        {
+          "name": "Aufputz-Netzteil mit integriertem Funkempfänger Power",
+          "sku": "P13",
+          "brand": "Somfy",
+          "description": "Aufputz-Netzteil mit integriertem Funkempfänger Power 2,5 DC RTS für 4-6 Antriebe",
+          "price": "€ 420"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 RTS Pure II EE",
+          "sku": "R08",
+          "brand": "Somfy",
+          "price": "€ 55"
+        },
+        {
+          "name": "5-Kanal-Handsende",
+          "sku": "R09",
+          "brand": "Somfy",
+          "description": "5-Kanal-Handsende Situo 5 RTS Pure II EE",
+          "price": "€ 98"
+        },
+        {
+          "name": "1-Kanal-Handsende Situo 1 VAR",
+          "sku": "R10",
+          "brand": "Somfy",
+          "description": "1-Kanal-Handsende Situo 1 VAR RTS Pure II mit Scrollrad",
+          "price": "€ 107"
+        },
+        {
+          "name": "5-Kanal-Handsende Situo 5 VAR",
+          "sku": "R11",
+          "brand": "Somfy",
+          "description": "5-Kanal-Handsende Situo 5 VAR RTS Pure II mit Scrollrad",
+          "price": "€ 145"
+        },
+        {
+          "name": "Wandsender Smoove Origin RTS",
+          "sku": "R17",
+          "brand": "Somfy",
+          "price": "€ 64"
+        },
+        {
+          "name": "16-Kanal-Handsende",
+          "sku": "R18",
+          "brand": "Somfy",
+          "description": "16-Kanal-Handsende Telis 16 RTS Pure",
+          "price": "€ 299"
+        },
+        {
+          "name": "6-Kanal-Handsende Telis 6 Chronis RTS Pure",
+          "sku": "R19",
+          "brand": "Somfy",
+          "price": "€ 335"
+        },
+        {
+          "name": "Netzteil 12 V AC/DC",
+          "sku": "P10",
+          "brand": "Somfy",
+          "price": "€ 48"
+        }
+      ],
+      "page_notes": "Section title: Elektrische Varianten; Subsection title: Raffrollo; Variants listed: Somfy 24V zero, Somfy 12V RTS zero; Steuerungskomponenten und Versorgungskomponenten für verschiedene Varianten.",
+      "page_number": 26
+    },
+    {
+      "products": [
+        {
+          "name": "Motion 12 V",
+          "sku": "M59",
+          "brand": "Coulisse",
+          "description": "Mittelmotor CM-07 EVE Matter",
+          "price": "€ 200"
+        },
+        {
+          "name": "Motion 12 V",
+          "sku": "M07",
+          "brand": "Coulisse",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 133"
+        },
+        {
+          "name": "EVE Motion AKKU zero",
+          "sku": "M07 CM-07-E-R",
+          "brand": "Coulisse",
+          "description": "Mittelmotor CM-07 EVE Matter",
+          "price": "€ 250"
+        },
+        {
+          "name": "EVE Motion AKKU zero",
+          "sku": "P20",
+          "brand": "Coulisse",
+          "description": "Akku, innenliegend",
+          "additional_info": "Diese ist die Grundvariante eines Motors mit Akku, die Sie mit einem Ladegerät und verschiedenen Fernbedienungen ergänzen können. Dieser Motor ist durch EVE Matter mit den meisten Smarthome-Steuerelementen zur Hausautomatisierung kompatibel."
+        },
+        {
+          "name": "Motion AKKU zero",
+          "sku": "M07",
+          "brand": "Coulisse",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 183"
+        },
+        {
+          "name": "Motion AKKU zero",
+          "sku": "P20",
+          "brand": "Coulisse",
+          "description": "Akku, innenliegend",
+          "additional_info": "Dies ist die Grundvariante eines Motors mit Akku, die Sie mit einem Ladegerät, verschiedenen Fernbedienungen und einem WiFi-Hub für Smarthome-Steuerung ausstatten können."
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "M07",
+          "brand": "Coulisse",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 239"
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "P20",
+          "brand": "Coulisse",
+          "description": "Akku, innenliegend"
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "R01",
+          "brand": "Coulisse",
+          "description": "1-Kanal-Fernbedienung"
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "P28 DC220+CM-41",
+          "brand": "Coulisse",
+          "description": "Ladegerät 12 V mit USB-C Kabel",
+          "additional_info": "Diese Variante umfasst einen Motor, einen Akku, eine Fernbedienung und ein Ladegerät. Das Set enthält alle Elemente, zum Betrieb der Anlage mit einer Fernbedienung. Zusätzlich ist es möglich ein WiFi-Hub für Smarthome-Steuerung zu ergänzen."
+        },
+        {
+          "name": "1-Kanal-Handsener",
+          "sku": "R01 CM-11",
+          "brand": "Coulisse",
+          "price": "€ 27"
+        },
+        {
+          "name": "5-Kanal-Handsener",
+          "sku": "R02 CM-12",
+          "brand": "Coulisse",
+          "price": "€ 36"
+        },
+        {
+          "name": "15-Kanal-Handsener",
+          "sku": "R03 CM-13",
+          "brand": "Coulisse",
+          "price": "€ 50"
+        },
+        {
+          "name": "Design 4-Kanal-Wandfernbedienung",
+          "sku": "R04 CM-16",
+          "brand": "Coulisse",
+          "price": "€ 150"
+        },
+        {
+          "name": "Design 4-Kanal-Tischfernbedienung",
+          "sku": "R05 CM-17",
+          "brand": "Coulisse",
+          "price": "€ 69"
+        },
+        {
+          "name": "Matter WiFi Bridge",
+          "sku": "A07 CM-55",
+          "brand": "Coulisse",
+          "price": "€ 221"
+        },
+        {
+          "name": "WiFi Hub Motion - USB Ausführung",
+          "sku": "A02 CMD-01",
+          "brand": "Coulisse",
+          "price": "€ 136"
+        },
+        {
+          "name": "Akku, außenliegend",
+          "sku": "P42 CM-39",
+          "brand": "Coulisse",
+          "price": "€ 79"
+        },
+        {
+          "name": "Ladegerät 12 V mit USB-C Kabel",
+          "sku": "P03 DC220+CM-41",
+          "brand": "Coulisse",
+          "price": "€ 29"
+        },
+        {
+          "name": "Dauerstromnetzteil 12 V (nicht in Kombination mit Akku)",
+          "sku": "P41 CM-21-EU",
+          "brand": "Coulisse",
+          "price": "€ 34"
+        }
+      ],
+      "page_notes": "Elekstrische Varianten Raffrollo",
+      "page_number": 27
+    },
+    {
+      "products": [
+        {
+          "name": "Mittelmotor Somfy LW25-B83",
+          "description": "Motor für Kabelsteuerung, Verbindugskabel ca. 1 m ohne Netzteil, Nennspannung 24 V DC, Endlagen: elektrisch, minimale Produktbreite 61 cm, maximale Fläche für einen Motor: 4,25 m², für 2 Motoren: 7 m², durch Funk-Nachrüstung kann der Motor auch per Handsender oder RTS-Wandsender gesteuert werden (bei entsprechender Produktbreite mit RTS-Empfänger 1870143 innerhalb der Oberschiene, ansonsten mit RTS-Empfänger 1870138 außerhalb der Oberschiene).",
+          "specifications": {},
+          "image_description": "Image of a cylindrical motor."
+        },
+        {
+          "name": "Motor Somfy Tilt&Lift 25 RTS Central",
+          "description": "Spannungsversorgung: 12 VDC SELV, Drehmoment: 0,5 Nm, Auffahrgeschwindigkeit: 30 U/min, Abfahrgeschwindigkeit: 45 U/min, Endlagen: elektronisch, Mindestabstand zwischen den beiden Endlagen: 1 Umdrehung, Maximaler Abstand zwischen den beiden Endlagen: 110 Umdrehungen, Maximale Betriebsdauer: 6 Min, Betriebstemperatur: 0°C bis + 60 °C, Schutzart: IP20 (Nur für den Betrieb in geschlossenen Räumen), Maximale Anzahl speicherbarer RTS-Funksender: 12.",
+          "specifications": {},
+          "image_description": "Image of a tubular motor with wire."
+        },
+        {
+          "name": "Schalter Somfy Centralis DB IB (VB)",
+          "description": "Zur Montage in einer Unterputzdose- Schaltdose 60 mm Ø oder passenden Aufputz-Kappe geeignet (ein Aufputzrahmen liegt nicht im Lieferumfang, dieser kann unter Angabe der Artikelnr. 9000997 separat bestellt werden), Betriebsspannung: 20-34 V DC SELV, Spannung Steuerleitung: SELV, Schaltkontaktbelastbarkeit Relais: 24 VDC 1,5 A, Schutzart: IP40, Betriebstemperatur: -5°C +40°C, Dimensionen: 80 x 80 x 17 ± 33 mm, Umgebungsbedingungen: trockene Wohnräume.",
+          "specifications": {},
+          "image_description": "Image of a wall switch with circular design."
+        },
+        {
+          "name": "Aufputz-Funkempfänger Somfy 24 V DC",
+          "description": "Für Aufputzmontage außerhalb der Oberschiene.",
+          "specifications": {},
+          "image_description": "Image of a round receiver."
+        },
+        {
+          "name": "Funk-Empfänger 24 V D",
+          "description": "Für 2 Antriebe, rund, für Oberschiene.",
+          "specifications": {},
+          "image_description": "Image of a cylindrical receiver."
+        }
+      ],
+      "page_notes": "Section titled 'Elektrisches Zubehör' in the catalogue.",
+      "page_number": 28
+    },
+    {
+      "products": [
+        {
+          "name": "NETZTEIL SOMFY POWER 1,5 DC 24 V",
+          "description": "Eingang: 100-240 VAC 50-60 Hz 0,75-1,5 A; IEC320 C8 (2P), Ausgang: 24 VDC SELV +/- 5% 1,5 A, Dimensionen: 110,5 x 53 x 30 mm, Versorgungskabel 2,5 m ~230 V EU (Artikelnr. 9014006) wird mitgeliefert.",
+          "specifications": {
+            "einput": "100-240 VAC 50-60 Hz 0,75-1,5 A; IEC320 C8 (2P)",
+            "output": "24 VDC SELV +/- 5% 1,5 A",
+            "dimensions": "110,5 x 53 x 30 mm"
+          },
+          "image_description": "White power supply unit with cable."
+        },
+        {
+          "name": "NETZTEIL SOMFY POWER 2.7 DC 230 V/ 24 V",
+          "description": "Ein 230 V AC/24 V DC Transformator zur Versorgung von bis zu 6 24 V DC Motoren für Jalousien, für Montage in einem erwärmten Innenraum, Eingang: 198-255 V AC 50 Hz 0,5 A, Ausgang: 24 VDC SELV +/-5% 2,7 A, Dimensionen: 155 x 155 x 54 mm, Farbe: Weiss.",
+          "specifications": {
+            "input": "198-255 V AC 50 Hz 0,5 A",
+            "output": "24 VDC SELV +/-5% 2,7 A",
+            "dimensions": "155 x 155 x 54 mm"
+          },
+          "image_description": "Square white power supply unit."
+        },
+        {
+          "name": "NETZTEIL MIT INTEGRIERTEM RTS-EMPFÄNGER SOMFY 2,5 DC RTS",
+          "description": "Gruppen-Funksteuerung mit integriertem Netzteil zum Anschluss von bis zu 6 24 V-Antrieben, keine Verdrahtung zur Bedienstelle, Kompatibel mit allen Somfy-Handsendern, integrierter Transformator 230 V/ 24 V DC, Dimensionen: 155 x 155 x 54 mm, Farbe: Weiss.",
+          "specifications": {
+            "dimensions": "155 x 155 x 54 mm"
+          },
+          "image_description": "RTS receiver with power supply unit."
+        },
+        {
+          "name": "SITOU 1 RTS PURE II",
+          "description": "1-Kanal-Handsender, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m, Dimensionen: 136 x 42 x 17 mm.",
+          "specifications": {
+            "battery": "3 V-Batterie Typ CR 2430-Lithium",
+            "frequency": "433,42 MHz",
+            "range": "20 m",
+            "dimensions": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device with one button."
+        },
+        {
+          "name": "SITOU 5 RTS PURE II",
+          "description": "5-Kanal-Handsender, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m, Dimensionen: 136 x 42 x 17 mm.",
+          "specifications": {
+            "battery": "3 V-Batterie Typ CR 2430-Lithium",
+            "frequency": "433,42 MHz",
+            "range": "20 m",
+            "dimensions": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device with multiple buttons."
+        },
+        {
+          "name": "SITOU 1 VAR RTS PURE II",
+          "description": "1-Kanal-Handsender, Scrollrad zur präzisen Wendung der Lamellen, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m, Dimensionen: 136 x 42 x 17 mm.",
+          "specifications": {
+            "battery": "3 V-Batterie Typ CR 2430-Lithium",
+            "frequency": "433,42 MHz",
+            "range": "20 m",
+            "dimensions": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control device with scroll wheel."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section. Contains various power supplies and remote controllers with specifications and images.",
+      "page_number": 29
+    },
+    {
+      "products": [
+        {
+          "name": "SITUO 5 VAR RTS PURE II",
+          "description": "5-Kanal-Handsender, Scrollrad zur präzisen Wendung der Lamellen",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with scroll wheel and buttons."
+        },
+        {
+          "name": "FUNKSENDER SOMFY TELIS 16 RTS PURE",
+          "description": "bis zu 16 Kanäle ansteuerbar, individuelle Namensgebung pro Kanal möglich",
+          "specifications": {
+            "Betriebstemperatur": "0°C bis +60°C",
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiss"
+          },
+          "image_description": "Remote control with large display and buttons."
+        }
+      ],
+      "page_notes": "Elektrisches Zubehör section in Raffrollo Stoffkonfektion.",
+      "page_number": 30
+    },
+    {
+      "products": [
+        {
+          "name": "Handsender Somfy Telis 6 Chronis RTS Pure",
+          "description": "Bis zu 6 Kanäle ansteuerbar, De-/aktivieren der Sonnenfunktion, manuell pro Kanal, individuelle Benennung der Kanäle möglich, AUF- und AB-Taste zum Öffnen und Schließen, Anfahren einer Zwischenposition auf Wunsch manuell oder über die Uhrzeit, 6 Schaltzeiten pro Tag.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Betriebstemperatur": "+0°C bis +60°C"
+          },
+          "image_description": "A remote control with multiple buttons and a display.",
+          "additional_info": "Automatische Einstellung von Uhrzeit und Datum, Batterie-Wechsel."
+        },
+        {
+          "name": "Funkwandsender Somfy Smoove Origin RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 30",
+            "Dimensionen": "50 x 50 mm"
+          },
+          "image_description": "A wall-mounted square button panel with arrow and 'my' buttons.",
+          "additional_info": "Vielzahl an Gestaltungsmöglichkeiten, drahtlos/batteriebetrieben."
+        }
+      ],
+      "page_notes": "Section headers include Elektrisches Zubehör, Hand-Sender and Funkwandsender.",
+      "page_number": 31
+    },
+    {
+      "products": [
+        {
+          "name": "Stecker-Netzteil Somfy Power Supply",
+          "description": "12 V AC/DC Netzteil für einen Antrieb, passend für Motor Somfy Tili&Lift RTS.",
+          "brand": "Somfy",
+          "image_description": "White power supply with plug attachment."
+        },
+        {
+          "name": "Mittelmotor CM-07",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App.",
+          "image_description": "Motorized component with a cylindrical design."
+        },
+        {
+          "name": "Mittelmotor CM-07-E-R",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "image_description": "Motorized component with a cylindrical design."
+        },
+        {
+          "name": "Akku CM-38",
+          "description": "12 V Lithium-Ionen-Akkumulator, wiederaufladbar, inneliegend, Montage im Oberprofil.",
+          "brand": "Coulisse",
+          "image_description": "Cylinder-shaped battery component."
+        },
+        {
+          "name": "Akku CM-39",
+          "description": "12 V Lithium-Ionen-Akkumulator, 2700 mAh, wiederaufladbar, außenliegend, externe Installation.",
+          "image_description": "Cylinder-shaped battery component."
+        },
+        {
+          "name": "Ladegerät Coulisse 12 V",
+          "description": "DC220+CM-41, Transformator 12 V, USB-C Laderkabel.",
+          "image_description": "Charger with USB-C cable."
+        },
+        {
+          "name": "1 - Kanal Handsender CM-11",
+          "description": "1-Kanal-Handsender, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm.",
+          "brand": "Coulisse",
+          "specifications": {
+            "battery_type": "CR 2430-Lithium",
+            "frequency": "433 MHz",
+            "range": "30 m",
+            "dimensions": "120 x 45 x 14 mm"
+          },
+          "image_description": "Handheld remote with buttons."
+        }
+      ],
+      "page_notes": "Section titled 'Elektrisches Zubehör' under '2. Raffrollo Stoffkonfektion'.",
+      "page_number": 32
+    },
+    {
+      "products": [
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsänder.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Remote control with buttons"
+        },
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsänder.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Remote control with buttons"
+        },
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsänder.",
+          "specifications": {
+            "Betriebsspannung": "3 x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          },
+          "image_description": "Wall-mounted remote control"
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsänder.",
+          "specifications": {
+            "Betriebsspannung": "3 x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          },
+          "image_description": "Table remote control"
+        },
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus.",
+          "specifications": {
+            "max 30 Motoren": "max 20 Szenarien",
+            "max 20 Timer": "433 MHz, 2,4 GHz",
+            "Funkbereich": "30 m",
+            "Stromquelle": "USB-C"
+          },
+          "image_description": "Bridge device with cable"
+        },
+        {
+          "name": "MOTION WIFI HUB USB CM-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk.",
+          "additional_info": "Sie verbinden das USB-Hub dauerhaft mit Strom, verbinde das USB-Hub auf dem Smartphone mit der MOTION-App und anschließend mit den Motoren der Produkte.",
+          "image_description": "USB hub device"
+        }
+      ],
+      "page_notes": "Section on electronic accessories from LUXAN.",
+      "page_number": 33
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for 'Raffrollo' with fields for company, date, delivery date, and several product specifications like model, width, height, and system type. It includes diagrams for different models (Mod A, B, C, D) and notes on child safety and installation height.",
+      "page_number": 34
+    },
+    {
+      "products": [],
+      "page_notes": "This page is a section header for '3. VORHÄNGE STOFFKONFEKTION'.",
+      "page_number": 35
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A",
+          "image_description": "Rectangular fabric panel with strings attached on both sides."
+        },
+        {
+          "name": "Modell B",
+          "image_description": "Rectangular fabric panel with evenly spaced tabs on the top edge."
+        },
+        {
+          "name": "Modell C",
+          "image_description": "Rectangular fabric panel with tabs, includes a zoom-in showing detailed stitching or design at the top."
+        },
+        {
+          "name": "Modell D",
+          "image_description": "Rectangular fabric panel with circular loops on the top; includes a zoom-in on a loop with dimensions (1 cm hole diameter, loop outer diameter 3.25 cm)."
+        }
+      ],
+      "page_notes": "The page title is 'MODELLÜBERSICHT' and it is part of section 'Behangtypen' in the '3. VORHÄNGE STOFFKONFEKTION'.",
+      "page_number": 36
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A",
+          "specifications": {
+            "Seitlicher Saum": "1 cm",
+            "Unterer Saum": "1 cm",
+            "Gardinienband": "2,6 cm",
+            "Kräuselband": "Ja"
+          },
+          "image_description": "Diagram of Modell A with sewing markings."
+        },
+        {
+          "name": "Modell B",
+          "specifications": {
+            "Seitlicher Saum": "1 cm",
+            "Unterer Saum": "1 cm",
+            "Schlaufen": "H = 6 cm; B = 4 cm",
+            "Symmetrisch auf der Stoffbreite verteilt": "Bsp. 1 m Breite = 12 Schlaufen"
+          },
+          "image_description": "Diagram of Modell B with loops."
+        },
+        {
+          "name": "Modell C",
+          "specifications": {
+            "Seitlicher Saum": "1 cm",
+            "Unterer Saum": "1 cm",
+            "Schlaufen": "H = 6 cm; B = 4 cm",
+            "Symmetrisch auf der Stoffbreite verteilt": "Bsp. 1 m Breite = 12 Schlaufen",
+            "Schlaufen lassen sich per Klettverschluß öffnen": "Ja"
+          },
+          "image_description": "Diagram of Modell C with detachable loops."
+        },
+        {
+          "name": "Modell D",
+          "specifications": {
+            "Seitlicher Saum": "1 cm",
+            "Unterer Saum": "1 cm",
+            "Ringe": "Ø 5,5 cm außen; Ø 3,5 cm innen",
+            "Symmetrisch auf der Stoffbreite verteilt": "Bsp. 1 m Breite = 8 Ringe",
+            "Abstand zw. Oberkante Stoff und Oberkante Ring": "1 cm"
+          },
+          "image_description": "Diagram of Modell D with rings."
+        }
+      ],
+      "page_notes": "Technical instructions and model overview for different curtain designs. Includes notes about installation and visibility of marks.",
+      "page_number": 37
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for fabric width and height in cm, with prices for Stoffzugabe 1:2. There is also an additional pricing table for Artikel Modell B, C, and D with respective prices per Lfm. The section is titled '3. VORHÄNGE STOFFKONFEKTION - PREISE' and mentions 'Konfektionierung eines uns überlassenen Stoffes'.",
+      "page_number": 38
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for curtains. It includes fields for company name, date, delivery date, and comments. There is space to specify model, item number, fabric type, quantity, width, height, and additional features. Models illustrated include Modell A, B, C, and D.",
+      "page_number": 39
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank or contains no product information.",
+      "page_number": 40
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a legal section titled '4. AGB' with an image of a gavel and a judge's hand. No product information is present.",
+      "page_number": 41
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains terms and conditions (AGB Allgemeine Geschäftsbedingungen). It includes sections on general conditions, offer and pricing, payments, and delivery and deadlines.",
+      "page_number": 42
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains terms and conditions (AGB) related to delivery, assembly, warranties, and liability from LUXAN's catalogue. It includes sections on the fulfillment location, transportation, and warranty terms without specific product information.",
+      "page_number": 43
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains legal terms and conditions related to warranties and liability (AGB section). No product information is present.",
+      "page_number": 44
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains terms and conditions (AGB), including sections on liability and applicable law.",
+      "page_number": 45
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains company contact information for Luxan Krawczyk Sonnenschutzsysteme GmbH, including address, phone number, email, fax, and business registration details.",
+      "page_number": 46
+    }
+  ],
+  "total_products": 133
+}

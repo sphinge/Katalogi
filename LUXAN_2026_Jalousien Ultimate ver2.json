@@ -65,90 +65,97 @@
     {
       "products": [
         {
-          "name": "U 16/25 S D",
+          "name": "U16/25 SD",
           "sku": "U16 SD, U25 SD",
-          "description": "Ultimate 16/25 mm Schnur Drehstab",
-          "image_description": "Jalousie with string and twisting rod"
+          "description": "Schnur, Drehstab",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 25 MV",
+          "name": "U25 MV",
           "sku": "U25 MV",
-          "description": "Ultimate 25 mm MegaView™",
-          "image_description": "Jalousie with MegaView feature"
+          "description": "MegaView™",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 25 LR",
+          "name": "U25 LR",
           "sku": "U25 LR",
-          "description": "Ultimate 25 mm LiteRise®",
-          "image_description": "Jalousie with LiteRise feature"
+          "description": "LiteRise®",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 MK ES",
+          "name": "U16/25 MKES",
           "sku": "U16 MKES, U25 MKES",
-          "description": "Ultimate 16/25 mm Monokomando Endlosschnur",
-          "image_description": "Jalousie with monocommand and endless string"
+          "description": "Monokomando, Endlosschnur",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 MK Kv",
+          "name": "U16/25 MKKv",
           "sku": "U16 MKKv, U25 MKKv",
-          "description": "Ultimate 16/25 mm Monokomando Kette vorne",
-          "image_description": "Jalousie with monocommand and front chain"
+          "description": "Monokomando, Kette vorne",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 MK Ks",
+          "name": "U16/25 MKKs",
           "sku": "U16 MKKs, U25 MKKs",
-          "description": "Ultimate 16/25 mm Monokomando Kette seitlich",
-          "image_description": "Jalousie with monocommand and side chain"
+          "description": "Monokomando, Kette seitlich",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 MK Ku",
+          "name": "U16/25 MKKu",
           "sku": "U16 MKKu, U25 MKKu",
-          "description": "Ultimate 16/25 mm Monokomando Kurbel",
-          "image_description": "Jalousie with monocommand and crank"
+          "description": "Monokomando, Kurbel",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 V",
+          "name": "U16/25 V",
           "sku": "U16 V, U25 V",
-          "description": "Ultimate 16/25 mm Verbundfenster",
-          "image_description": "Jalousie for composite window"
+          "description": "Verbundfenster",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 25 DF",
+          "name": "U25 DF",
           "sku": "U25 DF",
-          "description": "Ultimate 25 mm Dachfenster",
-          "image_description": "Jalousie for roof window"
+          "description": "Dachfenster",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 EL",
+          "name": "U16/25 EL",
           "sku": "U16 EL, U25 EL",
-          "description": "Ultimate 16/25 mm Elektrisch/ motorisiert",
-          "image_description": "Electrically/motorized jalousie"
+          "description": "Elektrisch/ motorisiert",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 TLA",
+          "name": "U16/25 TLA",
           "sku": "U16 TLA, U25 TLA",
-          "description": "Ultimate 16/25 mm Tageslichtoptimierte Jalousie",
-          "image_description": "Daylight optimized jalousie"
+          "description": "Tageslichtoptimierte Jalousie",
+          "category": "Jalousien Ultimate"
         },
         {
-          "name": "U 16/25 SLOPE",
+          "name": "U16/25 SLOPE",
           "sku": "U16 SLOPE, U25 SLOPE",
-          "description": "Ultimate 16/25 mm Slope",
-          "image_description": "Jalousie for sloped windows"
+          "description": "Slope",
+          "category": "Jalousien Ultimate"
         }
       ],
-      "page_notes": "Section header: MODELLÜBERSICHT, Page 10 of Technik & Preise 2026",
+      "page_notes": "Modellübersicht; Page 10; Technik & Preise 2026",
       "page_number": 10
     },
     {
       "products": [
         {
           "name": "Modell U16 SD/ U25 SD",
-          "description": "Jalousien mit Schnur/ Drehstab",
-          "category": "Jalousien",
-          "brand": "Luxan",
+          "category": "JALOUSIEN MIT SCHNUR/ DREHSTAB",
+          "description": "Schnurzug oder Drehstab Jalousien",
           "specifications": {
-            "size_options": {
+            "operation_type": "Schlöss wahlweise rechts oder links, Drehstab wahlweise rechts oder links",
+            "side_guide": "ohne Seitenführung, mit Seitenführung",
+            "bedienvarianten": [
+              "LL",
+              "RR",
+              "LR",
+              "RL"
+            ],
+            "größenbereich": {
               "16 mm": {
                 "min_width": "30 cm",
                 "max_width": "260 cm",
@@ -162,35 +169,68 @@
                 "min_height": "20 cm",
                 "max_height": "300 cm",
                 "max_area": "6 m²"
+              },
+              "bedienung": {
+                "LL, RR": {
+                  "min_breite": "30 cm",
+                  "max_breite_16mm": "260 cm",
+                  "max_breite_25mm": "330 cm"
+                },
+                "LR, RL": {
+                  "min_breite": "21 cm",
+                  "max_breite_16mm": "260 cm",
+                  "max_breite_25mm": "300 cm"
+                }
               }
             }
           },
-          "image_description": "Illustration showing jalousien with a string and turning rod, with views of interior and exterior.",
-          "additional_info": "Bedienvarianten include Bedienung LL, RR, LR, and RL. Schnurschloss wahleweise rechts oder links. Drehstab wahleweise rechts oder links. Seitenführung options: innen: mit Spannschuh (085-0000-000), außen: mit Spannwinkel (156116-0000)."
+          "colors": {},
+          "additional_info": "Seitenführung: innen mit Spannschuh (085-0000-000), außen mit Spannwinkel (156116-0000)."
         }
       ],
-      "page_notes": "Page includes a model description and technical specifications for Luxan jalousien.",
+      "page_notes": "Modellbeschreibung für Jalousien mit Schnurzug und Drehstab, inklusive Bedienvarianten und Größenbereich.",
       "page_number": 11
     },
     {
       "products": [
         {
           "name": "Modell U25 MV",
-          "category": "Jalousien MegaView",
-          "description": "Die MegaView™-Jalousie baut auf 25 mm Jalousie-Technik auf. Aufgrund ihrer einzigartigen Technik bietet eine MegaView™-Jalousie doppelte Aussicht. Doppelte Leiter-Bänder, die gegeneinander laufen, sorgen dafür, dass sich jeweils zwei Lamellen beim Wenden einander legen und somit eine 30 mm große Durchsicht entsteht. Alle Teile und Schnüre sind farblich aufeinander abgestimmt. Standardmäßig ist die Oberschiene und Unterschiene aus lackiertem Stahl oder optional aus Aluminium (siehe Aufpreis für Badezimmmerqualität). Die MegaView™-Jalousie ist optional auch mit Seitenführung erhältlich.",
+          "description": "Jalousien MegaView™. Schnurverschluss wahlweise rechts oder links. Drehstab wahlweise rechts oder links.",
+          "category": "Jalousien MegaView™",
           "specifications": {
-            "breite_min": "32 cm",
-            "breite_max": "330 cm",
-            "höhe_min": "20 cm",
-            "höhe_max": "300 cm",
-            "fläche_max": "4 m²",
-            "breite_lamelle": "25 mm"
+            "Lamella_size": "25 mm",
+            "min_width": "32 cm",
+            "max_width": "330 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "4 m²",
+            "Seitenführung_innen": "mit Spannschuh (085-0000-000)",
+            "Seitenführung_außen": "mit Spannwinkel (156116-0000)",
+            "Bedienvarianten": [
+              "Bedienung LL",
+              "Bedienung RR",
+              "Bedienung LR",
+              "Bedienung RL"
+            ],
+            "Pakethöhen": {
+              "25": "5,1 cm",
+              "50": "6,3 cm",
+              "75": "6,9 cm",
+              "100": "7,4 cm",
+              "125": "7,6 cm",
+              "150": "8,6 cm",
+              "175": "9,1 cm",
+              "200": "9,8 cm",
+              "225": "10,1 cm",
+              "250": "10,6 cm",
+              "275": "11,1 cm",
+              "300": "11,6 cm"
+            }
           },
-          "image_description": "Diagram and image of Jalousien MegaView™ with different options for side guidance and operation variants.",
-          "additional_info": "Schnurverschluss wahlweise rechts oder links. Drehstab wahlweise rechts oder links."
+          "image_description": "Jalousie MegaView™ with an illustration showing inner and outer mounting options and operation mechanisms."
         }
       ],
-      "page_notes": "Page includes detailed model description for Jalousien with MegaView™ technology, various operation variants, and specifications for size and packaging heights.",
+      "page_notes": "Optional Ober- und Unterschiene aus Aluminium mit Aufpreis für Badezimmerqualität. Die MegaView™-Jalousie ist optional auch mit Seitenführung erhältlich.",
       "page_number": 12
     },
     {
@@ -198,20 +238,25 @@
         {
           "name": "Modell U25 LR",
           "description": "Die neuartige und leichtgängige Bedienung bei LiteRise® bietet maximalen Bedienkomfort ohne störende Schnüre. Bei diesem System lässt sich die Jalousie einfach und stufenlos mit dem Bediengriff nach oben schieben oder nach unten ziehen. Die Lamellen kann man durch Bewegung der Unterschiene leicht und präzise wenden.",
+          "category": "JALOUSIEN LITERISE®",
           "specifications": {
-            "Seitenführung innen": "mit Spannschuh (085-0000-0000)",
-            "Seitenführung außen": "mit Spannwinkel (156116-0000)",
-            "min. Breite": "35 cm",
-            "max. Breite": "200 cm",
-            "min. Höhe": "20 cm",
-            "max. Höhe": "200 cm",
-            "max. Fläche": "3,6 m²"
-          },
-          "image_description": "Images of the blinds with and without side guidance, and diagrams of the LiteRise® operation.",
-          "additional_info": "Available with or without side guidance."
+            "Operation": "LiteRise®",
+            "Seitenführung": {
+              "innen": "mit Spannschuh (085-0000-000)",
+              "außen": "mit Spannwinkel (156116-0000)"
+            },
+            "Größenbereich": {
+              "Lamella size": "25 mm",
+              "min_width": "35 cm",
+              "max_width": "200 cm",
+              "min_height": "20 cm",
+              "max_height": "200 cm",
+              "max_area": "3,6 m²"
+            }
+          }
         }
       ],
-      "page_notes": "Section header is 'MODELLBESCHREIBUNG'. The brand mentioned is LUXAN.",
+      "page_notes": "Seitenführung options without or with guidance. Illustration of operation with LiteRise® system.",
       "page_number": 13
     },
     {
@@ -219,185 +264,266 @@
         {
           "name": "Modell U16 MKES/ U25 MKES",
           "description": "Jalousien Monokommando Endlosschnur",
+          "category": "Jalousien Ultimate",
           "specifications": {
-            "Bedienung": "Endlosschnur",
-            "Endlosschnur rechts oder links": true,
-            "Endlosschnurfarbe": "Schwarzweiß",
-            "Endlosschnurgröße": "3,0 mm",
-            "Getriebe Übersetzungsverhältnis": "1:4,8"
+            "operation_type": "Bedienung mit Endlosschnur, Endlosschnur rechts oder links",
+            "endless_cord_color": "Schwarzweiß",
+            "endless_cord_diameter": "3,0 mm",
+            "gear_ratio": "1:4,8",
+            "side_guidance_inner": "mit Spannschuh (085-0000-000)",
+            "side_guidance_outer": "mit Spannwinkel (156116-0000)"
           },
-          "image_description": "Diagram showing external and internal view of blinds."
-        },
-        {
-          "name": "Monokommando-Jalousien",
-          "specifications": {
-            "Bedienung": "Endlosschnur",
-            "Endlosschnur rechts oder links": true,
-            "Endlosschnurfarbe": "Schwarzweiß",
-            "Endlosschnurgröße": "3,0 mm",
-            "Getriebe Übersetzungsverhältnis": "1:4,8"
-          }
-        },
-        {
-          "name": "Seitenführung",
-          "specifications": {
-            "Innen": "mit Spannschuh (085-0000-000)",
-            "Außen": "mit Spannwinkel (156116-0000)"
+          "dimensions": {
+            "16 mm CTS 5 cm": {
+              "min_width": "30 cm",
+              "max_width": "260 cm",
+              "max_height": "120 cm",
+              "max_area": "6 m²"
+            },
+            "16 mm CTS 7 cm": {
+              "min_width": "36 cm",
+              "max_width": "260 cm",
+              "max_height": "200 cm",
+              "max_area": "6 m²"
+            },
+            "16 mm CTS 11 cm": {
+              "min_width": "40 cm",
+              "max_width": "260 cm",
+              "max_height": "300 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 5 cm": {
+              "min_width": "30 cm",
+              "max_width": "390 cm",
+              "max_height": "120 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 7 cm": {
+              "min_width": "36 cm",
+              "max_width": "390 cm",
+              "max_height": "200 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 11 cm": {
+              "min_width": "40 cm",
+              "max_width": "390 cm",
+              "max_height": "300 cm",
+              "max_area": "6 m²"
+            }
           }
         }
       ],
-      "page_notes": "Section for Jalousien Ultimate model description, showing monokommando and seitenführung specifications, and size dimensions.",
+      "page_notes": "Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich.",
       "page_number": 14
     },
     {
       "products": [
         {
-          "name": "Jalousien Monokomando Kette Vorne",
-          "description": "Monokommandoschiebesystem mit Kette",
+          "name": "Modell U16 MKKv/ U25 MKKv",
+          "description": "Jalousien Monokommandokette vorne",
+          "category": "Jalousien",
           "specifications": {
-            "Bedienung": "mit Kette, Kette wahlweise rechts oder links",
-            "Ketterfarbe": "weiß, grau oder schwarz",
-            "Kettenart": "Kugelketten, 4,5 x 6 mm",
-            "Kettentranslation": "1:4,8",
-            "Lamellenbreite": "entspricht Oberschienenbreite",
-            "Minimal Breite (16 mm)": "30-40 cm",
-            "Maximal Breite (16 mm)": "260 cm",
-            "Minimal Höhe (16 mm)": "120-300 cm",
-            "Maximal Fläche (16 mm)": "6 m²",
-            "Minimal Breite (25 mm)": "30-40 cm",
-            "Maximal Breite (25 mm)": "390 cm",
-            "Minimal Höhe (25 mm)": "120-300 cm",
-            "Maximal Fläche (25 mm)": "6 m²",
-            "CTS": "5 cm, 7 cm, 11 cm"
+            "operation": "Bedienung mit Kette",
+            "chain_options": "wahlweise rechts oder links",
+            "chain_position": "seitlich vor dem Behang",
+            "gear_ratio": "1:4,8",
+            "ball_chain": "4,5 x 6 mm",
+            "chain_colors": "weiß, grau oder schwarz",
+            "lamella_width_equals_top_rail_width": true,
+            "mounting_options": "ohne Seitenführung, mit Seitenführung",
+            "side_guidance": {
+              "innen": "mit Spannschuh (085-0000-000)",
+              "außen": "mit Spannwinkel (156116-0000)"
+            }
           },
-          "image_description": "Diagramme von Jalousien für Bedienung links und rechts",
-          "additional_info": "Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich."
-        },
-        {
-          "name": "Seitenführung",
-          "description": "Führungssystem für Jalousien",
-          "specifications": {
-            "Innenführung": "mit Spannschuh (085-0000-000)",
-            "Außenführung": "mit Spannwinkel (156116-0000)"
-          }
+          "dimensions": [
+            {
+              "lamella_size": "16 mm",
+              "cts": "5 cm",
+              "min_width": "30 cm",
+              "max_width": "260 cm",
+              "max_height": "120 cm",
+              "max_area": "6 m²"
+            },
+            {
+              "lamella_size": "25 mm",
+              "cts_options": [
+                {
+                  "cts": "5 cm",
+                  "min_width": "30 cm",
+                  "max_width": "390 cm",
+                  "max_height": "120 cm",
+                  "max_area": "6 m²"
+                },
+                {
+                  "cts": "7 cm",
+                  "min_width": "36 cm",
+                  "max_width": "390 cm",
+                  "max_height": "200 cm",
+                  "max_area": "6 m²"
+                },
+                {
+                  "cts": "11 cm",
+                  "min_width": "40 cm",
+                  "max_width": "390 cm",
+                  "max_height": "300 cm",
+                  "max_area": "6 m²"
+                }
+              ]
+            }
+          ]
         }
       ],
-      "page_notes": "Modellbeschreibung der Luxan Jalousien; Übersicht der Produkteigenschaften und technischen Details.",
+      "page_notes": "Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich.",
       "page_number": 15
     },
     {
       "products": [
         {
           "name": "Modell U16 MKKs/ U25 MKKs",
-          "category": "Jalousien Monokommandosystem",
-          "description": "Jalousien Monokommandokette seitlich",
+          "category": "JALOUSIEN MONOKOMMANDO KETTE SEITLICH",
+          "description": "Monokomando-Jalousien",
           "specifications": {
-            "bedienvarianten": "Kette links, Kette rechts, Kette seitlich",
-            "getriebe": "Übersetzungsverhältnis 1:4,8",
-            "kugelkette": "4,5 x 6 mm",
-            "kettefarbe": "weiß",
-            "größenbereich": {
-              "16 mm CTS 5 cm": {
-                "min_breite": "26 cm",
-                "max_breite": "260 cm",
-                "max_höhe": "120 cm",
-                "max_fläche": "6 m²"
-              },
-              "25 mm CTS 5 cm": {
-                "min_breite": "26 cm",
-                "max_breite": "390 cm",
-                "max_höhe": "120 cm",
-                "max_fläche": "6 m²"
-              },
-              "16 mm CTS 7 cm": {
-                "min_breite": "30 cm",
-                "max_breite": "260 cm",
-                "max_höhe": "200 cm",
-                "max_fläche": "6 m²"
-              },
-              "25 mm CTS 7 cm": {
-                "min_breite": "30 cm",
-                "max_breite": "390 cm",
-                "max_höhe": "200 cm",
-                "max_fläche": "6 m²"
-              },
-              "16 mm CTS 11 cm": {
-                "min_breite": "35 cm",
-                "max_breite": "260 cm",
-                "max_höhe": "300 cm",
-                "max_fläche": "6 m²"
-              },
-              "25 mm CTS 11 cm": {
-                "min_breite": "35 cm",
-                "max_breite": "390 cm",
-                "max_höhe": "300 cm",
-                "max_fläche": "6 m²"
-              }
+            "Bedienung": "Bedienung mit Kette, Kette wahlweise rechts oder links, Kette seitlich neben dem Behang",
+            "Getriebe": "mit Übersetzungsstufe - 1:4,8",
+            "Kugelketten": "4,5 x 6 mm",
+            "Kettenfarbe": "weiß"
+          },
+          "dimensions": {
+            "16 mm CTS 5 cm": {
+              "min_breite": "26 cm",
+              "max_breite": "260 cm",
+              "max_höhe": "120 cm",
+              "max_fläche": "6 m²"
+            },
+            "25 mm CTS 5 cm": {
+              "min_breite": "26 cm",
+              "max_breite": "390 cm",
+              "max_höhe": "120 cm",
+              "max_fläche": "6 m²"
+            },
+            "16 mm CTS 7 cm": {
+              "min_breite": "30 cm",
+              "max_breite": "260 cm",
+              "max_höhe": "200 cm",
+              "max_fläche": "6 m²"
+            },
+            "25 mm CTS 7 cm": {
+              "min_breite": "30 cm",
+              "max_breite": "390 cm",
+              "max_höhe": "200 cm",
+              "max_fläche": "6 m²"
+            },
+            "16 mm CTS 11 cm": {
+              "min_breite": "35 cm",
+              "max_breite": "260 cm",
+              "max_höhe": "300 cm",
+              "max_fläche": "6 m²"
+            },
+            "25 mm CTS 11 cm": {
+              "min_breite": "35 cm",
+              "max_breite": "390 cm",
+              "max_höhe": "300 cm",
+              "max_fläche": "6 m²"
             }
           },
-          "image_description": "Illustration showing the jalousie system with chain mechanism",
-          "additional_info": "Bei geschlossenen Paket bis zu 1 cm Schrägstellung der Unterleiste möglich."
+          "additional_info": "Schienenmaß = Lamellenbreite + 15 mm. Seitenführung innen mit Spannschuh (085-0000-000), außen mit Spannwinkel (156116-0000)."
         }
       ],
-      "page_notes": "Section header 'Jalousien Ultimate', model description for blinds with chain mechanism",
+      "page_notes": "Technik & Preise | 2026",
       "page_number": 16
     },
     {
       "products": [
         {
           "name": "Modell U16 MKKu / U25 MKKu",
-          "description": "Jalousien Monokommando Kurbel",
+          "description": "Jalousien Monokommand Kurbel",
+          "category": "Jalousien Monokommand Kurbel",
           "specifications": {
-            "Bedienung": [
-              "Bedienung mit Kurbel",
-              "feste Kurbel rechts/links",
-              "Jalousie mit Kurbelklemme",
-              "Getriebe mit Übersetzungsstufe - 1:4.8",
-              "Kurbelfarbe wahlweise: weiß und silber"
-            ]
+            "bedienung": "Bedienung mit Kurbel, feste Kurbel rechts/links, Jalousie mit Kurbelklemme",
+            "getriebe": "Getriebe mit Übersetzungsstufe - 1:4,8",
+            "kurbel_farben": "weiß und silber",
+            "lamellenbreite_oberschienenbreite": "keine Schienenüberstand"
           },
-          "image_description": "Illustrations of blinds with inside and outside views",
-          "additional_info": "Lamellenbreite = Oberschienenbreite (kein Schienenüberstand)"
+          "dimensions": {
+            "16 mm CTS 5 cm": {
+              "min_width": "27 cm",
+              "max_width": "260 cm",
+              "max_height": "120 cm",
+              "max_area": "6 m²"
+            },
+            "16 mm CTS 7 cm": {
+              "min_width": "33 cm",
+              "max_width": "260 cm",
+              "max_height": "200 cm",
+              "max_area": "6 m²"
+            },
+            "16 mm CTS 11 cm": {
+              "min_width": "37 cm",
+              "max_width": "260 cm",
+              "max_height": "300 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 5 cm": {
+              "min_width": "27 cm",
+              "max_width": "390 cm",
+              "max_height": "120 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 7 cm": {
+              "min_width": "33 cm",
+              "max_width": "390 cm",
+              "max_height": "200 cm",
+              "max_area": "6 m²"
+            },
+            "25 mm CTS 11 cm": {
+              "min_width": "37 cm",
+              "max_width": "390 cm",
+              "max_height": "300 cm",
+              "max_area": "6 m²"
+            }
+          }
         }
       ],
-      "page_notes": "Page includes size specifications for Monokommando-Jalousien with and without side guidance, and notes about side guidance options.",
+      "page_notes": "Bedienvarianten: Bedienung L und R. Seitenführung innen: mit Spannschuh (085-0000-0000), außen: mit Spannwinkel (156116-0000). Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich.",
       "page_number": 17
     },
     {
       "products": [
         {
-          "name": "Modell U16 V/ U25 V",
-          "description": "Schnur rechts oder links, Metalldrehtstab rechts oder links.",
+          "name": "Modell U16 V / U25 V",
+          "category": "VERBUNDFENSTER JALOUSIEN",
+          "description": "- Schnur rechts oder links,\n- Metalldrehstab rechts oder links.",
           "specifications": {
-            "größenbereich": [
-              {
-                "lamellenbreite": "16 mm",
-                "min_breite": "21 cm",
-                "max_breite": "260 cm",
-                "max_höhe": "300 cm",
-                "max_fläche": "6 m²"
-              },
-              {
-                "lamellenbreite": "25 mm",
-                "min_breite": "21 cm",
-                "max_breite": "300 cm",
-                "max_höhe": "300 cm",
-                "max_fläche": "6 m²"
-              }
+            "Bedienvarianten": [
+              "BEDIENUNG L",
+              "BEDIENUNG R"
             ],
+            "größenbereich": {
+              "16 mm": {
+                "min_width": "21 cm",
+                "max_width": "260 cm",
+                "max_height": "300 cm",
+                "max_area": "6 m²"
+              },
+              "25 mm": {
+                "min_width": "21 cm",
+                "max_width": "300 cm",
+                "max_height": "300 cm",
+                "max_area": "6 m²"
+              }
+            },
             "länge_der_drehstäbe": [
               "40 cm",
               "70 cm",
               "90 cm",
-              "110 cm",
-              "Länge der elastischen Verbindung: 20 cm"
-            ]
-          },
-          "image_description": "Illustrations of venetian blinds with operating mechanisms.",
-          "additional_info": "Es besteht eine Möglichkeit, die Jalousie 16 mm bis 290 cm Breite zu fertigen, jedoch ohne Garantie."
+              "110 cm"
+            ],
+            "länge_der_elastischen_verbindung": "20 cm"
+          }
         }
       ],
-      "page_notes": "Section: Modellbeschreibung for verbundfenster jalousien. Bedienvarianten: Bedienung L, Bedienung R, ohne Seitenführung.",
+      "page_notes": "Es besteht eine Möglichkeit, die Jalousie 16 mm bis 290 cm Breite zu fertigen, jedoch ohne Garantie.",
       "page_number": 18
     },
     {
@@ -406,274 +532,4072 @@
           "name": "Modell U25 DF",
           "category": "Dachfenster Jalousien",
           "specifications": {
-            "min_breite": "26 cm",
-            "max_breite": "300 cm",
-            "max_hoehe": "300 cm",
-            "max_flaeche": "3 m²",
-            "material": "Polyester 20 mm"
+            "min_width": "26 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "3 m²",
+            "lamella_size": "25 mm",
+            "operation": [
+              "Schnur/Drehstab",
+              "Schnurschloss mit 'Schnabel'"
+            ],
+            "materials": [
+              "Leiterkordel aus hochfestem Polyester 20 mm"
+            ],
+            "features": [
+              "Lamelle zwischen den Stegen der Leiterkordel eingefädelt",
+              "Stabhalter im Lieferumfang",
+              "System ohne Blende und ohne Führungsschienen"
+            ],
+            "mounting_options": [
+              "Jalousie mit Seitenführung",
+              "innen: mit Spannschuhträger (085-0000-0000)",
+              "außen: mit Spannwinkelträger (156116-0000)"
+            ],
+            "side_guidance": [
+              "bis 80 cm Breite - zwei Spanndrähte",
+              "über 80 cm Breite - drei Spanndrähte"
+            ]
           },
-          "description": "Bedienung Schnur/Drehstab, Leiterkordel aus hochfestem Polyester, Schnurschloss mit Schnabel, Lamell zwischen den Stegen der Leiterkordel eingefädelt, Stabhalter im Lieferumfang, System ohne Blende und ohne Führungsschienen.",
-          "additional_info": "Jalousie mit Seitenführung (bis 80 cm Breite - zwei Spanndrähte, über 80 cm Breite - drei Spanndrähte), Seitenführung (innen: mit Spannschuhträger (085-0000-0000), außen: mit Spannwinkelträger (156116-0000))."
+          "image_description": "Diagrams of 'Modell U25 DF' showing components and operation types.",
+          "additional_info": "Bedienvarianten include LL, RR, LR, RL."
         }
       ],
-      "page_notes": "Bedienvarianten: Bedienung LL, RR, LR, RL. Modellbeschreibung of Dachfenster Jalousien with illustrations.",
+      "page_notes": "Page features technical details and specifications of 'Modell U25 DF'. Bedienvarianten describe different operation types.",
       "page_number": 19
     },
     {
       "products": [
         {
-          "name": "Jalousien mit Elektromotoren",
-          "description": "Verschiedene Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome) mit Akku oder Netzteil. Auswahl im Kapitel 'elektrisches Zubehör'.",
-          "image_description": "Jalousien with external and internal views, without and with side guidance."
+          "name": "Modell U16 EL/ U25 EL",
+          "category": "Jalousien mit Elektromotoren",
+          "specifications": {
+            "Seitenführung": {
+              "mit Spannschuh": "(085-0000-000)",
+              "mit Spannwinkel": "(156116-0000)"
+            },
+            "Größenbereich": {
+              "16 mm CST 5 cm": {
+                "min_Breite": "57 cm",
+                "max_Breite": "260 cm",
+                "max_Höhe": "120 cm",
+                "max_Fläche": "5 m²"
+              },
+              "25 mm CST 5 cm": {
+                "min_Breite": "57 cm",
+                "max_Breite": "390 cm",
+                "max_Höhe": "120 cm",
+                "max_Fläche": "5 m²"
+              },
+              "16 mm CST 7 cm": {
+                "min_Breite": "59 cm",
+                "max_Breite": "260 cm",
+                "max_Höhe": "200 cm",
+                "max_Fläche": "5 m²"
+              },
+              "25 mm CST 7 cm": {
+                "min_Breite": "59 cm",
+                "max_Breite": "390 cm",
+                "max_Höhe": "200 cm",
+                "max_Fläche": "5 m²"
+              },
+              "16 mm CST 11 cm": {
+                "min_Breite": "64 cm",
+                "max_Breite": "260 cm",
+                "max_Höhe": "300 cm",
+                "max_Fläche": "5 m²"
+              },
+              "25 mm CST 11 cm": {
+                "min_Breite": "64 cm",
+                "max_Breite": "390 cm",
+                "max_Höhe": "300 cm",
+                "max_Fläche": "5 m²"
+              }
+            }
+          },
+          "additional_info": "Jalousien mit Elektromotoren: Verschiedene Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome) mit Akku oder Netzteil Auswahl im Kapitel „elektrisches Zubehör“."
         }
       ],
-      "page_notes": "Model description for Model U16 EL/U25 EL, size range specifications, and side guidance information.",
+      "page_notes": "Die Mindestbreite für Akkumotoren kann je nach gewählter Stromversorgung abweichen. Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich.",
       "page_number": 20
     },
     {
       "products": [
         {
-          "name": "Tageslichtoptimierte Jalousie",
-          "sku": "Modell U16 TLA/ U25 TLA",
-          "description": "Jalousie available with or without side guidance.",
-          "category": "Jalousie",
-          "brand": "Luxan",
+          "name": "Modell U16 TLA/ U25 TLA",
+          "description": "Tageslichtoptimierte Jalousie",
+          "category": "Modellbeschreibung",
           "specifications": {
-            "models_available": "U16 SD, U16 MKES, U16 MKKs, U16 MKKv, U16 EL, U25 SD, U25 MKES, U25 MKKs, U25 MKKv, U25 EL",
-            "seitenführung_innen": "Mit Spannschuh (085-0000-000)",
-            "seitenführung_außen": "Mit Spannwinkel (156116-0000)"
-          },
-          "image_description": "Illustrations of jalousie with and without side guidance.",
-          "additional_info": "Bitte bei Bestellung angeben, welche Bedienart gewünscht ist (Schnur/Drehstab, Endlosschnur, Kette seitlich, Kette vorne oder elektrisch)."
+            "varianten": [
+              "U16 SD",
+              "U16 MKES",
+              "U16 MKKS",
+              "U16 MKKv",
+              "U16 EL",
+              "U25 SD",
+              "U25 MKES",
+              "U25 MKKS",
+              "U25 MKKv",
+              "U25 EL"
+            ],
+            "seitenführung": {
+              "innen": "mit Spannschuh (085-0000-000)",
+              "außen": "mit Spannwinkel (156116-0000)"
+            },
+            "bedienart_optionen": [
+              "Schnur/Drehstab",
+              "Endlosschnur",
+              "Kette seitlich",
+              "Kette vorne",
+              "elektrisch"
+            ]
+          }
         }
       ],
-      "page_notes": "Page contains model description and specifications for jalousie by Luxan, with focus on light optimization.",
+      "page_notes": "Informationen bezüglich der minimalen/maximalen Breite/Höhe entnehmen Sie bitte der Beschreibung des jeweiligen Modells.",
       "page_number": 21
     },
     {
       "products": [
         {
           "name": "S1 links",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
-          "image_description": "Blinds with a slope from left."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Aufzug bis zur kleinsten Höhe möglich."
+          }
         },
         {
           "name": "S1 rechts",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
-          "image_description": "Blinds with a slope from right."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Aufzug bis zur kleinsten Höhe möglich."
+          }
         },
         {
           "name": "S2 links",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
-          "image_description": "Blinds with a slope from left."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S2 rechts",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
-          "image_description": "Blinds with a slope from right."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S3 links",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from left."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S3 rechts",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from right."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S4 links",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from left."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S4 rechts",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from right."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S5 links",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from left."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S5 rechts",
-          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
-          "image_description": "Blinds with a slope from right."
+          "category": "Jalousien 16/25 mm SLOPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "max_height": "300 cm",
+            "max_area": "SF - möglich",
+            "additional_info": "Nur Lamellenwendung möglich."
+          }
         }
       ],
-      "page_notes": "Modellübersicht Jalousien 16/25 mm Slope. Categories: SLOPE S1 to S5, left and right variants. Technical specifications for each model.",
+      "page_notes": "2. JALOUSIEN ULTIMATE, Modellübersicht Jalousien 16/25 mm SLOPE",
       "page_number": 22
     },
     {
       "products": [
         {
           "name": "S6",
+          "category": "SLOPE 6/7",
           "specifications": {
             "min_width": "40 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "S7",
+          "category": "SLOPE 6/7",
           "specifications": {
             "min_width": "40 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "B1 links",
+          "category": "BOGEN B1",
           "specifications": {
             "min_width": "40 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "B1 rechts",
+          "category": "BOGEN B1",
           "specifications": {
             "min_width": "40 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Nur Lamellenwendung möglich."
+          }
         },
         {
           "name": "B2",
+          "category": "BOGEN B2",
           "specifications": {
             "min_width": "40 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Aufzug bis zur kleinsten Höhe möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Aufzug bis zur kleinsten Höhe möglich."
+          }
         },
         {
           "name": "B3",
+          "category": "BOGEN B3",
           "specifications": {
             "min_width": "50 cm",
             "max_width": "200 cm",
-            "max_height": "200 cm"
-          },
-          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+            "max_height": "200 cm",
+            "sf_possible": "Ja",
+            "note": "Nur Lamellenwendung möglich."
+          }
         }
       ],
-      "page_notes": "Modellübersicht LUXAN Jalousien 16/25 mm Slope, including different shapes such as Slope 6/7, Bogen B1, Bogen B2, Bogen B3. Page contains specifications for minimum and maximum dimensions and additional features.",
+      "page_notes": "Modellübersicht Jalousien 16/25 mm Slope",
       "page_number": 23
     },
     {
       "products": [
         {
-          "name": "Monokommando Kette / Schnur",
-          "sku": "MKK/MKES",
-          "price": "86 €"
-        },
-        {
-          "name": "Monokommando Kurbel",
-          "sku": "MKKu",
-          "price": "196 €"
-        },
-        {
-          "name": "Seitenführung",
-          "sku": "SF",
-          "price": "25 €"
-        },
-        {
-          "name": "Monokommando bei Breite < 40 cm",
-          "sku": "B MK < 40",
-          "price": "26 €"
-        },
-        {
-          "name": "kleine Produktbreite",
-          "sku": "B < 30",
-          "price": "26 €"
-        },
-        {
-          "name": "Badezimmerqualität Aluschiene",
-          "sku": "BQ-alu",
-          "price": "42 €/lfm. B",
-          "additional_info": "Mindestberechnung 1 m"
-        },
-        {
-          "name": "gemischte Farben",
-          "price": "25 % mindestens 68 €"
-        },
-        {
-          "name": "Tageslichtlenkung",
-          "sku": "TLA",
-          "price": "43 €"
-        },
-        {
-          "name": "Jalousien Dim Out",
-          "sku": "DimOut",
-          "price": "20 %"
-        },
-        {
-          "name": "Jalousien Megaview",
-          "sku": "MV",
-          "price": "137 €"
-        },
-        {
-          "name": "Jalousien LiteRise",
-          "sku": "LR",
-          "price": "105 €"
-        },
-        {
-          "name": "Slope gerade/eckig",
-          "sku": "SLOPE",
-          "price": "200 % mit PGO mindestens 330 €"
-        },
-        {
-          "name": "Slope Kreis/Halbkreis",
-          "sku": "BOGEN",
-          "price": "250 % mit PGO mindestens 623 €"
-        },
-        {
-          "name": "PVC OBEN - Klemmträger",
-          "sku": "PVC",
-          "price": "16,20 €/Paar"
-        },
-        {
-          "name": "PVC UNTEN- Klemmträger",
-          "sku": "PVC (SF)",
-          "price": "16,20 €/Paar"
-        },
-        {
-          "name": "Klebeleiste QuickFit oben (Montage ohne Bohren)",
-          "sku": "QF",
-          "price": "21 €/lfm. B",
-          "additional_info": "Mindetberechnung 1 m"
-        },
-        {
-          "name": "Klebeleiste QuickFit unten inkl. SF (Montage ohne Bohren)",
-          "sku": "QF-SF",
-          "price": "40 €/lfm. B",
-          "additional_info": "Mindetberechnung 1 m"
-        },
-        {
-          "name": "Ausgleichskeil für schräge Glasfalz, 6,5°, adaptierbar, transparent",
-          "sku": "BW-25-TR",
-          "price": "2 €/St."
-        },
-        {
-          "name": "elektrische Jalousie",
-          "sku": "EL",
-          "additional_info": "Aufpreis für Monokommando + Aufpreis für elektrische Variante."
+          "name": "Jalousien 16/25 mm SLOPE",
+          "category": "Aufpreise",
+          "specifications": {
+            "article": [
+              {
+                "name": "Monokommando Kette / Schnur",
+                "abbreviation": "MKK/MKES",
+                "price": "86 €"
+              },
+              {
+                "name": "Monokommando Kurbel",
+                "abbreviation": "MKKu",
+                "price": "196 €"
+              },
+              {
+                "name": "Seitenführung",
+                "abbreviation": "SF",
+                "price": "25 €"
+              },
+              {
+                "name": "Monokommando bei Breite < 40 cm",
+                "abbreviation": "B MK < 40",
+                "price": "26 €"
+              },
+              {
+                "name": "kleine Produktbreite",
+                "abbreviation": "B < 30",
+                "price": "26 €"
+              },
+              {
+                "name": "Badezimmerqualität Aluschiene",
+                "abbreviation": "BQ-alu",
+                "note": "Mindestberechnung 1 m",
+                "price": "42 €/Lfm. B"
+              },
+              {
+                "name": "gemischte Farben",
+                "price": "25 %"
+              },
+              {
+                "name": "Tageslichtlenkung",
+                "abbreviation": "TLA",
+                "price": "43 €"
+              },
+              {
+                "name": "Jalousien Dim Out",
+                "abbreviation": "DimOut",
+                "price": "20 %"
+              },
+              {
+                "name": "Jalousien Megaview",
+                "abbreviation": "MV",
+                "price": "137 €"
+              },
+              {
+                "name": "Jalousien LiteRise",
+                "abbreviation": "LR",
+                "price": "105 €"
+              },
+              {
+                "name": "Slope gerade/eckig",
+                "abbreviation": "SLOPE",
+                "note": "mindestens 330 €",
+                "price": "200 % mit PGO"
+              },
+              {
+                "name": "Slope Kreis/Halbkreis",
+                "abbreviation": "BOGEN",
+                "note": "mindestens 623 €",
+                "price": "250 % mit PGO"
+              },
+              {
+                "name": "PVC OBEN - Klemmträger",
+                "abbreviation": "PVC",
+                "price": "16,20 €/Paar"
+              },
+              {
+                "name": "PVC UNTEN- Klemmträger",
+                "abbreviation": "PVC (SF)",
+                "price": "16,20 €/Paar"
+              },
+              {
+                "name": "Klebeleiste QuickFit oben",
+                "abbreviation": "QF",
+                "note": "Mindestberechnung 1 m",
+                "price": "21 €/Lfm. B"
+              },
+              {
+                "name": "Klebeleiste QuickFit unten inkl. SF",
+                "abbreviation": "QF-SF",
+                "note": "Mindestberechnung 1 m",
+                "price": "40 €/Lfm. B"
+              },
+              {
+                "name": "Ausgleichskeil für schräge Glasfalz",
+                "abbreviation": "BW-25-TR",
+                "price": "2 €/St."
+              },
+              {
+                "name": "elektrische Jalousie",
+                "abbreviation": "EL",
+                "note": "Aufpreis für Monokommando + Aufpreis für elektrische Variante"
+              }
+            ]
+          },
+          "colors": {
+            "Schienenfarben": [
+              {
+                "code": "4007",
+                "color": "weiß"
+              },
+              {
+                "code": "4018",
+                "color": "silber"
+              },
+              {
+                "code": "4064",
+                "color": "creme"
+              }
+            ],
+            "note": "max. Jalousienfläche 4 m²"
+          },
+          "additional_info": "im unteren Drittel abgelenkte Lamellen"
         }
       ],
-      "page_notes": "Section 2. Jalousien Ultimate. Title: Aufpreise. Various surcharges for different jalousie options and components. Notes about additional width and variant-related costs.",
+      "page_notes": "Technik & Preise | 2026",
       "page_number": 24
     },
     {
       "products": [],
-      "page_notes": "The page contains a price list for 'Jalousien 16 mm Ultimate' with various dimensions (Breite and Höhe in cm) and price ranges across different product groups (PG). There's the header 'PREISE' and footer notes indicating 'Aufpreisse Seite 22' and 'Technik & Preise | 2026'.",
+      "page_notes": "Preisübersicht für Jalousien 16 mm Ultimate. Preis in Abhängigkeit von der Breite (60, 70, 80, 90, 100, 110 cm) und Höhe (100 bis 290 cm) in verschiedenen PG-Stufen (0 bis 5). Aufpreise Seite 22. Technik & Preise | 2026.",
       "page_number": 25
+    },
+    {
+      "products": [],
+      "page_notes": "PREISE - Jalousien 16 mm Ultimate. Page contains a price grid with dimensions and PG (Price Group) ranging from 0 to 5. Rows represent height (cm) and columns represent width (cm): 120, 130, 140, 150, 160, 170. Each cell represents a price for a specific dimension and price group combination. Refers to 'Aufpreisseite Seite 22'.",
+      "page_number": 26
+    },
+    {
+      "products": [],
+      "page_notes": "Section: Preise; Jalousien 16 mm Ultimate. Dimension tables for Breite [cm] at 180, 190, 200, 210, 220, 230 with PG codes 0-5. Each column represents a specific width, and each row a specific height in cm. Prices in € increase with height. Seite 22 of Technik & Preise | 2026.",
+      "page_number": 27
+    },
+    {
+      "products": [
+        {
+          "name": "Jalousien 16 mm Ultimate",
+          "category": "PREISE",
+          "specifications": {
+            "Breite (cm)": {
+              "240": {
+                "PG 0": [
+                  297,
+                  372,
+                  434,
+                  519,
+                  600,
+                  743,
+                  806,
+                  386,
+                  458,
+                  538,
+                  622,
+                  770
+                ],
+                "PG 1": [
+                  317,
+                  398,
+                  473,
+                  554,
+                  644,
+                  797
+                ],
+                "PG 2": [
+                  310,
+                  314,
+                  395,
+                  470,
+                  553,
+                  638,
+                  756,
+                  324,
+                  408,
+                  486,
+                  573,
+                  659,
+                  815,
+                  333,
+                  421,
+                  502,
+                  591,
+                  681
+                ],
+                "PG 3": [
+                  421,
+                  520,
+                  681
+                ],
+                "PG 4": [
+                  329,
+                  417,
+                  498,
+                  587,
+                  670,
+                  830,
+                  340,
+                  431,
+                  514,
+                  607,
+                  694,
+                  860,
+                  351,
+                  445,
+                  531,
+                  628,
+                  718,
+                  890
+                ],
+                "PG 5": [
+                  329,
+                  419,
+                  503,
+                  592,
+                  681
+                ]
+              },
+              "250": {
+                "PG 0": [
+                  306,
+                  386,
+                  458,
+                  538,
+                  622,
+                  770,
+                  317,
+                  398,
+                  473,
+                  554,
+                  644,
+                  797
+                ],
+                "PG 1": [
+                  327,
+                  408,
+                  492
+                ],
+                "PG 2": [
+                  340,
+                  431,
+                  514,
+                  607,
+                  694,
+                  860,
+                  351,
+                  445,
+                  531,
+                  628,
+                  718,
+                  890,
+                  362,
+                  461,
+                  553,
+                  650,
+                  767,
+                  997
+                ],
+                "PG 3": [
+                  368,
+                  469,
+                  560,
+                  663,
+                  755,
+                  935
+                ],
+                "PG 4": [
+                  378,
+                  476,
+                  570,
+                  657,
+                  765,
+                  948,
+                  384,
+                  491,
+                  589,
+                  699,
+                  792,
+                  981
+                ],
+                "PG 5": [
+                  375,
+                  482,
+                  576,
+                  686,
+                  778,
+                  956,
+                  389,
+                  498,
+                  596,
+                  709,
+                  800,
+                  992,
+                  401,
+                  515,
+                  617,
+                  734,
+                  828,
+                  1026
+                ]
+              },
+              "260": {
+                "PG 0": [
+                  317,
+                  398,
+                  473,
+                  554,
+                  644,
+                  797
+                ],
+                "PG 1": [
+                  434,
+                  520,
+                  604,
+                  684
+                ],
+                "PG 2": [
+                  382,
+                  487,
+                  581,
+                  694,
+                  821,
+                  1002,
+                  392,
+                  505,
+                  611,
+                  728,
+                  845,
+                  1027
+                ],
+                "PG 3": [
+                  413,
+                  524,
+                  641,
+                  735,
+                  931
+                ],
+                "PG 4": [
+                  517,
+                  633,
+                  755,
+                  890,
+                  956,
+                  497,
+                  572,
+                  718,
+                  821
+                ],
+                "PG 5": [
+                  471,
+                  569,
+                  683,
+                  704,
+                  822
+                ]
+              }
+            },
+            "Höhe (cm)": {
+              "100": [
+                240,
+                250,
+                260
+              ],
+              "110": [
+                240,
+                250,
+                260
+              ],
+              "120": [
+                240,
+                250,
+                260
+              ],
+              "130": [
+                240,
+                250,
+                260
+              ],
+              "140": [
+                240,
+                250,
+                260
+              ],
+              "150": [
+                240,
+                250,
+                260
+              ],
+              "160": [
+                240,
+                250,
+                260
+              ],
+              "170": [
+                240,
+                250,
+                260
+              ],
+              "180": [
+                240,
+                250,
+                260
+              ],
+              "190": [
+                240,
+                250,
+                260
+              ],
+              "200": [
+                240,
+                250,
+                260
+              ],
+              "210": [
+                240,
+                250,
+                260
+              ],
+              "220": [
+                240,
+                250,
+                260
+              ],
+              "230": [
+                240,
+                250,
+                260
+              ]
+            }
+          }
+        }
+      ],
+      "page_notes": "Aufpreise Seite 22",
+      "page_number": 28
+    },
+    {
+      "products": [],
+      "page_notes": "Jalousien 25 mm Ultimate Preisübersicht. Seite enthält Preisraster für verschiedene Breiten (60, 70, 80, 90, 100, 110 cm) und Höhen (100-300 cm) in Abhängigkeit von der Bedienungsart (PG 0-5). Hinweistexte Technik & Preise 2026.",
+      "page_number": 29
+    },
+    {
+      "products": [
+        {
+          "category": "Jalousien 25 mm Ultimate",
+          "price": {
+            "table": {
+              "120": {
+                "PG": {
+                  "0": [
+                    100,
+                    145,
+                    169,
+                    186,
+                    225,
+                    273,
+                    336,
+                    152,
+                    180,
+                    201,
+                    238,
+                    291,
+                    357,
+                    161,
+                    190,
+                    212,
+                    256,
+                    309,
+                    376
+                  ],
+                  "1": [
+                    110,
+                    150,
+                    177,
+                    192,
+                    234,
+                    289,
+                    353,
+                    159,
+                    187,
+                    209,
+                    253,
+                    303,
+                    376,
+                    169,
+                    201,
+                    223,
+                    266,
+                    325,
+                    401
+                  ],
+                  "2": [
+                    120,
+                    157,
+                    183,
+                    205,
+                    249,
+                    309,
+                    371,
+                    166,
+                    197,
+                    220,
+                    263,
+                    320,
+                    395,
+                    175,
+                    207,
+                    231,
+                    282,
+                    338,
+                    420
+                  ],
+                  "3": [
+                    130,
+                    163,
+                    191,
+                    216,
+                    259,
+                    316,
+                    388,
+                    172,
+                    205,
+                    227,
+                    279,
+                    336,
+                    412,
+                    181,
+                    218,
+                    242,
+                    294,
+                    356,
+                    441
+                  ],
+                  "4": [
+                    140,
+                    169,
+                    201,
+                    224,
+                    270,
+                    329,
+                    404,
+                    178,
+                    215,
+                    237,
+                    290,
+                    350,
+                    432,
+                    187,
+                    226,
+                    256,
+                    310,
+                    373,
+                    461
+                  ],
+                  "5": [
+                    150,
+                    174,
+                    207,
+                    231,
+                    282,
+                    343,
+                    423,
+                    183,
+                    223,
+                    249,
+                    301,
+                    367,
+                    449,
+                    196,
+                    234,
+                    263,
+                    322,
+                    389,
+                    479
+                  ]
+                }
+              },
+              "140": {
+                "PG": {
+                  "0": [
+                    160,
+                    180,
+                    216,
+                    240,
+                    293,
+                    356,
+                    440,
+                    191,
+                    229,
+                    258,
+                    315,
+                    381,
+                    468,
+                    203,
+                    244,
+                    274,
+                    336,
+                    404,
+                    500
+                  ],
+                  "1": [
+                    170,
+                    185,
+                    224,
+                    252,
+                    303,
+                    371,
+                    456,
+                    197,
+                    237,
+                    266,
+                    328,
+                    397,
+                    487,
+                    209,
+                    256,
+                    285,
+                    348,
+                    421,
+                    518
+                  ],
+                  "2": [
+                    180,
+                    191,
+                    229,
+                    259,
+                    317,
+                    386,
+                    475,
+                    204,
+                    247,
+                    279,
+                    340,
+                    409,
+                    505,
+                    217,
+                    262,
+                    294,
+                    364,
+                    440,
+                    539
+                  ],
+                  "3": [
+                    190,
+                    197,
+                    237,
+                    269,
+                    320,
+                    404,
+                    488,
+                    210,
+                    257,
+                    289,
+                    352,
+                    428,
+                    524,
+                    223,
+                    272,
+                    303,
+                    375,
+                    454,
+                    559
+                  ],
+                  "4": [
+                    200,
+                    204,
+                    249,
+                    280,
+                    411,
+                    506,
+                    517,
+                    263,
+                    295,
+                    367,
+                    442,
+                    543,
+                    228,
+                    281,
+                    316,
+                    390,
+                    479,
+                    578
+                  ],
+                  "5": [
+                    210,
+                    209,
+                    256,
+                    288,
+                    352,
+                    428,
+                    524,
+                    223,
+                    272,
+                    303,
+                    377,
+                    456,
+                    561,
+                    236,
+                    290,
+                    327,
+                    403,
+                    486,
+                    600
+                  ]
+                }
+              },
+              "150": {
+                "PG": {
+                  "0": [
+                    170,
+                    200,
+                    224,
+                    269,
+                    325,
+                    402,
+                    178,
+                    212,
+                    241,
+                    285,
+                    342,
+                    425,
+                    186,
+                    223,
+                    249,
+                    299,
+                    357,
+                    445
+                  ],
+                  "1": [
+                    180,
+                    177,
+                    211,
+                    234,
+                    282,
+                    342,
+                    425,
+                    186,
+                    223,
+                    249,
+                    300,
+                    358,
+                    446,
+                    195,
+                    233,
+                    260,
+                    319,
+                    377,
+                    470
+                  ],
+                  "2": [
+                    190,
+                    183,
+                    222,
+                    295,
+                    358,
+                    444,
+                    195,
+                    231,
+                    260,
+                    316,
+                    377,
+                    468,
+                    204,
+                    244,
+                    273,
+                    328,
+                    399,
+                    494
+                  ],
+                  "3": [
+                    200,
+                    191,
+                    233,
+                    314,
+                    336,
+                    465,
+                    203,
+                    240,
+                    270,
+                    331,
+                    399,
+                    493,
+                    212,
+                    254,
+                    284,
+                    346,
+                    419,
+                    518
+                  ],
+                  "4": [
+                    210,
+                    198,
+                    238,
+                    369,
+                    311,
+                    486,
+                    209,
+                    255,
+                    284,
+                    346,
+                    415,
+                    513,
+                    222,
+                    265,
+                    298,
+                    367,
+                    457,
+                    542
+                  ],
+                  "5": [
+                    220,
+                    206,
+                    249,
+                    380,
+                    342,
+                    476,
+                    360,
+                    295,
+                    440,
+                    518,
+                    227,
+                    277,
+                    313,
+                    381,
+                    451,
+                    566
+                  ]
+                }
+              },
+              "160": {
+                "PG": {
+                  "0": [
+                    170,
+                    215,
+                    259,
+                    291,
+                    356,
+                    429,
+                    531,
+                    225,
+                    273,
+                    309,
+                    376,
+                    454,
+                    559,
+                    234,
+                    289,
+                    335,
+                    399,
+                    477,
+                    591
+                  ],
+                  "1": [
+                    180,
+                    222,
+                    269,
+                    301,
+                    371,
+                    445,
+                    551,
+                    231,
+                    284,
+                    319,
+                    391,
+                    473,
+                    583,
+                    244,
+                    298,
+                    336,
+                    412,
+                    498,
+                    615
+                  ],
+                  "2": [
+                    190,
+                    227,
+                    279,
+                    314,
+                    387,
+                    463,
+                    573,
+                    240,
+                    293,
+                    332,
+                    407,
+                    488,
+                    607,
+                    255,
+                    311,
+                    348,
+                    430,
+                    516,
+                    639
+                  ],
+                  "3": [
+                    200,
+                    233,
+                    292,
+                    385,
+                    400,
+                    481,
+                    593,
+                    249,
+                    302,
+                    343,
+                    423,
+                    507,
+                    628,
+                    261,
+                    320,
+                    360,
+                    446,
+                    537,
+                    663
+                  ],
+                  "4": [
+                    210,
+                    242,
+                    298,
+                    342,
+                    419,
+                    376,
+                    615,
+                    257,
+                    315,
+                    355,
+                    440,
+                    528,
+                    651,
+                    269,
+                    332,
+                    374,
+                    463,
+                    555,
+                    687
+                  ],
+                  "5": [
+                    220,
+                    250,
+                    304,
+                    374,
+                    429,
+                    502,
+                    263,
+                    325,
+                    368,
+                    454,
+                    548,
+                    679,
+                    279,
+                    342,
+                    387,
+                    479,
+                    575,
+                    711
+                  ]
+                }
+              },
+              "170": {
+                "PG": {
+                  "0": [
+                    180,
+                    280,
+                    360,
+                    425,
+                    573,
+                    442,
+                    658,
+                    272,
+                    326,
+                    369,
+                    447,
+                    568,
+                    699,
+                    285,
+                    352,
+                    402,
+                    497,
+                    594,
+                    734
+                  ],
+                  "1": [
+                    210,
+                    282,
+                    327,
+                    369,
+                    457,
+                    551,
+                    681,
+                    408,
+                    280,
+                    310,
+                    340,
+                    391,
+                    473,
+                    583,
+                    721,
+                    293,
+                    365,
+                    411,
+                    512,
+                    615
+                  ],
+                  "2": [
+                    220,
+                    276,
+                    336,
+                    579,
+                    600,
+                    681,
+                    705,
+                    304,
+                    352,
+                    400,
+                    500,
+                    602,
+                    741,
+                    301,
+                    375,
+                    480,
+                    533,
+                    735
+                  ],
+                  "3": [
+                    230,
+                    286,
+                    391,
+                    438,
+                    568,
+                    771,
+                    723,
+                    368,
+                    407,
+                    483,
+                    518,
+                    627,
+                    435,
+                    416,
+                    510,
+                    616,
+                    814
+                  ],
+                  "4": [
+                    240,
+                    288,
+                    355,
+                    402,
+                    579,
+                    619,
+                    784,
+                    370,
+                    425,
+                    591,
+                    352,
+                    426,
+                    531,
+                    639,
+                    788,
+                    319,
+                    397,
+                    449,
+                    560,
+                    677,
+                    833
+                  ],
+                  "5": [
+                    250,
+                    252,
+                    319,
+                    347,
+                    430,
+                    481,
+                    548,
+                    518,
+                    327,
+                    407,
+                    432,
+                    576,
+                    694,
+                    457,
+                    556,
+                    693,
+                    835,
+                    313,
+                    393,
+                    475,
+                    491,
+                    629,
+                    760
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "page_notes": "Preise für Jalousien 25 mm Ultimate. Preise aufgeführt in verschiedenen Breite- und Höhenbereichen mit PG-Kategorien.",
+      "page_number": 30
+    },
+    {
+      "products": [],
+      "page_notes": "Section heading: Preise, Jalousien 25 mm Ultimate. Pricing table showing prices in relation to width (Breite) and height (Höhe) in cm across different price groups (PG) for widths 180, 190, 200, 210, 220, and 230 cm. Aufpreisseite referred on Seite 22. Technik & Preise 2026, page 31.",
+      "page_number": 31
+    },
+    {
+      "products": [
+        {
+          "name": "Jalousien 25 mm Ultimate",
+          "category": "PREISE",
+          "price": "see table",
+          "specifications": {
+            "Breite": [
+              {
+                "size": "240",
+                "PG_0": [
+                  "247",
+                  "295",
+                  "333",
+                  "404",
+                  "478",
+                  "602"
+                ],
+                "PG_1": [
+                  "259",
+                  "314",
+                  "350",
+                  "429",
+                  "505",
+                  "633"
+                ],
+                "PG_2": [
+                  "269",
+                  "328",
+                  "369",
+                  "449",
+                  "534",
+                  "668"
+                ],
+                "PG_3": [
+                  "280",
+                  "342",
+                  "387",
+                  "475",
+                  "560",
+                  "702"
+                ],
+                "PG_4": [
+                  "297",
+                  "357",
+                  "403",
+                  "498",
+                  "590",
+                  "734"
+                ],
+                "PG_5": [
+                  "302",
+                  "373",
+                  "421",
+                  "519",
+                  "616",
+                  "769"
+                ]
+              }
+            ],
+            "Hohe": {
+              "130": [
+                "247",
+                "259",
+                "269",
+                "280",
+                "297",
+                "302"
+              ],
+              "140": [
+                "295",
+                "314",
+                "328",
+                "342",
+                "357",
+                "373"
+              ],
+              "150": [
+                "333",
+                "350",
+                "369",
+                "387",
+                "403",
+                "421"
+              ],
+              "170": [
+                "428",
+                "432",
+                "438",
+                "449",
+                "456",
+                "467"
+              ],
+              "180": [
+                "503",
+                "522",
+                "534",
+                "560",
+                "590",
+                "616"
+              ],
+              "200": [
+                "602",
+                "633",
+                "668",
+                "702",
+                "734",
+                "769"
+              ]
+            },
+            "Price_grid": {
+              "columns": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "rows": [
+                "100",
+                "110",
+                "120",
+                "130",
+                "140",
+                "150",
+                "170",
+                "180",
+                "200"
+              ],
+              "values": [
+                [
+                  "247",
+                  "259",
+                  "269",
+                  "280",
+                  "297",
+                  "302"
+                ],
+                [
+                  "295",
+                  "314",
+                  "328",
+                  "342",
+                  "357",
+                  "373"
+                ],
+                [
+                  "333",
+                  "350",
+                  "369",
+                  "387",
+                  "403",
+                  "421"
+                ],
+                [
+                  "404",
+                  "429",
+                  "449",
+                  "475",
+                  "498",
+                  "519"
+                ],
+                [
+                  "478",
+                  "505",
+                  "534",
+                  "560",
+                  "590",
+                  "616"
+                ],
+                [
+                  "602",
+                  "633",
+                  "668",
+                  "702",
+                  "734",
+                  "769"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "page_notes": "Aufpreise Seite 22",
+      "page_number": 32
+    },
+    {
+      "products": [],
+      "page_notes": "PREISE\nJalousien 25 mm Ultimate\nPreisgrid für Breite [cm] bei 300, 310, 320, 330, 340, und 350 und Höhe [cm] unter PG 0 bis 5.\nAufpreise Seite 22\nTechnik & Preise | 2026",
+      "page_number": 33
+    },
+    {
+      "products": [],
+      "page_notes": "Jalousien 25 mm Ultimate. Preise für verschiedene Breiten (cm) und Höhen (cm) mit Staffelung nach PG von 0 bis 5 für Breiten 360, 370, 380, 390. Hinweis: Ab einer Breite von 260 cm zusätzlich Speditionskosten (Kosten auf Anfrage über unseren Kundenservice).",
+      "page_number": 34
+    },
+    {
+      "products": [
+        {
+          "name": "16/25mm Zugschüre austauschen",
+          "price": {
+            "grundpreis": "38",
+            "aufschlag": {
+              "bis 1,5 m²": "20",
+              "bis 1 m höhe": "19",
+              "bis 2,5 m²": "28"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Leiterbänder tauschen",
+          "price": {
+            "grundpreis": "68",
+            "aufschlag": {
+              "bis 1,5 m²": "10",
+              "bis 2,5 m²": "19",
+              "bis 3,5 m²": "28"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Austausch Wendegetriebe/ Schnurschloss",
+          "price": {
+            "grundpreis": "19"
+          }
+        },
+        {
+          "name": "16/25mm Höhe verlängern",
+          "price": {
+            "grundpreis": "68",
+            "aufschlag": {
+              "bis 1,5 m²": "19",
+              "bis 2,5 m²": "28",
+              "bis 3 m höhe": "40",
+              "bis 5 m²": "47",
+              "über 5 m²": "58"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Höhe kürzen",
+          "price": {
+            "grundpreis": "52"
+          }
+        },
+        {
+          "name": "16/25mm Breite kürzen asymmetrisch ohne SF",
+          "price": {
+            "grundpreis": "68",
+            "aufschlag": {
+              "bis 1,5 m²": "9",
+              "bis 2 m²": "17",
+              "bis 3 m höhe": "23"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Breite kürzen symmetrisch ohne SF",
+          "price": {
+            "grundpreis": "116",
+            "aufschlag": {
+              "bis 1,5 m²": "19",
+              "bis 2,5 m²": "31",
+              "bis 3,5 m²": "47"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Breite kürzen asymmetrisch mit SF",
+          "price": {
+            "grundpreis": "93",
+            "aufschlag": {
+              "bis 1,5 m²": "10",
+              "bis 2,5 m²": "19",
+              "bis 3 m höhe": "28"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Breite kürzen symmetrisch mit SF",
+          "price": {
+            "grundpreis": "133",
+            "aufschlag": {
+              "bis 1,5 m²": "19",
+              "bis 2,5 m²": "32",
+              "bis 3,5 m²": "50"
+            }
+          }
+        },
+        {
+          "name": "16/25mm nachträgliche SF",
+          "price": {
+            "grundpreis": "100",
+            "aufschlag": {
+              "bis 1,5 m²": "10",
+              "bis 2,5 m²": "19",
+              "bis 3 m höhe": "28"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Oberschiene austauschen",
+          "price": "36 zzgl. 12,30/Lfm."
+        },
+        {
+          "name": "16/25mm Unterschiene austauschen",
+          "price": "28 zzgl. 12,30/Lfm."
+        },
+        {
+          "name": "16/25mm Bedienseite wechseln",
+          "price": "28"
+        },
+        {
+          "name": "16/25mm Umbau U16/25 SD auf U16/25 MKKS",
+          "price": {
+            "grundpreis": "73",
+            "aufschlag": {
+              "bis 1,5 m²": "20",
+              "bis 2,5 m²": "28",
+              "bis 2 m höhe": "31",
+              "bis 3 m höhe": "34",
+              "über 5 m²": "nicht möglich"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Umbau U16/25 SD auf U16/25 MKKV",
+          "price": {
+            "grundpreis": "73",
+            "aufschlag": {
+              "bis 1,5 m²": "20",
+              "bis 2,5 m²": "28",
+              "bis 2 m höhe": "31",
+              "bis 3 m höhe": "34",
+              "über 5 m²": "nicht möglich"
+            }
+          }
+        },
+        {
+          "name": "16/25mm Umbau U16/25 MKKS auf U16/25 MKKV",
+          "price": {
+            "grundpreis": "73",
+            "aufschlag": {
+              "bis 1,5 m²": "20",
+              "bis 2,5 m²": "28",
+              "bis 2 m höhe": "31",
+              "bis 3 m höhe": "3",
+              "über 5 m²": "nicht möglich"
+            }
+          }
+        }
+      ],
+      "page_notes": "Die oben genannten Preise enthalten keine Transportkosten. Die Kosten für die Abholung und den erneuten Versand werden pauschal in Höhe von 22,00 EUR je Paket berechnet. Dies gilt aber nur innerhalb Deutschlands. Die Kosten für Ausland teilen wir Ihnen gern auf Anfrage mit.",
+      "page_number": 35
+    },
+    {
+      "products": [
+        {
+          "category": "SYSTEMBESCHREIBUNG",
+          "specifications": {
+            "Oberschiene": {
+              "dimensions": "25 mm breit und 25 mm hoch",
+              "material": "Stahl, rollgeformt"
+            },
+            "Lamellen": {
+              "sizes": [
+                "16 mm breit, Stanzung 2,5 x 6,5 mm",
+                "25 mm breit, Stanzung 2,5 x 11 mm"
+              ],
+              "profile": "konvex/konkav (nach unten/nach oben gewölbt)",
+              "material": "hochwertiges Aluminium",
+              "stamping": "Langloch für Seitenführung"
+            },
+            "Unterschiene": {
+              "profile": "Geschlossenes Profil",
+              "dimensions": "21 mm breit und 12 mm hoch",
+              "material": "Stahl"
+            },
+            "Textilien": {
+              "zugstärke": "1,4 mm",
+              "leiterkordel": "hochfestem Polyester 21,5 mm",
+              "adjustment": "farblich an die Lamellenfarbe angepasst"
+            },
+            "Kunststoffteile": {
+              "properties": "Schlagfest, Endkappen farbig angepasst"
+            },
+            "Seitenführung": {
+              "material": "Stahlseil",
+              "diameter": "1,0 mm"
+            },
+            "Montagevarianten": [
+              "Auf dem Rahmen/ an der Wand",
+              "In der Glasfalz",
+              "Mit Klebeleiste QuickFit",
+              "Mit Klemmträgern (PVC)"
+            ],
+            "Formen": [
+              "Rechteckige Jalousien",
+              "Sonderformen: Trapez, Dreieck, Halbrund/Bogen, Rund"
+            ]
+          }
+        }
+      ],
+      "page_notes": "Technik & Preise | 2026",
+      "page_number": 36
+    },
+    {
+      "products": [],
+      "page_notes": "SYSTEMBESCHREIBUNG\nVerfügbare Jalousievarianten\n\nJALOUSIEN VARIANTEN:\n- Modell TLA: SD, MV, LR, MKES, MKKv, MKKs, MKKu, V, DF, SLOPE, BOGEN, EL\n- Funktionen: 2 in 1, Dim Out, Schnur Drehstab, Monokomando Endlosschnur, Kette, Kurbel, SF**\n\nVariantenbeschreibung:\n1. Variante: Zwei Jalousien in einer Oberschiene\n   - Möglich, bei installierten Jalousien mit einer Oberschiene zu liefern.\n   - Berechnung als einzelne Anlage.\n   - Drehstab, Aufzug mit zwei Zugschnüren.\n   - Hinweis: Zwischen den Jalousien entsteht eine Spalte von 4 mm.\n\n2. Variante: Jalousien 16/25 Slope\n   - Drehstab zum Wenden der Lamellen und Schnurzug zum Heben und Senken des Behangs.\n\nAchtung:\n- Spalte von 4 mm bei der Gesamtbreite bestellen!",
+      "page_number": 37
+    },
+    {
+      "products": [
+        {
+          "category": "SYSTEMBESCHREIBUNG",
+          "description": "Beschreibung des Jalousiensystems",
+          "specifications": {
+            "Art der Bedienung": [
+              "Jalousien mit Schnur/Drehstab",
+              "Verbundfensterjalousien",
+              "Monokommandojalousien"
+            ],
+            "Stanzung der Lamellen": "Sichtbare Stanzlöcher (Standardausführung)",
+            "Lamellenstanzung": {
+              "16": {
+                "X": "2,5 mm",
+                "Y": "6,5 mm"
+              },
+              "25": {
+                "X": "2,5 mm",
+                "Y": "11 mm"
+              }
+            },
+            "Lamellenwendung": [
+              "STANDARDAUSFÜHRUNG",
+              "TLA-AUSFÜHRUNG",
+              "MEGAVIEW"
+            ]
+          }
+        }
+      ],
+      "page_notes": "Page 38 - Technik & Preise | 2026",
+      "page_number": 38
+    },
+    {
+      "products": [
+        {
+          "name": "SD",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "230 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKES",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKKv",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "35 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKks",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "35 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKKu",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "37 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "U16 V",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "21 cm",
+            "max_width": "260 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "EL",
+          "category": "Jalousien 16 mm",
+          "specifications": {
+            "min_width": "64 cm",
+            "max_width": "260 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "SD",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "LL, RR - 30 cm",
+            "max_width": "LL, RR - 330 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MV",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "32 cm",
+            "max_width": "330 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "4 m²"
+          }
+        },
+        {
+          "name": "LR",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "33 cm",
+            "max_width": "200 cm",
+            "min_height": "20 cm",
+            "max_height": "200 cm",
+            "max_area": "3,6 m²"
+          }
+        },
+        {
+          "name": "MKES",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "390 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKKv",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "35 cm",
+            "max_width": "390 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKks",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "35 cm",
+            "max_width": "390 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "MKKu",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "37 cm",
+            "max_width": "390 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "U25 V",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "21 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "6 m²"
+          }
+        },
+        {
+          "name": "U25 DF",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "26 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm",
+            "max_area": "3 m²"
+          }
+        },
+        {
+          "name": "EL",
+          "category": "Jalousien 25 mm",
+          "specifications": {
+            "min_width": "64 cm",
+            "max_width": "330 cm",
+            "min_height": "7 cm",
+            "max_height": "300 cm",
+            "max_area": "5 m²"
+          }
+        },
+        {
+          "name": "S1***",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm"
+          }
+        },
+        {
+          "name": "S2***",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm"
+          }
+        },
+        {
+          "name": "S3",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "330 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm"
+          }
+        },
+        {
+          "name": "S4",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm"
+          }
+        },
+        {
+          "name": "S5",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "30 cm",
+            "max_width": "300 cm",
+            "min_height": "20 cm",
+            "max_height": "300 cm"
+          }
+        },
+        {
+          "name": "S6",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "min_height": "30 cm",
+            "max_height": "200 cm"
+          }
+        },
+        {
+          "name": "S7***",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "min_height": "40 cm",
+            "max_height": "200 cm"
+          }
+        },
+        {
+          "name": "B1",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "min_height": "50 cm",
+            "max_height": "200 cm"
+          }
+        },
+        {
+          "name": "B2***",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "min_height": "40 cm",
+            "max_height": "200 cm"
+          }
+        },
+        {
+          "name": "B3***",
+          "category": "Jalousien 16 + 25 mm SL_OPE",
+          "specifications": {
+            "min_width": "50 cm",
+            "max_width": "200 cm",
+            "min_height": "50 cm",
+            "max_height": "200 cm"
+          }
+        }
+      ],
+      "page_notes": "Die Mindestbreite kann noch kleiner werden, wenn entsprechende Spulen (CT5S, CT7S) gegen Aufpreis eingesetzt werden. Solange die maximale Oberfläche nicht überschritten wird. Bei einer Höhe von weniger als 20 cm ist nur die Lamellenwendung möglich. Bei Anwendung des Trägers Typ 9 kann die Mindestbreite um 8 cm kleiner sein als oben angegeben. Bei Anwendung des Funkempfängers ist die Mindestbreite um 11 cm größer als oben angegeben. Wenn die Höhe das Dreifache der Breite überschreitet, ist eine Seitenführung empfehlenswert, sonst kann die Funktionalität des Produkts beeinträchtigt sein.",
+      "page_number": 39
+    },
+    {
+      "products": [],
+      "page_notes": "AUFMASSANLEITUNG\nRAHMENMONTAGE: Jalousienbreite B = Glasbreite + doppelter Abstand zum Griff (2C). Jalousienhöhe H = Flügelhöhe abzüglich 0,5 cm.\nGLASFALZMONTAGE: Jalousienbreite B = Glasbreite. Jalousienhöhe H = Glashöhe. Unterlegkeile für Montage an schräger Glasfalz siehe Zubehör.\nMONTAGE IN DER NISCHE: Jalousienbreite B = Nischenhöhe abzüglich 1,5 cm. Jalousienhöhe H = Nischenbreite abzüglich 1,0 cm.\nMONTAGE VOR DER NISCHE: Jalousienbreite B = Nischenhöhe zuzüglich Pakethöhe. Jalousienhöhe H = Nischenbreite zuzüglich 10 cm.",
+      "page_number": 40
+    },
+    {
+      "products": [],
+      "page_notes": "AUFMASSANLEITUNG\nRahmenmontage mit PVC-Klemmträger: \n1. ohne Seitenführung: Rahmenhöhe -1 cm\n2. mit Seitenführung: Rahmenhöhe -2,5 cm\nJalousienbreite B = Glasbreite\nJalousienhöhe H = Rahmenhöhe\nRahmenmontage mit Klebeleiste QuickFit (ohne Bohren):\nMontage mit Klebeleiste QuickFit ohne Bohren\nJalousienbreite B = Außenkante Glasleiste Bg zuzüglich Überstand x (bitte Abstand zum Fenstergriff berücksichtigen)\nJalousienhöhe H = Außenkante Glasleiste Hg zuzüglich Überstand",
+      "page_number": 41
+    },
+    {
+      "products": [],
+      "page_notes": "Section: MONTAGE\n\nTräger Types: Typ 2, Typ 3, Typ 5, Typ 9, Typ 15\n\nKlemmträger für PVC-Fenster:\n1. Standard PCV rund (r)\n  - Dimensions: 37.5 mm, 4-25 mm\n\nSeitenführung:\n- Spannschuh für SF innen\n- Spannwinkel für SF außen\n- Feststellschraube für SF\n\nMaterials and Components:\n- Stahlseil, kunststoffummantelt; 1,0 mm\n- Stahlzugfeder als Verbindung für dauerhafte Spannung\n- Spannschuh für Seitenführung in der Leibung (inkl.)\n- Spannwinkel für Seitenführung außen auf der Leibung (inkl.)\n- Klemmträger für PVC-Fenster gegen Aufpreis.",
+      "page_number": 42
+    },
+    {
+      "products": [],
+      "page_notes": "Übersicht möglicher Montageträger — Table showing compatible mounting options for various jalousie types and required number of brackets based on width. Jalousien-Typen listed include U25 SD, U16 SD, U25 MKES, U16 MKES among others, with mounting options for Wand, Nische, and alternatives for PVC-Fenster. Information on Anzahl der Träger based on Jalousien-Breite (cm), specifying number of brackets needed. Klemmträger PVC min. 2 Stück.",
+      "page_number": 43
+    },
+    {
+      "products": [
+        {
+          "name": "Unterschienenhalter (Türclip)",
+          "sku": "156019 mit 150476",
+          "description": "- zur Befestigung der Unterschiene in der Fensternische oder vor der Fensternische,\n- einsetzbar anstelle der Seitenführung",
+          "category": "Montage mit Türclip",
+          "specifications": {
+            "Pakethöhe_Tabellen": {
+              "16 mm": {
+                "25 cm": "4,8",
+                "50 cm": "5,5",
+                "75 cm": "6,5",
+                "100 cm": "7",
+                "125 cm": "8",
+                "150 cm": "8,4",
+                "175 cm": "9,5",
+                "200 cm": "10",
+                "225 cm": "10,8",
+                "250 cm": "11,6",
+                "275 cm": "12,4",
+                "300 cm": "13,2"
+              },
+              "25 mm": {
+                "25 cm": "4,5",
+                "50 cm": "5,7",
+                "75 cm": "6,3",
+                "100 cm": "7",
+                "125 cm": "8",
+                "150 cm": "8,5",
+                "175 cm": "9,2",
+                "200 cm": "9,5",
+                "225 cm": "10",
+                "250 cm": "10,5",
+                "275 cm": "11",
+                "300 cm": "11,5"
+              }
+            }
+          }
+        }
+      ],
+      "page_notes": "2. JALOUSIEN ULTIMATE, Abschnitt über Montage mit Türclip.",
+      "page_number": 44
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains installation instructions for 'Montage mit Klebeleiste QuickFit.' It includes step-by-step diagrams showing the installation process and necessary clearances. No specific product information is provided.",
+      "page_number": 45
+    },
+    {
+      "products": [],
+      "page_notes": "2. JALOUSIEN ULTIMATE - Montage mit Klebeleiste QuickFit. This page contains installation instructions for the QuickFit adhesive strip system. Includes timing of min. 12h for adhesive to set.",
+      "page_number": 46
+    },
+    {
+      "products": [],
+      "page_notes": "Montage mit Klebeleiste QuickFit für Seitenführung. Contains diagram with measurements: 22 mm and 8 mm. No specific product information is provided.",
+      "page_number": 47
+    },
+    {
+      "raw_response": "I'm unable to view the document page. Please upload a visible image of the page, and I'll extract the information for you.",
+      "products": [],
+      "page_notes": "Failed to parse structured data",
+      "page_number": 48
+    },
+    {
+      "products": [
+        {
+          "name": "ULTIMATE DUOLUX 16/25 MM",
+          "sku": "U16/25 DLUX1, U16/25 DLUX2"
+        }
+      ],
+      "page_notes": "",
+      "page_number": 49
+    },
+    {
+      "products": [
+        {
+          "name": "DUOLUX TYP DLUX1",
+          "description": "Beim Typ DLUX1 werden die Lamellen über ein Schwenkwendgetriebe mit Wendestab bedient. Die maximale Länge des Bedienstabes beträgt 1,5 m. Der Bedienstab ist an der Oberschiene befestigt. Da diese nach unten geschoben werden kann, sollte auf die Bedienstablänge geachtet werden (Bodenfreiheit bzw. Abstand zum Fensterbrett). Wir empfehlen die Bedienstablänge in der kürzesten bedienbaren Länge zu wählen.",
+          "specifications": {
+            "max_bedienstablänge": "1,5 m"
+          }
+        },
+        {
+          "name": "DUOLUX TYP DLUX2",
+          "description": "Beim Typ DLUX2 wird die Jalousie über einen Drehknopf an der Oberschiene bedient. Die Drehknopfbedienung ist eine komfortable Lösung zur Lamellenwendung. Der Drehknopf ist in den Farben weiß, creme, grau und anthrazit erhältlich, sollten Sie bei der Bestellung keine Angabe machen, ordnen wir eine entsprechende Drehknopffarbe der Oberschienenfarbe zu. Wir bitten zu beachten, dass sich diese Bedienvariante bei sehr hohen Fenstern nicht eignet, da der Drehknopf schlecht erreichbar ist.",
+          "colors": {
+            "drehknopf": [
+              "weiß",
+              "creme",
+              "grau",
+              "anthrazit"
+            ]
+          }
+        }
+      ],
+      "page_notes": "Modellübersicht - Bedienvarianten zur Lamellenwendung",
+      "page_number": 50
+    },
+    {
+      "products": [],
+      "page_notes": "GROESSENBEREICH\nBei einer Anlagenbreite bis 90 cm wird ein abklappbarer Bediengriff eingesetzt. Bei einer Anlagenbreite ab 90,1 cm wird die Jalousie mit zwei Griffen gefertigt.\nGroessenbereich:\n16 mm\n- min. Breite: 27 cm\n- max. Breite: 150 cm\n- min. Hoehe: 20 cm\n- max. Hoehe: 230 cm\n- max. Flaeche: 2 m²\n25 mm\n- min. Breite: 27 cm\n- max. Breite: 150 cm\n- min. Hoehe: 20 cm\n- max. Hoehe: 250 cm\n- max. Flaeche: 2 m²",
+      "page_number": 51
+    },
+    {
+      "products": [
+        {
+          "category": "Jalousien 16 mm Duolux",
+          "specifications": {
+            "sizes": {
+              "Breite [cm]": [
+                "60",
+                "70",
+                "80",
+                "90",
+                "100",
+                "110"
+              ],
+              "Höhe [cm]": [
+                "100",
+                "110",
+                "120",
+                "130",
+                "140",
+                "150",
+                "160",
+                "170",
+                "180",
+                "190",
+                "200",
+                "210",
+                "220",
+                "230",
+                "240",
+                "250",
+                "260",
+                "270",
+                "280",
+                "290",
+                "300"
+              ]
+            },
+            "pricing_structure": {
+              "columns": [
+                {
+                  "Breite [cm]": "60",
+                  "PG 0": [
+                    "100",
+                    "111",
+                    "123",
+                    "150",
+                    "151",
+                    "201",
+                    "272",
+                    "352",
+                    "455",
+                    "117",
+                    "181",
+                    "195",
+                    "223",
+                    "261",
+                    "289",
+                    "225",
+                    "234",
+                    "236",
+                    "270",
+                    "296",
+                    "330"
+                  ],
+                  "PG 1": [
+                    "111",
+                    "135",
+                    "158",
+                    "169",
+                    "174",
+                    "184",
+                    "210",
+                    "215",
+                    "236",
+                    "249",
+                    "282",
+                    "181",
+                    "269",
+                    "285",
+                    "290",
+                    "307",
+                    "321",
+                    "873"
+                  ],
+                  "PG 2": [
+                    "120",
+                    "148",
+                    "160",
+                    "171",
+                    "206",
+                    "266",
+                    "339",
+                    "441",
+                    "630",
+                    "456",
+                    "480",
+                    "545",
+                    "705",
+                    "795",
+                    "873"
+                  ],
+                  "PG 3": [
+                    "122",
+                    "150",
+                    "178",
+                    "212",
+                    "212",
+                    "248",
+                    "366",
+                    "533",
+                    "724",
+                    "965",
+                    "758",
+                    "781",
+                    "875",
+                    "885",
+                    "136",
+                    "340",
+                    "321",
+                    "344",
+                    "402",
+                    "432",
+                    "413",
+                    "521",
+                    "524",
+                    "548",
+                    "664",
+                    "785",
+                    "103",
+                    "137",
+                    "230",
+                    "345",
+                    "490",
+                    "129",
+                    "359",
+                    "386",
+                    "424",
+                    "516"
+                  ],
+                  "PG 4": [
+                    "150",
+                    "192",
+                    "259",
+                    "359",
+                    "432",
+                    "583",
+                    "695",
+                    "798",
+                    "905",
+                    "1019",
+                    "973",
+                    "1005",
+                    "1100",
+                    "718",
+                    "798",
+                    "840",
+                    "804",
+                    "935",
+                    "991",
+                    "1225"
+                  ],
+                  "PG 5": [
+                    "150",
+                    "165",
+                    "204",
+                    "260",
+                    "420",
+                    "502",
+                    "710",
+                    "925",
+                    "710",
+                    "1123",
+                    "1265",
+                    "1435",
+                    "1620",
+                    "1570",
+                    "1669",
+                    "1775",
+                    "1833"
+                  ]
+                },
+                {
+                  "Breite [cm]": "70",
+                  "PG 0": [
+                    "120",
+                    "152",
+                    "174",
+                    "231",
+                    "231",
+                    "300",
+                    "383",
+                    "460",
+                    "555",
+                    "239",
+                    "290",
+                    "325",
+                    "364",
+                    "410",
+                    "490",
+                    "730",
+                    "879"
+                  ],
+                  "PG 1": [
+                    "120",
+                    "158",
+                    "181",
+                    "239",
+                    "239",
+                    "309",
+                    "470",
+                    "592",
+                    "610",
+                    "724",
+                    "510",
+                    "477",
+                    "436",
+                    "547",
+                    "673",
+                    "759",
+                    "718",
+                    "752",
+                    "850",
+                    "1013",
+                    "1111"
+                  ],
+                  "PG 2": [
+                    "128",
+                    "167",
+                    "193",
+                    "266",
+                    "345",
+                    "445",
+                    "599",
+                    "765",
+                    "900",
+                    "385",
+                    "550",
+                    "705",
+                    "883",
+                    "853",
+                    "1013",
+                    "1029",
+                    "1040",
+                    "1107"
+                  ],
+                  "PG 3": [
+                    "145",
+                    "198",
+                    "218",
+                    "257",
+                    "326",
+                    "400",
+                    "560",
+                    "760",
+                    "968",
+                    "1190",
+                    "1312",
+                    "1487",
+                    "1640",
+                    "1810",
+                    "2025"
+                  ],
+                  "PG 4": [
+                    "171",
+                    "213",
+                    "265",
+                    "326",
+                    "416",
+                    "523",
+                    "686",
+                    "830",
+                    "1014",
+                    "1163",
+                    "1342",
+                    "1554",
+                    "1767",
+                    "1920"
+                  ],
+                  "PG 5": [
+                    "186",
+                    "231",
+                    "281",
+                    "345",
+                    "427",
+                    "530",
+                    "657",
+                    "840",
+                    "1063",
+                    "1270",
+                    "1495",
+                    "1715",
+                    "1937",
+                    "2156",
+                    "2392",
+                    "2620"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "page_notes": "Preise für U16 DLU1X, U16 DLU2X zuzüglich Aufpreise Seite 56",
+      "page_number": 52
+    },
+    {
+      "products": [],
+      "page_notes": "PREISE - Jalousien 16 mm Duolux. Price grid for widths 120, 130, 140, 150, 160, 170 cm with height increments and price groups (PG) from 0 to 5. Includes two sections covering different width ranges. Additional charges for U16 DLUXI, U16 DULUX2 are referenced on page 56.",
+      "page_number": 53
+    },
+    {
+      "products": [],
+      "page_notes": "PREISE Jalousien 25 mm Duolux. Preis für U25 DLUXI, U25 DLUXX zuzüglich Aufpreise Seite 56.",
+      "page_number": 54
+    },
+    {
+      "products": [],
+      "page_notes": "Preise für U25 DLUXX1, U25 DLUXX2 zuzüglich Aufpreise Seite 56",
+      "price": "Pricing grid for Jalousien 25 mm Duolux. The table shows prices based on width (Breite) in cm and price group (PG) ranging from 0 to 5, with heights (Höhe) ranging from 100 to 300 cm. The widths provided are 120, 130, 140, 150, 160, and 170 cm.",
+      "page_number": 55
+    },
+    {
+      "products": [
+        {
+          "name": "Duolux mit Drehstab (U16/25 DLU1X)",
+          "sku": "DLUX1",
+          "price": "74",
+          "category": "Jalousien 16/25 mm Duolux"
+        },
+        {
+          "name": "Duolux mit Drehknopf (U16/25 DLUX2)",
+          "sku": "DLUX2",
+          "price": "107",
+          "category": "Jalousien 16/25 mm Duolux"
+        },
+        {
+          "name": "Modeltyp DLUX1 KL/ DLUX2 KL",
+          "price": [
+            {
+              "höhe": "80 cm",
+              "meherpreis": "69"
+            },
+            {
+              "höhe": "90 cm",
+              "meherpreis": "75"
+            },
+            {
+              "höhe": "100 cm",
+              "meherpreis": "81"
+            },
+            {
+              "höhe": "110 cm",
+              "meherpreis": "89"
+            },
+            {
+              "höhe": "120 cm",
+              "meherpreis": "96"
+            },
+            {
+              "höhe": "130 cm",
+              "meherpreis": "103"
+            },
+            {
+              "höhe": "140 cm",
+              "meherpreis": "110"
+            },
+            {
+              "höhe": "150 cm",
+              "meherpreis": "118"
+            },
+            {
+              "höhe": "160 cm",
+              "meherpreis": "125"
+            }
+          ],
+          "additional_heights_and_prices": [
+            {
+              "höhe": "170 cm",
+              "meherpreis": "132"
+            },
+            {
+              "höhe": "180 cm",
+              "meherpreis": "139"
+            },
+            {
+              "höhe": "190 cm",
+              "meherpreis": "146"
+            },
+            {
+              "höhe": "200 cm",
+              "meherpreis": "153"
+            },
+            {
+              "höhe": "210 cm",
+              "meherpreis": "161"
+            },
+            {
+              "höhe": "220 cm",
+              "meherpreis": "169"
+            },
+            {
+              "höhe": "230 cm",
+              "meherpreis": "177"
+            },
+            {
+              "höhe": "240 cm",
+              "meherpreis": "185"
+            },
+            {
+              "höhe": "250 cm",
+              "meherpreis": "193"
+            }
+          ]
+        }
+      ],
+      "page_notes": "Klebeleisten in Farben: weiß, altweiß, silbergrau, anthrazit und schwarz. Montage mit Klebeleiste auf dem Glas.",
+      "page_number": 56
+    },
+    {
+      "products": [],
+      "page_notes": "This page provides measurement instructions for glass frame mounting (Aufmaß für Glasfalzmontage). It includes guidance on measuring the window at three points for height and width on the inner side of the glass strip. The instruction emphasizes using the smallest measured dimension for ordering. It includes diagrams for visual aid with calculations for ordering dimensions: B (Breite der Glasleiste), H (Höhe der Glasleiste), B₁ (Breite der Jalousie) which is B - 2 mm, and H₁ (Höhe der Jalousie) which is equal to H.",
+      "page_number": 57
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains assembly instructions titled 'AUFMAßANLEITUNG' for mounting on the frame, including bracket mounting. It includes detailed instructions on measuring window dimensions, calculation of product dimensions, and a recommendation for specially designed mounts for bracket assembly. There is a note on color matching for the upper and lower tracks, stating that this information can be obtained from the blind color chart.",
+      "page_number": 58
+    },
+    {
+      "products": [
+        {
+          "name": "Modell DLUX1 KL/ DLUX2 KL",
+          "description": "Die Montage erfolgt mittels Klebeprofil direkt auf der Glasscheibe. Kein Bohren oder Verschrauben erforderlich."
+        }
+      ],
+      "page_notes": "AUFMAßANLEITUNG - Anleitungen zur Ermittlung der lichten Glasbreite und -höhe.",
+      "page_number": 59
+    },
+    {
+      "products": [
+        {
+          "name": "DLUX1 KL / DLUX2 KL",
+          "description": "Montage im Glasfalz",
+          "category": "3. ULTIMATE DUOLUX 16/25 mm"
+        }
+      ],
+      "page_notes": "AUFMASSANLEITUNG, includes instructions for measuring for the installation of DLUX1 KL and DLUX2 KL in glass rebate. Details about measuring the width of the seal 'D' and dimensions for ordering. Instructions about environmental and handling conditions.",
+      "page_number": 60
+    },
+    {
+      "products": [],
+      "page_notes": "Montage instructions for Glasfalzmontage (Untermontage) shown with diagrams. No product-specific details are provided.",
+      "page_number": 61
+    },
+    {
+      "products": [],
+      "page_notes": "Montageanweisungen für Rahmenmontage (Aufmontage) von Jalousien. Keine spezifischen Produktinformationen oder technischen Spezifikationen auf dieser Seite.",
+      "page_number": 62
+    },
+    {
+      "products": [],
+      "page_notes": "4. ELEKTRO - ZUBEHÖR\nELEKTRISCHE VARIANTEN\nELEKTRISCHES ZUBEHÖR",
+      "page_number": 63
+    },
+    {
+      "products": [
+        {
+          "name": "Mittelmotor TLW 25",
+          "sku": "1241392",
+          "description": "24 V DC, 0,8 Nm, 30 U/min",
+          "price": "€ 207",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Schalter Centralis DC IB (VB) Wandschalter",
+          "sku": "18101513",
+          "price": "€ 312",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Motor Tilt & Lift 25 RTS CENTRAL 12 V DC",
+          "sku": "1003239",
+          "description": "0,5 Nm, 30 U/min",
+          "price": "€ 155",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil 12 V AC/DC",
+          "sku": "1822445",
+          "price": "€ 48",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Funk-Empfänger 24V DC",
+          "sku": "1870143",
+          "description": "für 2 Antriebe, rund, für Oberschiene",
+          "price": "€ 159",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Aufputz-Funk-Empfänger RTS",
+          "sku": "1870138",
+          "description": "24 V DC",
+          "price": "€ 174",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil Power 1,5 DC - 24 V + Versorgungskabel 2,5 m",
+          "sku": "1870149 + 9014006",
+          "description": "230 V EU",
+          "price": "€ 230",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil Power 2.7 DC",
+          "sku": "1870156",
+          "description": "230 V/ 24 V, 24 V DC , für 4 - 6 Antriebe",
+          "price": "€ 200",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Aufputz-Netzteil mit integriertem Funkempfänger Power 2,5 DC RTS",
+          "sku": "1870157",
+          "description": "für 4-6 Antriebe",
+          "price": "€ 420",
+          "category": "Elektrische Varianten",
+          "brand": "Somfy"
+        }
+      ],
+      "page_notes": "JALOUSIEN ALU ULTIMATE 16/25 MM; Variants include Somfy 24V zero, Somfy 24V plus, Somfy 12V RTS zero, Somfy 12V RTS plus. Steuerungskomponenten für Variante Somfy 24V RTS. Versorgungskomponenten für Variante Somfy 12V RTS.",
+      "page_number": 64
+    },
+    {
+      "products": [
+        {
+          "name": "Coulisse Motion 12 V",
+          "sku": "M59",
+          "description": "Mittelmotor CM-07 EVE Matter",
+          "price": "€ 200",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Coulisse Motion 12 V",
+          "sku": "M07",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 133",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "EVE Motion AKKU zero",
+          "sku": "M07",
+          "description": "Mittelmotor CM-07 EVE Matter",
+          "price": "€ 250",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "EVE Motion AKKU zero",
+          "sku": "P20",
+          "description": "Akku, innenliegend",
+          "price": "€ 38",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse",
+          "additional_info": "Dies ist die Grundvariante eines Motors mit Akku, die Sie mit einem Ladegerät und verschiedenen Fernbedienungen ergänzen können. Dieser Motor ist durch EVE Matter mit den meisten Smarthome-Steuerelersystemen zur Hausautomatisierung kompatible."
+        },
+        {
+          "name": "Motion AKKU zero",
+          "sku": "M07",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 183",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Motion AKKU zero",
+          "sku": "P20",
+          "description": "Akku, innenliegend",
+          "price": "€ 38",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse",
+          "additional_info": "Dies ist die Grundvariante eines Motors mit Akku, die Sie mit einem Ladegerät, verschiedenen Fernbedienungen und einem WiFi-Hub für Smarthome-Steuerung ausstatten können."
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "M07",
+          "description": "Mittelmotor CM-07",
+          "price": "€ 133",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "P20",
+          "description": "Akku, innenliegend",
+          "price": "€ 38",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Motion AKKU plus",
+          "sku": "R01",
+          "description": "1-Kanal-Fernbedienung",
+          "price": "€ 239",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse",
+          "additional_info": "Diese Variante umfasst einen Motor, einen Akku, eine Fernbedienung und ein Ladegerät. Das Set enthält alle Elemente, zum Betrieb der Anlage mit einer Fernbedienung. Zusätzlich ist es möglich ein WiFi-Hub für die Smarthome-Steuerung zu ergänzen."
+        },
+        {
+          "name": "Akku-Fernbedienung",
+          "sku": "R01",
+          "description": "1-Kanal-Handsander",
+          "price": "€ 27",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Akku-Fernbedienung",
+          "sku": "R02",
+          "description": "5-Kanal-Handsander",
+          "price": "€ 36",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Akku-Fernbedienung",
+          "sku": "R03",
+          "description": "15-Kanal-Handsander",
+          "price": "€ 50",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Akku-Fernbedienung",
+          "sku": "R04",
+          "description": "Design 4-Kanal-Wandfernbedienung",
+          "price": "€ 150",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Akku-Fernbedienung",
+          "sku": "R05",
+          "description": "Design 4-Kanal Tischfernbedienung",
+          "price": "€ 69",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Matter WiFi Bridge",
+          "sku": "A07",
+          "description": "Matter WiFi Bridge",
+          "price": "€ 221",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "WiFi Hub Motion",
+          "sku": "A02",
+          "description": "WiFi Hub Motion - USB Ausführung",
+          "price": "€ 136",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Akku, außenliegend",
+          "sku": "P42",
+          "description": "Akku, außenliegend",
+          "price": "€ 79",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Ladegerät 12 V",
+          "sku": "P03",
+          "description": "Ladegerät 12 V mit USB-C Kabel",
+          "price": "€ 29",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "Dauerstromnetzteil 12 V",
+          "sku": "P41",
+          "description": "Dauerstromnetzteil 12 V (nicht in Kombination mit Akku)",
+          "price": "€ 34",
+          "category": "ELEKTRISCHE VARIANTEN",
+          "brand": "Coulisse"
+        }
+      ],
+      "page_notes": "JALOUSIEN ALU ULTIMATE 16/25 MM",
+      "page_number": 65
+    },
+    {
+      "products": [
+        {
+          "name": "Mittelmotor Somfy TLW 25",
+          "description": "Motor für Kabelsteuerung, Verbindungskabel ca. 1 m ohne Netzteil, Nennspannung 24 V DC, Endlagen: elektronisch.",
+          "specifications": {
+            "minimale Produktbreite": "61 cm",
+            "maximale Fläche für einen Motor": "4,25 m²",
+            "für 2 Motoren": "7 m²"
+          },
+          "image_description": "Illustration of Mittelmotor Somfy TLW 25."
+        },
+        {
+          "name": "Motor Somfy Tilt&Lift 25 RTS Central",
+          "description": "Spannungsversorgung: 12 VDC SELV, Drehmoment: 0,5 Nm, Auffahrgeschwindigkeit: 30 U/min, Abfahrgeschwindigkeit: 45 U/min, Endlagen: elektronisch.",
+          "specifications": {
+            "maximaler Abstand zwischen den beiden Endlagen": "110 Umdrehungen",
+            "Maximale Betriebsdauer": "6 Min",
+            "Betriebstemperatur": "0°C bis +60°C",
+            "Schutzart": "IP20",
+            "maximale Anzahl speicherbarer RTS-Funksender": "12"
+          },
+          "image_description": "Illustration of Motor Somfy Tilt&Lift 25 RTS Central."
+        },
+        {
+          "name": "Schalter Somfy Centralis DB IB (VB)",
+          "description": "Zur Montage in einer Unterputzdose - Schaltdose 60 mm Ø oder passenden Aufputz-Kappe geeignet.",
+          "specifications": {
+            "Betriebsspannung": "20-34 V DC SELV",
+            "Spannung Steuereingänge": "SELV",
+            "Schaltkontaktbelastbarkeit Relais": "24 VDC/1,5 A",
+            "Schutzart": "IP40",
+            "Betriebstemperatur": "+5°C +40°C",
+            "Abmessungen": "80 x 80 x 17 + 33 mm",
+            "Umgebungsbedingungen": "trockene Wohnräume"
+          },
+          "image_description": "Illustration of Schalter Somfy Centralis DB IB (VB)."
+        },
+        {
+          "name": "Aufputz-Funkempfänger Somfy 24V DC",
+          "description": "Für Aufputzmontage geeignet.",
+          "image_description": "Illustration of Aufputz-Funkempfänger Somfy 24V DC."
+        }
+      ],
+      "page_notes": "Section header: Elektrisches Zubehör. Variants include Somfy 24 V, RTS.",
+      "page_number": 66
+    },
+    {
+      "products": [
+        {
+          "name": "FUNK-EMPFÄNGER 24V D",
+          "description": "Informationen: für 2 Antriebe, rund, für Oberschiene.",
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "NETZTEIL SOMFY POWER 1,5 DC 24 V",
+          "description": "Informationen: Eingang: 100-240 VAC 50-60 Hz 0,7-1,5 A; IEC320 C8 (2P), Ausgang: 24 VDC SELV +/- 5% 2,7 A, Abmessungen: 110,5 x 53 x 30 mm, wird mit dem Versorgungskabel 2,5 m ~230 V EU (Artikelnr. 9014006) mitgeliefert.",
+          "specifications": {
+            "Eingang": "100-240 VAC 50-60 Hz 0,7-1,5 A; IEC320 C8 (2P)",
+            "Ausgang": "24 VDC SELV +/- 5% 2,7 A",
+            "Dimensionen": "110,5 x 53 x 30 mm"
+          },
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "NETZTEIL SOMFY POWER 2.7 DC 230 V/ 24 V",
+          "description": "Informationen: ein 230 V AC/24 V DC Transformator zur Versorgung von bis zu 6 St. 24 V DC Motoren für Jalousien, für Montage in einem erwärmten Innenraum, Eingang: 198-255 V AC 50 Hz 0,5 A, Ausgang: 24 VDC SELV +/- 5% 2,7 A, Dimensionen: 155 x 155 x 54 mm, Farbe: Weiß.",
+          "specifications": {
+            "Eingang": "198-255 V AC 50 Hz 0,5 A",
+            "Ausgang": "24 VDC SELV +/- 5% 2,7 A",
+            "Dimensionen": "155 x 155 x 54 mm",
+            "Farbe": "Weiß"
+          },
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "NETZTEIL MIT INTEGRIERTEM RTS-EMPFÄNGER SOMFY 2,5 DC RTS",
+          "description": "Informationen: Gruppen-Funksteuerung mit integriertem Netzteil zum Anschluss von bis zu 6 24 V-Antrieben, keine Verdrahtung zur Bedienstelle, Kompatibel mit allen Somfy-Handsendern, integrierter Transformator 230 V/ 24 V DC, Dimensionen: 155 x 155 x 54 mm, Farbe: Weiß.",
+          "specifications": {
+            "Dimensionen": "155 x 155 x 54 mm",
+            "Farbe": "Weiß"
+          },
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "SITOU 1 RTS PURE II",
+          "description": "Informationen: 1-Kanal-Handsender, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m, Dimensionen: 136 x 42 x 17 mm.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        }
+      ],
+      "page_notes": "Technik & Preise | 2026",
+      "page_number": 67
+    },
+    {
+      "products": [
+        {
+          "name": "SITUO 5 RTS PURE II",
+          "description": "5-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          }
+        },
+        {
+          "name": "SITUO 1 VAR RTS PURE II",
+          "description": "1-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          }
+        },
+        {
+          "name": "SITUO 5 VAR RTS PURE II",
+          "description": "5-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          }
+        },
+        {
+          "name": "FUNKSENDER SOMFY TELIS 16 RTS PURE",
+          "description": "Funkfernbedienung, bis zu 16 Kanäle ansteuerbar",
+          "specifications": {
+            "Betriebstemperatur": "0°C bis +60°C",
+            "Sendefrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß"
+          }
+        }
+      ],
+      "page_notes": "4. ELEKTRO - ZUBEHÖR",
+      "page_number": 68
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER SOMFY TELIS 6 CHRONIS RTS PURE",
+          "description": "bis zu 6 Kanäle ansteuerbar, De-/aktivieren der Sonnenfunktion, manuell pro Kanal, ...",
+          "specifications": {
+            "Batterietyp": "AAA (LR3) mit Energie versorgt",
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß",
+            "Betriebstemperatur": "+0°C bis +60°C"
+          }
+        },
+        {
+          "name": "FUNKWANDSENDER SOMFY SMOOVE ORIGIN RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen ...",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 30",
+            "Dimensionen": "50 x 50 mm",
+            "Farbe": "Weiß"
+          }
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR - Variantes SOMFY TELIS 6 CHRONIS RTS, VARIANTE SOMFY",
+      "page_number": 69
+    },
+    {
+      "products": [
+        {
+          "name": "STECKER-NETZTEIL SOMFY POWER SUPPLY",
+          "description": "12 V AC/DC Netzteil für einen Antrieb, passend für Motor Somfy Tili&Lift RTS.",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "brand": "Somfy"
+        },
+        {
+          "name": "MITTELMOTOR CM-07",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App.",
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "MITTELOMOTOR CM-07-E-V",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        },
+        {
+          "name": "AKKU CM-38",
+          "description": "12 V Lithium-Ionen-Akkumulator, wiederaufladbar, innenliegend, Montage im Oberprofil.",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "AKKU CM-39",
+          "description": "12 V Lithium-Ionen-Akkumulator, 2700 mAh, wiederaufladbar, außenliegend, externe Installation.",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "LADEGERÄT COULISSE 12 V",
+          "description": "DC220+CM-41, Transformator 12 V, USB-C Ladekabel.",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "brand": "Coulisse"
+        },
+        {
+          "name": "1 - KANAL HANDSENDER CM-11",
+          "description": "1-Kanal-Handsener, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm.",
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        }
+      ],
+      "page_notes": "Page 70, section 'ELEKTRISCHES ZUBEHÖR' from 'Technik & Preise | 2026'.",
+      "page_number": 70
+    },
+    {
+      "products": [
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          }
+        },
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          }
+        },
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          }
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          }
+        },
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus.",
+          "specifications": {
+            "max. Motoren": "30",
+            "max. Szenarien": "20",
+            "max. Timer": "20",
+            "Frequenz": "433 MHz; 2,4 GHz",
+            "Funkbereich": "30 m",
+            "Stromquelle": "USB-C"
+          }
+        },
+        {
+          "name": "MOTION WIFI HUB USB CM-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR",
+      "page_number": 71
+    },
+    {
+      "raw_response": "I'm unable to view the image provided. Please check the file or try uploading it again.",
+      "products": [],
+      "page_notes": "Failed to parse structured data",
+      "page_number": 72
+    },
+    {
+      "products": [],
+      "page_notes": "5. EINZELTEILE",
+      "page_number": 73
+    },
+    {
+      "products": [
+        {
+          "name": "Endkappe für Unterschiene",
+          "sku": "156624-Xxxx",
+          "description": "farblich an die Schiene angepasst",
+          "price": "0,70 €/St."
+        },
+        {
+          "name": "Endkappe für Oberschiene",
+          "sku": "156246-Xxxx",
+          "description": "farblich an die Schiene angepasst",
+          "price": "0,80 €/St."
+        },
+        {
+          "name": "Universalträger für Wand- und Deckenmontage",
+          "sku": "155372",
+          "price": "2,80 €/St."
+        },
+        {
+          "name": "Deckenträger für Deckenmontage zum Unterschrauben",
+          "sku": "155373",
+          "price": "2,70 €/St."
+        },
+        {
+          "name": "Ausgleichskeil für schräge Glasfalz",
+          "sku": "BW-25-TR",
+          "description": "6,5°, adaptierbar, transparent",
+          "price": "2,20 €/St."
+        },
+        {
+          "name": "Ringträger",
+          "sku": "155359",
+          "price": "3,90 €/St."
+        },
+        {
+          "name": "EOS-Befestigungsklemme 25 mm",
+          "sku": "156615",
+          "price": "0,70 €/St."
+        },
+        {
+          "name": "Erstlamellenclip für 16 mm Lamelle",
+          "sku": "156121",
+          "price": "0,50 €/St."
+        },
+        {
+          "name": "Erstlamellenclip für 25 mm Lamelle",
+          "sku": "156120",
+          "price": "0,50 €/St."
+        },
+        {
+          "name": "Leiterkordel 16 mm",
+          "sku": "126016-Xxxx",
+          "price": "1,50 €/Lfm"
+        },
+        {
+          "name": "Leiterkordel 25 mm",
+          "sku": "126125-Xxxx",
+          "price": "1,50 €/Lfm"
+        },
+        {
+          "name": "Ketten-/Schnurspanner transparent",
+          "sku": "RB-CSD08-C",
+          "price": "2,80 €/St."
+        },
+        {
+          "name": "Ausreiß-Schnurverbinder",
+          "sku": "156892-0155, 156892-0952, 156892-1588, 156892-4950, 156892-7199, 156892-4459",
+          "description": "weiß, grau, schwarz, braun, anthrazit, creme",
+          "price": "2,80 €/St."
+        },
+        {
+          "name": "PVC-Klemmträger OBEN",
+          "sku": "3150.275-001",
+          "description": "grau, schwarz",
+          "price": "8,40 €/St."
+        },
+        {
+          "name": "PVC-Klemmträger UNTEN",
+          "sku": "3150.230-001",
+          "description": "grau, schwarz",
+          "price": "8,40 €/St."
+        },
+        {
+          "name": "Inbusschlüssel",
+          "sku": "KT2.0",
+          "price": "2,60 €/St."
+        },
+        {
+          "name": "Spannwinkel für Seitenführung außen",
+          "sku": "156116-0000",
+          "price": "1,80 €/St."
+        },
+        {
+          "name": "Spannschuh für Seitenführung innen",
+          "sku": "156115",
+          "price": "1,20 €/St."
+        },
+        {
+          "name": "Feststellring für Seitenführung",
+          "sku": "156132",
+          "price": "4,10 €/St."
+        },
+        {
+          "name": "Feder für Seitenführung",
+          "sku": "156129",
+          "price": "2,60 €/St."
+        },
+        {
+          "name": "Spannseil 1 mm",
+          "sku": "078-0014-006-1",
+          "price": "1,20 €/Lfm"
+        }
+      ],
+      "page_notes": "5. Einzelteile",
+      "page_number": 74
+    },
+    {
+      "products": [
+        {
+          "sku": "130602-Xxxx",
+          "description": "Bedienschnur 1,2 mm",
+          "price": "1,20 €/Lfm",
+          "specifications": {
+            "category": "SD MIT KS"
+          }
+        },
+        {
+          "sku": "156144",
+          "description": "Schnuraufwickler transparent",
+          "price": "1,20 €/St.",
+          "specifications": {
+            "safety": "Kindersicherheit",
+            "category": "SD MIT KS"
+          }
+        },
+        {
+          "sku": "156243-Xxxx",
+          "description": "Abdeckung (verschiedene Farben)",
+          "price": "0,80 €/St.",
+          "specifications": {
+            "category": "SD MIT KS"
+          }
+        },
+        {
+          "sku": "1500DD17",
+          "description": "Klebemagnet",
+          "price": "14,90 €/St.",
+          "specifications": {
+            "category": "ALLE MODELLE"
+          }
+        },
+        {
+          "sku": "143051-001",
+          "description": "Halter für Metalllvierstab mit Halteplatte, selbstklebend weiß",
+          "price": "10,20 €/St.",
+          "specifications": {
+            "category": "ALLE MODELLE"
+          }
+        },
+        {
+          "sku": "143051-000",
+          "description": "Halter für Plexidrehstab mit Halteplatte, selbstklebend (DF) weiß",
+          "price": "7,00 €/St.",
+          "specifications": {
+            "category": "ALLE MODELLE"
+          }
+        },
+        {
+          "sku": "156606",
+          "description": "Rolle für Leiterkordel",
+          "price": "4,60 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "154505",
+          "description": "Schnuraufwickler Knopf mit Schraube weiß",
+          "price": "1,50 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "156661-0000",
+          "description": "Schnurklemmert rechts",
+          "price": "9,00 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "156104-0000",
+          "description": "Schnurklemmert",
+          "price": "7,40 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "156103-0000",
+          "description": "Wendegetriebe verstärkt",
+          "price": "5,30 €/St.",
+          "specifications": {
+            "category": "LR"
+          }
+        },
+        {
+          "sku": "1508I-0000",
+          "description": "Griff für Plexi-Drehstab",
+          "price": "1,30 €/St.",
+          "specifications": {
+            "category": "SD, MV"
+          }
+        },
+        {
+          "sku": "156003-0000",
+          "description": "Haken(oben) für Plexi-Drehstab",
+          "price": "0,60 €/St.",
+          "specifications": {
+            "category": "SD, MV"
+          }
+        },
+        {
+          "sku": "153212",
+          "description": "Öse für Seitenführung",
+          "price": "0,60 €/St.",
+          "specifications": {
+            "category": "SD"
+          }
+        },
+        {
+          "sku": "156242-Xxxx",
+          "description": "Abdeckung (verschiedene Farben)",
+          "price": "0,80 €/St.",
+          "specifications": {
+            "category": "SD"
+          }
+        },
+        {
+          "sku": "156134-1858",
+          "description": "Wendestop für 16 mm Jalousie",
+          "price": "1,90 €/St.",
+          "specifications": {
+            "category": "SD"
+          }
+        },
+        {
+          "sku": "156101-0204, 156605-0204",
+          "description": "Lager für Schnurrolle 16/25 bei Modell SD bei Modell MV",
+          "price": "7,90 €/St.",
+          "specifications": {
+            "category": "SD/MV"
+          }
+        },
+        {
+          "sku": "156102",
+          "description": "Lager für Schnurrolle 16/25 mm",
+          "price": "1,85 €/St.",
+          "specifications": {
+            "category": "SD/MV"
+          }
+        },
+        {
+          "sku": "156-100",
+          "description": "Wendestange 3 mm 6 Kant",
+          "price": "5,55 €/St.",
+          "specifications": {
+            "category": "SD"
+          }
+        },
+        {
+          "sku": "156660",
+          "description": "Schnurklemmert links (Modell MV)",
+          "price": "9,05 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "150082-xxxx",
+          "description": "4-Kant-Wendestange",
+          "price": "7,10 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "297879-0000",
+          "description": "Schraube für Halter",
+          "price": "0,30 €/St.",
+          "specifications": {
+            "category": "MV"
+          }
+        },
+        {
+          "sku": "297741.0155",
+          "description": "Metallgriff creme, braun, schwarz, weiß, anthrazit",
+          "price": "12,95 €/St.",
+          "specifications": {
+            "category": "LR"
+          }
+        },
+        {
+          "sku": "297702-7178",
+          "description": "Halter für Metallgriff",
+          "price": "0,80 €/St.",
+          "specifications": {
+            "category": "LR"
+          }
+        },
+        {
+          "sku": "156806-0000",
+          "description": "Konus kurz",
+          "price": "7,10 €/St.",
+          "specifications": {
+            "category": "LR"
+          }
+        }
+      ],
+      "page_notes": "Einzelteile page with various components listed under SD MIT KS, SD, MV, SD/MV, LR categories.",
+      "page_number": 75
+    },
+    {
+      "products": [
+        {
+          "name": "Plexi-Drehstab",
+          "sku": "040-0100-552",
+          "price": "1,30 €/Lfm.",
+          "category": "SD / MV"
+        },
+        {
+          "name": "Halter für Unterschiene (Turclip) mit Turclipbolzen",
+          "sku": "156019 mit 150476",
+          "price": "4,00 €/St.",
+          "category": "SD / MV"
+        },
+        {
+          "name": "LR Gewicht 85 mm",
+          "sku": "156833-0000",
+          "price": "2,20 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "LR Gewicht 125 mm",
+          "sku": "156834-0000",
+          "price": "2,30 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "LR Gewicht 55 mm",
+          "sku": "156835-0000",
+          "price": "1,95 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "VB Feder Motor LR A",
+          "sku": "156826-xxxx",
+          "price": "28,60 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "VB Feder Motor LR B",
+          "sku": "156827-xxxx",
+          "price": "28,60 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "VB LR Verbinder",
+          "sku": "156829-0204",
+          "price": "6,10 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Adapter für 4-Kant-Wendestange",
+          "sku": "9163253",
+          "price": "3,30 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Lager CTS 25",
+          "sku": "9162159",
+          "price": "3,30 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Konus CTS 25/35 50 mm",
+          "sku": "9162137",
+          "price": "4,50 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Abdeckung CTS 25/35",
+          "sku": "9162140",
+          "price": "1,20 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Konus CTS 25/35 70 mm",
+          "sku": "1781002",
+          "price": "4,10 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Abdeckung CTS 25/35 70 mm",
+          "sku": "1781000",
+          "price": "1,00 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Konus lang",
+          "sku": "156801-0000",
+          "price": "7,50 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Schnurglocke",
+          "sku": "150810-0000",
+          "price": "1,50 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Bandrollenlager grau/weiß",
+          "sku": "156830.xxxx 156802.xxxx",
+          "price": "1,85 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Wendering",
+          "sku": "156803.0000",
+          "price": "1,85 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Kappe für CTS",
+          "sku": "156824.2358",
+          "price": "1,30 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Unterlegplatte",
+          "sku": "156140-0000",
+          "price": "1,20 €/St.",
+          "category": "MKKU / LR"
+        },
+        {
+          "name": "VB LR Flex Welle",
+          "sku": "156828-0204",
+          "price": "6,10 €/St.",
+          "category": "LR"
+        },
+        {
+          "name": "Fixierring 25 x 25",
+          "sku": "156825-0952",
+          "price": "2,30 €/St.",
+          "category": "MKKU"
+        },
+        {
+          "name": "Getriebe L/R",
+          "sku": "429F054",
+          "price": "68,70 €/St.",
+          "category": "MKKU"
+        },
+        {
+          "name": "Kettenrad 1:1",
+          "sku": "156813-0204",
+          "price": "2,40 €/St.",
+          "category": "MKKV"
+        },
+        {
+          "name": "Kettenrad 3:1",
+          "sku": "156814-0204",
+          "price": "3,50 €/St.",
+          "category": "MKKV"
+        },
+        {
+          "name": "Handzuggetriebe für MKKV links",
+          "sku": "156819-0155 156819-1661 156819-1858",
+          "price": "22,20 €/St.",
+          "category": "MKKV"
+        },
+        {
+          "name": "Handzuggetriebe für MKKV rechts",
+          "sku": "156820-0155 156820-1661 156820-1858",
+          "price": "22,20 €/St.",
+          "category": "MKKS"
+        },
+        {
+          "name": "Seitliche Kettenführung",
+          "sku": "9162232 9162247",
+          "price": "4,20 €/St. 4,10 €/St.",
+          "category": "MKKS"
+        }
+      ],
+      "page_notes": "Section: EINZELTEILE | Page 76 | 5. Einzelteile",
+      "page_number": 76
+    },
+    {
+      "products": [
+        {
+          "sku": "9162142",
+          "description": "Abschlußring",
+          "price": "1,10 €/St."
+        },
+        {
+          "sku": "9162257",
+          "description": "Schließring",
+          "price": "3,30 €/St."
+        },
+        {
+          "sku": "155383-0606",
+          "description": "Sicherungshülse 10 mm Kunst",
+          "price": "1,30 €/St."
+        },
+        {
+          "sku": "155384-7052",
+          "description": "Kurbelstange 10",
+          "price": "18,20 €/Lfm."
+        },
+        {
+          "sku": "155385-0606",
+          "description": "Gelenkkurbel 10 mm",
+          "price": "51,50 €/St."
+        },
+        {
+          "sku": "155386-0606",
+          "description": "Plastik Gelenkkurbel Clip 10-13",
+          "price": "3,30 €/St."
+        },
+        {
+          "sku": "153206-0000",
+          "description": "Kupplungstrichter 13",
+          "price": "34,40 €/St."
+        },
+        {
+          "sku": "9163900",
+          "description": "Handzuggetriebe CD 25 1/4,8",
+          "price": "18,20 €/St."
+        },
+        {
+          "sku": "9163260",
+          "description": "Clipträger für Kopfschiene",
+          "price": "3,30 €/St."
+        },
+        {
+          "sku": "9163255",
+          "description": "Doppelschaft Adapter",
+          "price": "3,60 €/St."
+        },
+        {
+          "sku": "3.180 601 001",
+          "description": "Endkappe für Klebeleiste QuickFit",
+          "price": "1,20 €/St."
+        },
+        {
+          "sku": "1561017",
+          "description": "Klammer aus Messing",
+          "price": "0,50 €/St."
+        },
+        {
+          "sku": "9162233, 9162248",
+          "description": "Seitliche Kettenführungskappe weiß, silber",
+          "price": "4,20 €/St."
+        },
+        {
+          "sku": "9001552",
+          "description": "Antriebsrad 4,5 x 6 mm",
+          "price": "3,10 €/St."
+        },
+        {
+          "description": "Bedienkette aus Kunststoff weiß, grau, schwarz",
+          "price": "2,50 €/Lfm.",
+          "specifications": {
+            "codes": "RB-xx*-DP-yy*"
+          }
+        },
+        {
+          "description": "Bedienkette aus Metall Chrom, Satin Nickel, Gold matt, Altmessing, Kupfer, Schwarz Nickel, Grau Nickel",
+          "price": "8,10 €/Lfm.",
+          "specifications": {
+            "codes": "V15M-CH, V15M-SN, V15M-GM, V15M-OB, V15M-C, V15M-BN, V15M-GN"
+          }
+        },
+        {
+          "sku": "9163920, 9163924",
+          "description": "Schnurführung weiß, silber",
+          "price": "4,20 €/St."
+        },
+        {
+          "sku": "9163910",
+          "description": "Antriebsrad 4,5 x 12 mm",
+          "price": "3,10 €/St."
+        },
+        {
+          "sku": "3.180 700 001",
+          "description": "Klebeleiste QuickFit",
+          "price": "20,15 €/Lfm."
+        },
+        {
+          "sku": "3.180 441 000",
+          "description": "Gewindeplatten-Set inkl. Schrauben für Klebeleiste QuickFit",
+          "price": "0,90 €/St."
+        },
+        {
+          "sku": "3.9x0 451 001",
+          "description": "Einsatz für Spanndraht (für Klebeleiste QuickFit)",
+          "price": "1,40 €/St."
+        },
+        {
+          "sku": "3.180 600 001",
+          "description": "Träger für Seitenführung bei Klebeleiste QuickFit",
+          "price": "2,70 €/St."
+        },
+        {
+          "sku": "156015 mit 261196",
+          "description": "verstellbare Wandträger 60 - 90 mm",
+          "price": "8,40 €/St."
+        }
+      ],
+      "page_notes": "Einzelteile; * Umlauflänge, ** Farbe",
+      "page_number": 77
+    },
+    {
+      "products": [
+        {
+          "name": "Spannschuh (in den Rahmen, auf den Rahmen)",
+          "sku": "297 807 0155, 297 807 7172, 297 807 7199, 297 807 1858",
+          "price": "2,20 €/ St.",
+          "specifications": {},
+          "colors": {
+            "weiß": "",
+            "silber": "",
+            "anthrazit": "",
+            "schwarz": ""
+          }
+        },
+        {
+          "name": "Bediengriff",
+          "sku": "2972097178",
+          "description": "transparent",
+          "price": "2,80 €/ St.",
+          "specifications": {},
+          "colors": {
+            "transparent": ""
+          }
+        },
+        {
+          "name": "Drehknopf",
+          "sku": "156 583-0204, 156 583-0952, 156 583-1799, 156 583-1858",
+          "price": "5,45 €/ St.",
+          "specifications": {},
+          "colors": {
+            "weiß": "",
+            "anthrazit": "",
+            "schwarz": ""
+          }
+        },
+        {
+          "name": "Spannschuhunterteil (in den Rahmen)",
+          "sku": "297 882 7178",
+          "description": "transparent",
+          "price": "0,50 €/ St.",
+          "specifications": {},
+          "colors": {
+            "transparent": ""
+          }
+        },
+        {
+          "name": "Klemmträger (mit Spannschuhunterteil)",
+          "sku": "415 0371 701, 415 0371 711",
+          "price": "8,10 €/ St.",
+          "specifications": {},
+          "colors": {
+            "weiß": "",
+            "grau": ""
+          }
+        },
+        {
+          "name": "Winkel (Wandmontage)",
+          "sku": "330 6548 001, 330 6548 000",
+          "price": "4,10 €/ St., 1,85 €/ St.",
+          "specifications": {},
+          "colors": {
+            "weiß": "",
+            "silber": ""
+          }
+        },
+        {
+          "name": "Klebeleiste",
+          "sku": "297 190 0155, 297 190 4459, 297 190 0952, 297 190 7199, 297 190 1858",
+          "price": "30,40 €/ Lfm.",
+          "specifications": {},
+          "colors": {
+            "altweiß": "",
+            "silbergrau": "",
+            "anthrazit": "",
+            "schwarz": ""
+          }
+        },
+        {
+          "name": "Winkel (Klebeleiste)",
+          "sku": "156 400 0199, 156 401 0199, 156 400 4459, 156 401 4459, 156 400 0952, 156 401 0952, 156 400 7199, 156 401 7199, 156 400 1858, 156 401 1858",
+          "price": "2,80 €/ St.",
+          "specifications": {},
+          "colors": {
+            "weiß L": "",
+            "weiß R": "",
+            "altweiß L": "",
+            "altweiß R": "",
+            "grau L": "",
+            "grau R": "",
+            "anthrazit L": "",
+            "anthrazit R": "",
+            "schwarz L": "",
+            "schwarz R": ""
+          }
+        },
+        {
+          "name": "Spannschuh (Klebeleiste)",
+          "price": "8,30 €/ Paar",
+          "specifications": {},
+          "colors": {
+            "weiß": "",
+            "grau": ""
+          }
+        }
+      ],
+      "page_notes": "5. Einzelteile",
+      "page_number": 78
+    },
+    {
+      "products": [],
+      "page_notes": "6. BESTELLFORMULARE\nBESTELLFORMULAR JALOUSIEN ULTIMATE\nBESTELLFORMULAR JALOUSIEN DUOLUX",
+      "page_number": 79
+    },
+    {
+      "products": [],
+      "page_notes": "BESTELLFORMULAR JALOUSIEN ULTIMATE. Fields include: Firma, Datum, Liefertermin, Kommission. Specifications for note: Kettenabsicherung (Ja, Nein), Zusatz (BO, TA). Position fields for: Anzahl, Modell (Typ: 16/25), Breite in cm, Höhe in cm, Farbe, Bedienungstyp (L, R, RL, LR), Seitenführung (innen, außen), Befestigung (cm), Montageart (Holz, Wand, PVC, Decke, IWF, ISF). Notes on injury risk prevention and additional options for Schräghange.",
+      "page_number": 80
+    },
+    {
+      "products": [],
+      "page_notes": "This page is an order form (BESTELLFORMULAR) for JALOUSIEN DUOLUX. It contains fields for company information, date, delivery date, commission, and position numbers. The form includes sections for model type (16, 25), dimensions (Breite, Höhe in cm), quantity (Anzahl), color (Farbe), mounting options (Decke, Wand, KL), and operation type (L, R). There is also a remarks section (Bemerkungen).",
+      "page_number": 81
+    },
+    {
+      "raw_response": "I'm afraid I can't see or extract information from the page you uploaded. Please make sure the image is visible or provide a description of the contents if you need specific assistance.",
+      "products": [],
+      "page_notes": "Failed to parse structured data",
+      "page_number": 82
+    },
+    {
+      "products": [],
+      "page_notes": "7. AGB",
+      "page_number": 83
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the general terms and conditions (AGB) for Luxan Krawczyk Sonnenschutzsysteme GmbH. It includes sections on general information (§ 1 Allgemeines), offers and prices (§ 2 Angebote - Preise - Vertragsabschluss), payments (§ 3 Zahlungen), and delivery deadlines and terms (§ 4 Lieferfristen und - Termine).",
+      "page_number": 84
+    },
+    {
+      "products": [],
+      "page_notes": "AGB (Allgemeine Geschäftsbedingungen) - This page contains the terms and conditions related to delivery, performance obligations, assembly, defect warranty, place of performance, shipment, and risk transfer for LUXAN products. It outlines the rights and responsibilities of buyers and sellers, including notification requirements, liability, risk transfer upon shipping, assembly responsibilities, warranty details, and defect notification timelines.",
+      "page_number": 85
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains terms and conditions (AGB) related to warranty and ownership rights. It does not contain any product information or specifications.",
+      "page_number": 86
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains terms and conditions related to liability and applicable law. No product information is present.",
+      "page_number": 87
+    },
+    {
+      "products": [],
+      "page_notes": "Contact information for Luxan Krawczyk Sonnenschutzsysteme GmbH. No product information on this page.",
+      "page_number": 88
     }
   ],
-  "total_products": 64
+  "total_products": 263
 }
