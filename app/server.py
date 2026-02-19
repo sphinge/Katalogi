@@ -118,8 +118,7 @@ async def chat(req: ChatRequest):
     messages.append({"role": "user", "content": STAGE2_USER.format(question=question)})
 
     stage2_resp = client.chat.completions.create(
-        model="gpt-4o",
-        temperature=0,
+        model="o3",
         messages=messages,
     )
 

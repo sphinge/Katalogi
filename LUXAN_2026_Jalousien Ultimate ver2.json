@@ -1,0 +1,679 @@
+{
+  "source_file": "LUXAN_2026_Jalousien Ultimate ver2.pdf",
+  "total_pages": 88,
+  "pages": [
+    {
+      "products": [],
+      "page_notes": "Cover page featuring Jalousien Ultimate with general information about pricing, validity from 2026, and terms of service. Image of blinds with a flower pot.",
+      "page_number": 1
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank.",
+      "page_number": 2
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the table of contents for 'LUXAN Jalousien Ultimate' catalogue, including sections on 'Kindersicherheit,' model descriptions, pricing, and installation instructions. No specific product details are provided.",
+      "page_number": 3
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the table of contents for the catalogue, listing sections such as measurement instructions, electrical accessories, individual parts, order forms, and terms and conditions.",
+      "page_number": 4
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a section header titled '1. KINDERSICHERHEIT' with an image of a family by a window, focusing on child safety.",
+      "page_number": 5
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no visible product information or content.",
+      "page_number": 6
+    },
+    {
+      "products": [
+        {
+          "name": "Schnuraufwickler",
+          "image_description": "Illustration of a cord winder device",
+          "additional_info": "Für Bedienstationen mit Schnurverknotung"
+        },
+        {
+          "name": "Ausreiß-Schnurverbinder",
+          "image_description": "Illustration of a tear-away cord connector",
+          "additional_info": "Wird jeder Anlage mit Schnurbedienung beigelegt"
+        },
+        {
+          "name": "Ketten-/Schnurspanner",
+          "image_description": "Illustration of a chain/cord tensioner"
+        }
+      ],
+      "page_notes": "This page provides information on child safety related to the European Standard EN 13120 and its additional norms, including core statements and new model adjustments.",
+      "page_number": 7
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank and contains no product information.",
+      "page_number": 8
+    },
+    {
+      "products": [],
+      "page_notes": "Section header: 2. JALOUSIEN ULTIMATE. Contains a list of product codes: U16/25 SD, U25 MV, U25 LR, U16/25 MKES, U16/25 MKKv, U16/25 MKKs, U16/25 MKKu, U16/25 V, U25 DF, U16/25 EL, U16/25 TLA, U16/25 SLOPE. Background image of a person looking through blinds.",
+      "page_number": 9
+    },
+    {
+      "products": [
+        {
+          "name": "U 16/25 S D",
+          "sku": "U16 SD, U25 SD",
+          "description": "Ultimate 16/25 mm Schnur Drehstab",
+          "image_description": "Jalousie with string and twisting rod"
+        },
+        {
+          "name": "U 25 MV",
+          "sku": "U25 MV",
+          "description": "Ultimate 25 mm MegaView™",
+          "image_description": "Jalousie with MegaView feature"
+        },
+        {
+          "name": "U 25 LR",
+          "sku": "U25 LR",
+          "description": "Ultimate 25 mm LiteRise®",
+          "image_description": "Jalousie with LiteRise feature"
+        },
+        {
+          "name": "U 16/25 MK ES",
+          "sku": "U16 MKES, U25 MKES",
+          "description": "Ultimate 16/25 mm Monokomando Endlosschnur",
+          "image_description": "Jalousie with monocommand and endless string"
+        },
+        {
+          "name": "U 16/25 MK Kv",
+          "sku": "U16 MKKv, U25 MKKv",
+          "description": "Ultimate 16/25 mm Monokomando Kette vorne",
+          "image_description": "Jalousie with monocommand and front chain"
+        },
+        {
+          "name": "U 16/25 MK Ks",
+          "sku": "U16 MKKs, U25 MKKs",
+          "description": "Ultimate 16/25 mm Monokomando Kette seitlich",
+          "image_description": "Jalousie with monocommand and side chain"
+        },
+        {
+          "name": "U 16/25 MK Ku",
+          "sku": "U16 MKKu, U25 MKKu",
+          "description": "Ultimate 16/25 mm Monokomando Kurbel",
+          "image_description": "Jalousie with monocommand and crank"
+        },
+        {
+          "name": "U 16/25 V",
+          "sku": "U16 V, U25 V",
+          "description": "Ultimate 16/25 mm Verbundfenster",
+          "image_description": "Jalousie for composite window"
+        },
+        {
+          "name": "U 25 DF",
+          "sku": "U25 DF",
+          "description": "Ultimate 25 mm Dachfenster",
+          "image_description": "Jalousie for roof window"
+        },
+        {
+          "name": "U 16/25 EL",
+          "sku": "U16 EL, U25 EL",
+          "description": "Ultimate 16/25 mm Elektrisch/ motorisiert",
+          "image_description": "Electrically/motorized jalousie"
+        },
+        {
+          "name": "U 16/25 TLA",
+          "sku": "U16 TLA, U25 TLA",
+          "description": "Ultimate 16/25 mm Tageslichtoptimierte Jalousie",
+          "image_description": "Daylight optimized jalousie"
+        },
+        {
+          "name": "U 16/25 SLOPE",
+          "sku": "U16 SLOPE, U25 SLOPE",
+          "description": "Ultimate 16/25 mm Slope",
+          "image_description": "Jalousie for sloped windows"
+        }
+      ],
+      "page_notes": "Section header: MODELLÜBERSICHT, Page 10 of Technik & Preise 2026",
+      "page_number": 10
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U16 SD/ U25 SD",
+          "description": "Jalousien mit Schnur/ Drehstab",
+          "category": "Jalousien",
+          "brand": "Luxan",
+          "specifications": {
+            "size_options": {
+              "16 mm": {
+                "min_width": "30 cm",
+                "max_width": "260 cm",
+                "min_height": "20 cm",
+                "max_height": "230 cm",
+                "max_area": "6 m²"
+              },
+              "25 mm": {
+                "min_width": "30 cm",
+                "max_width": "330 cm",
+                "min_height": "20 cm",
+                "max_height": "300 cm",
+                "max_area": "6 m²"
+              }
+            }
+          },
+          "image_description": "Illustration showing jalousien with a string and turning rod, with views of interior and exterior.",
+          "additional_info": "Bedienvarianten include Bedienung LL, RR, LR, and RL. Schnurschloss wahleweise rechts oder links. Drehstab wahleweise rechts oder links. Seitenführung options: innen: mit Spannschuh (085-0000-000), außen: mit Spannwinkel (156116-0000)."
+        }
+      ],
+      "page_notes": "Page includes a model description and technical specifications for Luxan jalousien.",
+      "page_number": 11
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U25 MV",
+          "category": "Jalousien MegaView",
+          "description": "Die MegaView™-Jalousie baut auf 25 mm Jalousie-Technik auf. Aufgrund ihrer einzigartigen Technik bietet eine MegaView™-Jalousie doppelte Aussicht. Doppelte Leiter-Bänder, die gegeneinander laufen, sorgen dafür, dass sich jeweils zwei Lamellen beim Wenden einander legen und somit eine 30 mm große Durchsicht entsteht. Alle Teile und Schnüre sind farblich aufeinander abgestimmt. Standardmäßig ist die Oberschiene und Unterschiene aus lackiertem Stahl oder optional aus Aluminium (siehe Aufpreis für Badezimmmerqualität). Die MegaView™-Jalousie ist optional auch mit Seitenführung erhältlich.",
+          "specifications": {
+            "breite_min": "32 cm",
+            "breite_max": "330 cm",
+            "höhe_min": "20 cm",
+            "höhe_max": "300 cm",
+            "fläche_max": "4 m²",
+            "breite_lamelle": "25 mm"
+          },
+          "image_description": "Diagram and image of Jalousien MegaView™ with different options for side guidance and operation variants.",
+          "additional_info": "Schnurverschluss wahlweise rechts oder links. Drehstab wahlweise rechts oder links."
+        }
+      ],
+      "page_notes": "Page includes detailed model description for Jalousien with MegaView™ technology, various operation variants, and specifications for size and packaging heights.",
+      "page_number": 12
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U25 LR",
+          "description": "Die neuartige und leichtgängige Bedienung bei LiteRise® bietet maximalen Bedienkomfort ohne störende Schnüre. Bei diesem System lässt sich die Jalousie einfach und stufenlos mit dem Bediengriff nach oben schieben oder nach unten ziehen. Die Lamellen kann man durch Bewegung der Unterschiene leicht und präzise wenden.",
+          "specifications": {
+            "Seitenführung innen": "mit Spannschuh (085-0000-0000)",
+            "Seitenführung außen": "mit Spannwinkel (156116-0000)",
+            "min. Breite": "35 cm",
+            "max. Breite": "200 cm",
+            "min. Höhe": "20 cm",
+            "max. Höhe": "200 cm",
+            "max. Fläche": "3,6 m²"
+          },
+          "image_description": "Images of the blinds with and without side guidance, and diagrams of the LiteRise® operation.",
+          "additional_info": "Available with or without side guidance."
+        }
+      ],
+      "page_notes": "Section header is 'MODELLBESCHREIBUNG'. The brand mentioned is LUXAN.",
+      "page_number": 13
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U16 MKES/ U25 MKES",
+          "description": "Jalousien Monokommando Endlosschnur",
+          "specifications": {
+            "Bedienung": "Endlosschnur",
+            "Endlosschnur rechts oder links": true,
+            "Endlosschnurfarbe": "Schwarzweiß",
+            "Endlosschnurgröße": "3,0 mm",
+            "Getriebe Übersetzungsverhältnis": "1:4,8"
+          },
+          "image_description": "Diagram showing external and internal view of blinds."
+        },
+        {
+          "name": "Monokommando-Jalousien",
+          "specifications": {
+            "Bedienung": "Endlosschnur",
+            "Endlosschnur rechts oder links": true,
+            "Endlosschnurfarbe": "Schwarzweiß",
+            "Endlosschnurgröße": "3,0 mm",
+            "Getriebe Übersetzungsverhältnis": "1:4,8"
+          }
+        },
+        {
+          "name": "Seitenführung",
+          "specifications": {
+            "Innen": "mit Spannschuh (085-0000-000)",
+            "Außen": "mit Spannwinkel (156116-0000)"
+          }
+        }
+      ],
+      "page_notes": "Section for Jalousien Ultimate model description, showing monokommando and seitenführung specifications, and size dimensions.",
+      "page_number": 14
+    },
+    {
+      "products": [
+        {
+          "name": "Jalousien Monokomando Kette Vorne",
+          "description": "Monokommandoschiebesystem mit Kette",
+          "specifications": {
+            "Bedienung": "mit Kette, Kette wahlweise rechts oder links",
+            "Ketterfarbe": "weiß, grau oder schwarz",
+            "Kettenart": "Kugelketten, 4,5 x 6 mm",
+            "Kettentranslation": "1:4,8",
+            "Lamellenbreite": "entspricht Oberschienenbreite",
+            "Minimal Breite (16 mm)": "30-40 cm",
+            "Maximal Breite (16 mm)": "260 cm",
+            "Minimal Höhe (16 mm)": "120-300 cm",
+            "Maximal Fläche (16 mm)": "6 m²",
+            "Minimal Breite (25 mm)": "30-40 cm",
+            "Maximal Breite (25 mm)": "390 cm",
+            "Minimal Höhe (25 mm)": "120-300 cm",
+            "Maximal Fläche (25 mm)": "6 m²",
+            "CTS": "5 cm, 7 cm, 11 cm"
+          },
+          "image_description": "Diagramme von Jalousien für Bedienung links und rechts",
+          "additional_info": "Bei geschlossenem Paket bis zu 1 cm Schrägstellung der Unterleiste möglich."
+        },
+        {
+          "name": "Seitenführung",
+          "description": "Führungssystem für Jalousien",
+          "specifications": {
+            "Innenführung": "mit Spannschuh (085-0000-000)",
+            "Außenführung": "mit Spannwinkel (156116-0000)"
+          }
+        }
+      ],
+      "page_notes": "Modellbeschreibung der Luxan Jalousien; Übersicht der Produkteigenschaften und technischen Details.",
+      "page_number": 15
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U16 MKKs/ U25 MKKs",
+          "category": "Jalousien Monokommandosystem",
+          "description": "Jalousien Monokommandokette seitlich",
+          "specifications": {
+            "bedienvarianten": "Kette links, Kette rechts, Kette seitlich",
+            "getriebe": "Übersetzungsverhältnis 1:4,8",
+            "kugelkette": "4,5 x 6 mm",
+            "kettefarbe": "weiß",
+            "größenbereich": {
+              "16 mm CTS 5 cm": {
+                "min_breite": "26 cm",
+                "max_breite": "260 cm",
+                "max_höhe": "120 cm",
+                "max_fläche": "6 m²"
+              },
+              "25 mm CTS 5 cm": {
+                "min_breite": "26 cm",
+                "max_breite": "390 cm",
+                "max_höhe": "120 cm",
+                "max_fläche": "6 m²"
+              },
+              "16 mm CTS 7 cm": {
+                "min_breite": "30 cm",
+                "max_breite": "260 cm",
+                "max_höhe": "200 cm",
+                "max_fläche": "6 m²"
+              },
+              "25 mm CTS 7 cm": {
+                "min_breite": "30 cm",
+                "max_breite": "390 cm",
+                "max_höhe": "200 cm",
+                "max_fläche": "6 m²"
+              },
+              "16 mm CTS 11 cm": {
+                "min_breite": "35 cm",
+                "max_breite": "260 cm",
+                "max_höhe": "300 cm",
+                "max_fläche": "6 m²"
+              },
+              "25 mm CTS 11 cm": {
+                "min_breite": "35 cm",
+                "max_breite": "390 cm",
+                "max_höhe": "300 cm",
+                "max_fläche": "6 m²"
+              }
+            }
+          },
+          "image_description": "Illustration showing the jalousie system with chain mechanism",
+          "additional_info": "Bei geschlossenen Paket bis zu 1 cm Schrägstellung der Unterleiste möglich."
+        }
+      ],
+      "page_notes": "Section header 'Jalousien Ultimate', model description for blinds with chain mechanism",
+      "page_number": 16
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U16 MKKu / U25 MKKu",
+          "description": "Jalousien Monokommando Kurbel",
+          "specifications": {
+            "Bedienung": [
+              "Bedienung mit Kurbel",
+              "feste Kurbel rechts/links",
+              "Jalousie mit Kurbelklemme",
+              "Getriebe mit Übersetzungsstufe - 1:4.8",
+              "Kurbelfarbe wahlweise: weiß und silber"
+            ]
+          },
+          "image_description": "Illustrations of blinds with inside and outside views",
+          "additional_info": "Lamellenbreite = Oberschienenbreite (kein Schienenüberstand)"
+        }
+      ],
+      "page_notes": "Page includes size specifications for Monokommando-Jalousien with and without side guidance, and notes about side guidance options.",
+      "page_number": 17
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U16 V/ U25 V",
+          "description": "Schnur rechts oder links, Metalldrehtstab rechts oder links.",
+          "specifications": {
+            "größenbereich": [
+              {
+                "lamellenbreite": "16 mm",
+                "min_breite": "21 cm",
+                "max_breite": "260 cm",
+                "max_höhe": "300 cm",
+                "max_fläche": "6 m²"
+              },
+              {
+                "lamellenbreite": "25 mm",
+                "min_breite": "21 cm",
+                "max_breite": "300 cm",
+                "max_höhe": "300 cm",
+                "max_fläche": "6 m²"
+              }
+            ],
+            "länge_der_drehstäbe": [
+              "40 cm",
+              "70 cm",
+              "90 cm",
+              "110 cm",
+              "Länge der elastischen Verbindung: 20 cm"
+            ]
+          },
+          "image_description": "Illustrations of venetian blinds with operating mechanisms.",
+          "additional_info": "Es besteht eine Möglichkeit, die Jalousie 16 mm bis 290 cm Breite zu fertigen, jedoch ohne Garantie."
+        }
+      ],
+      "page_notes": "Section: Modellbeschreibung for verbundfenster jalousien. Bedienvarianten: Bedienung L, Bedienung R, ohne Seitenführung.",
+      "page_number": 18
+    },
+    {
+      "products": [
+        {
+          "name": "Modell U25 DF",
+          "category": "Dachfenster Jalousien",
+          "specifications": {
+            "min_breite": "26 cm",
+            "max_breite": "300 cm",
+            "max_hoehe": "300 cm",
+            "max_flaeche": "3 m²",
+            "material": "Polyester 20 mm"
+          },
+          "description": "Bedienung Schnur/Drehstab, Leiterkordel aus hochfestem Polyester, Schnurschloss mit Schnabel, Lamell zwischen den Stegen der Leiterkordel eingefädelt, Stabhalter im Lieferumfang, System ohne Blende und ohne Führungsschienen.",
+          "additional_info": "Jalousie mit Seitenführung (bis 80 cm Breite - zwei Spanndrähte, über 80 cm Breite - drei Spanndrähte), Seitenführung (innen: mit Spannschuhträger (085-0000-0000), außen: mit Spannwinkelträger (156116-0000))."
+        }
+      ],
+      "page_notes": "Bedienvarianten: Bedienung LL, RR, LR, RL. Modellbeschreibung of Dachfenster Jalousien with illustrations.",
+      "page_number": 19
+    },
+    {
+      "products": [
+        {
+          "name": "Jalousien mit Elektromotoren",
+          "description": "Verschiedene Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome) mit Akku oder Netzteil. Auswahl im Kapitel 'elektrisches Zubehör'.",
+          "image_description": "Jalousien with external and internal views, without and with side guidance."
+        }
+      ],
+      "page_notes": "Model description for Model U16 EL/U25 EL, size range specifications, and side guidance information.",
+      "page_number": 20
+    },
+    {
+      "products": [
+        {
+          "name": "Tageslichtoptimierte Jalousie",
+          "sku": "Modell U16 TLA/ U25 TLA",
+          "description": "Jalousie available with or without side guidance.",
+          "category": "Jalousie",
+          "brand": "Luxan",
+          "specifications": {
+            "models_available": "U16 SD, U16 MKES, U16 MKKs, U16 MKKv, U16 EL, U25 SD, U25 MKES, U25 MKKs, U25 MKKv, U25 EL",
+            "seitenführung_innen": "Mit Spannschuh (085-0000-000)",
+            "seitenführung_außen": "Mit Spannwinkel (156116-0000)"
+          },
+          "image_description": "Illustrations of jalousie with and without side guidance.",
+          "additional_info": "Bitte bei Bestellung angeben, welche Bedienart gewünscht ist (Schnur/Drehstab, Endlosschnur, Kette seitlich, Kette vorne oder elektrisch)."
+        }
+      ],
+      "page_notes": "Page contains model description and specifications for jalousie by Luxan, with focus on light optimization.",
+      "page_number": 21
+    },
+    {
+      "products": [
+        {
+          "name": "S1 links",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
+          "image_description": "Blinds with a slope from left."
+        },
+        {
+          "name": "S1 rechts",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
+          "image_description": "Blinds with a slope from right."
+        },
+        {
+          "name": "S2 links",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
+          "image_description": "Blinds with a slope from left."
+        },
+        {
+          "name": "S2 rechts",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Aufzug bis zur kleinsten Höhe möglich.",
+          "image_description": "Blinds with a slope from right."
+        },
+        {
+          "name": "S3 links",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from left."
+        },
+        {
+          "name": "S3 rechts",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from right."
+        },
+        {
+          "name": "S4 links",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from left."
+        },
+        {
+          "name": "S4 rechts",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from right."
+        },
+        {
+          "name": "S5 links",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from left."
+        },
+        {
+          "name": "S5 rechts",
+          "description": "Größenbereich: min. Breite: 30 cm, max. Breite: 300 cm, max. Höhe: 300 cm, SF - möglich, Nur Lamellenwendung möglich.",
+          "image_description": "Blinds with a slope from right."
+        }
+      ],
+      "page_notes": "Modellübersicht Jalousien 16/25 mm Slope. Categories: SLOPE S1 to S5, left and right variants. Technical specifications for each model.",
+      "page_number": 22
+    },
+    {
+      "products": [
+        {
+          "name": "S6",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+        },
+        {
+          "name": "S7",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+        },
+        {
+          "name": "B1 links",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+        },
+        {
+          "name": "B1 rechts",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+        },
+        {
+          "name": "B2",
+          "specifications": {
+            "min_width": "40 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Aufzug bis zur kleinsten Höhe möglich."
+        },
+        {
+          "name": "B3",
+          "specifications": {
+            "min_width": "50 cm",
+            "max_width": "200 cm",
+            "max_height": "200 cm"
+          },
+          "additional_info": "SF möglich, Nur Lamellenwendung möglich."
+        }
+      ],
+      "page_notes": "Modellübersicht LUXAN Jalousien 16/25 mm Slope, including different shapes such as Slope 6/7, Bogen B1, Bogen B2, Bogen B3. Page contains specifications for minimum and maximum dimensions and additional features.",
+      "page_number": 23
+    },
+    {
+      "products": [
+        {
+          "name": "Monokommando Kette / Schnur",
+          "sku": "MKK/MKES",
+          "price": "86 €"
+        },
+        {
+          "name": "Monokommando Kurbel",
+          "sku": "MKKu",
+          "price": "196 €"
+        },
+        {
+          "name": "Seitenführung",
+          "sku": "SF",
+          "price": "25 €"
+        },
+        {
+          "name": "Monokommando bei Breite < 40 cm",
+          "sku": "B MK < 40",
+          "price": "26 €"
+        },
+        {
+          "name": "kleine Produktbreite",
+          "sku": "B < 30",
+          "price": "26 €"
+        },
+        {
+          "name": "Badezimmerqualität Aluschiene",
+          "sku": "BQ-alu",
+          "price": "42 €/lfm. B",
+          "additional_info": "Mindestberechnung 1 m"
+        },
+        {
+          "name": "gemischte Farben",
+          "price": "25 % mindestens 68 €"
+        },
+        {
+          "name": "Tageslichtlenkung",
+          "sku": "TLA",
+          "price": "43 €"
+        },
+        {
+          "name": "Jalousien Dim Out",
+          "sku": "DimOut",
+          "price": "20 %"
+        },
+        {
+          "name": "Jalousien Megaview",
+          "sku": "MV",
+          "price": "137 €"
+        },
+        {
+          "name": "Jalousien LiteRise",
+          "sku": "LR",
+          "price": "105 €"
+        },
+        {
+          "name": "Slope gerade/eckig",
+          "sku": "SLOPE",
+          "price": "200 % mit PGO mindestens 330 €"
+        },
+        {
+          "name": "Slope Kreis/Halbkreis",
+          "sku": "BOGEN",
+          "price": "250 % mit PGO mindestens 623 €"
+        },
+        {
+          "name": "PVC OBEN - Klemmträger",
+          "sku": "PVC",
+          "price": "16,20 €/Paar"
+        },
+        {
+          "name": "PVC UNTEN- Klemmträger",
+          "sku": "PVC (SF)",
+          "price": "16,20 €/Paar"
+        },
+        {
+          "name": "Klebeleiste QuickFit oben (Montage ohne Bohren)",
+          "sku": "QF",
+          "price": "21 €/lfm. B",
+          "additional_info": "Mindetberechnung 1 m"
+        },
+        {
+          "name": "Klebeleiste QuickFit unten inkl. SF (Montage ohne Bohren)",
+          "sku": "QF-SF",
+          "price": "40 €/lfm. B",
+          "additional_info": "Mindetberechnung 1 m"
+        },
+        {
+          "name": "Ausgleichskeil für schräge Glasfalz, 6,5°, adaptierbar, transparent",
+          "sku": "BW-25-TR",
+          "price": "2 €/St."
+        },
+        {
+          "name": "elektrische Jalousie",
+          "sku": "EL",
+          "additional_info": "Aufpreis für Monokommando + Aufpreis für elektrische Variante."
+        }
+      ],
+      "page_notes": "Section 2. Jalousien Ultimate. Title: Aufpreise. Various surcharges for different jalousie options and components. Notes about additional width and variant-related costs.",
+      "page_number": 24
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list for 'Jalousien 16 mm Ultimate' with various dimensions (Breite and Höhe in cm) and price ranges across different product groups (PG). There's the header 'PREISE' and footer notes indicating 'Aufpreisse Seite 22' and 'Technik & Preise | 2026'.",
+      "page_number": 25
+    }
+  ],
+  "total_products": 64
+}

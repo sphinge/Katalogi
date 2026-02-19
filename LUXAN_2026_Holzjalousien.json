@@ -1419,52 +1419,54 @@
     {
       "products": [
         {
-          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
-          "description": "4-Kanal-Handsänder",
+          "name": "4-KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handseder",
           "specifications": {
             "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
             "Sendefrequenz": "433 MHz",
             "Funkreichweite": "30 m",
             "Dimensionen": "86 x 86 x 17 mm"
           },
-          "image_description": "Rectangular wall remote control with four buttons"
+          "image_description": "Rectangular wall remote control with four buttons."
         },
         {
-          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
-          "description": "4-Kanal-Handsänder",
+          "name": "4-KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handseder",
           "specifications": {
             "Betriebsspannung": "2x 3 V-Batterie Typ CR 2430-Lithium",
             "Sendefrequenz": "433 MHz",
             "Funkreichweite": "30 m",
             "Dimensionen": "70,3 x 62,7 x 52,3 mm"
           },
-          "image_description": "Circular table remote control with multiple buttons"
+          "image_description": "Circular tabletop remote control with buttons on top."
         },
         {
           "name": "MOTION MATTER BRIDGE CM-55",
-          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus. Die Bridge eröffnet Ihnen unzählige Möglichkeiten, um Ihre Produkte über die MOTION-App zu steuern.",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus.",
           "specifications": {
-            "maximale Motoren": "30",
-            "maximale Szenarien": "20",
-            "maximierte Timer": "20",
+            "max. Motoren": "30",
+            "max. Szenarien": "20",
+            "max. Timer": "20",
             "Frequenz": "433 MHz; 2,4 GHz",
             "Funkbereich": "30 m",
             "Stromquelle": "USB-C"
           },
-          "image_description": "Compact bridge device with USB connection"
+          "additional_info": "Cloud-Verbindungen ermöglichen die Sprachsteuerung und eine Vielzahl an Optionen für die Smart-Automatisierung.",
+          "image_description": "Small rectangular device with curved edges."
         },
         {
           "name": "MOTION WIFI HUB USB CMD-01",
           "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk.",
-          "image_description": "USB hub with a sleek white design"
+          "additional_info": "Verbinden Sie das USB-Hub dauerhaft mit Strom, verbinden das USB-Hub auf dem Smartphone mit der MOTION-App und anschließend mit den Motoren der Produkte. Sie steuern die Produkte über die MOTION-App am Smartphone.",
+          "image_description": "Slim USB device for WiFi connectivity."
         }
       ],
-      "page_notes": "Section: Elektrisches Zubehör",
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section with various remote controls and bridges for smart automation.",
       "page_number": 44
     },
     {
       "products": [],
-      "page_notes": "Section header for Holzjalousien 65 mm with models H65 L, H65 T38, H65 TILT, and H65 EL visible. Image depicts window blinds in a room with modern decor.",
+      "page_notes": "This page is a section header for 'Holzjalousien 65 mm' featuring a black and white image of windows with wood blinds. Listed references or models: H65 L, H65 T38, H65 TILT, H65 EL.",
       "page_number": 45
     },
     {
@@ -1473,128 +1475,141 @@
           "name": "Holzjalousie mit Leiterkordel",
           "category": "Holzjalousien 65 mm",
           "specifications": {
-            "min_breite": "30 cm",
+            "min_breite": {
+              "Bedienung_LR_bzw_RL": "30 cm",
+              "Bedienung_LL_bzw_RR": "50 cm"
+            },
             "max_breite": "260 cm",
-            "min_hoehe": "30 cm",
-            "max_hoehe": "300 cm",
-            "max_flaeche": "7.5 m²"
+            "min_höhe": "30 cm",
+            "max_höhe": "300 cm",
+            "max_fläche": "7.5 m²"
           },
-          "description": "Jalousie mit Bedienung Schnur/Schnur (Zug/Wendung), Oberschiene aus Stahl: 51 mm x 57 mm, Holzbende: Höhe 66 mm, Magnetbefestigung, Unterschiene aus Holz 65 mm x 15 mm, Leiterkordel, Holzlamellen 65 mm x 3 mm, Seitenführung auf Wunsch gegen Aufpreis.",
-          "image_description": "Illustration of a wooden blind with operating cord."
+          "description": "Jalousie mit Bedienung Schnur/Schnur (Zug/Wendung), Oberschiene aus Stahl: 51 mm x 57 mm, Holzblende: Höhe 66 mm, Magnetbefestigung, Unterschiene aus Holz 65 mm x 15 mm, Leiterkordel, Holzlamellen 65 mm x 3 mm, Seitenführung - auf Wunsch gegen Aufpreis."
         }
       ],
-      "page_notes": "Page includes technical specifications for wooden blinds, system descriptions, size charts, and illustrations of operation methods.",
+      "page_notes": "MODELLBESCHREIBUNG section for 3. HOLZJALOUSIEN 65 mm, includes GRÖSSENBEREICH, SYSTEMBESCHREIBUNG, ANZAHL DER SYSTEMSCHNÜRE, BEDIENUNG diagrams, PAKETHÖHE, and BLENDEN diagrams.",
       "page_number": 46
     },
     {
       "products": [
         {
           "name": "Holzjalousie mit Texband 38 mm",
-          "description": "Jalousie - Bedienung Schnur/Schnur (Zug/Wendung), Oberschiene aus Stahl: 51 mm x 57 mm, Holzblende: Höhe 66 mm, Magnetbefestigung, Unterschiene aus Holz 65 mm x 15 mm, Texband 38 mm, Holzlamellen 65 mm x 3 mm, Seitenführung - auf Wunsch gegen Aufpreis.",
+          "sku": "H65 T38",
+          "description": "Holzjalousie mit Texband 38 mm",
           "specifications": {
-            "minimum_breite": "30 cm",
-            "maximum_breite": "260 cm",
-            "minimum_höhe": "30 cm",
-            "maximum_höhe": "300 cm",
-            "maximum_fläche": "7,5 m²",
-            "oberschiene_größe": "51 mm x 57 mm",
-            "holzblende_höhe": "66 mm",
-            "unterschiene_größe": "65 mm x 15 mm",
-            "texband": "38 mm",
-            "holzlamellen": "65 mm x 3 mm"
+            "Bedienung": "Schnur/Schnur (Zug/Wendung)",
+            "Oberschiene": "51 mm x 57 mm aus Stahl",
+            "Holzblende": "Höhe 66 mm, Magnetbefestigung",
+            "Unterschiene": "aus Holz 65 mm x 15 mm",
+            "Texband": "38 mm",
+            "Holzlamellen": "65 mm x 3 mm"
           },
-          "additional_info": "Die maximale Breite ist von der Höhe abhängig und gilt nur, wenn die maximale Fläche nicht überschritten wird.",
-          "image_description": "Image of a wooden blind with a 38 mm textile band."
+          "additional_info": "Seitenführung auf Wunsch gegen Aufpreis",
+          "image_description": "Illustration of Holzjalousie with a 38 mm Texband."
         }
       ],
-      "page_notes": "MODBESCHREIBUNG section including size range, system cord count, control types, package height, and fascia designs.",
+      "page_notes": "Modelbeschreibung for Holzjalousie with measurements and system features.",
       "page_number": 47
     },
     {
       "products": [
         {
-          "name": "H65 Tilt Holzjalousie mit Motor zur Lamellenwendung",
-          "category": "Holzjalousien 65 mm",
-          "description": "Holzjalousie with motor for slat tilt.",
+          "name": "H65 Tilt",
+          "description": "Holzjalousie mit Motor zur Lamellenwendung",
           "specifications": {
             "min_breite": "75 cm",
             "max_breite": "260 cm",
-            "min_hoehe": "30 cm",
-            "max_hoehe": "300 cm",
-            "max_flaeche": "6 m²",
-            "system_description": [
-              "Motor zur Lamellenwendung, Aufzug manuell mit Zugschnur",
-              "Oberschiene aus Stahl: 51 mm x 57 mm",
-              "Holzblende: Höhe 66 mm, Magnetbefestigung",
-              "Unterschiene aus Holz 65 mm x 15 mm",
-              "Leiterkordel",
-              "Holzlamellen 65 mm x 3 mm",
-              "Seitenführung - auf Wunsch gegen Aufpreis",
-              "Motor Brel Akku (s. elektrische Varianten)"
-            ],
-            "anzahl_der_systemschnure": {
-              "< 90": "2",
-              "90,1 - 150": "3",
-              "150,1 - 210": "4",
-              "210,1 - 270": "5"
-            },
-            "pakethoehe": [
-              {
-                "H": "50 cm",
-                "h": "12"
-              },
-              {
-                "H": "75 cm",
-                "h": "14"
-              },
-              {
-                "H": "100 cm",
-                "h": "16"
-              },
-              {
-                "H": "125 cm",
-                "h": "18"
-              },
-              {
-                "H": "150 cm",
-                "h": "20"
-              },
-              {
-                "H": "175 cm",
-                "h": "22"
-              },
-              {
-                "H": "200 cm",
-                "h": "24"
-              },
-              {
-                "H": "225 cm",
-                "h": "26"
-              },
-              {
-                "H": "250 cm",
-                "h": "28"
-              },
-              {
-                "H": "275 cm",
-                "h": "30"
-              },
-              {
-                "H": "300 cm",
-                "h": "32"
-              }
-            ],
-            "paket_hoehe": {
-              "breite_der_jalousie_minus_1": "IDD",
-              "breite_der_jalousie_minus_3": "ODD",
-              "57 mm": null,
-              "15 mm": null
-            }
+            "min_höhe": "30 cm",
+            "max_höhe": "300 cm",
+            "max_fläche": "6 m²"
           },
-          "image_description": "Illustration of a wooden blind with motor and slat tilt mechanism."
+          "image_description": "Image of a wooden blind with motor for slat adjustment."
         }
       ],
-      "page_notes": "Page contains model description for wooden blinds with motorized slat tilt, including specification tables and system descriptions.",
+      "page_notes": "Section: 3. HOLZJALOUSIEN 65 mm - MODELLBESCHREIBUNG. Includes system description, specifications, and system cord count.",
+      "additional_details": {
+        "system_description": [
+          "Motor zur Lamellenwendung, Aufzug manuell mit Zugschnur",
+          "Oberschiene aus Stahl: 51 mm x 57 mm",
+          "Holzblende: Höhe 66 mm, Magnetbefestigung",
+          "Unterschiene aus Holz 65 mm x 15 mm",
+          "Leiterkordel",
+          "Holzlamellen 65 mm x 3 mm",
+          "Seitenführung - auf Wunsch gegen Aufpreis",
+          "Motor Brel Akku (s. elektrische Varianten)"
+        ],
+        "anzahl_der_systemschnüre": [
+          {
+            "breite_cm": "< 90",
+            "anzahl": "2"
+          },
+          {
+            "breite_cm": "90,1 - 150",
+            "anzahl": "3"
+          },
+          {
+            "breite_cm": "150,1 - 210",
+            "anzahl": "4"
+          },
+          {
+            "breite_cm": "210,1 - 270",
+            "anzahl": "5"
+          }
+        ],
+        "räume": {
+          "pakethöhe": "Paket höhe",
+          "package_height": [
+            {
+              "H_cm": "50",
+              "h_cm": "12"
+            },
+            {
+              "H_cm": "75",
+              "h_cm": "14"
+            },
+            {
+              "H_cm": "100",
+              "h_cm": "16"
+            },
+            {
+              "H_cm": "125",
+              "h_cm": "18"
+            },
+            {
+              "H_cm": "150",
+              "h_cm": "20"
+            },
+            {
+              "H_cm": "175",
+              "h_cm": "22"
+            },
+            {
+              "H_cm": "200",
+              "h_cm": "24"
+            },
+            {
+              "H_cm": "225",
+              "h_cm": "26"
+            },
+            {
+              "H_cm": "250",
+              "h_cm": "28"
+            },
+            {
+              "H_cm": "275",
+              "h_cm": "30"
+            },
+            {
+              "H_cm": "300",
+              "h_cm": "32"
+            }
+          ]
+        },
+        "blenden": {
+          "IDD": "Breite der Jalousie + 1 cm",
+          "ODD": "Breite der Jalousie + 3 cm"
+        }
+      },
       "page_number": 48
     },
     {
@@ -1603,26 +1618,58 @@
           "name": "H65 EL",
           "description": "Holzjalousie elektrisch",
           "category": "Modellbeschreibung",
-          "brand": "Luxan",
+          "brand": "LUXAN",
           "specifications": {
-            "motor_options": "Kabelsteuerung, Funksteuerung, Smarthome",
-            "upper_rail": "Stahl: 51 mm x 57 mm",
-            "wood_cover": "Höhe 66 mm, Magnetbefestigung",
-            "lower_rail": "Holz 65 mm x 15 mm",
-            "stamping": "12 mm x 7 mm Aufzugsband",
-            "wood_slats": "65 mm x 3 mm",
-            "side_guiding": "Optional"
+            "motor": "Motor wahlweise entsprechend Übersicht 'elektrisches Zubehör'",
+            "varianten": "Verschiedene Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome)",
+            "oberschiene": "51 mm x 57 mm, aus Stahl",
+            "holzblende": "Höhe 66 mm, Magnetbefestigung",
+            "unterschiene": "65 mm x 15 mm, aus Holz",
+            "stanzung": "12 mm x 7 mm mit Aufzugsband",
+            "leiterkordel": "",
+            "holzlamellen": "65 mm x 3 mm",
+            "seitenführung": "Auf Wunsch gegen Aufpreis",
+            "anzahl der system-schnüre": {
+              "< 90 cm": 2,
+              "90.1 - 150 cm": 3,
+              "150.1 - 210 cm": 4,
+              "210.1 - 270 cm": 5
+            },
+            "pakethöhe": {
+              "H [cm] / h [cm]": {
+                "50 / 12": "",
+                "75 / 14": "",
+                "100 / 16": "",
+                "125 / 18": "",
+                "150 / 20": "",
+                "175 / 22": "",
+                "200 / 24": "",
+                "225 / 26": "",
+                "250 / 28": "",
+                "275 / 30": "",
+                "300 / 32": ""
+              },
+              "H - Jalousiehöhe / h - Pakethöhe": {
+                "57 mm": ""
+              }
+            },
+            "größenbereich": {
+              "min. breite": "30 cm (Bedienung LR bzw. RL), 50 cm (Bedienung LL bzw. RR)",
+              "max. breite": "260 cm",
+              "min. höhe": "30 cm",
+              "max. höhe": "300 cm",
+              "max. fläche": "7,5 m²"
+            }
           },
-          "image_description": "Illustration of an electric wooden venetian blind and cord system.",
-          "additional_info": "System cords table for Jalousie 65 mm with different width ranges."
+          "image_description": "Diagram and images showing components of the electric wooden blinds system."
         }
       ],
-      "page_notes": "Details about model H65 EL including system description, package height, cords number, blend options, and size range.",
+      "page_notes": "Technical descriptions and diagrams of the H65 EL electric wooden blinds system including size specifications.",
       "page_number": 49
     },
     {
       "products": [],
-      "page_notes": "Price list for Holzjalousien H65 L, H65 T38, H65 Tilt, H65 EL. Includes dimensions and corresponding prices. Additional charges for Texband 38 mm (30% upcharge). Mention of potential shipping costs for widths over 260 cm.",
+      "page_notes": "Page contains a pricing table for Holzjalousien H65 L, H65 T38, H65 Tilt, H65 EL and additional notes on surcharges for electrical blinds and shipping costs. Includes an article for Texband 38 mm with abbreviation T38 and a surcharge of 30%.",
       "page_number": 50
     },
     {
@@ -1630,21 +1677,21 @@
         {
           "name": "H65 L",
           "specifications": {
-            "min_breite_cm": "30 (LR, RL) / 50 (LL, RR)",
+            "min_breite_cm": "30 (LR,RL)/ 50 (LL,RR)",
             "max_breite_cm": "260",
-            "min_hohe_cm": "30",
-            "max_hohe_cm": "300",
-            "flache_m2": "7.5"
+            "min_hoehe_cm": "30",
+            "max_hoehe_cm": "300",
+            "flaeche_m2": "7,5"
           }
         },
         {
           "name": "H65 T38",
           "specifications": {
-            "min_breite_cm": "30 (LR, RL) / 50 (LL, RR)",
+            "min_breite_cm": "30 (LR,RL)/ 50 (LL,RR)",
             "max_breite_cm": "260",
-            "min_hohe_cm": "30",
-            "max_hohe_cm": "300",
-            "flache_m2": "7.5"
+            "min_hoehe_cm": "30",
+            "max_hoehe_cm": "300",
+            "flaeche_m2": "7,5"
           }
         },
         {
@@ -1652,9 +1699,9 @@
           "specifications": {
             "min_breite_cm": "75",
             "max_breite_cm": "260",
-            "min_hohe_cm": "30",
-            "max_hohe_cm": "300",
-            "flache_m2": "7.5"
+            "min_hoehe_cm": "30",
+            "max_hoehe_cm": "300",
+            "flaeche_m2": "7,5"
           }
         },
         {
@@ -1662,90 +1709,79 @@
           "specifications": {
             "min_breite_cm": "75",
             "max_breite_cm": "260",
-            "min_hohe_cm": "30",
-            "max_hohe_cm": "300",
-            "flache_m2": "6"
+            "min_hoehe_cm": "30",
+            "max_hoehe_cm": "300",
+            "flaeche_m2": "6"
           }
         }
       ],
-      "page_notes": "GROSSENBEREICH section detailing size ranges and specifications for different models. Note about additional shipping costs for widths over 260 cm.",
+      "page_notes": "The page shows the 'Größenbereich' (Size Range) for different models of products with specifications, and notes on additional shipping costs for widths over 260 cm. It is part of LUXAN's catalogue at section 'Technik & Preise 2026'.",
       "page_number": 51
     },
     {
       "products": [
         {
-          "name": "Standard Montage Typ 307",
-          "sku": "Typ 307",
-          "image_description": "Bracket for mounting, with dimensions and holes.",
+          "name": "Typ 307",
+          "category": "Montageträger",
           "specifications": {
-            "material": "51 mm x 57 mm",
-            "dimensions": "58 mm height, 14.9 mm width"
-          }
+            "schienentyp": "51 mm x 57 mm"
+          },
+          "image_description": "Bracket for rail 51 mm/57 mm"
         },
         {
-          "name": "Alternative Montage Typ 296",
-          "sku": "Typ 296",
-          "image_description": "Bracket with a large flat top and multiple holes.",
-          "specifications": {
-            "material": "51 mm x 57 mm",
-            "dimensions": "60.3 mm height, 46.5 mm width, 38 mm length"
-          }
+          "name": "Typ 296",
+          "category": "Montageträger",
+          "image_description": "Bracket with alternative design features for rail 51 mm/57 mm"
         },
         {
-          "name": "Wandwinkel Typ H31",
-          "sku": "Typ H31",
-          "image_description": "Angle bracket with a flat profile.",
-          "specifications": {
-            "dimensions": "34 mm length, various other dimensions labeled"
-          }
+          "name": "Typ H31",
+          "category": "Montageträger",
+          "image_description": "Wall angle bracket"
         },
         {
-          "name": "Seitenführung Typ 950",
-          "sku": "Typ 950",
-          "image_description": "Round-edged bracket with multiple attachment points.",
-          "specifications": {
-            "material": "50 mm / 70 mm"
-          }
+          "name": "Typ 950",
+          "category": "Montageträger",
+          "image_description": "Guide bracket"
         }
       ],
-      "page_notes": "Page includes mounting options and dimensions for Holzjalousien 65 mm. Section header: Übersicht möglicher Montageträger. Includes drawings and dimensions for various types of brackets.",
+      "page_notes": "Page contains an overview of possible mounting brackets for 3. Holzjalousien 65 mm and dimensions for specific brackets.",
       "page_number": 52
     },
     {
       "products": [
         {
           "name": "Motor Sonesse 40 PA 6/20",
-          "sku": "M23 1002840",
+          "sku": "M23 1002940",
           "brand": "Somfy",
-          "category": "Somfy TUBE&KABELSTEUERUNG",
+          "category": "TUBE&KABELSTEUERUNG",
           "price": "€ 245"
         },
         {
           "name": "Motor Sonesse 40 RTS 6/20",
-          "sku": "M25 1002927",
+          "sku": "M25 1002977",
           "brand": "Somfy",
-          "category": "Somfy TUBE&FUNKSTEUERUNG",
+          "category": "TUBE&FUNKSTEUERUNG",
           "price": "€ 311"
         },
         {
           "name": "Motor Sonesse 40 io 6/20",
           "sku": "M28 1003226",
           "brand": "Somfy",
-          "category": "Somfy TUBE&FUNKSTEUERUNG IO",
+          "category": "TUBE&FUNKSTEUERUNG IO",
           "price": "€ 370"
         },
         {
           "name": "J406 WT 6/24 230 V",
           "sku": "M32 1210335",
           "brand": "Somfy",
-          "category": "Somfy BLOCK&KABELSTEUERUNG",
+          "category": "BLOCK&KABELSTEUERUNG",
           "price": "€ 178"
         },
         {
           "name": "J406 io 6/24 230 V",
           "sku": "M33 1210679",
           "brand": "Somfy",
-          "category": "Somfy BLOCK&FUNKSTEUERUNG IO",
+          "category": "BLOCK&FUNKSTEUERUNG IO",
           "price": "€ 418"
         },
         {
@@ -1770,14 +1806,14 @@
           "price": "€ 98"
         },
         {
-          "name": "1-Kanal-Handsender Situo 1 VAR RTS Pure II mit Scrollrad",
-          "sku": "R10 1811698",
+          "name": "5-Kanal-Handsender Situo 1 VAR RTS Pure II mit Scrollrad",
+          "sku": "R10 1811608",
           "brand": "Somfy",
           "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 107"
         },
         {
-          "name": "5-Kanal-Handsende Situo 5 VAR RTS Pure II mit Scrollrad",
+          "name": "5-Kanal-Handsender Situo 5 VAR RTS Pure II mit Scrollrad",
           "sku": "R11 1811610",
           "brand": "Somfy",
           "category": "Zusatzkomponenten - Somfy RTS",
@@ -1785,174 +1821,174 @@
         },
         {
           "name": "Wandsender Smoove Origin RTS",
-          "sku": "R17 1811043",
+          "sku": "R17 1811603",
           "brand": "Somfy",
           "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 64"
         },
         {
-          "name": "16-Kanal-Handsende Telis 16 RTS Pure",
+          "name": "16-Kanal-Handsender Telis 16 RTS Pure",
           "sku": "R18 1811079",
           "brand": "Somfy",
           "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 299"
         },
         {
-          "name": "6-Kanal-Handsende Telis 6 Chronis RTS Pure",
+          "name": "6-Kanal-Handsender Telis 6 Chronis RTS Pure",
           "sku": "R19 1805215",
           "brand": "Somfy",
           "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 335"
         },
         {
-          "name": "1-Kanal-Handsende Situo 1 io Pure",
+          "name": "1-Kanal-Handsender Situo 1 io Pure",
           "sku": "R12 1800466",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 72"
         },
         {
-          "name": "5-Kanal-Handsende Situo 5 io Pure",
+          "name": "5-Kanal-Handsender Situo 5 io Pure",
           "sku": "R13 1811300",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 100"
         },
         {
-          "name": "1-Kanal-Handsende Situo 1 Variation io Pure mit Scrollrad",
+          "name": "1-Kanal-Handsender Situo 1 Variation io Pure mit Scrollrad",
           "sku": "R14 1800471",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 110"
         },
         {
-          "name": "5-Kanal-Handsende Situo 5 Variation A/M io Pure mit Scrollrad",
+          "name": "5-Kanal-Handsender Situo 5 Variation A/M io Pure mit Scrollrad",
           "sku": "R15 1811337",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 150"
         },
         {
           "name": "Funk-Wandsender Smoove Origin io",
           "sku": "R16 1811066",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 67"
         },
         {
-          "name": "Nina io - Multi-Kanal-Handsende mit Touch-Display",
+          "name": "Nina io - Multi-Kanal-Handsender mit Touch-Display",
           "sku": "R21 1805251",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 418"
         },
         {
-          "name": "Nina Timer io - Multi-Kanal-Handsende mit Touch-Display mit Zeitschaltuhr",
+          "name": "Nina Timer io - Multi-Kanal-Handsender mit Touch-Display mit Zeitschaltuhr",
           "sku": "R22 1811407",
           "brand": "Somfy",
-          "category": "Zusatzkomponenten - Somfy io",
+          "category": "Zusatzkomponenten - Somfy RTS",
           "price": "€ 437"
         },
         {
-          "name": "Tahoma Switch Pro",
-          "sku": "A04 1870594",
+          "name": "TaHoma Switch Pro",
+          "sku": "A04 1807594",
           "brand": "Somfy",
-          "category": "",
+          "category": "Zusatzkomponenten",
           "price": "€ 382"
         },
         {
           "name": "Motor Silent 8 Nm 15 U/min 230 V, Endlage mechanisch",
           "sku": "M14 CM-10-QMC",
           "brand": "Coulisse",
-          "category": "MOTION TUBE&KABELSTEUERUNG",
+          "category": "TUBE&KABELSTEUERUNG",
           "price": "€ 252"
         },
         {
           "name": "Motor Silent Radio 8 Nm 15 U/min 230 V, Endlage elektr.",
           "sku": "M13 CM-10-QC",
           "brand": "Coulisse",
-          "category": "MOTION TUBE&FUNKSTEUERUNG",
+          "category": "TUBE&FUNKSTEUERUNG",
           "price": "€ 249"
         },
         {
           "name": "Akku-Motor 6 Nm 24 U/min, Endlage elektr.",
           "sku": "M06 CM-06",
           "brand": "Coulisse",
-          "category": "MOTION TUBE&FUNKSTEUERUNG",
+          "category": "TUBE&FUNKSTEUERUNG",
           "price": "€ 325"
         },
         {
           "name": "Akku-Motor EVE Matter 6 Nm 24 U/min, Endlage elektr.",
           "sku": "M47 CM-06-E-V",
           "brand": "Coulisse",
-          "category": "MOTION TUBE&FUNKSTEUERUNG",
+          "category": "TUBE&FUNKSTEUERUNG",
           "price": "€ 392"
         },
         {
-          "name": "1-Kanal-Handsende",
+          "name": "1-Kanal-Handsender",
           "sku": "R01 CM-11",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 27"
         },
         {
-          "name": "5-Kanal-Handsende",
+          "name": "5-Kanal-Handsender",
           "sku": "R02 CM-12",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 36"
         },
         {
-          "name": "15-Kanal-Handsende",
+          "name": "15-Kanal-Handsender",
           "sku": "R03 CM-13",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 50"
         },
         {
           "name": "Design 4-Kanal-Wandfernbedienung",
           "sku": "R04 CM-16",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 150"
         },
         {
-          "name": "Design 4-Kanal-Tischfernbedienung",
+          "name": "Design 4-Kanal Tischfernbedienung",
           "sku": "R05 CM-17",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 69"
         },
         {
           "name": "Matter WiFi Bridge",
           "sku": "A07 CM-55",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 221"
         },
         {
           "name": "WiFi Hub Motion - USB Ausführung",
           "sku": "A02 CMD-01",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 136"
         },
         {
           "name": "Ladegerät 12 V mit USB-C Kabel",
           "sku": "P03 DC220-CM-41",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 29"
         },
         {
           "name": "Dauerstromnetzteil 12 V (nicht in Kombination mit Akku)",
           "sku": "P41 CM-21-EU",
           "brand": "Coulisse",
-          "category": "Zusatzkomponenten Motion",
+          "category": "Zusatzkomponenten",
           "price": "€ 34"
         }
       ],
-      "page_notes": "ELEKTRISCHE VARIANTEN - HOLZJALOUSIEN 65 MM",
+      "page_notes": "ELEKTRISCHE VARIANTEN section for HOLZJALOUSIEN 65 MM.",
       "page_number": 53
     },
     {
@@ -1961,7 +1997,7 @@
           "name": "MOTOR SOMFY SONESSE 40 WT 6/20",
           "description": "Motor für Kabelsteuerung.",
           "specifications": {
-            "Spannung/ Frequenz": "230 V/ 50 Hz",
+            "Spannung/Frequenz": "230 V/50 Hz",
             "Kabel-Typ": "VVF",
             "Kabellänge": "2,5 m",
             "Drehmoment": "6 Nm",
@@ -1969,14 +2005,14 @@
             "IP-Schutzklasse": "IP44",
             "Schutzart": "II"
           },
-          "image_description": "Image of a blue cylindrical motor."
+          "image_description": "Image of a cylindrical motor."
         },
         {
           "name": "MOTOR SOMFY SONESSE 40 RTS 6/20",
           "description": "Motor für Funksteuerung.",
           "specifications": {
             "Funkfrequenz": "RTS 433,42 MHz",
-            "Spannung/ Frequenz": "230 V/ 50 Hz",
+            "Spannung/Frequenz": "230 V/50 Hz",
             "Kabel-Typ": "VVF",
             "Kabellänge": "3 m",
             "Drehmoment": "6 Nm",
@@ -1984,13 +2020,13 @@
             "IP-Schutzklasse": "IP44",
             "Schutzart": "II"
           },
-          "image_description": "Image of a blue cylindrical motor."
+          "image_description": "Image of a cylindrical motor."
         },
         {
           "name": "MOTOR SOMFY SONESSE 40 IO 6/20",
           "description": "Motor für iO.",
           "specifications": {
-            "Spannung/ Frequenz": "230 V/ 50 Hz",
+            "Spannung/Frequenz": "230 V/50 Hz",
             "Kabel-Typ": "RNF",
             "Funkfrequenz": "io 868-870 (tri band) MHz",
             "Laufzeit": "4 min",
@@ -1998,48 +2034,49 @@
             "Schutzart": "II",
             "Endschalter-Typ": "elektronisch"
           },
-          "image_description": "Image of a blue cylindrical motor with an orange end."
+          "image_description": "Image of a cylindrical motor with orange end."
         },
         {
           "name": "MOTOR J406 6/24 WT",
+          "description": "STS3-Stecker (auf Anfrage auch mit STAS3-Stecker/Hirschmann-Stecker erhältlich), elektronische Einstellung der oberen und unteren Endlage.",
           "specifications": {
-            "Beschreibung": "STS3-Stecker (auf Anfrage auch mit STAS3-Stecker/ Hirschmann-Stecker erhältlich), elektronische Einstellung der oberen und unteren Endlage.",
             "Drehmoment": "6 Nm",
             "Drehzahl": "24 U/min",
             "Frequenz in Hz": "50 Hz",
             "IP Schutzklasse": "IP 54",
             "Lautstärke": "50 dB"
           },
-          "image_description": "Image of a black motor."
+          "image_description": "Image of a black motor with visible features."
         }
       ],
-      "page_notes": "Elektrisches Zubehör section of the catalogue, focused on various motor models for jalousies.",
+      "page_notes": "Section header: ELEKTRISCHES ZUBEHÖR. VARIANTE SOMFY products listed with descriptions and specifications.",
       "page_number": 54
     },
     {
       "products": [
         {
           "name": "J406 IO 6/24 230 V",
-          "description": "Basierend auf io-homecontrol® Funktechnologie. Elektronische Einstellung der Endlage.",
+          "description": "basiert auf io-homecontrol® Funktechnologie der fortschrittlichen und sicheren mit einem universellen Kommunikationsprotokoll, das mit Haustechnikprodukten namhafter Hersteller. io-homecontrol® ermöglicht die Kommunikation aller Komfort- und Sicherheitseinrichtungen untereinander und deren Steuerung über eine einzige Bedieneinheit.",
           "specifications": {
             "Drehmoment": "6 Nm",
             "Drehzahl": "24 U/min",
-            "Frequenz": "50 Hz",
+            "Frequenz in Hz": "50 Hz",
             "Funkfrequenz": "433,42 MHz",
             "IP Schutzklasse": "IP 54",
             "Lautstärke": "50 dB",
+            "Funkfrequenz io-homecontrol®": "868-870 MHz",
             "Betriebsspannung": "230 V ~ 50 Hz"
           },
-          "image_description": "Image of an electrical accessory with specifications."
+          "image_description": "Image of J406 IO motor."
         },
         {
           "name": "SCHALTER SMOOVE UNO WT",
-          "description": "Elektronischer Schalter zur Steuerung von 230 VAC Antrieben.",
           "specifications": {
             "Abmessungen": "80 x 80 mm",
+            "Steuerung": "230 VAC Antrieben",
             "Schutzgrad": "IP40"
           },
-          "image_description": "Image of a textured switch."
+          "image_description": "Image of Schalter Smoove Uno WT."
         },
         {
           "name": "SITUO 1 RTS PURE II",
@@ -2050,7 +2087,7 @@
             "Funkreichweite": "20 m",
             "Dimensionen": "136 x 42 x 17 mm"
           },
-          "image_description": "Image of a single channel remote control."
+          "image_description": "Image of Situo 1 RTS Pure II remote."
         },
         {
           "name": "SITUO 5 RTS PURE II",
@@ -2061,23 +2098,582 @@
             "Funkreichweite": "20 m",
             "Dimensionen": "136 x 42 x 17 mm"
           },
-          "image_description": "Image of a five-channel remote control."
+          "image_description": "Image of Situo 5 RTS Pure II remote."
         },
         {
           "name": "SITUO 1 VAR RTS PURE II",
-          "description": "1-Kanal-Handsender mit Scrollrad.",
+          "description": "1-Kanal-Handsender. Scrollrad zur präzisen Wendung der Lamellen.",
           "specifications": {
             "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
             "Sendefrequenz": "433,42 MHz",
             "Funkreichweite": "20 m",
             "Dimensionen": "136 x 42 x 17 mm"
           },
-          "image_description": "Image of a single channel remote control with scroll wheel."
+          "image_description": "Image of Situo 1 VAR RTS Pure II remote."
         }
       ],
-      "page_notes": "ELEKTRISCHES ZUBEHÖR section with various remote controls and electronic accessories.",
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section with VARIANTE SOMFY 230 V and VARIANTE SOMFY RTS categories.",
       "page_number": 55
+    },
+    {
+      "products": [
+        {
+          "name": "SITUO 5 VAR RTS PURE II",
+          "description": "5-Kanal-Handsender, Scrollrad zur präzisen Wendung der Lamellen.",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with scroll wheel design."
+        },
+        {
+          "name": "FUNKWANDSENDER SOMFY SMOOVE ORIGIN RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen.",
+          "specifications": {
+            "Sendefrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 30",
+            "Dimensionen": "50 x 50 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Wall switch with square button layout."
+        },
+        {
+          "name": "HANDSENDER SOMFY TELIS 16 RTS",
+          "description": "Bis zu 16 Kanäle ansteuerbar, individuelle Namensgebung pro Kanal möglich.",
+          "specifications": {
+            "Betriebstemperatur": "0°C bis +60°C",
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Remote control with large digital display."
+        }
+      ],
+      "page_notes": "Section header: ELEKTRISCHES ZUBEHÖR, related to electrical accessories for products.",
+      "page_number": 56
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER SOMFY TELIS 6 CHRONIS RTS PURE",
+          "description": "Handsänders that can control up to 6 channels, with manual or individual channel activation/deactivation and a variety of programmable options.",
+          "specifications": {
+            "channels": "6",
+            "battery_type": "2 x 1.5 V AAA",
+            "frequency": "433.42 MHz",
+            "protection_rating": "IP 30",
+            "dimensions": "145 x 47 x 18 mm",
+            "color": "Weiß",
+            "display": "großes, übersichtliches",
+            "temperature_range": "+0°C bis +60°C"
+          },
+          "image_description": "Remote control with a display and multiple buttons.",
+          "additional_info": "Program and adjust settings like opening and closing times, security lock, automatic summer/winter adjustment."
+        },
+        {
+          "name": "1-KANAL-HANDSENDER SITUO 1 iO",
+          "description": "Handsender for manual control of an io drive or io radio receivers with various control options.",
+          "specifications": {
+            "frequency": "868 MHz",
+            "dimensions": "36 x 145 x 15 mm"
+          },
+          "image_description": "Slim remote control with several buttons on the front.",
+          "additional_info": "Includes a programming button at the back, battery operated."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section featuring remote controls by LUXAN.",
+      "page_number": 57
+    },
+    {
+      "products": [
+        {
+          "name": "5-KANAL-HANDSENDER SITUO 5 IO",
+          "description": "Manuelle Vor-Ort-Steuerung eines io-Antriebes oder io-Funkempfängers per Funk. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF- und AB-Taste sowie „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. Programmiertaste auf der Rückseite des Funkhandsenders. Drahtlos/batteriebetrieben. Funkfrequenz: 868 MHz. Dimensionen: 36 x 145 x 15 mm.",
+          "specifications": {
+            "Funkfrequenz": "868 MHz",
+            "Dimensionen": "36 x 145 x 15 mm"
+          },
+          "image_description": "Remote control with multiple buttons for channel and position control."
+        },
+        {
+          "name": "HANDSENDER SITUO 1 VARIATION IO",
+          "description": "1-Kanal-Funkhandsender mit Scrollrad zum komfortablen und präzisen Einstellung der Wendung. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Produktes bzw. Einschalten der Beleuchtung. „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. AB-Taste zum Schließen des Produktes bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige. Drahtlos/batteriebetriebenen/Wandhalter für flexible Montage.",
+          "image_description": "Remote control with scroll wheel and several buttons for function control."
+        },
+        {
+          "name": "HANDSENDER SITUO 5 VARIATION IO",
+          "description": "5-Kanal-Funkhandsender mit Scrollrad zum komfortablen und präzisen Einstellung der Wendung. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Produktes bzw. Einschalten der Beleuchtung. „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. AB-Taste zum Schließen des Produktes bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige. Drahtlos/batteriebetriebenen/Wandhalter für flexible Montage, „Select“-Taste und LED Anzeige für die Kanalwahl. A/M Funktion: zum Ein-/Ausschalten der Automatik für alle Kanäle gleichzeitig. Aktivierung/Deaktivierung des Bedienmodus für Solar-Produkte.",
+          "image_description": "Advanced remote control with various function buttons and LED indicators."
+        }
+      ],
+      "page_notes": "Elektrisches Zubehör section for remote controls within the 3. Holzjalousien 65 mm category.",
+      "page_number": 58
+    },
+    {
+      "products": [
+        {
+          "name": "SCHALTER SMOOVE ORIGIN IO PURE",
+          "description": "1-Kanal-Funkwandsender, manuelle Steuerung eines io-Funkantriebs/ io-Funkempfänger gleichzeitig per Funk, Bedienung über Drucktasten, Vielzahl an Gestaltungsmöglichkeiten mit den Einzel- oder Gruppenbedienung möglich, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen der Schalterhersteller, sowie Befestigungsplatte für andere Schalterprogramme, AUF- und AB-Taste sowie „my“-Taste zum Stoppen oder Aufrufen der Lieblingsposition, Programmiertaste auf der Rückseite des Moduls, Befestigungsplatte für einfache und flexible Wandmontage, keine UP-Dose erforderlich, LED zur Sendeanzeige, drahtlos und batteriebetrieben, daher geringster Installationsaufwand, mit Batteriezustandsanzeige.",
+          "specifications": {
+            "Funkfrequenz": "868.95 MHz",
+            "Dimensionen": "50 x 50 mm",
+            "IP Schutzklasse": "IP30"
+          },
+          "image_description": "Image of SCHALTER SMOOVE ORIGIN IO PURE wall remote control with buttons."
+        },
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA IO",
+          "description": "Manuelle Bedienung: über Piktogramme können iO-Antriebe oder iO-Empfänger in die gewünschte Position gefahren werden, Bidirektionale Kommunikation zwischen Touch-Display Steuerung und iO-Antrieb/ iO-Empfänger, Rückmeldung über den ausgeführten Befehl im Display, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien: in Räumen, Gruppen, Etagen und dem kompletten Haus können Szenarien einfach erstellt werden.",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite freies Feld": "250",
+            "Anzahl der Kanäle": "Multi",
+            "Volt/ Frequenz": "100-240V/ 50-60 Hz",
+            "Dimensionen": "159,8 x 68 x 69,9 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz-Weiß"
+          },
+          "image_description": "Image of HANDSENDER MIT TOUCH-DISPLAY NINA IO with black and white touch screen display."
+        }
+      ],
+      "page_notes": "Section on electrical accessories with somfy io variants and product images of wireless remote controls.",
+      "page_number": 59
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA TIMER iO",
+          "description": "Bidirektionale Touch-Display Steuerung mit Zeitautomatik, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien: in Räumen, Gruppen, Etagen und dem kompletten Haus können Szenarien einfach erstellt werden.",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite im Raum": "20 m",
+            "Volt/Frequenz": "100-240V 50-60 Hz",
+            "Dimensionen": "150 x 65 x 90 mm",
+            "Tiefe": "45 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz"
+          },
+          "image_description": "Remote control with a touch display."
+        },
+        {
+          "name": "SOMFY TAHOMA®SWITCH PRO",
+          "description": "Individuelle Somfy Smart Home-Steuerung, 24-Stunden Zugriff auf Ihr vernetztes Zuhause und eine individuelle Home-Steuerung, auch von unterwegs, Schritt-für-Schritt einfach erweiterbar durch io-Homecontrol®, RTS-Komponenten, RTS-Produkte und RTD-Melder.",
+          "additional_info": "Kompatibel mit vielen Haustechnikprodukten führender Hersteller, kompatibel mit den Somfy-eigenen Funkprotokollen io, RTS, RTD, RTDS und weiteren Funkstandards wie EnOcean und Z-Wave.",
+          "image_description": "Smart home control system."
+        },
+        {
+          "name": "CM-10-QMC",
+          "description": "Motor 8 Nm 15 U/min, Versorgung: 230 V AC, Endlage: mechanisch.",
+          "specifications": {
+            "Mindestsicherheit (Anlage)": "72 cm",
+            "Bedienung": "Wandschalter"
+          },
+          "image_description": "Electric motor component."
+        },
+        {
+          "name": "CM-10-QC",
+          "description": "Motor 8 Nm 15 U/min, Versorgung: 230 V AC, Endlage: elektrisch.",
+          "specifications": {
+            "Mindestsicherheit (Anlage)": "72 cm",
+            "Bedienung": "Fernbedienung, Bluetooth App"
+          },
+          "image_description": "Electric motor component."
+        }
+      ],
+      "page_notes": "Section Header: ELEKTRISCHES ZUBEHÖR. VARIANTE SOMFY/IO and VARIANTE COULISSE product categories.",
+      "page_number": 60
+    },
+    {
+      "products": [
+        {
+          "name": "CM-06",
+          "description": "Motor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C, Mindestbreite (Anlage): 86 cm, Bedienung: Fernbedienung, Bluetooth App.",
+          "image_description": "Image of CM-06 motor."
+        },
+        {
+          "name": "CM-06-E-V",
+          "description": "Motor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C. Mindestbreite (Anlage): 86 cm. Bedienung: Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "image_description": "Image of CM-06-E-V motor."
+        },
+        {
+          "name": "LADEGERÄT COULISSE 12 V",
+          "sku": "DC220+CM-41",
+          "description": "Transformator 12 V, USB-C Kabel.",
+          "image_description": "Image of a charger with a cable."
+        },
+        {
+          "name": "1 - KANAL HANDSENDER CM-11",
+          "description": "1-Kanal-Handsander, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm",
+          "image_description": "Image of a single button remote control."
+        },
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsander, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm",
+          "image_description": "Image of a five button remote control."
+        },
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsander, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm",
+          "image_description": "Image of a fifteen button remote control."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section showing various electrical accessories from LUXAN.",
+      "page_number": 61
+    },
+    {
+      "products": [
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsender",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "specifications": {
+            "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          }
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsender",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "specifications": {
+            "Betriebsspannung": "2x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          }
+        },
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus.",
+          "category": "ELEKTRISCHES ZUBEHÖR",
+          "specifications": {
+            "max. Motoren": "30",
+            "max. Szenarien": "20",
+            "max. Timer": "20",
+            "Frequenz": "433 MHz; 2,4 GHz",
+            "Funkbereich": "30 m",
+            "Stromquelle": "USB-C"
+          }
+        },
+        {
+          "name": "MOTION WIFI HUB USB CMD-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk.",
+          "category": "ELEKTRISCHES ZUBEHÖR"
+        }
+      ],
+      "page_notes": "3. HOLZJALOUSIEN 65 mm, VARIANTE COULISSE",
+      "page_number": 62
+    },
+    {
+      "products": [],
+      "page_notes": "4. EINZELTEILE\nH25 L\nH25 EL",
+      "page_number": 63
+    },
+    {
+      "products": [
+        {
+          "name": "Endkappe für Oberschiene",
+          "sku": "156246-XXX",
+          "description": "Endkappe für Oberschiene, farblich an die Schiene angepasst",
+          "price": "0,80 €/St."
+        },
+        {
+          "name": "Universallträger",
+          "sku": "155372",
+          "description": "Universallträger für Wand- und Deckenmontage",
+          "price": "2,80 €/St."
+        },
+        {
+          "name": "Deckenträger",
+          "sku": "155373",
+          "description": "Deckenträger für Deckenmontage zum Unterschrauben",
+          "price": "2,70 €/St."
+        },
+        {
+          "name": "Ausgleichskeil",
+          "sku": "BW-25-TR",
+          "description": "Ausgleichskeil für schräge Glasfalz, 6,5°, adaptierbar, transparent",
+          "price": "2,20 €/St."
+        },
+        {
+          "name": "Ringträger",
+          "sku": "155359",
+          "description": "Ringträger",
+          "price": "3,90 €/St."
+        },
+        {
+          "name": "Bedienkordel 1,2 mm",
+          "sku": "130602-XXX",
+          "description": "Bedienkordel 1,2 mm",
+          "price": "1,20 €/Lfm"
+        },
+        {
+          "name": "Schnuraufwickler",
+          "sku": "156144",
+          "description": "Schnuraufwickler transparent",
+          "price": "1,20 €/St."
+        },
+        {
+          "name": "Schnurklemm",
+          "sku": "156104-0000",
+          "price": "7,40 €/St."
+        },
+        {
+          "name": "Wendegetriebe verstärkt",
+          "sku": "156103-0000",
+          "price": "5,35 €/St."
+        },
+        {
+          "name": "Griff für Plexi-Drehstab",
+          "sku": "150811-0000",
+          "description": "Griff für Plexi - Drehstab",
+          "price": "1,30 €/St."
+        },
+        {
+          "name": "Haken (oben) für Plexi-Drehstab",
+          "sku": "156003-0000",
+          "price": "0,60 €/St."
+        },
+        {
+          "name": "Plexi-Drehstab",
+          "sku": "040-0100-552",
+          "description": "Plexi-Drehstab",
+          "price": "1,30 €/Lfm"
+        },
+        {
+          "name": "Ausreiß-Schnurverbinder",
+          "sku": [
+            "156892-0155",
+            "156892-0952",
+            "156892-1858",
+            "156892-4950",
+            "156892-7199",
+            "156892-4459"
+          ],
+          "description": "Ausreiß-Schnurverbinder: weiß, grau, schwarz, braun, anthrazit, creme, Kindersicherheit",
+          "price": "2,80 €/St."
+        },
+        {
+          "name": "PVC-Klemmträger OBEN",
+          "sku": "3150.275-001",
+          "description": "PVC-Klemmträger OBEN: grau, schwarz",
+          "price": "8,40 €/St."
+        },
+        {
+          "name": "PVC-Klemmträger UNTEN",
+          "sku": "3150.230-001",
+          "description": "PVC-Klemmträger UNTEN: grau, schwarz",
+          "price": "8,40 €/St."
+        },
+        {
+          "name": "Inbusschlüssel",
+          "sku": "KT2.0",
+          "price": "2,60 €/St."
+        },
+        {
+          "name": "Spanwinkel",
+          "sku": "156116-0000",
+          "description": "Spanwinkel für Seitenführung außen",
+          "price": "1,80 €/St."
+        },
+        {
+          "name": "Spannschuh",
+          "sku": "156115",
+          "description": "Spannschuh für Seitenführung innen",
+          "price": "1,20 €/St."
+        },
+        {
+          "name": "Feststellring",
+          "sku": "156132",
+          "description": "Feststellring für Seitenführung",
+          "price": "4,10 €/St."
+        },
+        {
+          "name": "Feder",
+          "sku": "156129",
+          "description": "Feder für Seitenführung",
+          "price": "2,60 €/St."
+        },
+        {
+          "name": "Spannseil",
+          "sku": "078-0014-006-1",
+          "description": "Spannseil 1 mm",
+          "price": "1,20 €/Lfm"
+        },
+        {
+          "name": "Schraube für Halter",
+          "sku": "297879-0000",
+          "description": "Schraube für Halter",
+          "price": "0,30 €/St."
+        },
+        {
+          "name": "Schnurglöcke",
+          "sku": "150810-0000",
+          "price": "1,50 €/St."
+        }
+      ],
+      "page_notes": "4. Einzelteile, EINZELTEILE H25",
+      "page_number": 64
+    },
+    {
+      "products": [
+        {
+          "sku": "16.0307",
+          "description": "Träger zum Gegen- und Unterschrauben",
+          "price": "5,90 €/St."
+        },
+        {
+          "sku": "16.0296",
+          "description": "Mittelträger",
+          "price": "2,90 €/St."
+        },
+        {
+          "sku": "16.0385",
+          "description": "verstellbarer Ab-standswinkel",
+          "price": "25,50 €/St."
+        },
+        {
+          "sku": "160164-0000",
+          "description": "Endkappe für Oberschiene",
+          "price": "2,90 €/St."
+        },
+        {
+          "sku": "143.025000",
+          "description": "Schnurwickler, ver-zinkt",
+          "price": "2,90 €/St."
+        },
+        {
+          "sku": "16.0074",
+          "description": "Schnurschloss",
+          "price": "5,90 €/St."
+        },
+        {
+          "sku": "16.0096",
+          "description": "Wendegetriebe",
+          "price": "15,60 €/St."
+        },
+        {
+          "sku": "RASP06-C",
+          "description": "Spannseil 3,0mm Kunststoffummantelt",
+          "price": "0,70 €/Lfm."
+        },
+        {
+          "sku": "126026.xxxx",
+          "description": "Leiterkordel (verschiedene Farbe)",
+          "price": "1,40 €/Lfm."
+        },
+        {
+          "sku": "H31",
+          "description": "Spannwinkel für Seitenführung - Außen",
+          "price": "2,80 €/St."
+        },
+        {
+          "sku": "950",
+          "description": "Träger für Seitenführung innen",
+          "price": "7,50 €/St."
+        },
+        {
+          "sku": "156144",
+          "description": "Schnuraufwickler transparent",
+          "price": "1,20 €/St.",
+          "additional_info": "Kindersicherheit"
+        },
+        {
+          "sku": "2SHO-XXX",
+          "description": "Zugschmurz 2,5 mm",
+          "price": "1,40 €/Lfm."
+        },
+        {
+          "sku": "156875-0155",
+          "description": "Ausreiß-Schnur-verbinder weiß",
+          "price": "2,80 €/St."
+        },
+        {
+          "sku": "156875-0952",
+          "description": "Ausreiß-Schnur-verbinder grau",
+          "price": "2,80 €/St."
+        },
+        {
+          "sku": "156875-1858",
+          "description": "Ausreiß-Schnur-verbinder schwarz",
+          "price": "2,80 €/St."
+        },
+        {
+          "sku": "156875-4900",
+          "description": "Ausreiß-Schnur-verbinder braun",
+          "price": "2,80 €/St."
+        },
+        {
+          "sku": "156875-7199",
+          "description": "Ausreiß-Schnur-verbinder anthrazit",
+          "price": "2,80 €/St."
+        }
+      ],
+      "page_notes": "EINZELTEILE H50, H65",
+      "page_number": 65
+    },
+    {
+      "raw_response": "I'm unable to view the image you've uploaded. Could you please provide the image again or describe its content so I can assist you better?",
+      "products": [],
+      "page_notes": "Failed to parse structured data",
+      "page_number": 66
+    },
+    {
+      "products": [],
+      "page_notes": "5. BESTELLFORMULARE, HOLZJALOUSIEN",
+      "page_number": 67
+    },
+    {
+      "raw_response": "I'm unable to process the content of the document directly. Please upload an image or provide details from the catalog page you want information extracted from.",
+      "products": [],
+      "page_notes": "Failed to parse structured data",
+      "page_number": 68
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for Holzjalousien. It includes fields for company details, delivery information, and product specifications. It features drawings of different configurations for horizontal blinds: Bedienung LL, RR, LR, RL, and different mounting options (Standard Träger). It has columns for model, quantity, dimensions (Breite, Höhe), color (Farbe), Bedienung, Blende (ODD, IDD), and special installation instructions. Notes include fields for Kriechschutzring with options for Ja or Nein.",
+      "page_number": 69
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no visible product information or details.",
+      "page_number": 70
+    },
+    {
+      "products": [],
+      "page_notes": "6. AGB",
+      "page_number": 71
+    },
+    {
+      "products": [],
+      "page_notes": "Seite enthält die Allgemeinen Geschäftsbedingungen der Luxan Krawczyk Sonnenschutzsysteme GmbH, einschließlich Informationen zu Angebot, Preise, Zahlung, Lieferung und anderen Vertragsthemen. Keine Produktinformationen auf dieser Seite.",
+      "page_number": 72
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains terms and conditions (AGB) related to delivery, shipping, and liability. It includes sections on delivery deadlines, shipment from Berlin, liability terms, and warranty information under German law (BGB).",
+      "page_number": 73
+    },
+    {
+      "products": [],
+      "page_notes": "AGB (Allgemeine Geschäftsbedingungen) page with legal and warranty information. No product information is present.",
+      "page_number": 74
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the AGB (Allgemeine Geschäftsbedingungen) including sections about Haftung and Anwendbares Recht - Gerichtstand - Salvatorische Klausel. No product information is present.",
+      "page_number": 75
+    },
+    {
+      "products": [],
+      "page_notes": "Contact information for Luxan Krawczyk Sonnenschutzsysteme GmbH. Contains address, phone numbers, email, and tax information.",
+      "page_number": 76
     }
   ],
-  "total_products": 211
+  "total_products": 276
 }

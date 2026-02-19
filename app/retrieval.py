@@ -31,8 +31,8 @@ class CatalogueStore:
         parts = []
         for filename, data in self.catalogues.items():
             product_names: set[str] = set()
-            skus: set[str] = set()
             categories: set[str] = set()
+            descriptions: set[str] = set()
 
             for page in data.get("pages", []):
                 for product in page.get("products", []):
@@ -41,26 +41,31 @@ class CatalogueStore:
                             product_names.update(name)
                         else:
                             product_names.add(str(name))
-                    if sku := product.get("sku"):
-                        if isinstance(sku, list):
-                            skus.update(str(s) for s in sku)
-                        else:
-                            skus.add(str(sku))
                     if cat := product.get("category"):
                         if isinstance(cat, list):
                             categories.update(cat)
                         else:
                             categories.add(str(cat))
+                    if desc := product.get("description"):
+                        if isinstance(desc, str) and len(desc) < 80:
+                            descriptions.add(desc)
+
+            # Separate short model names (key identifiers) from long accessory names
+            model_names = sorted(n for n in product_names if len(n) <= 30)
+            other_names = sorted(n for n in product_names if len(n) > 30)
 
             entry = (
                 f"FILE: {filename}\n"
                 f"  Source PDF: {data.get('source_file', 'unknown')}\n"
                 f"  Total products: {data['total_products']}, Total pages: {data['total_pages']}\n"
-                f"  Product names: {', '.join(sorted(product_names)[:50])}\n"
-                f"  SKUs: {', '.join(sorted(skus)[:50])}\n"
+                f"  Key models: {', '.join(model_names[:80])}\n"
             )
+            if other_names:
+                entry += f"  Other products: {', '.join(other_names[:30])}\n"
             if categories:
                 entry += f"  Categories: {', '.join(sorted(categories))}\n"
+            if descriptions:
+                entry += f"  Descriptions: {', '.join(sorted(descriptions)[:20])}\n"
             parts.append(entry)
 
         return "\n".join(parts)
