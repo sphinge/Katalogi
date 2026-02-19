@@ -1,0 +1,244 @@
+{
+  "source_file": "LUXAN_2026 Rollo.pdf",
+  "total_pages": 160,
+  "pages": [
+    {
+      "products": [],
+      "page_notes": "Cover page with title 'Rollo Doppelrollo'. The page includes a promotional image of a room with window drapes, a bed, and shelves. The text at the bottom mentions pricing information and validity for the year 2026, as well as terms related to pricing and returns. The section is titled 'Technik & Preise'.",
+      "page_number": 1
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no visible product information or content.",
+      "page_number": 2
+    },
+    {
+      "products": [],
+      "page_notes": "Table of contents page listing sections and page numbers for different types of roller blinds and related information in 'LUXAN_2026 Rollo.pdf'.",
+      "page_number": 3
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the table of contents for the catalogue, listing sections for XL-Rollo Absolute, Minirollo mit Halbkassette, and Dachfenster Rollo.",
+      "page_number": 4
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the table of contents for the 'LUXAN_2026 Rollo' catalogue. It lists sections such as 'Montage', 'Einzelteile', 'Doppelrollo', 'Elektro - Zubehör', and 'AGB' with respective page numbers. No specific product details are provided.",
+      "page_number": 5
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains detailed explanations about child safety standards and instructions related to roller shades, Kettenspanner (chain tensioners), Abreiß-Kettenverbinder (tear-off chain connectors), and Bedienlängen (operating lengths). It mentions European safety norms, specific requirements for chain tensioners, the use of different systems to ensure safety, and installation guidelines. There is no specific product data given.",
+      "page_number": 6
+    },
+    {
+      "products": [],
+      "page_notes": "The page discusses child safety information regarding security components and product orders with non-standard operating lengths. It includes guidelines for labeling and product specifications in areas not accessible to children. There is no specific product information or listings on this page.",
+      "page_number": 7
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains additional information about fabric properties, such as shape stability, color stability, shrinkage, and the characteristics of raw materials and blends. It also discusses the use of recycled materials and specific material types like Polyester (PES), Viscose (VI), Linen (LI), Glassfaser (GL), and Baumwolle (CO).",
+      "page_number": 8
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains additional information on material selection and applications for reducing sunlight and glare, suitable for different environments and functionalities. It includes guidelines for choosing plastics with UV-resistance and screen fabrics for interiors.",
+      "page_number": 9
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no product information.",
+      "page_number": 10
+    },
+    {
+      "products": [],
+      "page_notes": "Page features section title '1. ROLLO ABSOLUTE' with types of rollo listed: R1 Standardrollo, R2 Rollo mit Trägerprofil, R3 Rollo mit Halbkassette, R4 Rollo mit Kassette 80 mm Fascia.",
+      "page_number": 11
+    },
+    {
+      "products": [
+        {
+          "name": "RI Standardrollo",
+          "description": "Standard roller blind system. Available with side guides for an additional charge and various color options.",
+          "price": "Side guide: 27,80 €; Metal chain: 8,10 € per linear meter",
+          "specifications": {
+            "system_width_s": "max. Ø 60 mm",
+            "system_width_m": "max. Ø 85 mm",
+            "system_colors": [
+              "Kunststoff (Standard): weiß, altweiß, silber/grau, anthrazit, schwarz",
+              "Metall (Aufpreis): weiß, altweiß (S: 95 €, M/L: 140 €), satin, altmessing, Natural Aluminium, schwarz (S: 145 €, M/L: 195 €), chrom (S: 190 €, M/L: 240 €)"
+            ]
+          },
+          "additional_info": "Available in multiple system widths and colors. Standard mounting is back rolling; front rolling option available upon request."
+        }
+      ],
+      "page_notes": "Product page for Rollo Absolute - Standardrollo including visuals and specifications for different system widths and colors.",
+      "page_number": 12
+    },
+    {
+      "products": [
+        {
+          "name": "Kette RIA",
+          "description": "Manual operation system with chain.",
+          "specifications": {
+            "System S": {
+              "Stoffdicke": "bis 150/250/350/450 g/m²",
+              "max. Breite": "250 cm",
+              "max. Höhe": "*"
+            },
+            "System M/L": {
+              "Stoffdicke": "bis 150/250/350/450 g/m²",
+              "max. Breite": "290/280/270 cm",
+              "max. Höhe": "*"
+            }
+          },
+          "additional_info": "Additional models and electric options available. Max. width 20 cm."
+        },
+        {
+          "name": "Mittelzug RIB",
+          "description": "Middle pull system.",
+          "specifications": {
+            "System S": {
+              "Stoffdicke": "bis 250/350/450 g/m²",
+              "max. Breite": "250 cm",
+              "max. Höhe": "*"
+            },
+            "System M/L": {
+              "Stoffdicke": "bis 250/350/450 g/m²",
+              "max. Breite": "280/270 cm",
+              "max. Höhe": "*"
+            }
+          },
+          "additional_info": "Max. width 80 cm."
+        },
+        {
+          "name": "Elektrisch RIC",
+          "description": "Electric operation system.",
+          "specifications": {
+            "System S": {
+              "Stoffdicke": "bis 150/250/350/450 g/m²",
+              "max. Breite": "250 cm",
+              "max. Höhe": "*"
+            },
+            "System M/L": {
+              "Stoffdicke": "bis 150/250/350/450 g/m²",
+              "max. Breite": "290/280/270 cm",
+              "max. Höhe": "*"
+            }
+          },
+          "additional_info": "Various motors and electric accessories available. Max. width 65 cm."
+        },
+        {
+          "name": "Aussenliegend",
+          "sku": "01-E",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "eloxiert",
+            "Maße": "11mm x 21mm"
+          },
+          "additional_info": "Delivery includes cord and tassel."
+        },
+        {
+          "name": "Aussenliegend",
+          "sku": "01-W",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "weiß",
+            "Maße": "11mm x 21mm"
+          }
+        },
+        {
+          "name": "Aussenliegend",
+          "sku": "01-BK",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "schwarz",
+            "Maße": "11mm x 21mm"
+          }
+        },
+        {
+          "name": "Unterleiste",
+          "sku": "02-W",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "weiß",
+            "Maße": "13mm x 26mm",
+            "max. Länge": "bis 300 cm"
+          }
+        },
+        {
+          "name": "Aussenliegend Coulisse",
+          "sku": "04-A",
+          "specifications": {
+            "Farbe": "eloxiert",
+            "Maße": "14mm x 26mm"
+          }
+        },
+        {
+          "name": "Aussenliegend Coulisse",
+          "sku": "04-AN",
+          "specifications": {
+            "Farbe": "anthrazit",
+            "Maße": "14mm x 26mm"
+          }
+        },
+        {
+          "name": "Aussenliegend Coulisse",
+          "sku": "04-BK",
+          "specifications": {
+            "Farbe": "schwarz",
+            "Maße": "14mm x 26mm"
+          }
+        },
+        {
+          "name": "Aussenliegend Coulisse",
+          "sku": "04-LB",
+          "specifications": {
+            "Farbe": "altweiß",
+            "Maße": "14mm x 26mm"
+          }
+        },
+        {
+          "name": "Aussenliegend Coulisse",
+          "sku": "04-W",
+          "specifications": {
+            "Farbe": "weiß",
+            "Maße": "14mm x 26mm"
+          }
+        }
+      ],
+      "page_notes": "Page contains information about 'STANDARDROLLO' including types of operating systems and end slats, with dimensions and material.",
+      "page_number": 13
+    },
+    {
+      "products": [
+        {
+          "name": "R2 Rollo mit Trägerprofil",
+          "description": "Rollo mit Seitenführung",
+          "price": "27,80 € (Seitenführung), 8,10 €/Lfm (Metallkette), 16,20 €/Paar (Klemmträger für Rahmenmontage)",
+          "specifications": {
+            "standard": "Kunststoffkette",
+            "dimensions": {
+              "system_s": "max. Ø 55 mm",
+              "system_m": "max. Ø 80 mm",
+              "various_sizes": {
+                "28 mm": "RTU-28",
+                "30 mm": "RTU-30",
+                "35 mm": "RTU-35",
+                "38 mm": "RTU-38",
+                "42 mm": "RTU-42"
+              }
+            }
+          },
+          "image_description": "Illustration of R2 Rollo with measurements and mounting options",
+          "additional_info": "Standard: hinten abrollend; Alternative: vorne abrollen"
+        }
+      ],
+      "page_notes": "Rollo Absolute section with technical specifications and options for Rollo with mounting profile.",
+      "page_number": 14
+    }
+  ],
+  "total_products": 14
+}

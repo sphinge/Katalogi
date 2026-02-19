@@ -1596,7 +1596,1992 @@
       ],
       "page_notes": "Section titled ELEKTRISCHES ZUBEHÖR for JALOUSIEN 50 mm, focusing on electronic accessories.",
       "page_number": 72
+    },
+    {
+      "products": [
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsänder",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a remote control"
+        },
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsänder",
+          "specifications": {
+            "Betriebsspannung": "3 x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          },
+          "image_description": "Image of a wall-mounted remote control"
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsänder",
+          "specifications": {
+            "Betriebsspannung": "2 x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          },
+          "image_description": "Image of a table remote control"
+        },
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Herzstück des automatischen Netzwerks in Ihrem Haus.",
+          "specifications": {
+            "max. Motoren": "30",
+            "max. Szenarien": "20",
+            "max. Timer": "20",
+            "Frequenz": "433 MHz; 2,4 GHz",
+            "Funkbereich": "30 m",
+            "Stromquelle": "USB-C"
+          },
+          "image_description": "Image of a smart home bridge"
+        },
+        {
+          "name": "MOTION WIFI HUB USB CMD-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk.",
+          "additional_info": "Verbinden Sie das USB-Hub auf dem Smartphone mit der MOTION-App."
+        }
+      ],
+      "page_notes": "The page title is 'ELEKTRISCHES ZUBEHÖR'.",
+      "page_number": 73
+    },
+    {
+      "products": [
+        {
+          "name": "Oberschiene 50 mm aus Stahl",
+          "sku": "116012-xxxx",
+          "price": "32,60/ Lfm."
+        },
+        {
+          "name": "Unterschiene 50 mm aus Stahl",
+          "sku": "116117-xxxx",
+          "price": "35,40/ Lfm."
+        },
+        {
+          "name": "Träger zum Gegen- und Unterschrauben",
+          "sku": "16.0307",
+          "price": "5,90/ St.",
+          "image_description": "Bracket for interlocking assembly"
+        },
+        {
+          "name": "Abspannwinkel mit Spannschraube, verzinkt",
+          "sku": "180369-0000",
+          "price": "11,60/ St.",
+          "specifications": {
+            "dimensions": "35 mm x 80 mm"
+          },
+          "image_description": "Tension angle with clamping screw"
+        },
+        {
+          "name": "Ringträger zum Gegen- und Unterschrauben, verzinkt",
+          "sku": "16.0313",
+          "price": "14,90/ St.",
+          "image_description": "Ring bracket for interlocking assembly"
+        },
+        {
+          "name": "Spannwinkel für Seitenführung - Außen",
+          "sku": "H31",
+          "price": "2,80/ St.",
+          "image_description": "Tension angle for side guiding - outside"
+        },
+        {
+          "name": "Mittelträger",
+          "sku": "16.0296",
+          "price": "2,90/ St.",
+          "image_description": "Middle bracket"
+        },
+        {
+          "name": "Träger für Seitenführung innen",
+          "sku": "950",
+          "price": "7,50/ St.",
+          "image_description": "Bracket for internal side guiding"
+        },
+        {
+          "name": "Verstellbarer Abstandswinkel",
+          "sku": "16.0385",
+          "price": "25,50/ St.",
+          "image_description": "Adjustable angle bracket"
+        },
+        {
+          "name": "Kordelspreizer, PVC",
+          "sku": "160235",
+          "price": "1,40/ St.",
+          "image_description": "PVC cord spreader"
+        },
+        {
+          "name": "Endkappe für Oberschiene",
+          "sku": "160563",
+          "price": "1,40/ St.",
+          "image_description": "End cap for top rail"
+        },
+        {
+          "name": "Leiterkordel (verschiedene Farbe)",
+          "sku": "126026.xxxx",
+          "price": "1,40/ Lfm.",
+          "image_description": "Ladder cord (various colors)"
+        },
+        {
+          "name": "Endkappe für Oberschiene",
+          "sku": "160164-0000",
+          "price": "2,90/ St.",
+          "image_description": "End cap for top rail"
+        },
+        {
+          "name": "Bandklemme",
+          "sku": "162666-0000",
+          "price": "1,95/ St.",
+          "image_description": "Tape clamp"
+        },
+        {
+          "name": "Endkappe für Unterschiene",
+          "sku": "160165-0000",
+          "price": "1,95/ St.",
+          "image_description": "End cap for bottom rail"
+        },
+        {
+          "name": "Bandknopf für Unterschiene (rund)",
+          "sku": "162800-0000",
+          "price": "1,95/ St.",
+          "image_description": "Round tape button for bottom rail"
+        },
+        {
+          "name": "Stopfen für Unterschiene",
+          "sku": "150911-0000",
+          "price": "1,95/ St.",
+          "image_description": "Plug for bottom rail"
+        },
+        {
+          "name": "Schnurensammler, Metall für zwei Schnüre",
+          "sku": "16.0191",
+          "price": "0,80/ St.",
+          "image_description": "Cord collector, metal for two cords"
+        },
+        {
+          "name": "Schnurensammler, Metall für vier Schnüre",
+          "sku": "160202",
+          "price": "0,80/ St.",
+          "image_description": "Cord collector, metal for four cords"
+        },
+        {
+          "name": "Kurbelklemme",
+          "sku": "155386-0606",
+          "price": "3,30/ St.",
+          "image_description": "Crank clamp"
+        },
+        {
+          "name": "Schnurwickler, verzinkt",
+          "sku": "143.025000",
+          "price": "2,90/ St.",
+          "image_description": "Zinc-plated cord winder"
+        },
+        {
+          "name": "Schnurglocke",
+          "sku": "011-9100-000",
+          "price": "0,40/ St.",
+          "image_description": "Cord bell"
+        },
+        {
+          "name": "Schnurschloss",
+          "sku": "16.0074",
+          "price": "5,90/ St.",
+          "image_description": "Cord lock"
+        },
+        {
+          "name": "Zugnschnur 2,5 mm",
+          "sku": "25HO-XXX",
+          "price": "1,40/ Lfm.",
+          "specifications": {
+            "diameter": "2.5 mm"
+          },
+          "image_description": "Pull cord 2.5 mm"
+        }
+      ],
+      "page_notes": "ZUBEHÖR (Accessories) section with various rail and cord accessories and components for Jalousien (blinds).",
+      "page_number": 74
+    },
+    {
+      "products": [
+        {
+          "name": "Befestigung für Texband-/ Schnuraufnehmer links",
+          "sku": "16.0024",
+          "price": "2,90/ St.",
+          "image_description": "Illustration of a fastening component."
+        },
+        {
+          "name": "Befestigung für Texband-/ Schnuraufnehmer rechts",
+          "sku": "16.0018",
+          "price": "2,90/ St.",
+          "image_description": "Illustration of a fastening component."
+        },
+        {
+          "name": "Wendegetriebe",
+          "sku": "16.0096",
+          "price": "15,60/ St.",
+          "image_description": "Illustration of a gearbox."
+        },
+        {
+          "name": "Schnurklammer",
+          "sku": "16.0179",
+          "price": "0,40/ St.",
+          "image_description": "Illustration of a cord clip."
+        },
+        {
+          "name": "Spannseil 3,0mm Kunststoffummantelt",
+          "sku": "RASP06-C",
+          "price": "0,70/ Lfm.",
+          "image_description": "Illustration of a tension cord."
+        },
+        {
+          "name": "Führungskappe für Leiterbandaustritt Kunststoff",
+          "sku": "16.0558",
+          "price": "1,40/ St.",
+          "image_description": "Illustration of a guide cap."
+        },
+        {
+          "name": "Führungskappe für Leiterkordelaustritt Kunststoff",
+          "sku": "16.0557",
+          "price": "1,40/ St.",
+          "image_description": "Illustration of a guide cap."
+        },
+        {
+          "name": "Ausreiß-Schnurverbinder",
+          "sku": "156875-0155/-0952/-1858/-4950/-7199",
+          "price": "2,80/ St.",
+          "image_description": "Illustration of a snap hook."
+        },
+        {
+          "name": "Schnuraufwickler transparent",
+          "sku": "156144",
+          "price": "1,20/ St.",
+          "image_description": "Illustration of a transparent cord winder."
+        },
+        {
+          "name": "50 mm Endlosschnur",
+          "sku": "5002910003 to 50029100003",
+          "price": [
+            "15,60/ St.",
+            "17,10/ St.",
+            "18,20/ St.",
+            "19,40/ St.",
+            "22,00/ St.",
+            "27,20/ St."
+          ],
+          "description": "Available in various lengths and colors."
+        },
+        {
+          "name": "Kettenschnur- und Schnurverbinder",
+          "sku": "RB-CSD08-C",
+          "price": "2,80/ St.",
+          "image_description": "Illustration of a chain and cord connector.",
+          "additional_info": "Child safety approved"
+        },
+        {
+          "name": "Gelenkstück mit Kurbelabgang 90",
+          "sku": "816F101000",
+          "price": "71,30/ St.",
+          "image_description": "Illustration of a joint piece with crank output."
+        },
+        {
+          "name": "Gelenkstück mit Kurbelabgang 45",
+          "sku": "816F011000",
+          "price": "37,00/ St.",
+          "image_description": "Illustration of a joint piece with crank output."
+        },
+        {
+          "name": "Stegbandklemmer",
+          "sku": "16.0246-927",
+          "price": "0,90/ St.",
+          "description": "Available with different numbers."
+        },
+        {
+          "name": "Befestigungsklemme für Texband",
+          "sku": "16.2666",
+          "price": "4,20/ St.",
+          "image_description": "Illustration of a fastening clamp."
+        },
+        {
+          "name": "Stift für Bandspule",
+          "sku": "16.4014",
+          "price": "0,90/ St.",
+          "image_description": "Illustration of a pin for tape reel."
+        },
+        {
+          "name": "Kreuzgelenkkupplung",
+          "sku": "15.3151",
+          "price": "32,60/ St.",
+          "image_description": "Illustration of a universal joint coupling."
+        },
+        {
+          "name": "Umlenkrolle für Endlosschnur",
+          "sku": "16.2022",
+          "price": "17,10/ St.",
+          "image_description": "Illustration of a deflection pulley."
+        },
+        {
+          "name": "Getriebe 502 CD rechts",
+          "sku": "15.3085",
+          "price": "161,40/ St.",
+          "image_description": "Illustration of a gear."
+        }
+      ],
+      "page_notes": "This page includes accessory products listed with their descriptions, prices, and illustrations from the Luxan catalogue.",
+      "page_number": 75
+    },
+    {
+      "products": [
+        {
+          "name": "Bandtülle 7 mm",
+          "sku": "16.2800",
+          "price": "0,90/ St.",
+          "image_description": "Illustration of Bandtülle 7 mm"
+        },
+        {
+          "name": "50 mm Bandspulen Lager",
+          "sku": "16.4070",
+          "price": "3,10/ St.",
+          "image_description": "Illustration of 50 mm Bandspulen Lager"
+        },
+        {
+          "name": "Lagerkappe",
+          "sku": "16.4058",
+          "price": "1,40/ St.",
+          "image_description": "Illustration of Lagerkappe"
+        },
+        {
+          "name": "Bandspule mit 120° Feder 7 mm Vierkant",
+          "sku": "18.0925",
+          "price": "7,10/ St.",
+          "image_description": "Illustration of Bandspule mit 120° Feder 7 mm Vierkant"
+        },
+        {
+          "name": "Kurbelstange 13 mm grau",
+          "sku": "15.2364-7052",
+          "price": "16,90/ Lfm.",
+          "image_description": "Illustration of Kurbelstange 13 mm grau"
+        },
+        {
+          "name": "Manschette 13 mm",
+          "sku": "15.2379",
+          "price": "0,90/ St.",
+          "image_description": "Illustration of Manschette 13 mm"
+        },
+        {
+          "name": "Gelenkkurbel 13 mm",
+          "sku": "152391-0606",
+          "price": "54,50/ St.",
+          "image_description": "Illustration of Gelenkkurbel 13 mm"
+        },
+        {
+          "name": "Kurbelhalter",
+          "sku": "15.5386",
+          "price": "3,30/ St.",
+          "image_description": "Illustration of Kurbelhalter"
+        },
+        {
+          "name": "Kunststoff-Spindelsperre",
+          "sku": "16.4119",
+          "price": "21,20/ St.",
+          "image_description": "Illustration of Kunststoff-Spindelsperre"
+        },
+        {
+          "name": "Getriebe 502 CD links",
+          "sku": "15.3086",
+          "price": "161,40/ St.",
+          "image_description": "Illustration of Getriebe 502 CD links"
+        },
+        {
+          "name": "Getriebe 502 EE rechts/links",
+          "sku": "427F106",
+          "price": "84,80/ St.",
+          "image_description": "Illustration of Getriebe 502 EE rechts/links"
+        },
+        {
+          "name": "Getriebe EF mit Schnurscheibe",
+          "sku": "437F004",
+          "price": "226,40/ St.",
+          "image_description": "Illustration of Getriebe EF mit Schnurscheibe"
+        },
+        {
+          "name": "Verbinder für Wendestange 7 Vkt.",
+          "sku": "16.4103",
+          "price": "32,60/ St.",
+          "image_description": "Illustration of Verbinder für Wendestange 7 Vkt."
+        },
+        {
+          "name": "Halterrung 7 Vkt.",
+          "sku": "184.079",
+          "price": "4,20/ St.",
+          "image_description": "Illustration of Halterrung 7 Vkt."
+        },
+        {
+          "name": "50 Welle 7 mm Vierkant",
+          "sku": "16.2638",
+          "price": "8,40/ Lfm.",
+          "image_description": "Illustration of 50 Welle 7 mm Vierkant"
+        },
+        {
+          "name": "Zentrierkegel",
+          "sku": "15.3195",
+          "price": "11,30/ St.",
+          "image_description": "Illustration of Zentrierkegel"
+        },
+        {
+          "name": "Getriebehalter CD/EE",
+          "sku": "427F171",
+          "price": "12,50/ St.",
+          "image_description": "Illustration of Getriebehalter CD/EE"
+        }
+      ],
+      "page_notes": "Section title: Zubehör; Page 76 of Technik & Preise | 2026; Section header: JALOUSIEN 50 mm",
+      "page_number": 76
+    },
+    {
+      "products": [
+        {
+          "name": "Blende",
+          "description": "Blend: PVF - beschichtetes Aluminium (silber, weiß oder braun)",
+          "specifications": {
+            "Dicke": "1,5 mm und 2 mm",
+            "Preise": {
+              "1,5 mm - 1x gekantet": {
+                "50 mm": "32 € pro m",
+                "75 mm": "37 € pro m",
+                "100 mm": "43 € pro m",
+                "125 mm": "52 € pro m",
+                "150 mm": "57 € pro m",
+                "175 mm": "67 € pro m",
+                "200 mm": "75 € pro m",
+                "250 mm": "89 € pro m",
+                "300 mm": "106 € pro m",
+                "350 mm": "126 € pro m",
+                "400 mm": "134 € pro m",
+                "450 mm": "150 € pro m",
+                "500 mm": "165 € pro m"
+              },
+              "1,5 mm - 2x gekantet": {
+                "50 mm": "36 € pro m",
+                "75 mm": "43 € pro m",
+                "100 mm": "51 € pro m",
+                "125 mm": "57 € pro m",
+                "150 mm": "67 € pro m",
+                "175 mm": "73 € pro m",
+                "200 mm": "84 € pro m",
+                "250 mm": "96 € pro m",
+                "300 mm": "111 € pro m",
+                "350 mm": "130 € pro m",
+                "400 mm": "142 € pro m",
+                "450 mm": "159 € pro m",
+                "500 mm": "170 € pro m"
+              },
+              "2 mm - 1x gekantet": {
+                "50 mm": "35 € pro m",
+                "75 mm": "43 € pro m",
+                "100 mm": "53 € pro m",
+                "125 mm": "62 € pro m",
+                "150 mm": "75 € pro m",
+                "175 mm": "86 € pro m",
+                "200 mm": "93 € pro m",
+                "250 mm": "114 € pro m",
+                "300 mm": "133 € pro m",
+                "350 mm": "153 € pro m",
+                "400 mm": "174 € pro m",
+                "450 mm": "196 € pro m",
+                "500 mm": "218 € pro m"
+              },
+              "2 mm - 2x gekantet": {
+                "50 mm": "40 € pro m",
+                "75 mm": "51 € pro m",
+                "100 mm": "60 € pro m",
+                "125 mm": "70 € pro m",
+                "150 mm": "84 € pro m",
+                "175 mm": "90 € pro m",
+                "200 mm": "100 € pro m",
+                "250 mm": "118 € pro m",
+                "300 mm": "140 € pro m",
+                "350 mm": "162 € pro m",
+                "400 mm": "183 € pro m",
+                "450 mm": "204 € pro m",
+                "500 mm": "223 € pro m"
+              }
+            }
+          }
+        },
+        {
+          "name": "Aluminium - Profile",
+          "specifications": {
+            "Profile": "U - Profile und Winkel - Profile"
+          },
+          "image_description": "Diagramme der Aluminium-U-Profile und Winkel-Profile."
+        },
+        {
+          "name": "Aufpreise",
+          "description": "Kosten für spezielle Anpassungen",
+          "specifications": {
+            "Bis 3 m einteilige Blende": "",
+            "Über 3 m Zweiteilige mit Stoßverbinder": "28,00 €",
+            "Farbe RAL": "28,00 € / Lfm. min. 152 €",
+            "Endkappe (Zuschnitt bis 250 mm)": "36,00 € / Stück",
+            "Endkappe (Zuschnitt bis 500 mm)": "39,70 € / Stück"
+          }
+        }
+      ],
+      "page_notes": "Blend section for PVF-coated aluminum products, pricing and profile diagrams.",
+      "page_number": 77
+    },
+    {
+      "products": [],
+      "page_notes": "Blank page or page with no product information.",
+      "page_number": 78
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a large text 'JALOUSIEN 35 MM' vertically on the left side, list of codes including 'I35 SS, I35 SD, I35 MKES, I35 MKKu, I35 EL' in the middle-right, and an image of a cat by the window with blinds.",
+      "page_number": 79
+    },
+    {
+      "products": [
+        {
+          "name": "I35 SS",
+          "sku": "I35 SS",
+          "description": "Innen, 35 mm, Schnur, Schnur",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm",
+          "image_description": "Illustration of blinds with cord operation"
+        },
+        {
+          "name": "I35 SD",
+          "sku": "I35 SD",
+          "description": "Innen, 35 mm, Schnur, Drehstab",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm",
+          "image_description": "Illustration of blinds with rod operation"
+        },
+        {
+          "name": "I35 MKESs",
+          "sku": "I35 MKESs",
+          "description": "Innen, 35 mm, Monokomando, Endlosschnur seitlich",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm MKESs",
+          "image_description": "Illustration of blinds with side continuous cord operation"
+        },
+        {
+          "name": "I35 MKESv",
+          "sku": "I35 MKESv",
+          "description": "Innen, 35 mm, Monokomando, Endlosschnur vorne",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm MKESs",
+          "image_description": "Illustration of blinds with front continuous cord operation"
+        },
+        {
+          "name": "I35 MKKu",
+          "sku": "I35 MKKu",
+          "description": "Innen, 35 mm, Monokomando, Kurbel",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm MKESs",
+          "image_description": "Illustration of blinds with crank operation"
+        },
+        {
+          "name": "I35 EL",
+          "sku": "I35 EL",
+          "description": "Innen, 35 mm, elektrisch",
+          "additional_info": "Preisfindung: Preise Jalousie 35 mm MKESs",
+          "image_description": "Illustration of electrical blinds"
+        }
+      ],
+      "page_notes": "JALOUSIEN 35 mm, MODELÜBERSICHT",
+      "page_number": 80
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I35 SS",
+          "description": "Jalousie mit Schnur/ Schnur (Zug/Wendung)",
+          "specifications": {
+            "bedienart": "Schnur/Schnur",
+            "features": [
+              "Schnurschloss eingebaut in der Oberschiene",
+              "Schnurschloss wahlweise rechts oder links",
+              "Zugschnur mit Schnurklemme",
+              "Leiterkordel in der Standardausführung",
+              "optionale Seitenführung gegen Aufpreis: Stahlseil 1 mm, ummantelt mit transparentem Kunststoff"
+            ],
+            "größenbereich": {
+              "min_breite_LR_RL": "30 cm",
+              "min_breite_LL_RR": "45 cm",
+              "min_höhe": "30 cm",
+              "max_breite": "425 cm",
+              "max_höhe": "300 cm",
+              "max_fläche": "9 m²"
+            }
+          },
+          "image_description": "Diagram showing options without and with side guide.",
+          "additional_info": "Bitte berücksichtigen Sie, dass ab einer Breite von 260 cm zusätzlich Speditionskosten anfallen (Kosten auf Anfrage über unseren Kundenservice)."
+        }
+      ],
+      "page_notes": "Product description and specifications for Modell I35 SS; Bedienvarianten with diagrams.",
+      "page_number": 81
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I35 SD",
+          "description": "Jalousie mit Schnur/Drehstab (Zug/Wendung)",
+          "specifications": {
+            "operation": "Schnur/Drehstab",
+            "lock": "eingebaut in der Oberschiene",
+            "sideswitch": "wahlweise rechts oder links",
+            "pull_cord": "mit Schnurkleme",
+            "guide_cord": "Standardausführung",
+            "optional_side_guide": "Aufpreis: Stahlseil 1 mm, ummantelt mit transparentem Kunststoff",
+            "min width LR, RL": "30 cm",
+            "min width LL, RR": "45 cm",
+            "min height": "30 cm",
+            "max width": "425 cm",
+            "max height": "300 cm",
+            "max area": "9 m²"
+          },
+          "image_description": "Illustrations of blinds without and with side guide.",
+          "additional_info": "Der erste Buchstabe definiert die Schnurseite (Zug). Der zweite Buchstabe definiert die Stabseite (Wendung)."
+        }
+      ],
+      "page_notes": "Section header 'Modellbeschreibung' with detailed operation and size options for Jalousien 35 mm.",
+      "page_number": 82
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung (2 Seile)",
+          "sku": "SF 2S",
+          "price": "31"
+        },
+        {
+          "name": "Seitenführung (3 Seile)",
+          "sku": "SF 3S",
+          "price": "41"
+        }
+      ],
+      "page_notes": "Section header: Aufpreise; Category: Jalousien I35 SS, I35 SD",
+      "page_number": 83
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list for Jalousien (blinds) with dimensions in cm. It includes different widths and heights, along with corresponding price gradients. The section is labeled 'PREISE' and mentions 'Jalousien I35 SS, I35 SD'. Page 84 of Technik & Preise 2026. Aufpreise Seite 83 is noted at the bottom.",
+      "page_number": 84
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a pricing table for 'Jalousien I35 SS, I35 SD' with different dimensions in width and height. Prices are listed in a grid format based on these dimensions.",
+      "page_number": 85
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for Jalousien I35 SS, I35 SD with dimensions in cm and prices based on product groups (PG). No specific product information is listed.",
+      "page_number": 86
+    },
+    {
+      "products": [
+        {
+          "name": "Monokomando Endlosschnur",
+          "description": "Austritt vorne",
+          "specifications": {
+            "dimension": "60 mm"
+          },
+          "image_description": "Illustration of front exit endless cord mechanism"
+        },
+        {
+          "name": "Monokomando Endlosschnur",
+          "description": "Austritt seitlich",
+          "image_description": "Illustration of side exit endless cord mechanism"
+        },
+        {
+          "name": "Monokomando Kurbel 45°",
+          "description": "45°",
+          "specifications": {
+            "dimension": "35 mm"
+          },
+          "additional_info": "Achtung! - Schienenbreite = Breite+25mm Bestellbreite = Lamellenmaß",
+          "image_description": "Illustration of crank mechanism at 45 degrees"
+        },
+        {
+          "name": "Monokomando Elektrisch",
+          "image_description": "Illustration of electric command mechanism"
+        }
+      ],
+      "page_notes": "Section for Bedienvarianten Monokomando (Operating Options Monocommand). Categories include ENDLOSSCHNUR 35 MM, KURBEL 35 MM, and MOTOR 35 MM.",
+      "page_number": 87
+    },
+    {
+      "products": [
+        {
+          "name": "Modell 35 MKKu",
+          "description": "Jalousie mit Kurbel",
+          "specifications": {
+            "Oberschiene": "57 x 51 mm",
+            "Betriebsmodus": "Monokomando-Bedienung über Kurbel",
+            "Kurbelposition": "wahlweise links oder rechts",
+            "Bestellte Bedienlänge": "im ausgezogenem Zustand",
+            "Leiterkordel": "in der Standardausführung",
+            "optionale Seitenführung": "gegen Aufpreis: Stahlseil 1 mm, ummantelt mit transparentem Kunststoff",
+            "Min. Breite": "51 cm",
+            "Min. Höhe": "30 cm",
+            "Max. Breite": "425 cm",
+            "Max. Höhe": "300 cm",
+            "Max. Fläche": "9 m²"
+          },
+          "image_description": "Two illustrations of blinds; one without side guidance, one with side guidance."
+        }
+      ],
+      "page_notes": "JALOUSIEN 35 mm section, Bedienvarianten (operation options) illustration, mentions of technical services and extra costs for widths over 260 cm.",
+      "page_number": 88
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I35 MKES",
+          "description": "Jalousie mit Endlosschnur",
+          "image_description": "Illustrations of two types of blinds: MKESv and MKESs, with additional diagram showing dimensions.",
+          "specifications": {
+            "dimension": "57 x 51 mm",
+            "cord_operation": "Monokomando-Bedienung über Endlosschnur",
+            "operating_sides": "Endlosschnur wahlweise links oder rechts",
+            "cord_outlet": "Schnuraustritt vorne (Typ V) oder seitlich (Typ S)",
+            "type_S_gear_offset": "25 mm überstehend",
+            "type_V_gear_indent": "6 cm eingerückt",
+            "ladder_cord": "Standardausführung",
+            "optional_side_guiding": "Aufpreise: Stahlseil 1 mm, ummantelt mit transparenten Kunststoff"
+          },
+          "additional_info": "Achtung! auf Typ S. Bitte berücksichtigen Sie, dass ab einer Breite von 260 cm zusätzlich Speditionskosten anfallen (Kosten auf Anfrage über unseren Kundenservice)."
+        }
+      ],
+      "page_notes": "Section header: MODELLEBESCHREIBUNG. Page includes details on operation variants (Typ V and Typ S) and size specifications.",
+      "page_number": 89
+    },
+    {
+      "products": [
+        {
+          "name": "Modell I35 EL",
+          "description": "Jalousie mit Motor",
+          "specifications": {
+            "min_width_cm": "59",
+            "min_height_cm": "30",
+            "max_width_cm": "425",
+            "max_height_cm": "300",
+            "max_area_m2": "9"
+          },
+          "image_description": "Jalousie ohne Seitenführung und mit Seitenführung",
+          "additional_info": "- verschiedene Varianten zur Auswahl (Kabelsteuerung, Funksteuerung, Smarthome) mit Akku oder Netzteil Auswahl im Kapitel „elektrisches Zubehör“.\n- bei 230 V Motoren wird die Oberschiene von Jalousie I50 (57 x 51 mm) verwendet.\n- Leiterkordel in der Standardausführung,\n- optional Seitenführung gegen Aufpreis: Stahlseil 1 mm, ummantelt mit transparentem Kunststoff."
+        }
+      ],
+      "page_notes": "Modellbeschreibung for Jalousien 35 mm. Includes information on technical specifications and optional features.",
+      "page_number": 90
+    },
+    {
+      "products": [
+        {
+          "name": "Seitenführung (2 Seile)",
+          "sku": "SF 2S",
+          "price": "31"
+        },
+        {
+          "name": "Seitenführung (3 Seile)",
+          "sku": "SF 3S",
+          "price": "41"
+        },
+        {
+          "name": "Monokommandobedienung - Endlosschnur Typ V",
+          "sku": "MKEsv",
+          "price": "84"
+        },
+        {
+          "name": "Monokommandobedienung - Kurbel",
+          "sku": "MKKu",
+          "price": "72"
+        },
+        {
+          "name": "Monokommandobedienung - Kurbel abnehmbar",
+          "sku": "MKKu",
+          "price": "100"
+        },
+        {
+          "name": "Elektrische Jalousie",
+          "sku": "I35 EL",
+          "price": "Aufpreis je nach gewählter elektrischer Variante"
+        }
+      ],
+      "page_notes": "Section header 'AUFPREISE'. Image with three types of jalousies: I35 MKKu, I35 MKEss, I35 MKEsv. Brand logo 'LUXAN'.",
+      "page_number": 91
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains price charts for Jalousien I35 MKESs, I35 MKEsv, I35 MKKu, I35 EL. The chart lists pricing based on width and height in centimeters, with different price groups (PG) and sizes. No specific product details are provided. Aufpreise Seite 91 note indicates additional pricing information on page 91.",
+      "page_number": 92
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for Jalousien I35 MKESs, I35 MKEsv, I35 MKKu, I35 EL. The page contains a table with product width and height in cm, along with corresponding prices.",
+      "page_number": 93
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list table for Jalousien I35 MKESs, I35 MKESv, I35 MKKu, and I35 EL with dimensions in cm and prices in various categories (PG 0, 1, 3). The headers include width 'Breite [cm]' and height 'Höhe [cm]'. The table displays prices for widths from 320 cm to 430 cm and heights from 100 cm to 300 cm. The note at the bottom right 'Aufpreisse Seite 91' indicates additional prices on page 91.",
+      "page_number": 94
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains installation instructions for different mounting types of Luxan products. It includes diagrams and notes on measurements for installation, such as minimal distance from the window ledge and specifics for glass pane mounting. It provides technical details but no product listings.",
+      "page_number": 95
+    },
+    {
+      "products": [
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "50 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500100000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "75 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500150000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "100 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500200000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "110 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500220000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "120 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500240000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "125 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500250000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "130 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500260000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "135 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500270000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "150 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500300000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "175 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500350000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "180 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500360000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "200 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500400000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "225 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500450000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "250 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500500000"
+        },
+        {
+          "name": "Endlosschnur",
+          "specifications": {
+            "length": "350 cm",
+            "diameter": "5 mm",
+            "type": "50"
+          },
+          "sku": "500500700000"
+        }
+      ],
+      "page_notes": "Page contains information about installation types and package heights for Jalousien 35 mm, along with available endless cord lengths and specifications.",
+      "page_number": 96
+    },
+    {
+      "products": [
+        {
+          "name": "Kurbel",
+          "description": "feste Kurbel und abnehmbare Kurbel (gegen Aufpreis)",
+          "additional_info": "Kurbellänge in ausgestrecktem Zustand angeben, Bedienlänge wird von Oberkante der Oberschiene gemessen, silbergraue Kurbel, fest an der Jalousie montiert, Abnehmbare Kurbel gegen Aufpreis.",
+          "image_description": "Illustration of a fixed crank and removable crank."
+        },
+        {
+          "name": "Seitenführung",
+          "description": "Includes Stahlseil, kunststoffummantelt, 1.0 mm",
+          "specifications": {
+            "material": "Stahlseil, kunststoffummantelt",
+            "diameter": "1.0 mm"
+          },
+          "additional_info": "Stahlzugfeder als Verbindung für dauerhafte Spannung, Spannschuh für Seitenführung innen (im Preis enthalten), Spannwinkel für Seitenführung außen (im Preis enthalten)."
+        },
+        {
+          "name": "Trägerabmessungen",
+          "image_description": "Technical drawings with measurements for brackets."
+        }
+      ],
+      "page_notes": "Section on Montage - Montagearten with details on crank options and side guidance specifications.",
+      "page_number": 97
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains information on the perforations and number of slats for 35 mm blinds. It includes diagrams of mounting types, measurements for cords, and perforation details based on slat dimensions. There are tables with numbers of slats required for various heights and instructions about potential variances in slat colors.",
+      "page_number": 98
+    },
+    {
+      "products": [
+        {
+          "name": "Somfy 24V zero",
+          "sku": "M48 1241392",
+          "description": "Somfy Mittelmotor TLW 25, 24 V DC, 0,8 Nm, 30 U/min",
+          "price": "€ 207",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Somfy 24V plus",
+          "sku": "M48 1241392",
+          "description": "Somfy Mittelmotor TLW 25, 24 V DC, 0,8 Nm, 30 U/min",
+          "price": "€ 312",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Somfy 12V RTS zero",
+          "sku": "M17 1002393",
+          "description": "Somfy Motor Tilt & Lift 25 RTS CENTRAL 12 V DC, 0,5 Nm, 30 U/min",
+          "price": "€ 155",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Somfy 12V RTS plus",
+          "sku": "M17 1002393",
+          "description": "Somfy Motor Tilt & Lift 25 RTS CENTRAL 12 V DC, 0,5 Nm, 30 U/min",
+          "price": "€ 203",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Centralis DC IB (VB) Wandschalter",
+          "sku": "R23 1801513",
+          "description": "Centralis DC IB (VB) Wandschalter",
+          "price": "€ 105",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Funk-Empfänger 24V DC für 2 Antriebe",
+          "sku": "X05 1870143",
+          "price": "€ 159",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Aufputz-Funk-Empfänger RTS 24 V DC",
+          "sku": "X06 1870138",
+          "price": "€ 174",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil Power 1,5 DC - 24 V + Versorgungskabel 2,5 m ~230 V EU",
+          "sku": "P11 1871049/9010406",
+          "price": "€ 128",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil Power 2.7 DC - 230 V/24 V, 24 V DC, für 4 - 6 Antriebe",
+          "sku": "P12 1870156",
+          "price": "€ 200",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Aufputz-Netzteil mit integriertem Funkempfänger Power 2.5 DC RTS für 4-6 Antriebe",
+          "sku": "P13 1870157",
+          "price": "€ 420",
+          "brand": "Somfy"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 RTS Pure II EE",
+          "sku": "R08 1870403",
+          "price": "€ 55",
+          "brand": "Somfy"
+        },
+        {
+          "name": "5-Kanal-Handsender Situo 5 RTS Pure II EE",
+          "sku": "R09 1870419",
+          "price": "€ 98",
+          "brand": "Somfy"
+        },
+        {
+          "name": "1-Kanal-Handsende Situo 1 VAR RTS Pure II mit Scrollrad",
+          "sku": "R10 1811608",
+          "price": "€ 107",
+          "brand": "Somfy"
+        },
+        {
+          "name": "5-Kanal-Handsende Situo 5 VAR RTS Pure II mit Scrollrad",
+          "sku": "R11 1811610",
+          "price": "€ 145",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Wandsender Smoove Origin RTS",
+          "sku": "R17 1811045",
+          "price": "€ 64",
+          "brand": "Somfy"
+        },
+        {
+          "name": "16-Kanal-Handsende Telis 16 RTS Pure",
+          "sku": "R18 1811079",
+          "price": "€ 299",
+          "brand": "Somfy"
+        },
+        {
+          "name": "6-Kanal-Handsende Telis 6 Chronis RTS Pure",
+          "sku": "R19 1805215",
+          "price": "€ 335",
+          "brand": "Somfy"
+        },
+        {
+          "name": "Netzteil 12 V AC/DC",
+          "sku": "P10 1822445",
+          "price": "€ 48",
+          "brand": "Somfy"
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN - JALOUSIEN ALU 35 MM",
+      "page_number": 99
+    },
+    {
+      "products": [
+        {
+          "name": "Mittelmotor CM-07 EVE Matter",
+          "sku": "CM-07-E-V",
+          "brand": "Coulisse",
+          "price": "€ 200",
+          "category": "Coulisse Motion 24 V"
+        },
+        {
+          "name": "Mittelmotor CM-07",
+          "sku": "CM-07",
+          "brand": "Coulisse",
+          "price": "€ 133",
+          "category": "Coulisse Motion 24 V"
+        },
+        {
+          "name": "Mittelmotor CM-07 EVE Matter",
+          "sku": "CM-07-E-V",
+          "brand": "Coulisse",
+          "price": "€ 250",
+          "category": "EVE Motion AKKU zero",
+          "description": "Dies ist die Grundvariante eines Motors mit Akku, die Sie mit einem Ladegerät und verschiedenen Fernbedienungen ergänzen können. Dieser Motor ist durch EVE Matter mit den meisten Smarthome-Steuerelementen zur Hausautomatisierung kompatibel."
+        },
+        {
+          "name": "Mittelmotor CM-07",
+          "sku": "CM-07",
+          "brand": "Coulisse",
+          "price": "€ 183",
+          "category": "Motion AKKU zero"
+        },
+        {
+          "name": "1-Kanal-Fernbedienung",
+          "sku": "CM-11",
+          "brand": "Coulisse",
+          "price": "€ 239",
+          "category": "Motion AKKU plus"
+        },
+        {
+          "name": "1-Kanal-Handsencer",
+          "sku": "CM-11",
+          "brand": "Coulisse",
+          "price": "€ 27",
+          "category": "Zubehör für Variante Motion AKKU"
+        },
+        {
+          "name": "5-Kanal-Handsencer",
+          "sku": "CM-12",
+          "brand": "Coulisse",
+          "price": "€ 36"
+        },
+        {
+          "name": "15-Kanal-Handsencer",
+          "sku": "CM-13",
+          "brand": "Coulisse",
+          "price": "€ 50"
+        },
+        {
+          "name": "Design 4-Kanal-Wandfernbedienung",
+          "sku": "CM-16",
+          "brand": "Coulisse",
+          "price": "€ 150"
+        },
+        {
+          "name": "Design 4-Kanal Tischfernbedienung",
+          "sku": "CM-17",
+          "brand": "Coulisse",
+          "price": "€ 69"
+        },
+        {
+          "name": "Matter WiFi Bridge",
+          "sku": "CM-55",
+          "brand": "Coulisse",
+          "price": "€ 221"
+        },
+        {
+          "name": "WiFi Hub Motion - USB Ausführung",
+          "sku": "CMD-01",
+          "brand": "Coulisse",
+          "price": "€ 136"
+        },
+        {
+          "name": "Akku, außenliegend",
+          "sku": "CM-39",
+          "brand": "Coulisse",
+          "price": "€ 79"
+        },
+        {
+          "name": "Ladegerät 12 V mit USB-C Kabel",
+          "sku": "DC220-CM-41",
+          "brand": "Coulisse",
+          "price": "€ 29"
+        },
+        {
+          "name": "Dauerstromnetzteil 12 V",
+          "sku": "CM-21-EU",
+          "brand": "Coulisse",
+          "price": "€ 34",
+          "additional_info": "Nicht in Kombination mit Akku"
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN for JALOUSIEN ALU 35 MM",
+      "page_number": 100
+    },
+    {
+      "products": [
+        {
+          "name": "MITTELMOTOR SOMFY TLW 25",
+          "description": "Motor für Kabelsteuerung, Verbindungskabel ca. 1m ohne Netzteil, Nennspannung 24 V DC, Endlagen: elektronisch, minimale Produktbreite 61 cm, maximale Fläche für einen Motor: 4,25 m², für 2 Motoren: 7 m², durch Funk-Nachrüstung kann der Motor auch per Handsender oder RTS-Wandsender gesteuert werden.",
+          "specifications": {
+            "Artikelnummer": "1870138"
+          },
+          "image_description": "Cylindrical motor with attached cable."
+        },
+        {
+          "name": "MOTOR SOMFY TILT&LIFT 25 RTS CENTRAL",
+          "description": "Spannungsversorgung: 12 VDC SELV, Drehmoment: 0,5 Nm, Auffahrgeschwindigkeit: 30 U/min, Abfahrgeschwindigkeit: 45 U/min, Endlagen: elektronisch.",
+          "specifications": {
+            "Mindestabstand zwischen den beiden Endlagen": "1 Umdrehung",
+            "Maximaler Abstand zwischen den beiden Endlagen": "110 Umdrehungen",
+            "Maximale Betriebsdauer": "6 Min",
+            "Betriebstemperatur": "0°C bis +60°C",
+            "Schutzart": "IP20",
+            "Maximale Anzahl speicherbarer RTS-Funksender": "12"
+          },
+          "image_description": "Motor with attached bracket and cable."
+        },
+        {
+          "name": "SCHALTER SOMFY CENTRALIS DB IB (VB)",
+          "description": "Zur Montage in einer Unterputzdose - Schaltdose 60 mm Ø oder passende Aufputz-Kappe geeignet.",
+          "specifications": {
+            "Betriebsspannung": "20-34 V DC SELV",
+            "Spannung Steuerleitung": "SELV",
+            "Schaltkontaktbelastbarkeit Relais": "24 VDC/1,5 A",
+            "Schutzart": "IP40",
+            "Betriebstemperatur": "+5°C - +40°C",
+            "Dimensionen": "80 x 80 x 17 + 33 mm",
+            "Umgebungsbedingungen": "trockene Wohnräume"
+          },
+          "image_description": "Square wall switch with buttons."
+        },
+        {
+          "name": "AUFPUTZ-FUNKEMPFÄNGER SOMFY 24V DC",
+          "description": "Für Aufputzmontage geeignet."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR - Information about electrical accessories for blinds and shading systems, including motors, switches, and receivers.",
+      "page_number": 101
+    },
+    {
+      "products": [
+        {
+          "name": "FUNK-EMPFÄNGER 24V",
+          "description": "Für 2 Antriebe, rund, für Oberschiene.",
+          "image_description": "Cylindrical component."
+        },
+        {
+          "name": "NETZTEIL SOMFY POWER 1,5 DC 24 V",
+          "description": "Eingang: 100-240 VAC 50-60 Hz 0,75-1,5 A; IEC320 C8 (2P), Ausgang: 24 VDC SELV +/- 5% 2,7 A, wird mit dem Versorgungskabel 2,5 m ~230 V EU mitgeliefert.",
+          "specifications": {
+            "dimensions": "110,5 x 53 x 30 mm"
+          },
+          "image_description": "Rectangular power supply with cable."
+        },
+        {
+          "name": "NETZTEIL SOMFY POWER 2.7 DC 230 V/ 24 V",
+          "description": "230 V AC/24 V DC Transformator zur Versorgung von bis zu 6 St. 24 V DC Motoren für Jalousien, für Montage in einem erwärmten Innenraum.",
+          "specifications": {
+            "dimensions": "198-255 V AC 50 Hz 0,5 A, 155 x 155 x 54 mm, Farbe: Weiß"
+          },
+          "image_description": "Square power supply with ports."
+        },
+        {
+          "name": "NETZTEIL MIT INTEGRIERTEM RTS-EMPFÄNGER SOMFY 2,5 DC RTS",
+          "description": "Gruppen-Funksteuerung mit integriertem Netzteil zum Anschluss von bis zu 24 V-Antrieben. Keine Verdrahtung zur Bedienstelle, kompatibel mit allen Somfy-Handsändern, integrierter Transformator 230 V/ 24 V DC.",
+          "specifications": {
+            "dimensions": "155 x 155 x 54 mm, Farbe: Weiß"
+          },
+          "image_description": "Square power supply with integrated receiver."
+        },
+        {
+          "name": "SITUO 1 RTS PURE II",
+          "description": "1-Kanal-Handsänder, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433,42 MHz, Funkreichweite: 20 m.",
+          "specifications": {
+            "dimensions": "136 x 42 x 17 mm"
+          },
+          "image_description": "Slim remote control."
+        }
+      ],
+      "page_notes": "Section header: ELEKTRISCHES ZUBEHÖR. VARIANTE SOMFY 24 V and VARIANTE SOMFY 2 RTS labels.",
+      "page_number": 102
+    },
+    {
+      "products": [
+        {
+          "name": "SITUO 5 RTS PURE II",
+          "description": "- 5-Kanal-Handsener,\n- Scrollrad zur präzisen Wendung der Lamellen,\n- Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium,\n- Sendefrequenz: 433,42 MHz,\n- Funkreichweite: 20 m,\n- Dimensionen: 136 x 42 x 17 mm.",
+          "image_description": "Remote control with buttons for operation."
+        },
+        {
+          "name": "SITUO 1 VAR RTS PURE II",
+          "description": "- 1-Kanal-Handsener,\n- Scrollrad zur präzisen Wendung der Lamellen,\n- Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium,\n- Sendefrequenz: 433,42 MHz,\n- Funkreichweite: 20 m,\n- Dimensionen: 136 x 42 x 17 mm.",
+          "image_description": "Remote control with single-channel operation."
+        },
+        {
+          "name": "SITUO 5 VAR RTS PURE II",
+          "description": "- 5-Kanal-Handsener,\n- Scrollrad zur präzisen Wendung der Lamellen,\n- Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium,\n- Sendefrequenz: 433,42 MHz,\n- Funkreichweite: 20 m,\n- Dimensionen: 136 x 42 x 17 mm.",
+          "image_description": "Remote control with five-channel operation."
+        },
+        {
+          "name": "FUNKSENDER SOMFY TELIS 16 RTS PURE",
+          "description": "- bis zu 16 Kanäle ansteuerbar,\n- individuelle Namensgebung pro Kanal möglich,\n- jedem Kanal kann ein Symbol Rollladen, Markise oder Dachfensterrollladen zugeordnet werden,\n- AUF- und AB-Taste zum Öffnen und Schließen,\n- die „my“-Taste erlaubt das schnelle Aufrufen der individuellen Lieblingsposition (z. B. optimale Schattenposition),\n- großes Display mit Digitalanzeige,\n- verwendbar mit allen externen oder integrierten RTS-Empfängern,\n- drahtlos/die Telis 6 Chronis RTS wird mit zwei 1,5 V Batterien vom Typ AAA (LR3) mit Energie versorgt,\n- Batteriezustandsanzeige,\n- Betriebstemperatur: 0°C bis +60°C,\n- Funkfrequenz: 433,42 MHz,\n- Schutzgrad: IP 30,\n- Dimensionen: 145 x 47 x 18 mm,\n- Farbe: Weiß.",
+          "image_description": "Remote control with large display and multiple buttons."
+        }
+      ],
+      "page_notes": "ELEKTRISCHES ZUBEHÖR section from a catalogue with various remote controls for blinds and awnings.",
+      "page_number": 103
+    },
+    {
+      "products": [
+        {
+          "name": "Handsende Somfy Telis 6 Chronis RTS Pure",
+          "description": "Bis zu 6 Kanäle ansteuerbar, De-/aktivieren der Sonnenfunktion, manuell pro Kanal, individuelle Benennung der Kanäle möglich, AUF- und AB-Taste zum Öffnen und Schließen, Anfahren einer Zwischenposition, Schaltzeiten pro Tag, Einstellen von Tages- und Wochenprogramme, voreingestellte Öffnungs- und Schließzeiten, automatische Einstellung von Uhrzeit und Datum, Cosmic-Programm, Security-Urlaubsabschaltung, automatische Umstellung von Sommer- auf Winterzeit, batteriebetrieben, Batteriezustandsanzeige, großes Display, Betriebstemperatur: 0°C bis +60°C.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Remote control with buttons."
+        },
+        {
+          "name": "Funkwahnsender Somfy Smoove Origin RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen, Befestigungsplatte zur einfachen Montage, LED zur Sendeanzeige, drahtlos/batteriebetrieben, Funkfrequenz: 433,42 MHz, IP Schutzklasse: IP 30.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "Dimensionen": "50 x 50 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "Square wall-mounted control unit."
+        }
+      ],
+      "page_notes": "Elektrisches Zubehör for Jalousien 35 mm, Technik & Preise | 2026.",
+      "page_number": 104
+    },
+    {
+      "products": [
+        {
+          "name": "Stecker-Netzteil Somfy Power Supply",
+          "description": "12 V AC/DC Netzteil für einen Antrieb, passend für Motor Somfy Tilt&Lift RTS.",
+          "image_description": "Power supply plug image."
+        },
+        {
+          "name": "Mittelmotor CM-07",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App.",
+          "image_description": "Motor image."
+        },
+        {
+          "name": "Mittelmotor CM-07-E-V",
+          "description": "Mittelmotor 0,8 Nm 34 U/min, Versorgung: Akku CM-38, Akku CM-39, Stromkabel CM-21-EU, Mindestbreite (Anlage): 75/70/60 cm (abhängig von Versorgung), Bedienung: Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "image_description": "Motor image."
+        },
+        {
+          "name": "Akku CM-38",
+          "description": "12 V Lithium-Ionen-Akkumulator, wiederaufladbar, innenliegend, Montage im Oberprofil.",
+          "image_description": "Battery image."
+        },
+        {
+          "name": "Akku CM-39",
+          "description": "12 V Lithium-Ionen-Akkumulator, 2700 mAh, wiederaufladbar, außenliegend, externe Installation.",
+          "image_description": "Battery image."
+        },
+        {
+          "name": "Ladegerät Coulisse 12 V",
+          "sku": "DC220+CM-41",
+          "description": "Transformator 12 V, USB-C Ladekabel.",
+          "image_description": "Charger and cable image."
+        },
+        {
+          "name": "1-Kanal Handsender CM-11",
+          "description": "1-Kanal-Handsender, Betriebsspannung: 3 V-Batterie Typ CR 2430-Lithium, Sendefrequenz: 433 MHz, Funkreichweite: 30 m, Dimensionen: 120 x 45 x 14 mm.",
+          "image_description": "Remote control image."
+        }
+      ],
+      "page_notes": "Section: Elektrisches Zubehör",
+      "page_number": 105
+    },
+    {
+      "products": [
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a handheld remote with buttons."
+        },
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a handheld remote with multiple buttons."
+        },
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          },
+          "image_description": "Image of a wall-mounted control panel."
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "2x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          },
+          "image_description": "Image of a tabletop remote with controls."
+        },
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus.",
+          "specifications": {
+            "max_Motoren": "30",
+            "max_Szenarien": "20",
+            "max_Timer": "20",
+            "Frequenz": "433 MHz; 2,4 GHz",
+            "Funkbereich": "30 m",
+            "Stromquelle": "USB-C"
+          },
+          "image_description": "Image of a small, rectangular electronic device with a cable."
+        },
+        {
+          "name": "MOTION WIFI HUB USB CM-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk.",
+          "image_description": "Image of a USB dongle with a cap."
+        }
+      ],
+      "page_notes": "Elektrisches Zubehör section including remote controls and network bridges.",
+      "page_number": 106
+    },
+    {
+      "products": [
+        {
+          "name": "Oberschiene 35 mm aus Stahl",
+          "sku": "11.5529",
+          "price": "13,90/ Lfm."
+        },
+        {
+          "name": "Unterschiene 35 mm aus Stahl",
+          "sku": "11.5625",
+          "price": "16,10/ Lfm."
+        },
+        {
+          "name": "Endkappe für Oberschiene",
+          "sku": "1506507178",
+          "price": "3,10/ St."
+        },
+        {
+          "name": "Universal-Träger verzinkt",
+          "sku": "15.0171",
+          "price": "4,80/ St."
+        },
+        {
+          "name": "Mittelträger verzinkt",
+          "sku": "15.0165",
+          "price": "4,80/ St."
+        },
+        {
+          "name": "Haltestift",
+          "sku": "15.0337",
+          "price": "2,30/ St."
+        },
+        {
+          "name": "Gabel für Wendestab",
+          "sku": "15.0604",
+          "price": "2,80/ St."
+        },
+        {
+          "name": "Wendestab aus plexi (max. 3 m länge)",
+          "sku": "150498",
+          "price": "4,10/ Lfm."
+        },
+        {
+          "name": "Wendevorrichtung - Schnurbedienung",
+          "sku": "15.0433",
+          "price": "6,90/ St."
+        },
+        {
+          "name": "Leiterkordelspreizer",
+          "sku": "15.0644",
+          "price": "0,60/ St."
+        },
+        {
+          "name": "Wenderolle für leiterkordel/ Stegband",
+          "sku": "15.0647",
+          "price": "9,70/ St."
+        },
+        {
+          "name": "Schnurklemer",
+          "sku": "16.0179",
+          "price": "0,40/ St."
+        },
+        {
+          "name": "Gelenkkurbel 13 mm",
+          "sku": "152391-0606",
+          "price": "54,50/ St."
+        },
+        {
+          "name": "Kurbelhalter",
+          "sku": "15.5386",
+          "price": "3,30/ St."
+        },
+        {
+          "name": "Endkappe für Unterschiene",
+          "sku": "1505617178",
+          "price": "2,60/ St."
+        },
+        {
+          "name": "Ringträger verzinkt",
+          "sku": "15.0187",
+          "price": "10,00/ St."
+        },
+        {
+          "name": "Stegbandklemmer",
+          "sku": "15.0309",
+          "price": "1,30/ St."
+        },
+        {
+          "name": "Wendevorrichtung - Stabbebedienung",
+          "sku": "15.0593",
+          "price": "8,60/ St."
+        },
+        {
+          "name": "Schnurschloss",
+          "sku": "1506400000",
+          "price": "8,90/ St."
+        },
+        {
+          "name": "Stopfen für Unterschiene",
+          "sku": "1509120000",
+          "price": "1,30/ St."
+        },
+        {
+          "name": "35 Lager - Leiterkordel 35 Lager - Stegband",
+          "sku": "15.0645 15.0646",
+          "price": "2,80/ St. 3,10/ St."
+        },
+        {
+          "name": "Führungsöse",
+          "sku": "15.3212",
+          "price": "0,50/ St."
+        },
+        {
+          "name": "H31 Spannwinkel für Seitenführung außen verzinkt",
+          "price": "2,90/ St."
+        },
+        {
+          "name": "Bedennungsschnur 2,5 (verschiedene Farben)",
+          "price": "0,80/ Lfm."
+        },
+        {
+          "name": "Leiterkordel (verschiedene Farben)",
+          "sku": "12.5512",
+          "price": "1,40/ Lfm."
+        },
+        {
+          "name": "seitlicher Träger (verschiedene Farben)",
+          "sku": "15.0159",
+          "price": "15,90/ St."
+        },
+        {
+          "name": "Getriebehalter CD/EE",
+          "sku": "427F171",
+          "price": "12,50/ St."
+        },
+        {
+          "name": "Kunststoff-Spindelseprre",
+          "sku": "16.4119",
+          "price": "21,20/ St."
+        }
+      ],
+      "page_notes": "ZUBEHÖR section with a list of various accessories and their prices.",
+      "page_number": 107
+    },
+    {
+      "products": [
+        {
+          "name": "Endlosschnur",
+          "sku": "5002910003",
+          "price": "15,60/ St.",
+          "specifications": {
+            "length": "50 cm"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002915003",
+          "price": "17,10/ St.",
+          "specifications": {
+            "length": "75 5,0 mm"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002920003",
+          "price": "17,10/ St.",
+          "specifications": {
+            "length": "100 17,10/ St."
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002950003",
+          "price": "17,10/ St.",
+          "specifications": {
+            "length": "125 17,10/ St.",
+            "color": "schwarz"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002930003",
+          "price": "17,10/ St.",
+          "specifications": {
+            "length": "150",
+            "color": "weiß"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002935003",
+          "price": "18,20/ St.",
+          "specifications": {
+            "length": "175"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002940003",
+          "price": "18,20/ St.",
+          "specifications": {
+            "length": "200"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002950005",
+          "price": "19,40/ St.",
+          "specifications": {
+            "length": "250"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002960003",
+          "price": "19,40/ St.",
+          "specifications": {
+            "length": "300"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002980003",
+          "price": "22,00/ St.",
+          "specifications": {
+            "length": "400"
+          }
+        },
+        {
+          "name": "Endlosschnur",
+          "sku": "5002910003",
+          "price": "27,20/ St.",
+          "specifications": {
+            "length": "500"
+          }
+        },
+        {
+          "name": "Gelenkstück mit Kurbelabgang 90",
+          "sku": "816F610000",
+          "price": "71,30/ St.",
+          "image_description": "Illustration of a joint with crank exit 90"
+        },
+        {
+          "name": "Gelenkstück mit Kurbelabgang 45",
+          "sku": "816F011000",
+          "price": "37,00/ St.",
+          "image_description": "Illustration of a joint with crank exit 45"
+        },
+        {
+          "name": "Stegbandklemmer",
+          "sku": [
+            "16.0246",
+            "-927",
+            "-989",
+            "-915",
+            "-988",
+            "-942",
+            "-944",
+            "-935",
+            "-961",
+            "-926",
+            "-934",
+            "-756"
+          ],
+          "price": "0,90/ St.",
+          "image_description": "Image of a clamp"
+        },
+        {
+          "name": "Kreuzgelenk-Kupplung",
+          "sku": "15.3151",
+          "price": "32,60/ St.",
+          "image_description": "Illustration of a coupling"
+        },
+        {
+          "name": "Befestigungsklemme für Texband",
+          "sku": "16.2666",
+          "price": "4,20/ St.",
+          "image_description": "Image of a clamp for Texband"
+        },
+        {
+          "name": "Umlenkrolle für Endlosschnur",
+          "sku": "16.2022",
+          "price": "17,10/ St.",
+          "image_description": "Illustration of a deflection roller for endless cord"
+        },
+        {
+          "name": "Stift für Bandspule",
+          "sku": "16.4014",
+          "price": "0,90/ St.",
+          "image_description": "Image of pin for spool"
+        },
+        {
+          "name": "Getriebe 502 CD rechts",
+          "sku": "15.3085",
+          "price": "161,40/ St.",
+          "image_description": "Image of gearbox 502 CD right"
+        },
+        {
+          "name": "Bandtülle 7 mm",
+          "sku": "16.2800",
+          "price": "0,90/ St.",
+          "image_description": "Image of band grommet 7 mm"
+        },
+        {
+          "name": "Getriebe 502 EE rechts/links",
+          "sku": "427F106",
+          "price": "84,80/ St.",
+          "image_description": "Image of gearbox 502 EE right/left"
+        },
+        {
+          "name": "50 mm Bandspulenger",
+          "sku": "16.4070",
+          "price": "3,10/ St.",
+          "image_description": "Image of 50 mm spool gear"
+        },
+        {
+          "name": "Getriebe EF mit Schnurscheibe",
+          "sku": "437F004",
+          "price": "226,40/ St.",
+          "image_description": "Image of EF gearbox with cord wheel"
+        },
+        {
+          "name": "Lagerkappe",
+          "sku": "16.4058",
+          "price": "1,40/ St.",
+          "image_description": "Image of bearing cap"
+        },
+        {
+          "name": "Bandspule mit 120° Feder 7 mm Vierkant",
+          "sku": "18.0925",
+          "price": "7,10/ St.",
+          "image_description": "Image of band spool with 120° spring"
+        },
+        {
+          "name": "Verbinder für Wendestange 7 Vkt.",
+          "sku": "16.4103",
+          "price": "32,60/ St.",
+          "image_description": "Image of connector for turning rod 7 Vkt."
+        },
+        {
+          "name": "Kurbelstange 13",
+          "sku": "15.2364-7052",
+          "price": "16,90/ Lfm.",
+          "specifications": {
+            "color": "grau"
+          }
+        },
+        {
+          "name": "Haltering 7 Vkt.",
+          "sku": "184.079",
+          "price": "4,20/ St.",
+          "image_description": "Image of retaining ring 7 Vkt."
+        },
+        {
+          "name": "Manschette 13",
+          "sku": "15.2379",
+          "price": "0,90/ St.",
+          "image_description": "Image of cuff 13"
+        },
+        {
+          "name": "50 Welle 7 mm Vierkant",
+          "sku": "16.2638",
+          "price": "8,40/ St.",
+          "image_description": "Image of 50 shaft 7 mm square"
+        },
+        {
+          "name": "Trichterkupplung 13 mm",
+          "sku": "532F119",
+          "price": "19,00/ St.",
+          "image_description": "Image of funnel coupling 13 mm"
+        },
+        {
+          "name": "Zentrierkegel",
+          "sku": "15.3195",
+          "price": "10,00/ St.",
+          "image_description": "Image of centering cone"
+        }
+      ],
+      "page_notes": "Section header: MONOKOMANDO-ZUBEHÖR. Category: Jalousien 35 mm accessories.",
+      "page_number": 108
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a section header 'UMBAU- UND REPARATURPREISE'. It features an image of a cat next to a calculator and window blinds, suggesting a theme related to remodeling and repair prices.",
+      "page_number": 109
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no product information visible.",
+      "page_number": 110
+    },
+    {
+      "products": [
+        {
+          "name": "35/50/70 mm Zugschnüre austauschen",
+          "price": "50",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Leiterbänder / Leiterkordeln tauschen",
+          "price": "72",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Höhe verlängern",
+          "price": "72",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Höhe kürzen",
+          "price": "58",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Breite kürzen asymmetrisch ohne SF",
+          "price": "64",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Breite kürzen symmetrisch ohne SF",
+          "price": "104",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Breite kürzen asymmetrisch mit SF",
+          "price": "91",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Breite kürzen symmetrisch mit SF",
+          "price": "137",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm nachträgliche SF",
+          "price": "104",
+          "additional_info": "Grundpreis"
+        },
+        {
+          "name": "35/50/70 mm Reinigung",
+          "price": "96",
+          "additional_info": "Grundpreis"
+        }
+      ],
+      "page_notes": "Page section is titled 'UMBAU - UND REPARATURPREISE'. Additional notes mention that the prices do not include transport costs and detail shipping fee of 22,00 EUR per package within Germany.",
+      "page_number": 111
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank.",
+      "page_number": 112
+    },
+    {
+      "products": [],
+      "page_notes": "This page is a cover or section header titled 'BESTELLFORMULARE' with mentions of order forms for 'JALOUSIEN 35 MM' and 'JALOUSIEN 50 MM'. It features an image of a cat sitting by a window with apples and a plant.",
+      "page_number": 113
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for 'Jalousien 35 MM'. It includes sections for company information, product measurements, installation options, and additional instructions. The form requires details such as dimensions, color, side guidance, mounting type, and child safety options.",
+      "page_number": 114
+    },
+    {
+      "products": [],
+      "page_notes": "Order form for 'Jalousien 50 MM' featuring types 150 A, 150 S (Schnur), and 150 K (Kurbel). Includes instructions for completing the form including options for type, measurements, color, installation instructions, child safety, and remarks. The page is used for specifying details of blinds such as model, width, height, color, bedienung (operation), and more.",
+      "page_number": 115
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no product information.",
+      "page_number": 116
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains an image of a cat looking out of a window next to blinds with the text 'AGB'. There are no product details visible.",
+      "page_number": 117
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains Allgemeine Geschäftsbedingungen (Terms and Conditions) related to sales, payments, delivery terms, and related legal matters for Luxan Kraxxy Sonnenschutzsysteme GmbH. It includes sections on general terms, offering and pricing, payments, delivery times, and deadlines.",
+      "page_number": 118
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains the terms and conditions related to delivery, assembly, and defect liability. It includes sections: § 5 Fulfillment Location - Shipping - Delivery - Transfer of Risk, § 6 Assembly, and § 7 Defects - Warranty. No product information is present.",
+      "page_number": 119
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains general terms and conditions (AGB) related to warranty and ownership rights, with no specific product information.",
+      "page_number": 120
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains general terms and conditions (AGB), with sections on liability and applicable law. It includes legal disclaimers and jurisdiction information. No product details are present.",
+      "page_number": 121
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains company contact information for Luxan Krawczyk Sonnenschutzsysteme GmbH, including addresses, phone numbers, fax, email, and business registration details.",
+      "page_number": 122
     }
   ],
-  "total_products": 148
+  "total_products": 388
 }
