@@ -18,6 +18,7 @@ import time
 from pathlib import Path
 
 import fitz  # PyMuPDF
+from dotenv import load_dotenv
 from openai import OpenAI
 
 # ---------------------------------------------------------------------------
@@ -201,7 +202,11 @@ def main():
         print(f"Error: '{folder}' is not a directory.")
         sys.exit(1)
 
-    # Check for API key
+    # Load API key from ../Converter/.env if not already set
+    env_file = folder / ".." / "Converter" / ".env"
+    if env_file.exists():
+        load_dotenv(env_file, override=False)
+
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         print("Error: OPENAI_API_KEY environment variable is not set.")

@@ -238,7 +238,4297 @@
       ],
       "page_notes": "Rollo Absolute section with technical specifications and options for Rollo with mounting profile.",
       "page_number": 14
+    },
+    {
+      "products": [
+        {
+          "name": "Kette R2A",
+          "specifications": {
+            "min_width_20cm": {
+              "fabric_thickness": "bis 150 g/m²",
+              "system_S": {
+                "max_width": "250 cm"
+              }
+            },
+            "min_width_80cm": {
+              "fabric_thickness": "bis 450 g/m²",
+              "system_M": {
+                "max_width": "270 cm"
+              }
+            }
+          }
+        },
+        {
+          "name": "Mittelzug R2B",
+          "specifications": {
+            "min_width_20cm": {
+              "fabric_thickness": "bis 150 g/m²",
+              "system_S": {
+                "max_width": "250 cm"
+              }
+            },
+            "min_width_80cm": {
+              "fabric_thickness": "bis 450 g/m²",
+              "system_M": {
+                "max_width": "270 cm"
+              }
+            }
+          }
+        },
+        {
+          "name": "Elektrisch R2C",
+          "specifications": {
+            "min_width_65cm": {
+              "fabric_thickness": "bis 150 g/m²",
+              "system_S": {
+                "max_width": "250 cm"
+              }
+            },
+            "fabric_thickness": "bis 450 g/m²",
+            "system_M": {
+              "max_width": "270 cm"
+            }
+          },
+          "additional_info": "Bei diesem Modell stehen mehrere Motoren und zusätzliches Elektro-Zubehör zur Auswahl: elektrische Varianten. Register 6."
+        },
+        {
+          "name": "Außenliegend",
+          "sku": "01-E, 01-W, 01-BK",
+          "description": "bei Bedienung Mittelzug Lieferung mit Schnur und Quaste - diese Unterleiste wird ab Rollobreite 150 cm mit BO-Stoff eingesetzt, wenn keine andere Unterleiste gewählt wird",
+          "specifications": {
+            "material": "Aluminium",
+            "farbe": [
+              "eloxiert",
+              "weiß",
+              "schwarz"
+            ],
+            "dimensions": "11mm x 21mm"
+          },
+          "image_description": "Various colors of aluminium strip with dimensions"
+        },
+        {
+          "name": "Unterleiste",
+          "sku": "02-W",
+          "specifications": {
+            "material": "Aluminium",
+            "farbe": "weiß",
+            "max_length": "bis 300 cm",
+            "dimensions": "13mm x 24mm"
+          },
+          "image_description": "White aluminium strip with dimensions"
+        },
+        {
+          "name": "Außenliegend Couleur",
+          "sku": "04-A, 04-AN, 04-BK, 04-LB, 04-W",
+          "specifications": {
+            "farbe": [
+              "eloxiert",
+              "anthrazit",
+              "schwarz",
+              "altweiß",
+              "weiß"
+            ],
+            "dimensions": "14mm x 26mm"
+          },
+          "image_description": "Various colors of strips with dimensions"
+        }
+      ],
+      "page_notes": "Page contains information on rollo systems with profile and various types of finishes and materials options.",
+      "page_number": 15
+    },
+    {
+      "products": [
+        {
+          "name": "Rollo mit Halbkassette",
+          "category": "Rollo Absolute",
+          "specifications": {
+            "system": "System S max. Ø 55 mm",
+            "dimensions": {
+              "size": "max. Ø 57mm",
+              "available_widths": [
+                "74mm",
+                "71mm",
+                "78mm",
+                "77mm"
+              ],
+              "available_diameter": [
+                "Ø 28 mm",
+                "Ø 30 mm",
+                "Ø 35 mm"
+              ]
+            },
+            "standard_colors": [
+              "weiß",
+              "altweiß",
+              "silber/ grau",
+              "anthrazit",
+              "schwarz"
+            ]
+          },
+          "additional_info": "Standard: hinten abrollend; Alternativ: vorne abrollen (wenn gewünscht bitte angeben)"
+        }
+      ],
+      "page_notes": "Page detailing the specifications and options for 'R3 Rollo mit Halbkassette'. Offers details on side guidance options, standard brackets, and available system colors.",
+      "page_number": 16
+    },
+    {
+      "products": [
+        {
+          "name": "Kette R3A",
+          "description": "min. Breite 20 cm",
+          "specifications": {
+            "Stoffdicke": [
+              "bis 150 g/m²",
+              "bis 250 g/m²",
+              "bis 350 g/m²",
+              "bis 450 g/m²"
+            ],
+            "max. Breite": "250 cm",
+            "max. Höhe": "*"
+          },
+          "image_description": "Image of a rollo with chain mechanism"
+        },
+        {
+          "name": "Mittelzug R3B",
+          "description": "min. Breite 80 cm",
+          "specifications": {
+            "Stoffdicke": [
+              "bis 150 g/m²",
+              "bis 250 g/m²",
+              "bis 350 g/m²"
+            ],
+            "max. Breite": "250 cm",
+            "max. Höhe": "*"
+          },
+          "image_description": "Image of a rollo with middle pull mechanism"
+        },
+        {
+          "name": "Elektrisch R3C**",
+          "description": "min. Breite 65 cm",
+          "specifications": {
+            "Stoffdicke": [
+              "bis 150 g/m²",
+              "bis 250 g/m²",
+              "bis 350 g/m²",
+              "bis 450 g/m²"
+            ],
+            "max. Breite": "250 cm",
+            "max. Höhe": "*"
+          },
+          "additional_info": "Bei diesem Modell stehen mehrere Motoren und zusätzliches Elektro-Zubehör zur Auswahl; elektrische Varianten: Register 6.",
+          "image_description": "Image of an electric rollo"
+        },
+        {
+          "name": "Abschlusssarten 01-E",
+          "category": "AUSSENLIEGEND",
+          "brand": "Aluminium",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "eloxiert",
+            "dimensions": {
+              "11mm": "21mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 01-W",
+          "category": "AUSSENLIEGEND",
+          "brand": "Aluminium",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "weiß",
+            "dimensions": {
+              "11mm": "21mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 01-BK",
+          "category": "AUSSENLIEGEND",
+          "brand": "Aluminium",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "schwarz",
+            "dimensions": {
+              "11mm": "21mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 02-W",
+          "category": "UNTERLEISTE",
+          "specifications": {
+            "Material": "Aluminium",
+            "Farbe": "weiß",
+            "dimensions": {
+              "13mm": "24mm"
+            }
+          },
+          "description": "bis 300 cm",
+          "image_description": "Image of a rollo bottom bar"
+        },
+        {
+          "name": "Abschlusssarten 04-A",
+          "category": "AUSSENLIEGEND COLLESET",
+          "specifications": {
+            "Farbe": "eloxiert",
+            "dimensions": {
+              "14mm": "26mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 04-AN",
+          "category": "AUSSENLIEGEND COLLESET",
+          "specifications": {
+            "Farbe": "anthrazit",
+            "dimensions": {
+              "14mm": "26mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 04-BK",
+          "category": "AUSSENLIEGEND COLLESET",
+          "specifications": {
+            "Farbe": "schwarz",
+            "dimensions": {
+              "14mm": "26mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 04-LB",
+          "category": "AUSSENLIEGEND COLLESET",
+          "specifications": {
+            "Farbe": "altweiß",
+            "dimensions": {
+              "14mm": "26mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        },
+        {
+          "name": "Abschlusssarten 04-W",
+          "category": "AUSSENLIEGEND COLLESET",
+          "specifications": {
+            "Farbe": "weiß",
+            "dimensions": {
+              "14mm": "26mm"
+            }
+          },
+          "image_description": "Image of a rollo end part"
+        }
+      ],
+      "page_notes": "Section title: ROLLO MIT HALBKASSETTE; Größenbereich and Abschlusssarten sections are displayed with specifications and images.",
+      "page_number": 17
+    },
+    {
+      "products": [
+        {
+          "name": "R4 Rollo mit Kassette 80 mm",
+          "description": "Rollo mit Kassette 80 mm",
+          "price": "27.80 €",
+          "specifications": {
+            "dimensions": "85.2 mm height",
+            "welle": "42 mm",
+            "system": "M RTU-42 Aluminium"
+          },
+          "image_description": "Roller blind with cassette shown in different mounting options",
+          "additional_info": "Standard: Kunststoffkette; Metallkette gegen Aufpreis: 8,10 €/Lfm; Standardträger: für Wand-oder Deckenmontage; Klemmträger für Rahmenmontage gegen Aufpreis: 16,20 €/Paar; Klemmträger für Seitenführung gegen Aufpreis: 16,20 €/Paar; Standard: hinten abrollend; Systemfarben: weiß, altweiß, silber/grau, schwarz"
+        }
+      ],
+      "page_notes": "1. Rollo Absolute section header, Erhältliche Wellengrößen system information",
+      "page_number": 18
+    },
+    {
+      "products": [
+        {
+          "name": "Kette R4A",
+          "specifications": {
+            "Stoffdicke": "bis 150 g/m²",
+            "max_Breite": "280 cm",
+            "max_Fläche": "7,5 m²"
+          }
+        },
+        {
+          "name": "Kette R4A",
+          "specifications": {
+            "min_Breite": "20 cm",
+            "Stoffdicke": "bis 250 g/m²",
+            "max_Breite": "270 cm",
+            "max_Fläche": "6,5 m²"
+          }
+        },
+        {
+          "name": "Kette R4A",
+          "specifications": {
+            "Stoffdicke": "bis 350 g/m²",
+            "max_Breite": "260 cm",
+            "max_Fläche": "4,5 m²"
+          }
+        },
+        {
+          "name": "Kette R4A",
+          "specifications": {
+            "Stoffdicke": "bis 450 g/m²",
+            "max_Breite": "250 cm",
+            "max_Fläche": "3,5 m²"
+          }
+        },
+        {
+          "name": "Mittelzug R4B",
+          "specifications": {
+            "Stoffdicke": "bis 150 g/m²",
+            "max_Breite": "280 cm",
+            "max_Fläche": "7,5 m²"
+          }
+        },
+        {
+          "name": "Mittelzug R4B",
+          "specifications": {
+            "min_Breite": "80 cm",
+            "Stoffdicke": "bis 250 g/m²",
+            "max_Breite": "270 cm",
+            "max_Fläche": "6,5 m²"
+          }
+        },
+        {
+          "name": "Mittelzug R4B",
+          "specifications": {
+            "Stoffdicke": "bis 350 g/m²",
+            "max_Breite": "260 cm",
+            "max_Fläche": "4,5 m²"
+          }
+        },
+        {
+          "name": "Elektrisch R4C",
+          "specifications": {
+            "Stoffdicke": "bis 150 g/m²",
+            "max_Breite": "280 cm",
+            "max_Fläche": "7,5 m²"
+          },
+          "additional_info": "Bei diesem Modell stehen mehrere Motoren und zusätzliches Elektro-Zubehör zur Auswahl: elektrische Varianten: Register 6."
+        },
+        {
+          "name": "Elektrisch R4C",
+          "specifications": {
+            "min_Breite": "65 cm",
+            "Stoffdicke": "bis 250 g/m²",
+            "max_Breite": "270 cm",
+            "max_Fläche": "6,5 m²"
+          }
+        },
+        {
+          "name": "Elektrisch R4C",
+          "specifications": {
+            "Stoffdicke": "bis 350 g/m²",
+            "max_Breite": "260 cm",
+            "max_Fläche": "4,5 m²"
+          }
+        },
+        {
+          "additional_info": "Code: 01-E, Material: Aluminium, Farbe: eloxiert"
+        },
+        {
+          "additional_info": "Code: 01-W, Material: Aluminium, Farbe: weiß"
+        },
+        {
+          "additional_info": "Code: 01-BK, Material: Aluminium, Farbe: schwarz"
+        },
+        {
+          "additional_info": "Bei Bedienung Mittelzug Lieferung mit Schnur und Quaste."
+        },
+        {
+          "additional_info": "Code: 02-W, Material: Aluminium, Farbe: weiß"
+        },
+        {
+          "additional_info": "Code: 04-A, Farbe: eloxiert"
+        },
+        {
+          "additional_info": "Code: 04-AN, Farbe: anthrazit"
+        },
+        {
+          "additional_info": "Code: 04-BK, Farbe: schwarz"
+        },
+        {
+          "additional_info": "Code: 04-LB, Farbe: altweiß"
+        },
+        {
+          "additional_info": "Code: 04-W, Farbe: weiß"
+        }
+      ],
+      "page_notes": "Section covers 'ROLL0 MIT KASSETTE 80 MM', Bedienart, and Abschlusstart.",
+      "page_number": 19
+    },
+    {
+      "products": [
+        {
+          "name": "Rollo Fascia",
+          "description": "Standard: Kunststoffkette; Metallkette gegen Aufpreis.",
+          "price": "8,10 €/ lfm",
+          "category": "Rollo Absolute",
+          "specifications": {
+            "dimensions": "82 mm/ 3.23 in, 80 mm/ 3.15 in, max. ø 75 mm / 2.95 in",
+            "system_colors": "weiß, grau, silber (eloxiert), schwarz"
+          },
+          "image_description": "Illustration of a roller blind with fascia and chain mechanism."
+        },
+        {
+          "name": "Erhältliche Wellengrößen - System M",
+          "specifications": {
+            "RTU-35": {
+              "material": "Aluminium",
+              "diameter": "ø 35 mm"
+            },
+            "RTU-38": {
+              "material": "Aluminium",
+              "diameter": "ø 38 mm"
+            },
+            "RTU-42": {
+              "material": "Aluminium",
+              "diameter": "ø 42 mm"
+            }
+          },
+          "image_description": "Illustration of different available tube sizes for roller blinds."
+        }
+      ],
+      "page_notes": "Page detailing roller blind fascia and available tube sizes with specifications.",
+      "page_number": 20
+    },
+    {
+      "products": [
+        {
+          "name": "Rollo Fascia - Kette Fascia",
+          "specifications": {
+            "min_breite": "20 cm",
+            "stoffdicke_150": {
+              "max_breite": "280 cm",
+              "max_hoehe": ""
+            },
+            "stoffdicke_250": {
+              "max_breite": "270 cm",
+              "max_hoehe": ""
+            },
+            "stoffdicke_350": {
+              "max_breite": "260 cm",
+              "max_hoehe": ""
+            },
+            "stoffdicke_450": {
+              "max_breite": "250 cm",
+              "max_hoehe": ""
+            }
+          },
+          "additional_info": "Max. Anlagenhöhe ist abhängig von der Stoffdicke."
+        },
+        {
+          "name": "Abschlussarten",
+          "description": "Verschiedene Typen von Abschlüssen",
+          "additional_info": "* bei Bedienung Mittelzug Lieferung mit Schnur und Quaste - diese Unterleiste wird ab Rollbreite 150 cm mit BO-Stoff eingesetzt, wenn keine andere Unterleiste gewählt wird"
+        },
+        {
+          "sku": "01-E",
+          "material": "Aluminium",
+          "farbe": "eloxiert",
+          "image_description": "Illustration of the Abschlussarten 01-E with dimensions"
+        },
+        {
+          "sku": "01-W",
+          "material": "Aluminium",
+          "farbe": "weiß",
+          "image_description": "Illustration of the Abschlussarten 01-W with dimensions"
+        },
+        {
+          "sku": "01-BK",
+          "material": "Aluminium",
+          "farbe": "schwarz",
+          "image_description": "Illustration of the Abschlussarten 01-BK with dimensions"
+        },
+        {
+          "sku": "02-W",
+          "material": "Aluminium",
+          "farbe": "weiß",
+          "specifications": {
+            "bis": "300 cm"
+          },
+          "image_description": "Illustration of the Unterleiste 02-W"
+        },
+        {
+          "sku": "04-A",
+          "farbe": "eloxiert",
+          "image_description": "Illustration of the Abschlussleiste Collussef 04-A with dimensions"
+        },
+        {
+          "sku": "04-AN",
+          "farbe": "anthrazit",
+          "image_description": "Illustration of the Abschlussleiste Collussef 04-AN with dimensions"
+        },
+        {
+          "sku": "04-BK",
+          "farbe": "schwarz",
+          "image_description": "Illustration of the Abschlussleiste Collussef 04-BK with dimensions"
+        },
+        {
+          "sku": "04-LB",
+          "farbe": "altweiß",
+          "image_description": "Illustration of the Abschlussleiste Collussef 04-LB with dimensions"
+        },
+        {
+          "sku": "04-W",
+          "farbe": "weiß",
+          "additional_info": "* bei Auswahl dieser Unterleiste ist keine Seitenführung möglich",
+          "image_description": "Illustration of the Abschlussleiste Collussef 04-W with dimensions"
+        }
+      ],
+      "page_notes": "Page detailing the Grössenbereich (size range) and Abschlussarten (types of finishes) for Rollo Fascia products.",
+      "page_number": 21
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a list of additional charges for various components related to 'Rollo Absolute' including side guidance, PVC holders, metal chains, and electrical variants. It serves as a pricing supplement.",
+      "page_number": 22
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for PREISE - SYSTEM S in various dimensions and price groups from LUXAN catalogue. Includes prices for Rollo R2, R3 and Unterleiste 04 across different widths (80, 90, 100, 110, 120, 130 cm) and heights (120 to 300 cm). Footer mentions related page for technical details and pricing (page 22) in 'Technik & Preise | 2026'.",
+      "page_number": 23
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for PREISE - SYSTEM S with various dimensions for different widths (Breite) and heights (Höhe) in centimeters. It specifies prices for different product groups (PG) and provides Aufpreise for Rollo R3 and Unterleiste O4.",
+      "page_number": 24
+    },
+    {
+      "products": [],
+      "page_notes": "Price table for LUXAN products, specifically for PREISE - SYSTEM S, covering measurements in Breite [cm] by Höhe [cm] for various price groups (PG 0-5) across different widths (200, 210, 220, 230, 240, 250). Includes information on Aufpreise (additional prices) for Rollo R2, R3, and Unterleiste 04.",
+      "page_number": 25
+    },
+    {
+      "products": [],
+      "page_notes": "Pricing table for Rollo Absolute - Preisse - System M/L. Includes prices based on width (Breite) and height (Höhe) for different product groups (PG) and additional features like Rollo R1, R2, R4, Fascia, and Unterleiste.",
+      "page_number": 26
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains pricing tables for LUXAN's R1, R2, R4, Fascia systems categorized by width and height measurements. Pricing groups (PG) are also mentioned, along with additional charges for specific components (e.g., Rollo R2, Fascia).",
+      "page_number": 27
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for the 'PREISE - SYSTEM M/L' including dimensions, sizes, and price gradients for systems R1, R2, R4, Fascia. There are columns for different widths (200, 210, 220, 230, 240, 250) and heights with corresponding prices in currency format. Additional information includes Aufpreise for System L, Rollo RZ, Rollo R4, Fascia, and Unterseite 04. Section title is 1. ROLLO ABSOLUTE.",
+      "page_number": 28
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for the LUXAN product system M/L, covering sizes and prices for widths (Breite) of 260-290 cm with corresponding height (Höhe) measurements. It also includes additional charges (Aufpreise) for features like side guides (Seitenführung), PVC supports (Klemmträger), metal chains (Metallkette), and electrical variants. Columns detail pricing based on heights and product group (PG). Product systems mentioned are Rollo R1, R2, R4, and Fascia, with additional surcharges listed.",
+      "page_number": 29
+    },
+    {
+      "products": [
+        {
+          "name": "R4 mit Kassette 80 mm",
+          "description": "Aufpreise Seitenführungsschienen",
+          "price": "varies by height",
+          "specifications": {
+            "height": {
+              "50 cm": "56 €",
+              "60 cm": "63 €",
+              "70 cm": "68 €",
+              "80 cm": "73 €",
+              "90 cm": "78 €",
+              "100 cm": "84 €",
+              "110 cm": "89 €",
+              "120 cm": "96 €",
+              "130 cm": "102 €",
+              "140 cm": "107 €",
+              "150 cm": "112 €",
+              "160 cm": "117 €",
+              "170 cm": "123 €",
+              "180 cm": "129 €",
+              "190 cm": "135 €",
+              "200 cm": "141 €",
+              "210 cm": "146 €",
+              "220 cm": "151 €",
+              "230 cm": "156 €",
+              "240 cm": "162 €",
+              "250 cm": "168 €",
+              "260 cm": "174 €",
+              "270 cm": "180 €",
+              "280 cm": "185 €",
+              "290 cm": "190 €",
+              "300 cm": "195 €"
+            }
+          },
+          "image_description": "Illustrations of roller system with side guidance rails",
+          "additional_info": "Seitenführungsschiene in den Farben weiß und schwarz"
+        }
+      ],
+      "page_notes": "Technik & Preise | 2026. Additional shipping costs apply for lengths over 260 cm.",
+      "page_number": 30
+    },
+    {
+      "products": [
+        {
+          "name": "System: S",
+          "description": "Stoffart: Stoff transparent (0,28 mm, 150 g/m²)",
+          "specifications": {
+            "Höhe": "100-300 cm",
+            "Breite": "250-280 cm"
+          }
+        },
+        {
+          "name": "System: S",
+          "description": "Stoffart: Stoff transparent (0,35 mm, 250 g/m²)",
+          "specifications": {
+            "Höhe": "100-300 cm",
+            "Breite": "220-280 cm"
+          }
+        },
+        {
+          "name": "System: S",
+          "description": "Stoffart: Black-Out (0,45 mm, 350 g/m²)",
+          "specifications": {
+            "Höhe": "100-200 cm",
+            "Breite": "220-280 cm"
+          }
+        },
+        {
+          "name": "System: S",
+          "description": "Stoffart: Screen (0,55 mm, 450 g/m²)",
+          "specifications": {
+            "Höhe": "100-200 cm",
+            "Breite": "220-280 cm"
+          }
+        }
+      ],
+      "page_notes": "Größenbereich section for System S with different Stoffart specifications. Includes caution about maximum width and additional costs over 260 cm.",
+      "page_number": 31
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains size range charts for System M/L featuring different types of fabric materials with corresponding widths and heights. It includes multiple tables with specifications for Stoffart (fabric type) such as transparent, black-out, and screen fabrics. A caution note is provided about potential deflection of the wave for maximum width and height. There is also a note about additional shipping costs for widths over 260 cm.",
+      "page_number": 32
+    },
+    {
+      "products": [],
+      "page_notes": "Installation instructions for various models of window coverings by LUXAN, showing different mounting options: ceiling mount, wall mount, and clamp mount. Specific mention of wall mounting using additional angle bracket with ceiling clip, Article no. CS80-CB-K.",
+      "page_number": 33
+    },
+    {
+      "products": [],
+      "page_notes": "Measurement instructions for ROLLO ABSOLUTE. Includes diagrams for total width of the coupled system and individual blind widths. Technical notes about dimensions, system components, and spacing provided.",
+      "page_number": 34
+    },
+    {
+      "products": [
+        {
+          "sku": "RC3017",
+          "image_description": "Bracket component with a circular hole, likely for attaching to a roller."
+        },
+        {
+          "sku": "RC3008",
+          "image_description": "Bracket component, possibly used for support or mounting."
+        },
+        {
+          "sku": "RC3018",
+          "image_description": "Small cylindrical component, possibly a connector or adapter."
+        },
+        {
+          "sku": "RC3053",
+          "image_description": "Cylindrical component, possibly a roller or spool."
+        },
+        {
+          "sku": "RCU-27",
+          "image_description": "Cylindrical component with a capped end, possibly an end cap or cover."
+        },
+        {
+          "sku": "RCU-15",
+          "image_description": "Round component, possibly a connector or adapter for tubes."
+        }
+      ],
+      "page_notes": "Section titled 'Gekoppelte Anlagen mit einer Steuerung - System M/L.' Features illustrations of roller systems and components used in assembly.",
+      "page_number": 35
+    },
+    {
+      "products": [
+        {
+          "sku": "RC3017",
+          "image_description": "An image of a bracket component labeled RC3017."
+        },
+        {
+          "sku": "RC3008",
+          "image_description": "An image of a bracket component labeled RC3008."
+        },
+        {
+          "sku": "RC3019",
+          "image_description": "A small cylindrical component labeled RC3019."
+        },
+        {
+          "sku": "RTU-38",
+          "image_description": "A tube component labeled RTU-38."
+        },
+        {
+          "sku": "RTU-42",
+          "image_description": "A tube component labeled RTU-42."
+        },
+        {
+          "sku": "RTU-50",
+          "image_description": "A tube component labeled RTU-50."
+        },
+        {
+          "sku": "RC3053",
+          "image_description": "An adapter component labeled RC3053."
+        },
+        {
+          "sku": "RCU-27",
+          "image_description": "A cylindrical component labeled RCU-27."
+        },
+        {
+          "sku": "RCU-15",
+          "image_description": "A cylindrical component labeled RCU-15."
+        }
+      ],
+      "page_notes": "The page is titled 'AUFMASS' and features components for Rollo Absolute systems with two controllers, System M/L, featured in technical diagrams.",
+      "page_number": 36
+    },
+    {
+      "products": [
+        {
+          "name": "Rollewelle",
+          "image_description": "Illustration of roller shafts connected for system M/L"
+        },
+        {
+          "sku": "RC4014",
+          "image_description": "Bracket labelled RC4014"
+        },
+        {
+          "sku": "RC4006",
+          "image_description": "Bracket labelled RC4006"
+        },
+        {
+          "sku": "RC3018",
+          "image_description": "Shaft component labelled RC3018"
+        }
+      ],
+      "page_notes": "Section titled 'Gekoppelte Anlagen mit elektrischer Steuerung - System M/L' with technical illustrations.",
+      "page_number": 37
+    },
+    {
+      "products": [
+        {
+          "name": "Rollowelle",
+          "sku": "RC2013",
+          "image_description": "Illustration of a rollo mechanism part RC2013"
+        },
+        {
+          "name": "Rollowelle",
+          "sku": "RC3018",
+          "image_description": "Illustration of a rollo mechanism part RC3018"
+        },
+        {
+          "sku": "RCU-38",
+          "image_description": "Image of rollo part RCU-38"
+        },
+        {
+          "sku": "RCU-42",
+          "image_description": "Image of rollo part RCU-42"
+        },
+        {
+          "sku": "RCU-50",
+          "image_description": "Image of rollo part RCU-50"
+        },
+        {
+          "sku": "RC3053",
+          "image_description": "Image of rollo part RC3053"
+        },
+        {
+          "sku": "RCU-27",
+          "image_description": "Image of rollo part RCU-27"
+        },
+        {
+          "sku": "RCU-15",
+          "image_description": "Image of rollo part RCU-15"
+        }
+      ],
+      "page_notes": "Section header: 1. ROLLO ABSOLUTE. Title: Gekoppelte Anlagen mit einer Steuerung - Fascia. Page contains technical illustrations and SKUs of rollo parts.",
+      "page_number": 38
+    },
+    {
+      "products": [
+        {
+          "name": "Gekoppelte Anlagen mit zwei Steuerungen - Fascia",
+          "image_description": "Diagram of double roller blind system with labeled components",
+          "additional_info": "Includes two Rollowelle (roller tubes) and chain mechanism"
+        },
+        {
+          "sku": "RC2013",
+          "description": "Component a",
+          "image_description": "Illustration of component a with SKU RC2013"
+        },
+        {
+          "sku": "RC3019",
+          "image_description": "Illustration of component labeled with SKU RC3019"
+        },
+        {
+          "sku": "RC3004",
+          "specifications": {
+            "compatible_tubes": "RCU-38"
+          },
+          "image_description": "Illustration of component compatible with tube RCU-38"
+        },
+        {
+          "sku": "RC3005",
+          "specifications": {
+            "compatible_tubes": "RCU-42, RCU-50"
+          },
+          "image_description": "Illustration of component compatible with tubes RCU-42 and RCU-50"
+        }
+      ],
+      "page_notes": "This page features technical components for roller blind systems, with illustrations and SKUs for each item.",
+      "page_number": 39
+    },
+    {
+      "products": [],
+      "page_notes": "Instructions for 'Rollo Absolute' montage with day and night brackets. Includes diagrams and measurements. Page 40 of Technik & Preise 2026.",
+      "page_number": 40
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains illustrations showing the assembly process for day and night carriers ('Montage mit Tag- und Nacht-Trägern'). It is part of the 'MONTAGE' section in the Luxan 2026 catalog.",
+      "page_number": 41
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation instructions for 'Rollo Absolute' using day and night supports, with illustrative diagrams.",
+      "page_number": 42
+    },
+    {
+      "products": [
+        {
+          "name": "Nachträgliche SF - bis zu 1 m hoch",
+          "price": "133"
+        },
+        {
+          "name": "Nachträgliche SF - bis zu 2 m hoch",
+          "price": "143"
+        },
+        {
+          "name": "Nachträgliche SF - bis zu 3 m hoch",
+          "price": "153"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 1 m hoch",
+          "price": "81",
+          "brand": "Rollo Absolute System M"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 2 m hoch",
+          "price": "90",
+          "brand": "Rollo Absolute System M"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 2,8 m hoch",
+          "price": "116",
+          "brand": "Rollo Absolute System M"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 1 m hoch",
+          "price": "74",
+          "brand": "Rollo Absolute System S"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 2 m hoch",
+          "price": "87",
+          "brand": "Rollo Absolute System S"
+        },
+        {
+          "name": "Umbau des Rollos R1 zu R2 - bis zu 2,8 m hoch",
+          "price": "102",
+          "brand": "Rollo Absolute System S"
+        },
+        {
+          "name": "Neubefestigung des Stoffes auf der Welle",
+          "price": "54"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite ohne SF - bis zu 1 m hoch",
+          "price": "116"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite ohne SF - bis zu 2 m hoch",
+          "price": "126"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite ohne SF - bis zu 3 m hoch",
+          "price": "133"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite mit SF - bis zu 1 m hoch",
+          "price": "146"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite mit SF - bis zu 2 m hoch",
+          "price": "156"
+        },
+        {
+          "name": "Symmetrische Verkürzung der Breite mit SF - bis zu 3 m hoch",
+          "price": "161"
+        },
+        {
+          "name": "Ersetzen der Unterleiste 01",
+          "price": "54"
+        },
+        {
+          "name": "Ersetzen der Unterleiste 02",
+          "price": "54"
+        },
+        {
+          "name": "Ersetzen der Unterleiste 04",
+          "price": "54"
+        },
+        {
+          "name": "Bedienmechanismus wechseln",
+          "price": "61"
+        },
+        {
+          "name": "Bedienseite wechseln",
+          "price": "54"
+        }
+      ],
+      "page_notes": "Umbau- und Reparaturpreise. Note: Die oben genannten Preise enthalten keine Transportkosten. Die Kosten für die Abholung und den erneuten Versand werden pauschal in Höhe von 22,00 EUR berechnet. Dies gilt aber nur innerhalb Deutschlands. Die Kosten für Ausland teilen wir Ihnen gerne auf Anfrage mit.",
+      "page_number": 43
+    },
+    {
+      "products": [
+        {
+          "name": "28 mm Welle Aluminium",
+          "sku": "RTU-28",
+          "price": "10,90/ Lfm.",
+          "image_description": "28 mm aluminum tube",
+          "additional_info": "System S"
+        },
+        {
+          "name": "Rolloträger S aus Metall",
+          "sku": "RC2006-AN, RC2006-BK, RC2006-GR, RC2006-LB, RC2006-W",
+          "price": "1,80/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Metal roller carrier"
+        },
+        {
+          "name": "30 mm Welle Aluminium",
+          "sku": "RTU-30",
+          "price": "15,10/ Lfm.",
+          "image_description": "30 mm aluminum tube",
+          "additional_info": "System S"
+        },
+        {
+          "name": "Kunststoffkappe für den Metallträger S",
+          "sku": "RC2007-AN, RC2007-BK, RC2007-GR, RC2007-LB, RC2007-W",
+          "price": "1,80/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Plastic cap for metal carrier"
+        },
+        {
+          "name": "35 mm Welle Aluminium",
+          "sku": "RTU-35",
+          "price": "17,20/ Lfm.",
+          "image_description": "35 mm aluminum tube",
+          "additional_info": "System S"
+        },
+        {
+          "name": "Abdeckkappe für Rolloträger S",
+          "sku": "RC2008-AN, RC2008-BK, RC2008-GR, RC2008-LB, RC2008-W",
+          "price": "1,20/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Cover cap for roller carrier"
+        },
+        {
+          "name": "Getriebe S",
+          "sku": "RC2001-AN-S, RC2001-BK-S, RC2001-GR-S, RC2001-LB-S, RC2001-W-S",
+          "price": "17,20/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Gear S"
+        },
+        {
+          "name": "Abstandshalter S",
+          "sku": "RC2054-W",
+          "price": "4,80/ St",
+          "description": "weiß",
+          "image_description": "Spacer S"
+        },
+        {
+          "name": "Gegengaler S",
+          "sku": "RC2002-AN, RC2002-BK, RC2002-GR, RC2002-LB, RC2002-W",
+          "price": "1,40/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Counterweight S"
+        },
+        {
+          "name": "Kappe S für Abstandshalter aus Kunststoff",
+          "sku": "RC2055-W",
+          "price": "3,70/ St",
+          "description": "weiß",
+          "image_description": "Cap S for plastic spacer"
+        },
+        {
+          "name": "Lagerbolzen",
+          "sku": "RC2003-AN, RC2003-BK, RC2003-GR, RC2003-LB, RC2003-W",
+          "price": "1,40/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Bearing pin"
+        },
+        {
+          "name": "Deckenclip für Montageprofil",
+          "sku": "RCU-SC25-AN, RCU-SC25-BK, RCU-SC25-GR, RCU-SC25-LB, RCU-SC25",
+          "price": "2,90/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Ceiling clip for mounting profile"
+        },
+        {
+          "name": "Federsteuersung S 28-30-35 mm",
+          "sku": "RC2057",
+          "price": "19,10/ St",
+          "image_description": "Spring control S for 28-30-35 mm"
+        },
+        {
+          "name": "Befestigungsclip für Montageprofil",
+          "sku": "RC2044",
+          "price": "0,90/ St",
+          "description": "weiß",
+          "image_description": "Mounting profile clip"
+        },
+        {
+          "name": "Rollofeder S 1.2 x 300",
+          "sku": "RC2058",
+          "price": "34,40/ St",
+          "image_description": "Roller blind spring 1.2 x 300"
+        },
+        {
+          "name": "Universalträger S für Halbkassette",
+          "sku": "RC2016-AN, RC2016-BK, RC2016-GR, RC2016-LB, RC2016-W",
+          "price": "6,30/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Universal holder S for half cassette"
+        },
+        {
+          "name": "Rollofeder S 1.4 x 304",
+          "sku": "RC2059",
+          "price": "41,40/ St",
+          "image_description": "Roller blind spring 1.4 x 304"
+        },
+        {
+          "name": "Endkappen-Set für Halbkassette S",
+          "sku": "RC2024-AN, RC2024-BK, RC2024-GR, RC2024-LB, RC2024-W",
+          "price": "6,30/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "End cap set for half cassette"
+        },
+        {
+          "name": "Federschuzung S 28-30-35 mm",
+          "sku": "RC2060",
+          "price": "15,80/ St",
+          "image_description": "Spring protection S for 28-30-35 mm"
+        },
+        {
+          "name": "Klemmträger OBEN",
+          "sku": "3.150 108 7017",
+          "price": "8,10/ St",
+          "description": "weiß",
+          "image_description": "Clamping bracket TOP"
+        },
+        {
+          "name": "Federkappe S aus Kunststoff",
+          "sku": "RC2061-AN, RC2061-BK, RC2061-GR, RC2061-LB, RC2061-W",
+          "price": "2,40/ St",
+          "description": "anthrazit, schwarz, grau, altweiß, weiß",
+          "image_description": "Plastic spring cap S"
+        },
+        {
+          "name": "Klemmträger UNTEN",
+          "sku": "4.150 230 001",
+          "price": "8,10/ St",
+          "description": "weiß",
+          "image_description": "Clamping bracket BOTTOM"
+        },
+        {
+          "name": "Spannrad",
+          "sku": "HS101-01.0-001",
+          "price": "1,50/ St",
+          "image_description": "Tension wheel"
+        },
+        {
+          "name": "Spannwinkel für Seitenführung (Außen)",
+          "sku": "156116",
+          "price": "1,80/ St",
+          "description": "transparent",
+          "image_description": "Tension bracket for side guidance (outside)"
+        },
+        {
+          "name": "Feststellung für Spannwinkel und Spanschnur (zur Befestigung des Spannseils)",
+          "sku": "156132",
+          "price": "4,00/ St",
+          "image_description": "Lock for tension bracket and tension cord"
+        },
+        {
+          "name": "Spanschnur für Seitenführung (innen)",
+          "sku": "085-0000-000",
+          "price": "1,10/ St",
+          "description": "transparent",
+          "image_description": "Tension cord for side guidance (inside)"
+        }
+      ],
+      "page_notes": "Header: EINZELTEILE, 1. ROLLO ABSOLUTE, Category: Technische & Preisel 2026, Page number: 44",
+      "page_number": 44
+    },
+    {
+      "products": [
+        {
+          "name": "RTU-38",
+          "description": "38 mm Welle Aluminium",
+          "price": "16,45/ Lfm."
+        },
+        {
+          "name": "RC3005-AN, RC3005-BK, RC3005-GR, RC3005-LB, RC3005-W",
+          "description": "Gegenlager M/L 42 mm",
+          "price": "2,60/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Gegenlager M/L 42 mm"
+        },
+        {
+          "name": "RTU-42",
+          "description": "42 mm Welle Aluminium",
+          "price": "24,50/ Lfm."
+        },
+        {
+          "name": "RC3091-AN, RC3091-BK, RC3091-GR, RC3091-LB, RC3091-W",
+          "description": "Doppelzug-Mechanismus",
+          "price": "8,70/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Doppelzug-Mechanismus"
+        },
+        {
+          "name": "RTU-50",
+          "description": "50 mm Welle Aluminium",
+          "price": "39,00/ Lfm."
+        },
+        {
+          "name": "RC3092",
+          "description": "Zusatzstopper für Doppelzug-Mechanismus links",
+          "price": "6,30/ St.",
+          "image_description": "Image of Zusatzstopper links"
+        },
+        {
+          "name": "RC3093",
+          "description": "Zusatzstopper für Doppelzug-Mechanismus rechts",
+          "price": "6,30/ St.",
+          "image_description": "Image of Zusatzstopper rechts"
+        },
+        {
+          "name": "RC3001-AN, RC3001-BK, RC3001-GR, RC3001-LB, RC3001-W",
+          "description": "Getriebe M/L",
+          "price": "13,40/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Getriebe M/L"
+        },
+        {
+          "name": "RC3002-AN, RC3002-BK, RC3002-GR, RC3002-LB, RC3002-W",
+          "description": "Getriebe 1:1.5 M/L",
+          "price": "47,50/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          }
+        },
+        {
+          "name": "RC3062",
+          "description": "Federsicherung M/L 38 mm",
+          "price": "20,60/ St.",
+          "image_description": "Image of Federsicherung M/L"
+        },
+        {
+          "name": "RC3026",
+          "description": "Wellenadapter M/L 42 mm",
+          "price": "2,20/ St.",
+          "specifications": {
+            "colors": "weiß"
+          }
+        },
+        {
+          "name": "RC3058",
+          "description": "Federsteuerung M/L 38 mm",
+          "price": "22,80/ St.",
+          "image_description": "Image of Federsteuerung M/L"
+        },
+        {
+          "name": "RC3004-AN, RC3004-BK, RC3004-GR, RC3004-LB, RC3004-W",
+          "description": "Gegenlager M/L 38 mm",
+          "price": "1,40/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Gegenlager M/L"
+        },
+        {
+          "name": "RC3063-AN, RC3063-BK, RC3063-GR, RC3063-LB, RC3063-W",
+          "description": "Federkappe M/L aus Kunststoff",
+          "price": "8,70/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Federkappe M/L"
+        },
+        {
+          "name": "RC3059",
+          "description": "Feder M/L 1.2x300 38 mm",
+          "price": "39,40/ St.",
+          "image_description": "Image of Feder M/L"
+        },
+        {
+          "name": "RC3017-AN, RC3017-BK, RC3017-GR, RC3017-LB, RC3017-W",
+          "description": "Metallträger für gekoppelte Anlage M/L inklusive Endkappe",
+          "price": "19,00/ St.",
+          "specifications": {
+            "colors": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of Metallträger"
+        },
+        {
+          "name": "RC3060",
+          "description": "Feder M/L 1.5x450 38 mm",
+          "price": "39,40/ St.",
+          "image_description": "Image of Feder M/L"
+        },
+        {
+          "name": "RC3053-W",
+          "description": "Gegenlager M/L 38 mm",
+          "price": "2,90/ St.",
+          "specifications": {
+            "colors": "weiß"
+          },
+          "image_description": "Image of Gegenlager M/L"
+        },
+        {
+          "name": "RC3061",
+          "description": "Feder M/L 1.7x550 38 mm",
+          "price": "55,90/ St.",
+          "image_description": "Image of Feder M/L"
+        },
+        {
+          "name": "RCU-27",
+          "description": "Gegenlager M/L 38 mm für gekoppelte Anlagen",
+          "price": "44,80/ St.",
+          "specifications": {
+            "colors": "schwarz"
+          },
+          "image_description": "Image of Gegenlager M/L"
+        },
+        {
+          "name": "RCSA-410-L",
+          "description": "Federunterstützung 1.6 MM X 410 mm LINKS",
+          "price": "25,50/ St.",
+          "image_description": "Image of Federunterstützung"
+        },
+        {
+          "name": "RCU-15",
+          "description": "Einstellbarer Gegenlager M/L 42 mm für gekoppelte Anlagen",
+          "price": "31,50/ St.",
+          "image_description": "Image of Einstellbarer Gegenlager M/L"
+        }
+      ],
+      "page_notes": "Einzelteile - SYSTEM M/L; Product list with images, prices, descriptions and SKUs",
+      "page_number": 45
+    },
+    {
+      "products": [
+        {
+          "name": "Federunterstützung 1.6 MM X 410 mm RECHTS",
+          "sku": "RCSA-410-R",
+          "price": "25,50/ St."
+        },
+        {
+          "name": "Federunterstützung 1.6 MM X 650 mm LINKS",
+          "sku": "RCSA-650-L",
+          "price": "25,50/ St."
+        },
+        {
+          "name": "Federunterstützung 1.6 MM X 650 mm RECHTS",
+          "sku": "RCSA-650-R",
+          "price": "25,50/ St."
+        },
+        {
+          "name": "Verbindungsstift für gekoppelte Anlagen eckig (bei zwei Steuerungen)",
+          "sku": "RC3019",
+          "price": "29,00/ St."
+        },
+        {
+          "name": "Verbindungsstift für gekoppelte Anlagen rund (bei einer Steuerung)",
+          "sku": "RC3018",
+          "price": "17,50/ St."
+        },
+        {
+          "name": "Metallträger-Set M/L Tag-Nacht",
+          "sku": "RC3020-AN, RC3020-BK, RC3020-GR, RC3020-LB, RC3020-W",
+          "description": "Metallträger-Set M/L Tag-Nacht",
+          "price": "6,85/ St."
+        },
+        {
+          "name": "Lagerbolzen",
+          "sku": "RC2003-BK, RC2003-B, RC2003-GR, RC2003-LB, RC2003-W",
+          "description": "Lagerbolzen",
+          "price": "1,40/ St."
+        },
+        {
+          "name": "Endkappen-Set M/L für Metallträger Tag-Nacht",
+          "sku": "RC3021-AN, RC3021-BK, RC3021-GR, RC3021-LB, RC3021-W",
+          "description": "Endkappen-Set M/L für Metallträger Tag-Nacht",
+          "price": "17,80/ St."
+        },
+        {
+          "name": "Rolloträger ML aus Metall",
+          "sku": "RC3006-AN, RC3006-BK, RC3006-GR, RC3006-LB, RC3006-W",
+          "description": "Rolloträger ML aus Metall",
+          "price": "2,50/ St."
+        },
+        {
+          "name": "Metallträger Fascia M/L",
+          "sku": "RC3075-BK, RC3075-GR, RC3075-W",
+          "description": "Metallträger Fascia M/L",
+          "price": "12,60/ St."
+        },
+        {
+          "name": "Kunststoffkappe für den Metallträger M/L",
+          "sku": "RC3007-AN, RC3007-BK, RC3007-GR, RC3007-LB, RC3007-W",
+          "description": "Kunststoffkappe für den Metallträger M/L",
+          "price": "2,50/ St."
+        },
+        {
+          "name": "Verbindungsträger Fascia M/L Metall",
+          "sku": "RC3076-BK, RC3076-GR, RC3076-W",
+          "description": "Verbindungsträger Fascia M/L Metall",
+          "price": "7,80/ St."
+        },
+        {
+          "name": "Abdeckkappe für Rolloträger M/L",
+          "sku": "RC3008-AN, RC3008-BK, RC3008-GR, RC3008-LB, RC3008-W",
+          "description": "Abdeckkappe für Rolloträger M/L",
+          "price": "1,40/ St."
+        },
+        {
+          "name": "Verbindungsträger Fascia M/L für gekoppelte Anlagen Metall",
+          "sku": "RC3077-BK, RC3077-GR, RC3077-W",
+          "description": "Verbindungsträger Fascia M/L für gekoppelte Anlagen Metall",
+          "price": "14,20/ St."
+        },
+        {
+          "name": "Endkappe Fascia rechts",
+          "sku": "RC2032-BK, RC2032-GR, RC2032-W",
+          "description": "Endkappe Fascia rechts",
+          "price": "5,35/ St."
+        },
+        {
+          "name": "Klemmträger OBEN",
+          "sku": "3.150 108 7017",
+          "description": "Klemmträger OBEN",
+          "price": "8,20/ St."
+        },
+        {
+          "name": "Endkappe Fascia links",
+          "sku": "RC2031-BK, RC2031-GR, RC2031-W",
+          "description": "Endkappe Fascia links",
+          "price": "5,35/ St."
+        },
+        {
+          "name": "Klemmträger UNTEN für Seilführung",
+          "sku": "4.150 230 001",
+          "description": "Klemmträger UNTEN für Seilführung",
+          "price": "8,20/ St."
+        },
+        {
+          "name": "Kettenführung Fascia M/L",
+          "sku": "RC3079-BK, RC3079-GR, RC3079-W",
+          "description": "Kettenführung Fascia M/L",
+          "price": "3,20/ St."
+        },
+        {
+          "name": "Spannwinkel für Seitenführung (Außen)",
+          "sku": "156116",
+          "description": "Spannwinkel für Seitenführung (Außen)",
+          "price": "1,75/ St."
+        },
+        {
+          "name": "Deckenclip 42 mm für Montageprofil",
+          "sku": "RCU-SC-42-AN, RCU-SC-42-BK, RCU-SC-42-GR, RCU-SC-42-LB, RCU-SC-42-WG",
+          "description": "Deckenclip 42 mm für Montageprofil",
+          "price": "3,30/ St."
+        },
+        {
+          "name": "Spannschuh für Seitenführung (innen)",
+          "sku": "085-0000-000",
+          "description": "Spannschuh für Seitenführung (innen)",
+          "price": "1,20/ St."
+        },
+        {
+          "name": "Befestigungsstift für Montageprofil",
+          "sku": "RC2044",
+          "description": "Befestigungsstift für Montageprofil",
+          "price": "0,90/ St."
+        },
+        {
+          "name": "Feststellring für Spannwinkel und Spannschuh (zur Befestigung des Spannseils)",
+          "sku": "156132",
+          "description": "Feststellring für Spannwinkel und Spannschuh (zur Befestigung des Spannseils)",
+          "price": "4,10/ St."
+        }
+      ],
+      "page_notes": "EINZELTEILE section with various components and accessories for rollers and mountings.",
+      "page_number": 46
+    },
+    {
+      "products": [
+        {
+          "name": "43 mm Welle Aluminium",
+          "sku": "35.043.000",
+          "price": "29,00/ Lfm."
+        },
+        {
+          "name": "Lagerbolzen",
+          "sku": "RC2003-W",
+          "description": "weiß",
+          "price": "1,40/ St."
+        },
+        {
+          "name": "Endkappen-Set für 80 mm Kassette mit Getriebe rechts",
+          "sku": "P007-P, P007-9004-P, P007-9001-P, P007-1055-P",
+          "description": "weiß schwarz creme grau",
+          "price": "10,50/ Set",
+          "image_description": "End caps for cassette system"
+        },
+        {
+          "name": "Deckenträger",
+          "sku": "CS80-CB-WH, CS80-CB-BL, CS80-CB-CR, CS80-CB-SL",
+          "description": "weiß schwarz creme grau",
+          "price": "3,30/ St.",
+          "image_description": "Ceiling bracket"
+        },
+        {
+          "name": "Endkappen-Set für 80 mm Kassette mit Getriebe Links",
+          "sku": "P007-L, P007-9004-L, P007-9001-L, P007-1055-L",
+          "description": "weiß schwarz creme grau",
+          "price": "10,50/ Set"
+        },
+        {
+          "name": "Wandträger",
+          "sku": "CS80-WB-WH, CS80-WB-BL, CS80-WB-CR, CS80-WB-SL",
+          "description": "weiß schwarz creme grau",
+          "price": "3,30/ St.",
+          "image_description": "Wall bracket"
+        },
+        {
+          "name": "Getriebe M/L",
+          "sku": "RC3001-W",
+          "description": "weiß",
+          "price": "13,30/ St."
+        },
+        {
+          "name": "Zusätzlicher Winterlageträger mit Deckenträger",
+          "sku": "CS80-CB-VWH-K, CS80-CB-CR-K, CS80-CB-BL-K, CS80-CB-SL-K",
+          "description": "weiß schwarz silber",
+          "price": "7,40/ St."
+        },
+        {
+          "name": "Gegenglager M/L",
+          "sku": "RC3005-W",
+          "description": "weiß",
+          "price": "2,60/ St."
+        },
+        {
+          "name": "Klemmträger UNTEN für Seilführung",
+          "sku": "4.150.230.001",
+          "price": "8,20/ St."
+        },
+        {
+          "name": "Abschlusleiste",
+          "sku": "96875000",
+          "description": "eloxiert",
+          "price": "21,90/ Lfm. 24,90/ Lfm. 24,90/ Lfm."
+        },
+        {
+          "name": "01",
+          "sku": "96876000",
+          "description": "weiß",
+          "price": "24,90/ Lfm."
+        },
+        {
+          "name": "außenliegend",
+          "sku": "96877000",
+          "description": "schwarz",
+          "price": "24,90/ Lfm."
+        },
+        {
+          "name": "Abschlusleiste 02",
+          "sku": "19891",
+          "description": "weiß",
+          "price": "18,00/ Lfm."
+        },
+        {
+          "name": "Abschlusleiste 04",
+          "sku": "RC3032-AN, RC3032-BK, RC3032-A, RC3032-LB, RC3032-W",
+          "description": "anthrazit, schwarz, eloxiert, altweiß, weiß",
+          "price": "43,80/ Lfm."
+        },
+        {
+          "name": "Endstück Abschlussprofil 01 für Seilführung",
+          "sku": "96940000, 96941000, 96942000",
+          "description": "grau, weiß, schwarz",
+          "price": "3,00/ St."
+        },
+        {
+          "name": "Endstück Abschlussprofil 02",
+          "sku": "R8170-WH, R8170-BG, R8170-BR, R8170-LG, R8170-BK",
+          "description": "weiß, creme, braun, grau, schwarz",
+          "price": "3,00/ St."
+        },
+        {
+          "name": "Bedienkette aus Kunststoff",
+          "sku": "RB-xx-DP-yy",
+          "description": "weiß, grau, schwarz, braun",
+          "price": "2,50/ Lfm."
+        },
+        {
+          "name": "Bedienkette aus Metall",
+          "sku": "V15M-CH, V15M-SN, V15M-GM, V15M-OB, V15M-C, V15M-BN, V15M-GN",
+          "description": "Chrom Satin Nickel Gold Matt Altmessing Kupfer Schwarz Nickel Grau Nickel",
+          "price": "8,10/ Lfm."
+        },
+        {
+          "name": "Führungssöse für Endstück fürAbschlussprofil 02",
+          "sku": "1532121",
+          "price": "0,60/ St."
+        },
+        {
+          "name": "Kettenspanner",
+          "sku": "RB-CSD08-C",
+          "description": "transparent",
+          "price": "2,50/ St.",
+          "additional_info": "Kindersicherheit"
+        }
+      ],
+      "page_notes": "Page includes products for systems with 80 mm and S/M/L cassette parts, featuring items like end caps, gears, and profiles. Available in various colors and materials.",
+      "page_number": 47
+    },
+    {
+      "products": [
+        {
+          "name": "Abreißetikettenverbinder",
+          "sku": "R3440-WH, R3440-GR, R3440-BK, R3440-CR, R3440-BR",
+          "description": "Kindersicherheit",
+          "price": "0,70€/ St.",
+          "specifications": {
+            "farbe": "weiß, grau, schwarz, creme, braun"
+          },
+          "image_description": "Image of tear-off label connectors"
+        },
+        {
+          "name": "Kettenverbinder",
+          "sku": "97134000, 91115000, 91299000",
+          "price": "0,70€/ St.",
+          "specifications": {
+            "farbe": "weiß, grau, schwarz"
+          },
+          "image_description": "Image of chain connectors"
+        },
+        {
+          "name": "Endstück für Abschlussprofil 04",
+          "sku": "RCU-17-AN, RCU-17-BK, RCU-17-GR, RCU-17-LB, RCU-17-W",
+          "price": "1,10€/ St.",
+          "specifications": {
+            "farbe": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of end piece for profile 04"
+        },
+        {
+          "name": "Endstück für Abschussleiste 05 (B)",
+          "sku": "RCU3042-AN, RC3042-BK, RC3042-GR, RC3042-LB, RC3042-W",
+          "price": "2,40€/ St.",
+          "specifications": {
+            "farbe": "anthrazit, schwarz, grau, altweiß, weiß"
+          },
+          "image_description": "Image of end piece for profile 05 (B)"
+        },
+        {
+          "name": "METALL verbinder",
+          "sku": "V16M, V16M-CH, V16M-GN, V16M-BNC, V16M-G, V16M-OBR, V16M-GM, V16M-B",
+          "price": "1,20€/ St.",
+          "specifications": {
+            "farbe": "Satin Nickel, Chrome, Grau Nickel, Schwarz, Nickel, Gold matt, Old Brass, Brass, Kupfer"
+          },
+          "image_description": "Image of metal connectors"
+        },
+        {
+          "name": "Kettenstopper",
+          "sku": "V23-TR",
+          "price": "1,20€/ St.",
+          "specifications": {
+            "farbe": "transparent"
+          },
+          "image_description": "Image of a chain stopper"
+        }
+      ],
+      "page_notes": "Section 1. Rollo Absolute, Einzelteile",
+      "page_number": 48
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a form titled 'BESTELLFORMULAR - ROLLO - SYSTEMS S, M, L' for ordering roll systems. It includes fields for company details, product specifications (such as height, width, system type, fabric code), and installation instructions. There are notes regarding child safety and installation height requirements.",
+      "page_number": 49
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank and contains no product information.",
+      "page_number": 50
+    },
+    {
+      "products": [
+        {
+          "name": "XL-Rollo Absolute",
+          "specifications": {
+            "options": "XL 65, XL 80"
+          },
+          "image_description": "Office with motorized roller blinds and a long conference table with chairs around it."
+        }
+      ],
+      "page_notes": "Page shows a section dedicated to the XL-Rollo Absolute roller blinds.",
+      "page_number": 51
+    },
+    {
+      "products": [
+        {
+          "name": "XL 65",
+          "description": "System - Rohrwelle 65 mm, Bedienung wahlweise elektrisch (XL65 EL) oder mit Kette, Metallträger mit Kunststoffkappen, außenliegende Unterleiste Absolute, durch spezielle Mittelträger können mehrere XL-Rollos miteinander gekoppelt werden, nicht einsetzbar für Montage mit PVC-Klemmträgern.",
+          "specifications": {
+            "Rohrwelle diameter": "65 mm"
+          },
+          "image_description": "Diagram of XL 65 EL roller with chain and electric icons."
+        }
+      ],
+      "page_notes": "Page contains a model description of XL 65, system colors, and available roller dimensions with additional pricing information for certain features.",
+      "page_number": 52
+    },
+    {
+      "products": [
+        {
+          "name": "XL 80",
+          "description": "Rohrwelle 80 mm, Bedienung wahlweise elektrisch (XL80 EL) oder mit Kette, Metallträger mit Kunststoffkappen, außenliegende Unterleiste Absolute, durch spezielle Mittelträger können mehrere XL-Rollos miteinander gekoppelt werden, nicht einsetzbar für Montage mit PVC-Klemmträger.",
+          "image_description": "Illustration of XL 80 EL with electric operation.",
+          "additional_info": "Available in colors: weiß, silber, schwarz"
+        },
+        {
+          "name": "System XL",
+          "specifications": {
+            "material": "Aluminium",
+            "dimensions": "Ø 80 mm"
+          },
+          "additional_info": "Standardträger (für Wand- oder Deckenmontage) and Unterleiste Absolute available. Seitenführung gegen Aufpreis: 27,80 €."
+        }
+      ],
+      "page_notes": "Produktbeschreibung of model XL 80 and system specifications.",
+      "page_number": 53
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains information about the size range of XL-Rollos, including specifications for XL-Rollo 65 and XL-Rollo 80. It provides technical details on the maximum width, height, and area depending on Stoffmaß (g/m²). Maximum surface area for coupled XL-Rollos is also listed along with connection examples for 2, 3, and 4 Rollos. There is a note about additional shipping costs and the coupled system reducing installation effort and minimizing light gaps.",
+      "page_number": 54
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains a size and pricing table for 'SYSTEM XL' (XL65, XL80) by LUXAN. The table includes dimensions and prices in Euro for different product groups (PG) and widths. Additional note mentions availability of motors and electric accessories with reference to electrical variants: Register 6.",
+      "page_number": 55
+    },
+    {
+      "products": [],
+      "page_notes": "Page 56 contains pricing information for the XL Rollo Absolute system, with specific prices based on size and PG category. Additional options for motors and electrical accessories are signposted as available in Register 6. Models XL65 and XL80 are specified with prices for breath sizes 130, 140, and 150 cm in various PG categories.",
+      "page_number": 56
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for 'SYSTEM XL' including models XL65 and XL80, with various measurements like width and height in centimeters. It displays different pricing options based on height and PG (price group) categories. Note also on different motors and electrical options in Register 6. Page number 57 in 'Technik & Preise 2026'.",
+      "page_number": 57
+    },
+    {
+      "products": [],
+      "page_notes": "This is a pricing table for a product category 'PREISE - SYSTEM XL', specifically for models XL65 and XL80. The table provides a matrix of dimensions (Breite and Höhe in centimeters) and their corresponding prices. The page also mentions an 'Aufpreise' section and additional information about motors and electrical accessories available in Register 6. No specific product details are listed, only pricing information.",
+      "page_number": 58
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for LUXAN's Systeme XL series, specifically models XL65 and XL80. It lists prices in a table format based on width (in cm) and PG (presumably a category rating). Additional information suggests there are multiple motors and additional electrical accessories available. There is a reference to electric variants in Register 6.",
+      "page_number": 59
+    },
+    {
+      "products": [],
+      "page_notes": "Page 60 contains a pricing table for 'PREISE - SYSTEM XL' XL65, XL80 roller shutters. The table is organized by dimensions in centimeters (width and height) and pricing groups (PG). It includes multiple rows for different sizes and pricing groups. Notes indicate additional motors and electrical accessories are available for selection. Technical & Pricing information for the year 2026 is provided.",
+      "page_number": 60
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for the 'PREISE - SYSTEM XL' of the LUXAN catalogue. It includes prices for XL65 and XL80 systems across different widths (280 cm, 290 cm, 300 cm) and projection groups (PG 0-5), with varying heights. There are notes indicating options for additional motors and electric variations specified in Register 6.",
+      "page_number": 61
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a pricing table for System XL, including XL65 and XL80 models with various dimensions and price points. No specific product details or images are presented on this page. It is page 62 of the LUXAN_2026 Rollo catalogue.",
+      "page_number": 62
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for Systeme XL - XL65, XL80 with various sizes and configurations. Includes specific pricing for different dimensions (Breite and Hohe), Aufpreise, and notes about additional motor and electric accessory options in Register 6.",
+      "page_number": 63
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for the XL65 and XL80 systems with size options in cm and corresponding prices, depending on specific characteristics. It includes information about surplus charges and mentions additional options for motors and electric accessories. Page section: 2. XL-Rollo Absolute, Systeme XL. Footer indicates 'Technik & Preise | 2026'.",
+      "page_number": 64
+    },
+    {
+      "products": [],
+      "page_notes": "This page is a price list for the 'SYSTEM XL' model, specifically XL65 and XL80, within the LUXAN catalogue. It contains a price table based on different dimensions (Breite [cm] and Höhe [cm]) with various PG categories. Additional notes mention potential extra shipping costs for widths over 260 cm and multiple motor options and electric accessories for this model.",
+      "page_number": 65
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for System XL with various width options (430, 440, 450 cm) for the XL80 model. It includes detailed pricing tables for different height (Breite) options and notes about extra charges for certain widths, delivery information, and additional motor and electric accessory options.",
+      "page_number": 66
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list titled 'PREISE - SYSTEM XL' for XL80, showing prices based on width (Breite [cm]) and height (Höhe [cm]) specifications. Notes mention an absence of surcharge for widths over 400 cm for model XL80 and potential additional shipping costs for widths over 260 cm. There are also options for alternative motors and electrical accessories, with reference to Register 6.",
+      "page_number": 67
+    },
+    {
+      "products": [],
+      "page_notes": "Page contains a pricing table for the 'System XL' model XL80. It shows prices in different configurations based on width and height, expressed in cm. The table includes different model numbers corresponding to each dimension set. Notes at the bottom mention additional costs for widths over 260 cm and offers for electric variants. This page is part of the Technik & Preise 2026 section.",
+      "page_number": 68
+    },
+    {
+      "products": [],
+      "page_notes": "This page provides measurement information for coupled roller blinds, including total width and individual blind width specifications. It includes diagrams showing measurements and components like motor and fabric width. Part of 'Technik & Preise 2026'.",
+      "page_number": 69
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains assembly illustrations for the 'System XL' of 2. XL-Rollo Absolute. It includes diagrams of rollo assembly components labeled as 'Rollwelle', and also shows part numbers like RC4014, RC4006, RC3018, RCU-13, RCU-14, RCU-15, RCU-27. No product information is provided such as descriptions or prices.",
+      "page_number": 70
+    },
+    {
+      "products": [
+        {
+          "sku": "RC4014",
+          "image_description": "Round component with a hole and a protruding pin.",
+          "additional_info": "Part of coupling system components."
+        },
+        {
+          "sku": "RC4006",
+          "image_description": "Rectangular component with a flat top.",
+          "additional_info": "Part of coupling system components."
+        },
+        {
+          "sku": "RC3019",
+          "image_description": "Small cylindrical connector pin.",
+          "additional_info": "Part of coupling system components."
+        },
+        {
+          "sku": "RTU-65",
+          "image_description": "Tube for roller shade system.",
+          "additional_info": "Compatible with RCU-13 and RC3005 components."
+        },
+        {
+          "sku": "RTU-80",
+          "image_description": "Larger tube for roller shade system.",
+          "additional_info": "Compatible with RCU-14 and RC3005 components."
+        },
+        {
+          "sku": "RCU-13",
+          "image_description": "Circular connector fitting for roller tubes.",
+          "additional_info": "Compatible with RTU-65 tube."
+        },
+        {
+          "sku": "RCU-14",
+          "image_description": "Circular connector fitting for roller tubes.",
+          "additional_info": "Compatible with RTU-80 tube."
+        },
+        {
+          "sku": "RC3005",
+          "image_description": "Small circular component for roller system assemblies.",
+          "additional_info": "Used in multiple roller systems."
+        }
+      ],
+      "page_notes": "Montage page, illustrating components of coupled systems with two controls - System XL.",
+      "page_number": 71
+    },
+    {
+      "products": [
+        {
+          "sku": "RC4014",
+          "image_description": "Mounting bracket labeled as RC4014."
+        },
+        {
+          "sku": "RC4006",
+          "image_description": "Mounting bracket labeled as RC4006."
+        },
+        {
+          "sku": "RC3018",
+          "image_description": "Connector or pin labeled as RC3018."
+        },
+        {
+          "sku": "RTU-65",
+          "image_description": "Tube labeled as RTU-65."
+        },
+        {
+          "sku": "RTU-80",
+          "image_description": "Tube labeled as RTU-80."
+        },
+        {
+          "sku": "RC3005",
+          "image_description": "Connector or wheel labeled as RC3005."
+        },
+        {
+          "sku": "RCU-13",
+          "image_description": "Connector or wheel labeled as RCU-13."
+        },
+        {
+          "sku": "RCU-14",
+          "image_description": "Connector or wheel labeled as RCU-14."
+        }
+      ],
+      "page_notes": "Section header: 2. XL-Rollo Absolute. Montage of coupled systems with electronic control - System XL. Contains illustrations of roll shafts and connecting components.",
+      "page_number": 72
+    },
+    {
+      "products": [
+        {
+          "name": "RTU-65",
+          "description": "65 mm Welle Aluminium",
+          "price": "65,70/ Lfm.",
+          "image_description": "Metal roller tube",
+          "sku": "RC-4004-BK, RC-4004-GR, RC-4004-W",
+          "additional_info": "Rollträger X/L aus Metall",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "price_for_additional_info": "9,15/ St."
+        },
+        {
+          "name": "RTU-80",
+          "description": "80 mm Welle Aluminium",
+          "price": "103,00/ Lfm.",
+          "image_description": "Metal roller tube",
+          "sku": "RC-40107-BK, RC-40107-GR, RC-40107-W",
+          "additional_info": "Kunststoffkappe für den Metallträger X/L",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "price_for_additional_info": "3,40/ St."
+        },
+        {
+          "name": "RC4001-BK, RC4001-GR, RC4001-W",
+          "description": "Getriebe 1:1 XL",
+          "price": "34,50/ St.",
+          "image_description": "Gear mechanism",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "additional_info": "Abdeckkappe für Rolloträger X/L",
+          "sku": "RC-4006-BK, RC-4006-GR, RC-4006-W",
+          "price_for_additional_info": "4,70/ St."
+        },
+        {
+          "name": "RC4002-BK, RC4002-GR, RC4002-W",
+          "description": "Getriebe 1:1,5 XL",
+          "price": "63,70/ St.",
+          "image_description": "Gear mechanism",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "additional_info": "Metallträger für gekoppelte Anlage X/L einschließlich Endkappe",
+          "sku": "RC4014-BK, RC-4014-GR, RC4014-W",
+          "price_for_additional_info": "4,00/ St."
+        },
+        {
+          "name": "RC4003-BK, RC4003-GR, RC4003-W",
+          "description": "Getriebe 1:3 XL",
+          "price": "63,70/ St.",
+          "image_description": "Gear mechanism",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "additional_info": "Gegenlager M/L 38 mm für gekoppelte anlagen",
+          "sku": "RCU-27",
+          "price_for_additional_info": "31,50/ St."
+        },
+        {
+          "name": "RC3053-W",
+          "description": "Gegenlager M/L 38 mm",
+          "price": "3,00/ St.",
+          "image_description": "Bearing housing",
+          "specifications": {
+            "color": "weiß"
+          },
+          "additional_info": "einstellbarer Gegenlager M/L 42 mm für gekoppelte Anlagen",
+          "sku": "RCU-15",
+          "price_for_additional_info": "33,00/ St."
+        },
+        {
+          "name": "RC3004-BK, RC3004-GR, RC3004-W",
+          "description": "Gegenlager M/L 38 mm",
+          "price": "1,50/ St.",
+          "image_description": "Bearing housing",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "sku": "RC3019",
+          "additional_info": "Verbindungsstift für gekoppelte Anlagen eckig (bei zwei Steuerungen)",
+          "price_for_additional_info": "30,30/ St."
+        },
+        {
+          "name": "RC3005-BK, RC3005-GR, RC3005-W",
+          "description": "Gegenlager M/L 42 mm",
+          "price": "2,80/ St.",
+          "image_description": "Bearing housing",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "sku": "RC3018",
+          "additional_info": "Verbindungsstift für gekoppelte Anlagen rund (bei einer Steuerung)",
+          "price_for_additional_info": "18,30/ St."
+        },
+        {
+          "name": "RC4025-BK, RC4025-W",
+          "description": "Wellenadapter 38/65 mm",
+          "price": "19,30/ St.",
+          "image_description": "Axle adapter",
+          "specifications": {
+            "color": "schwarz, weiß"
+          },
+          "sku": "RCU-23",
+          "additional_info": "Seitenführungssatz",
+          "price_for_additional_info": "1,50/ St."
+        },
+        {
+          "name": "RC4026-BK, RC4026-W",
+          "description": "Wellenadapter 38/80 mm",
+          "price": "19,30/ St.",
+          "image_description": "Axle adapter",
+          "specifications": {
+            "color": "schwarz, weiß"
+          },
+          "sku": "RCU-21",
+          "additional_info": "Träger für Seitenführung",
+          "price_for_additional_info": "1,50/ St."
+        },
+        {
+          "name": "RC2003-BK, RC2003-GR, RC2003-W",
+          "description": "Lagerbolzen",
+          "price": "1,50/ St.",
+          "image_description": "Bearing bolt",
+          "specifications": {
+            "color": "schwarz, grau, weiß"
+          },
+          "sku": "RCU-25",
+          "additional_info": "außen Träger für Seitenführung",
+          "price_for_additional_info": "18,80/ St."
+        },
+        {
+          "name": "RCU-24",
+          "description": "innen Träger für Seitenführung",
+          "price": "1,50/ St.",
+          "image_description": "Inner support for side guide",
+          "sku": "RCU-14",
+          "additional_info": "Adapter für 80 mm Welle",
+          "price_for_additional_info": "7,90/ St."
+        }
+      ],
+      "page_notes": "Section title: EINZELTEILE. Technical and price information for individual parts (Einzelteile) with images.",
+      "page_number": 73
+    },
+    {
+      "products": [
+        {
+          "name": "Rohr-Anschluss für Rohrwelle 65 mm",
+          "sku": "RCU-30-ABC",
+          "price": "8,40€/ St.",
+          "image_description": "Image of pipe connector for 65 mm tube"
+        },
+        {
+          "name": "Rohr-Anschluss für Rohrwelle 80 mm",
+          "sku": "RCU-31-ABC",
+          "price": "10,50€/ St.",
+          "image_description": "Image of pipe connector for 80 mm tube"
+        },
+        {
+          "name": "Metall-Befestigungsgurt für Metall-Träger",
+          "sku": "RCU-05-H",
+          "price": "36,30€/ St.",
+          "image_description": "Image of metal fastening belt for metal carrier"
+        },
+        {
+          "name": "Spannsiel ø3,0 mm für Seitenführung",
+          "sku": "RASP06-C",
+          "price": "0,70€/ Lfm.",
+          "image_description": "Image of tension cable ø3,0 mm for side guidance"
+        },
+        {
+          "name": "Adapter für 65 mm Welle",
+          "sku": "RCU-13",
+          "price": "6,60€/ St.",
+          "image_description": "Image of adapter for 65 mm shaft"
+        },
+        {
+          "name": "Endkappe für Unterleiste",
+          "sku": "RCU-17-GR, RCU-17-W",
+          "description": "grau weiß",
+          "price": "2,30€/ St."
+        },
+        {
+          "name": "Endkappe für Seitenführung",
+          "sku": "RCU-18",
+          "description": "transparent",
+          "price": "2,10€/ St."
+        },
+        {
+          "name": "Bolzen für Seitenführung",
+          "sku": "RCU-19",
+          "description": "transparent",
+          "price": "2,10€/ St."
+        },
+        {
+          "name": "Kettenspanner transparent",
+          "sku": "RB-CSD-08-C",
+          "description": "transparent",
+          "price": "2,90€/ St."
+        }
+      ],
+      "page_notes": "Section header 2. XL-Rollo Absolute, titled EINZELTEILE, Technick & Preise 2026",
+      "page_number": 74
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for 'ROLLO - SYSTEM XL' with fields for company, date, delivery date, and commission. It includes columns for product specifications such as position, quantity, model, control type, dimensions, mounting type, child safety, and installation height. Features a note on child safety and installation height fields.",
+      "page_number": 75
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank with no visible product information.",
+      "page_number": 76
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an image of a bathroom interior showcasing a window with a blind. The text '3. MINIROLLO MIT HALBKASSETTE' and 'TYP A TYP A-R' is present, indicating product types but no specific product details.",
+      "page_number": 77
+    },
+    {
+      "products": [
+        {
+          "name": "Minirollo",
+          "description": "Dank dem Einsatz der Minikassette und der Führungsschienen reduziert das Minirollo den Lichteinfall auf das Minimum. Es ist eine ideale Lösung für eine neue Generation von Fenstern aus PVC, Holz oder Aluminium.",
+          "specifications": {
+            "Seitenprofile": "Die Seitenprofile werden auf den Fensterrahmen geklebt. Es zwei Arten der Führungsschiene angeboten.",
+            "Typ A Standard-Führungsschiene": {
+              "dimensions": "3 mm, 21 mm, 32 mm, 11 mm, 10 mm, 11 mm"
+            },
+            "Typ A-R Räumliche Führungsschiene": {
+              "dimensions": "23.0 mm, 15.0 mm"
+            }
+          },
+          "image_description": "Illustrations of Minirollo with detailed side profile dimensions"
+        }
+      ],
+      "page_notes": "3. Minirollo mit Halbkassette - Modellübersicht",
+      "page_number": 78
+    },
+    {
+      "products": [
+        {
+          "name": "Minirollo",
+          "sku": "Modell Mini A/ A-R",
+          "description": "Das Minirrollo wird ausschließlich auf den Fensterrahmen montiert.",
+          "specifications": {
+            "standard_colors": [
+              "signalweiß (RAL9003)",
+              "weißaluminium (RAL9006)"
+            ],
+            "window_inclination": "max. 15 Grad",
+            "min_width_cm": "30",
+            "max_total_area_m2": "2,34",
+            "max_width_cm": {
+              "transparent": "140",
+              "blackout": "120"
+            },
+            "max_height_cm": {
+              "transparent": "180",
+              "blackout": "130"
+            }
+          },
+          "image_description": "Diagram of the general dimensions of the Minirollo system."
+        }
+      ],
+      "page_notes": "Section: Beschreibung; includes cleaning and care instructions.",
+      "page_number": 79
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for 'Mini Rollo Typ A' with models and pricing based on dimensions (Breite [cm] and Höhe [cm]). The colors are signalweiß RAL9003 and weißaluminium RAL9006. No specific products with descriptions or SKUs are listed.",
+      "page_number": 80
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price chart for 'Mini Rollo Typ A' with standard colors RAL9003 and RAL9006. It includes pricing information by model and size for widths of 110, 120, 130, and 140 cm, and various heights. It also shows price groups PG 0 to 5 for each model.",
+      "page_number": 81
+    },
+    {
+      "products": [],
+      "page_notes": "Page 82 of 'LUXAN_2026 Rollo.pdf' contains pricing information for Mini Rollo Typ A-R with spatial guide rail. It includes a detailed price table for different system colors and dimensions. No specific product details or descriptions are included.",
+      "page_number": 82
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for Mini Rollo Type A-R (mit räumlicher Führungsschiene). Available system colors: signalweiß RAL9003, weißaluminium RAL9006. Price grid based on width (Breite) and height (Höhe) in cm, with various PG codes and values for widths 90, 100, 110, 120, 130, and 140.",
+      "page_number": 83
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains an upcharge table for Mini Rollo Typ A with spacing profile. It includes a grid of upcharge values based on width and height in cm, and diagrams of the gewölbtes Abstandsleiste A-2 and Abstandprofil A-3.",
+      "page_number": 84
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains measurement instructions for 'Mini Rollo Typ A' by Luxan. It includes diagrams showing how to properly measure for installation. Instructions cover measuring width and height with notes on order width and additional information about compatibility and non-compatibility with certain window frame types.",
+      "page_number": 85
+    },
+    {
+      "products": [
+        {
+          "name": "Mini Rollo Typ A-R",
+          "description": "Mit räumlicher Führungsschiene",
+          "specifications": {
+            "A": "Abstand vom Fenstergriff zur Außenkante der Glasleiste (>10 mm)",
+            "H": "Bestellhöhe",
+            "h": "Höhe zwischen den Außenkanten der Glasleisten",
+            "h1": "4 cm (die Hälfte der Kassettenhöhe)",
+            "B": "Bestellbreite",
+            "b": "Breite zwischen den Außenkanten der Glasleisten",
+            "b1": "1,5 cm",
+            "b2": "1,5 cm",
+            "b1 b2": "Abstände zur Befestigung Führungsschienen (erforderlich: b1 = b2)",
+            "25 mm": "r&aumlumliche Führungsschiene"
+          },
+          "image_description": "Diagram of Mini Rollo with dimensions for fitting on window frames.",
+          "additional_info": "Achtung: Wenn der Abstand vom Fenstergriff zur Außenkante der Glasleiste (A) weniger als 10 mm beträgt, ist die Anbringung des Produktes am Fensterrahmen nicht möglich."
+        }
+      ],
+      "page_notes": "Page describing measuring instructions for Mini Rollo Typ A-R with spatial guide rail.",
+      "page_number": 86
+    },
+    {
+      "products": [],
+      "page_notes": "Installation options for different types of guide rails and spacer profiles. Includes illustrations and dimensions for Typ A-R (räumliche Führungsschiene), Typ A-1 (Standard Führungsschiene), Typ A-2 (gewölbte Abstandsleiste), and Typ A-3 (Abstandprofil). Section discusses when to use spacer profiles if guide rails cannot be installed.",
+      "page_number": 87
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation instructions for 'Modell Mini Typ A-1', which is a mini rollo with half cassette. It includes step-by-step illustrations for assembly using adhesive tape and click mechanisms.",
+      "page_number": 88
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation diagrams and technical illustrations for 'Modell Mini mit Abstandsleisten Typ A-2 und Abstandsprofilen A-3'. Includes cross-section diagrams and labels like 'gewölbte Abstandsleiste' and 'Abstandprofil'. Page marked as 89 in 'Technik & Preise | 2026'.",
+      "page_number": 89
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation instructions for 'Modell Mini Typ A-R' under the section 'MONTAGE' (assembly). It includes step-by-step diagrams with labels like 'Klebeband' and 'CLICK'.",
+      "page_number": 90
+    },
+    {
+      "products": [],
+      "page_notes": "Order form for MINIROLLO TYPE A including fields for company, date, delivery date, commission, installation height, dimensions, and child safety information. Includes technical diagrams and safety warnings.",
+      "page_number": 91
+    },
+    {
+      "products": [],
+      "page_notes": "The page is an order form for 'MINIROLLO TYP A-R'. It includes fields for company details, delivery date, commission number, child safety options, measurements, and other customizable options. There are diagrams and instructions related to installation and measurement. The page is labeled as 'Technik & Preise 2026' on the bottom.",
+      "page_number": 92
+    },
+    {
+      "products": [],
+      "page_notes": "Section header for 'Dachfenster Rollo' with a mention of 'DF Comfort' and 'DF Basic'. The image shows a roof window with a blind partially pulled down.",
+      "page_number": 93
+    },
+    {
+      "products": [
+        {
+          "name": "Comfort",
+          "specifications": {
+            "max_width_cm": "118",
+            "max_height_cm": "140",
+            "max_area_m2": "1,65"
+          },
+          "image_description": "Image of Comfort model roof window roller blind with middle pull control."
+        },
+        {
+          "name": "Basic",
+          "specifications": {
+            "max_width_cm": "120",
+            "max_height_cm": "150",
+            "max_area_m2": "1,80"
+          },
+          "image_description": "Image of Basic model roof window roller blind with middle pull control."
+        }
+      ],
+      "page_notes": "Section header 'Modellübersicht' under '4. Dachfenster Rollo'. Includes comparison of Comfort and Basic models with details on their control, fixation, and specifications. Includes a note about maximum dimensions variability based on fabric.",
+      "page_number": 94
+    },
+    {
+      "products": [
+        {
+          "name": "Modell Comfort",
+          "description": "Federzugrollo, Unterschiene: Alu in Systemfarbe, Systemfarbe: silber, weiß, Führungsschienen, Blende oben, Bedienung über Grifflleiste, Rollowelle aus Metall.",
+          "specifications": {
+            "systemfarben": "weiß, silber"
+          },
+          "image_description": "Illustration of a window with a blind installed."
+        }
+      ],
+      "page_notes": "Section titled 'MODELLÜBERSICHT' explaining components and installation of the Modell Comfort.",
+      "page_number": 95
+    },
+    {
+      "products": [
+        {
+          "name": "Modell Basic",
+          "description": "Federzugrollo, Bedienung über transparenten Griff an der Unterleiste, weiße Montageträger aus Kunststoff, ohne Bremse in der Standardausführung, transparente Haltekrallen zum Einrasten der Abschlussleiste, Rollwelle aus Metall, Montage im Fensterflügel, Abschlussprofil sichtbar.",
+          "image_description": "Diagram showing a window with a roll-up blind."
+        },
+        {
+          "name": "Montageträger",
+          "specifications": {
+            "dimensions": "40 mm width, varies with context."
+          },
+          "image_description": "Diagram showing mounting brackets."
+        },
+        {
+          "name": "Haltekrallen",
+          "specifications": {
+            "dimensions": "30.5 mm width, varies with context."
+          },
+          "image_description": "Diagram showing holding claws."
+        },
+        {
+          "name": "Träger für Velux GGU",
+          "specifications": {
+            "dimensions": "36.7 mm width, varies with context."
+          },
+          "image_description": "Diagram showing mounting brackets for Velux GGU."
+        },
+        {
+          "name": "Dachfenster Basic",
+          "additional_info": "oben/ für Velux GGU, unten/ seitlich",
+          "image_description": "Illustration showing different mounting options for basic roof window."
+        }
+      ],
+      "page_notes": "4. DACHFENSTER ROLLO, MODELÜBERSICHT, SYSTEMFARBE described as weiße/transparent. Page includes diagrams of technical specifications.",
+      "page_number": 96
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains pricing information for Dachfensterrollo (roof window blinds) under the category 'Dachfensterrollo Comfort' by the brand Luxan. It includes models such as VELUX GGL-GPL-GHL-GEL-GTL-GXL with type, dimensions, and price groups listed in a table.",
+      "page_number": 97
+    },
+    {
+      "products": [],
+      "page_notes": "Price details and specifications for various Velux model types including VELUX GGU-GPU-GTU, VELUX GGL-GPL-GHL-GEL-GTL-GXL from 2012, and VELUX GZX. It includes tables of width, height, and price group by model type and size.",
+      "page_number": 98
+    },
+    {
+      "products": [],
+      "page_notes": "Section header: 'PREISE' indicating price details for 'Dachfensterrollo Comfort'. Two brands mentioned: Fakro and Roto with various models and pricing groups based on dimensions and other specifications. This is a technical specification and price listing page without individual product descriptions.",
+      "page_number": 99
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for Dachfensterrollo Comfort models from the Roto brand, specifically model ROTO 64, 84 K and models ROTO 73H, 73K, 43H, as well as ROTO ECOLINE HR 339 PLUS and ROTO ECOLINE HR 549 PLUS. The list includes measures of width and height along with corresponding price groups.",
+      "page_number": 100
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains pricing tables for 'Dachfensterrollo Comfort' models: ROTO H1, ROTO H3, ROTO HR, and ROTO HR WOOD. It lists types, dimensions, and price groups for each model.",
+      "page_number": 101
+    },
+    {
+      "products": [
+        {
+          "name": "Dachfensterrollo Comfort",
+          "category": "Blefa",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "I",
+                "Breite [mm]": "374",
+                "Höhe [mm]": "772",
+                "Preisgruppe": "138 141 147 148 152 161"
+              },
+              {
+                "Type": "II",
+                "Breite [mm]": "534",
+                "Höhe [mm]": "772",
+                "Preisgruppe": "153 156 166 174 192"
+              },
+              {
+                "Type": "III",
+                "Breite [mm]": "684",
+                "Höhe [mm]": "1102",
+                "Preisgruppe": "200 204 219 225 232 264"
+              },
+              {
+                "Type": "IV",
+                "Breite [mm]": "934",
+                "Höhe [mm]": "1102",
+                "Preisgruppe": "225 228 253 262 278 317"
+              },
+              {
+                "Type": "V",
+                "Breite [mm]": "1534",
+                "Höhe [mm]": "1102",
+                "Preisgruppe": "279 282 319 334 356 424"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BLEFA BLA-B/B",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "35",
+                "Breite [mm]": "464",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "174 177 188 191 195 217"
+              },
+              {
+                "Type": "24",
+                "Breite [mm]": "354",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "163 168 176 179 183 197"
+              },
+              {
+                "Type": "33",
+                "Breite [mm]": "354",
+                "Höhe [mm]": "733",
+                "Preisgruppe": "138 141 147 148 152 161"
+              },
+              {
+                "Type": "34",
+                "Breite [mm]": "464",
+                "Höhe [mm]": "733",
+                "Preisgruppe": "147 150 154 157 161 178"
+              },
+              {
+                "Type": "48",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "733",
+                "Preisgruppe": "153 156 163 166 174 192"
+              },
+              {
+                "Type": "53",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1034",
+                "Preisgruppe": "182 185 195 201 212 230"
+              },
+              {
+                "Type": "54",
+                "Breite [mm]": "464",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "177 179 188 191 195 220"
+              },
+              {
+                "Type": "55",
+                "Breite [mm]": "464",
+                "Höhe [mm]": "733",
+                "Preisgruppe": "147 150 154 157 161 178"
+              },
+              {
+                "Type": "45",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "733",
+                "Preisgruppe": "153 156 163 166 174 192"
+              },
+              {
+                "Type": "65",
+                "Breite [mm]": "954",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "217 220 238 250 262 297"
+              },
+              {
+                "Type": "74",
+                "Breite [mm]": "1204",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "272 279 315 324 345 410"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BLEFA BL/A-BSK/A",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "33",
+                "Breite [mm]": "354",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "138 141 147 148 152 161"
+              },
+              {
+                "Type": "42",
+                "Breite [mm]": "464",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "147 150 154 157 161 178"
+              },
+              {
+                "Type": "43",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "153 156 163 166 174 192"
+              },
+              {
+                "Type": "44",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1033",
+                "Preisgruppe": "182 185 195 201 212 230"
+              },
+              {
+                "Type": "45",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1303",
+                "Preisgruppe": "213 216 229 232 247 276"
+              },
+              {
+                "Type": "55",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1303",
+                "Preisgruppe": "248 251 279 286 303 350"
+              },
+              {
+                "Type": "73",
+                "Breite [mm]": "1204",
+                "Höhe [mm]": "1064",
+                "Preisgruppe": "272 279 315 324 345 410"
+              }
+            ]
+          }
+        },
+        {
+          "name": "KEYLITE CP, TH, CW",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "01",
+                "Breite [mm]": "383",
+                "Höhe [mm]": "543",
+                "Preisgruppe": "119 122 123 124 129 140"
+              },
+              {
+                "Type": "02",
+                "Breite [mm]": "383",
+                "Höhe [mm]": "743",
+                "Preisgruppe": "138 141 147 148 152 161"
+              },
+              {
+                "Type": "03",
+                "Breite [mm]": "493",
+                "Höhe [mm]": "943",
+                "Preisgruppe": "163 167 176 179 186 203"
+              },
+              {
+                "Type": "04",
+                "Breite [mm]": "613",
+                "Höhe [mm]": "943",
+                "Preisgruppe": "160 163 174 179 186 204"
+              },
+              {
+                "Type": "05",
+                "Breite [mm]": "613",
+                "Höhe [mm]": "943",
+                "Preisgruppe": "180 183 195 201 212 232"
+              },
+              {
+                "Type": "06",
+                "Breite [mm]": "613",
+                "Höhe [mm]": "1163",
+                "Preisgruppe": "200 204 219 225 232 264"
+              },
+              {
+                "Type": "08",
+                "Breite [mm]": "973",
+                "Höhe [mm]": "943",
+                "Preisgruppe": "204 211 221 232 248 282"
+              },
+              {
+                "Type": "09",
+                "Breite [mm]": "1173",
+                "Höhe [mm]": "743",
+                "Preisgruppe": "200 205 221 229 242 279"
+              }
+            ]
+          }
+        },
+        {
+          "name": "ROOFLITE SF, TF",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "C2A",
+                "Breite [mm]": "397",
+                "Höhe [mm]": "575",
+                "Preisgruppe": "119 122 123 124 129 140"
+              },
+              {
+                "Type": "F6A",
+                "Breite [mm]": "507",
+                "Höhe [mm]": "975",
+                "Preisgruppe": "172 175 188 191 195 219"
+              },
+              {
+                "Type": "M4A",
+                "Breite [mm]": "613",
+                "Höhe [mm]": "740",
+                "Preisgruppe": "160 163 174 179 186 204"
+              },
+              {
+                "Type": "M6A",
+                "Breite [mm]": "613",
+                "Höhe [mm]": "940",
+                "Preisgruppe": "180 183 195 201 212 232"
+              },
+              {
+                "Type": "S6A",
+                "Breite [mm]": "973",
+                "Höhe [mm]": "940",
+                "Preisgruppe": "204 211 221 232 248 282"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BLEFA BL/C",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "33",
+                "Breite [mm]": "394",
+                "Höhe [mm]": "827",
+                "Preisgruppe": "148 151 154 157 160 174"
+              },
+              {
+                "Type": "43",
+                "Breite [mm]": "574",
+                "Höhe [mm]": "827",
+                "Preisgruppe": "161 164 176 179 186 204"
+              },
+              {
+                "Type": "44",
+                "Breite [mm]": "574",
+                "Höhe [mm]": "1037",
+                "Preisgruppe": "182 185 195 201 212 230"
+              },
+              {
+                "Type": "64",
+                "Breite [mm]": "994",
+                "Höhe [mm]": "1037",
+                "Preisgruppe": "217 220 238 250 262 297"
+              },
+              {
+                "Type": "74",
+                "Breite [mm]": "1204",
+                "Höhe [mm]": "1037",
+                "Preisgruppe": "248 254 276 284 297 350"
+              },
+              {
+                "Type": "84",
+                "Breite [mm]": "1414",
+                "Höhe [mm]": "1037",
+                "Preisgruppe": "257 260 293 306 324 384"
+              },
+              {
+                "Type": "94",
+                "Breite [mm]": "1594",
+                "Höhe [mm]": "1037",
+                "Preisgruppe": "265 268 306 317 339 399"
+              }
+            ]
+          }
+        },
+        {
+          "name": "BLEFA BSK",
+          "specifications": {
+            "Types": [
+              {
+                "Type": "33",
+                "Breite [mm]": "394",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "138 141 147 148 152 161"
+              },
+              {
+                "Type": "43",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "153 156 163 166 174 192"
+              },
+              {
+                "Type": "44",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1033",
+                "Preisgruppe": "182 185 195 201 212 230"
+              },
+              {
+                "Type": "45",
+                "Breite [mm]": "594",
+                "Höhe [mm]": "1303",
+                "Preisgruppe": "213 216 229 232 247 276"
+              },
+              {
+                "Type": "64",
+                "Breite [mm]": "994",
+                "Höhe [mm]": "1033",
+                "Preisgruppe": "217 220 238 250 262 297"
+              },
+              {
+                "Type": "65",
+                "Breite [mm]": "994",
+                "Höhe [mm]": "1303",
+                "Preisgruppe": "248 251 279 286 303 350"
+              },
+              {
+                "Type": "73",
+                "Breite [mm]": "1204",
+                "Höhe [mm]": "702",
+                "Preisgruppe": "209 215 231 238 253 289"
+              },
+              {
+                "Type": "74",
+                "Breite [mm]": "1204",
+                "Höhe [mm]": "1033",
+                "Preisgruppe": "238 245 276 284 297 350"
+              }
+            ]
+          }
+        }
+      ],
+      "page_notes": "Section header for Dachfensterrollo Comfort pricing information.",
+      "page_number": 102
+    },
+    {
+      "products": [],
+      "page_notes": "Price list for 'Dachfensterrollo Comfort - ungenormte Fenster'. Includes multiple sizes under 'Breite [cm]' and 'Höhe [cm]', with pricing listed for each. Page includes technical details and model numbers ranging from PG 0 to PG 5 for widths 40 cm, 50 cm, 60 cm, 70 cm, 80 cm, 90 cm, 100 cm, 110 cm, and 120 cm.",
+      "page_number": 103
+    },
+    {
+      "products": [
+        {
+          "name": "VELUX GGL-GPL-GHL-GEL-GTL-GXL",
+          "description": "Models with category and price groups for different sizes.",
+          "specifications": {
+            "type": "Breite Höhe",
+            "sizes": {
+              "397 574": "1",
+              "471 774": "4",
+              "613 740": "3",
+              "775 1320": "5"
+            }
+          },
+          "additional_info": "Features types 102 to 608 with different price groups."
+        },
+        {
+          "name": "VELUX GGU-GHU-GPU-GTU",
+          "description": "Models with category and price groups for different sizes.",
+          "specifications": {
+            "type": "Breite Höhe",
+            "sizes": {
+              "383 460": "CO1",
+              "493 740": "F06",
+              "775 1160": "P08"
+            }
+          },
+          "additional_info": "Features different types with price groups 1 to 5."
+        },
+        {
+          "name": "VELUX GGL-GPL-GHL-GEL-GTL-VFL",
+          "description": "models with price groups for different heights.",
+          "specifications": {
+            "type": "Breite Höhe",
+            "sizes": {
+              "614 742": "1",
+              "942 1162": "F10",
+              "134 1410": "U12"
+            }
+          }
+        },
+        {
+          "name": "FAKRO FT, FTP-W, FTT, PK, FK, FE, FL",
+          "description": "Models with price groups for various dimensions.",
+          "specifications": {
+            "type": "Breite Höhe",
+            "sizes": {
+              "390 612": "01 55x78",
+              "740 940": "09 94x140"
+            }
+          },
+          "additional_info": "Contains type codes and corresponding sizes."
+        }
+      ],
+      "page_notes": "The page contains models of Dachfensterrollo Basic with various types, sizes, and price groups for VELUX and FAKRO brands.",
+      "page_number": 104
+    },
+    {
+      "products": [
+        {
+          "name": "ROTO 310-320",
+          "description": "Dachfensterrollo Basic",
+          "specifications": {
+            "breite": "mm",
+            "höhe": "mm"
+          },
+          "additional_info": "Preise for various sizes and configurations listed."
+        },
+        {
+          "name": "ROTO 417-418",
+          "specifications": {
+            "breite": "mm",
+            "höhe": "mm"
+          },
+          "additional_info": "Preise for various sizes and configurations listed."
+        },
+        {
+          "name": "ROTO 735 K SR",
+          "specifications": {
+            "breite": "mm",
+            "höhe": "mm"
+          },
+          "additional_info": "Preise for various sizes and configurations listed."
+        },
+        {
+          "name": "ROTO H",
+          "specifications": {
+            "breite": "mm",
+            "höhe": "mm"
+          },
+          "additional_info": "Preise for various sizes and configurations listed."
+        },
+        {
+          "name": "ROTO 62, 64, 84 K",
+          "specifications": {
+            "breite": "mm",
+            "höhe": "mm"
+          },
+          "additional_info": "Preise for various sizes and configurations listed."
+        }
+      ],
+      "page_notes": "Page lists prices for Roto Dachfensterrollos in various models and types with detailed dimensions and configurations.",
+      "page_number": 105
+    },
+    {
+      "products": [
+        {
+          "name": "ROTO 73H, 73K, 43H",
+          "specifications": {
+            "Type": [
+              "10/12",
+              "11/11",
+              "11/14",
+              "11/14",
+              "11/11",
+              "11/14",
+              "11/14",
+              "13/9",
+              "13/9",
+              "11/7",
+              "11/7",
+              "11/7",
+              "7/9",
+              "7/9",
+              "7/9",
+              "7/9",
+              "11/7",
+              "11/7",
+              "7/7",
+              "7/7"
+            ],
+            "Breite [mm]": [
+              "863",
+              "982",
+              "982",
+              "982",
+              "982",
+              "982",
+              "982",
+              "1182",
+              "1182",
+              "852",
+              "852",
+              "852",
+              "710",
+              "710",
+              "710",
+              "710",
+              "582",
+              "582",
+              "582",
+              "620"
+            ],
+            "Höhe [mm]": [
+              "1200",
+              "1020",
+              "1240",
+              "1240",
+              "1240",
+              "620",
+              "820",
+              "830",
+              "820",
+              "820",
+              "1020",
+              "1040",
+              "820",
+              "820",
+              "820",
+              "780",
+              "1040",
+              "1040",
+              "820",
+              "580"
+            ],
+            "Preiskategorie": [
+              "4",
+              "5",
+              "5",
+              "3",
+              "5",
+              "5",
+              "4",
+              "4",
+              "5",
+              "3",
+              "4",
+              "5",
+              "5",
+              "2",
+              "3",
+              "3",
+              "2",
+              "3",
+              "4",
+              "4"
+            ],
+            "Preise": [
+              "117",
+              "159",
+              "131",
+              "154",
+              "92",
+              "127",
+              "86",
+              "83",
+              "108",
+              "86",
+              "120",
+              "159",
+              "120",
+              "181",
+              "181",
+              "81",
+              "103",
+              "86",
+              "121",
+              "124"
+            ]
+          }
+        },
+        {
+          "name": "ROTO ECOLINE HR 549 PLUS",
+          "specifications": {
+            "Type": [
+              "11/11",
+              "11/14",
+              "13/9",
+              "13/9",
+              "11/7",
+              "7/14",
+              "7/9"
+            ],
+            "Breite [mm]": [
+              "980",
+              "980",
+              "1180",
+              "620",
+              "620",
+              "620",
+              "620"
+            ],
+            "Höhe [mm]": [
+              "1023",
+              "1243",
+              "823",
+              "1023",
+              "1243",
+              "1243",
+              "823"
+            ],
+            "Preiskategorie": [
+              "4",
+              "5",
+              "5",
+              "4",
+              "5",
+              "4",
+              "4"
+            ],
+            "Preise": [
+              "123",
+              "131",
+              "138",
+              "107",
+              "110",
+              "114",
+              "104"
+            ]
+          }
+        },
+        {
+          "name": "ROTO HR WOOD",
+          "specifications": {
+            "Type": [
+              "11/11",
+              "11/14",
+              "11/14",
+              "11/7",
+              "9/7",
+              "11/7",
+              "11/7",
+              "7/14",
+              "7/9"
+            ],
+            "Breite [mm]": [
+              "952",
+              "952",
+              "952",
+              "732",
+              "252",
+              "352",
+              "462",
+              "552",
+              "552"
+            ],
+            "Höhe [mm]": [
+              "952",
+              "952",
+              "780",
+              "702",
+              "522",
+              "480",
+              "780",
+              "540",
+              "720"
+            ],
+            "Preiskategorie": [
+              "5",
+              "3",
+              "4",
+              "3",
+              "2",
+              "3",
+              "4",
+              "5",
+              "5"
+            ],
+            "Preise": [
+              "164",
+              "179",
+              "114",
+              "173",
+              "103",
+              "107",
+              "97",
+              "116",
+              "128"
+            ]
+          }
+        },
+        {
+          "name": "ROTO HR",
+          "specifications": {
+            "Type": [
+              "11/11",
+              "11/14",
+              "11/7",
+              "7/13",
+              "9/7",
+              "11/11"
+            ],
+            "Breite [mm]": [
+              "928",
+              "928",
+              "928",
+              "928",
+              "728",
+              "728"
+            ],
+            "Höhe [mm]": [
+              "968",
+              "1168",
+              "568",
+              "568",
+              "968",
+              "568"
+            ],
+            "Preiskategorie": [
+              "4",
+              "5",
+              "3",
+              "3",
+              "5",
+              "4"
+            ],
+            "Preise": [
+              "122",
+              "133",
+              "118",
+              "134",
+              "112",
+              "107"
+            ]
+          }
+        }
+      ],
+      "page_notes": "Page showing product information for Dachfensterrollo Basic models with pricing details.",
+      "page_number": 106
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains price tables for various Dachfensterrollo (roof window blinds) models, including ROTO ECOLINE, BLEFA, ROOFLITE, BLEFA BL/BA-BSK/IA, BLEFA BL/B-BSK/B, KEYLITE, BLEFA BSK. It provides model types, dimensions (width and height in mm), and price groups.",
+      "page_number": 107
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for Dachfensterrollo Basic - ungenormte Fenster, under the section 4. DACHFENSTER ROLLO. It shows a detailed pricing table based on width (Breite) and height (Höhe) in centimeters, with various PG (price group) categories. No specific product information or images are present.",
+      "page_number": 108
+    },
+    {
+      "products": [
+        {
+          "name": "Velux Dachfenster",
+          "sku": "GHL M03 3059",
+          "brand": "VELUX",
+          "image_description": "Illustration of a Velux roof window showing the position of the identification label.",
+          "additional_info": "Typenschild is located on the top of the window frame."
+        },
+        {
+          "name": "Roto Dachfenster",
+          "image_description": "Illustration of a Roto roof window demonstrating the cleaning position for label accessibility.",
+          "additional_info": "Typenschild is on the right side (near the fitting) behind a blue or red plastic flap."
+        },
+        {
+          "name": "Fakro Dachfenster",
+          "image_description": "Illustration of a Fakro roof window indicating the label position.",
+          "additional_info": "Typenschild is at the top of the window frame."
+        }
+      ],
+      "page_notes": "General instructions for locating the window type label on different brands of roof windows within the section 'Genormte Dachfenster'.",
+      "page_number": 109
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains information about ordering requirements for custom roof windows, including models available for specific window frame angles (90°, 96°, 102°) and instructions on measurement. Illustrations depict various angles with labeled glass and frame depths.",
+      "page_number": 110
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains instructions and diagrams for determining the angle of window frames (Ermittlung der Neigungswinkels des Fensterrahmens). It includes Variant I and Variant II diagrams, alongside descriptions and measurements for different window components such as Glasbreite, Flügelinnenbreite, Glashöhe, Flügelinnenhöhe, and Rahmentiefe.",
+      "page_number": 111
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains assembly instructions for 'Modell Comfort' under the section '4. DACHFENSTER ROLLO'. It includes diagrams for requirements, assembly (MONTAGE), and operation (BEDIENUNG).",
+      "page_number": 112
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains installation instructions (MONTAGE) for Modell Basic from LUXAN. It includes illustration of required components, steps for installation, and usage instructions (BEDIENUNG).",
+      "page_number": 113
+    },
+    {
+      "products": [
+        {
+          "name": "Träger für Dachfenster Rollo (links, rechts) weiß",
+          "sku": "3.306.606.001",
+          "price": "6,60/ Paar",
+          "image_description": "Bracket illustration"
+        },
+        {
+          "name": "Träger für Dachfenster Rollo (links, rechts)",
+          "sku": "3.306.612.001",
+          "price": "6,60/ Paar",
+          "image_description": "Bracket illustration"
+        },
+        {
+          "name": "scheibe für Verschluss-Stopfen",
+          "sku": "3.306.599.001",
+          "description": "weiß für Velux GGU",
+          "price": "0,80/ St.",
+          "image_description": "Cap illustration"
+        },
+        {
+          "name": "fallrohrhalter",
+          "sku": "3.306.609.001, 3.306.609.000",
+          "description": "weiß transparent",
+          "price": "1,10/ St.",
+          "image_description": "Holder illustration"
+        },
+        {
+          "name": "Bedienungstange 200 cm eloxiert",
+          "sku": "SL24-A",
+          "price": "32,70/ St.",
+          "image_description": "Rod illustration"
+        },
+        {
+          "name": "Federsatz 180 mm",
+          "sku": "SL04-S180GY",
+          "description": "grau",
+          "price": "26,20/ St.",
+          "image_description": "Spring set illustration"
+        },
+        {
+          "name": "Federsatz 260 mm",
+          "sku": "SL04-S260GY",
+          "description": "grau",
+          "price": "32,80/ St.",
+          "image_description": "Spring set illustration"
+        },
+        {
+          "name": "Federsatz 360 mm",
+          "sku": "SL04-S360GY",
+          "description": "grau",
+          "price": "29,20/ St.",
+          "image_description": "Spring set illustration"
+        },
+        {
+          "name": "Stoffclips",
+          "sku": "SLC2009",
+          "price": "0,80/ St.",
+          "image_description": "Clips illustration"
+        },
+        {
+          "name": "Feder 1,2 x 180 mm",
+          "sku": "SLC2010",
+          "price": "28,80/ St.",
+          "image_description": "Spring illustration"
+        },
+        {
+          "name": "Feder 1,2 x 260 mm",
+          "sku": "SLC2011",
+          "price": "33,70/ St.",
+          "image_description": "Spring illustration"
+        },
+        {
+          "name": "Feder 1,2 x 360 mm",
+          "sku": "SLC2012",
+          "price": "37,60/ St.",
+          "image_description": "Spring illustration"
+        },
+        {
+          "name": "Bürstendichtung 4,5 x 8 mm",
+          "sku": "SLC2013",
+          "price": "2,20/ Lfm.",
+          "image_description": "Seal illustration"
+        },
+        {
+          "name": "Teilesatz für Spannsystem",
+          "sku": "SLC2004-GR",
+          "price": "8,30/ St.",
+          "image_description": "Set illustration"
+        },
+        {
+          "name": "Einbauset für 6°",
+          "sku": "SLC2005",
+          "price": "6,00/ St.",
+          "image_description": "Installation kit illustration"
+        },
+        {
+          "name": "Einbauset für 12°",
+          "sku": "SLC2006",
+          "price": "6,00/ St.",
+          "image_description": "Installation kit illustration"
+        },
+        {
+          "name": "Einbauset für 0°",
+          "sku": "SLC2007",
+          "price": "6,00/ St.",
+          "image_description": "Installation kit illustration"
+        }
+      ],
+      "page_notes": "Section titled 'EINZELTEILE' listing parts for 'MODELL BASIC' and 'MODELL COMFORT' with illustrations and prices.",
+      "page_number": 114
+    },
+    {
+      "products": [],
+      "page_notes": "The page is an order form for 'Dachfenster Rollo'. It includes fields for company details, order specifics, and instructions for completing measurements. Illustrations provide guidance on necessary dimensions for ordering.",
+      "page_number": 115
+    },
+    {
+      "products": [],
+      "page_notes": "The page is blank, containing no product information.",
+      "page_number": 116
+    },
+    {
+      "products": [],
+      "page_notes": "Section header: 5. Doppelrollo. Lists various models: Modell A mit Kassette 80 mm, Modell B mit Trägerprofil, Modell CSO, Modell Mini. No individual product information provided.",
+      "page_number": 117
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A mit Kassette 80mm",
+          "specifications": {
+            "systemfarbe": [
+              "weiß",
+              "altweiß",
+              "silbergrau",
+              "schwarz"
+            ]
+          },
+          "image_description": "Image of rollo with horizontal, transparent, and intertwined stripes."
+        },
+        {
+          "name": "Modell B mit Trägerprofil",
+          "specifications": {
+            "systemfarbe": [
+              "weiß",
+              "altweiß",
+              "silbergrau",
+              "anthrazit",
+              "schwarz"
+            ]
+          }
+        },
+        {
+          "name": "Modell CSO",
+          "specifications": {
+            "systemfarbe": [
+              "weiß",
+              "altweiß",
+              "silbergrau",
+              "anthrazit",
+              "schwarz"
+            ]
+          }
+        },
+        {
+          "name": "Modell Mini",
+          "specifications": {
+            "systemfarbe": [
+              "signalweiß (RAL9003)",
+              "weißaluminium (RAL9006)"
+            ]
+          }
+        }
+      ],
+      "page_notes": "Section 5. DOPPELROLLO, titled 'SYSTEMÜBERSICHT', includes an introduction to doppelrollos and their system colors.",
+      "page_number": 118
+    },
+    {
+      "products": [
+        {
+          "name": "Modell A",
+          "description": "Aluminiumkassette abgerundet",
+          "specifications": {
+            "Endkappenmaße": "80,3 x 81,5 mm",
+            "Größenbereich": {
+              "Max. Breite": "250 cm",
+              "Max. Höhe": "330 cm"
+            }
+          },
+          "additional_info": "Dieses Modell kann auch elektrisch gesteuert werden: elektrische Varianten: Seite 135/ Register 6",
+          "image_description": "Rollladen mit abgerundeter Aluminiumkassette"
+        },
+        {
+          "name": "Modell B",
+          "description": "Die Welle wird auf dem Trägerprofil montiert",
+          "specifications": {
+            "Endkappenmaße": "59 x 55 mm",
+            "Größenbereich": {
+              "Max. Breite": "220 cm",
+              "Max. Höhe": "290 cm"
+            }
+          },
+          "additional_info": "Dieses Modell kann auch elektrisch gesteuert werden: elektrische Varianten: Seite 135/ Register 6",
+          "image_description": "Rollladen mit Welle montiert auf Trägerprofil"
+        },
+        {
+          "name": "Modell CSO",
+          "description": "Aluminiumkassette abgerundet, halboffen",
+          "specifications": {
+            "Endkappenmaße": "74 x 78 mm",
+            "Größenbereich": {
+              "Max. Breite": "220 cm",
+              "Max. Höhe": "200 cm"
+            }
+          },
+          "image_description": "Halboffene Rollladen mit abgerundeter Aluminiumkassette"
+        },
+        {
+          "name": "Modell Mini",
+          "description": "Aluminiumkassette abgerundet",
+          "specifications": {
+            "Endkappenmaße": "80 x 40 mm",
+            "Größenbereich": {
+              "Max. Breite": "140 cm",
+              "Max. Höhe": "160 cm"
+            }
+          },
+          "image_description": "Kompakter Rollladen mit abgerundeter Aluminiumkassette"
+        }
+      ],
+      "page_notes": "Modellübersicht mit verschiedenen Aluminiumkassettenmodellen und deren Spezifikationen.",
+      "page_number": 119
+    },
+    {
+      "products": [
+        {
+          "description": "Standard-Abschluss bei Modell A, B und CSO. erhältlich in den Farben: weiß, silber, creme, schwarz",
+          "specifications": {
+            "material": "Aluminium",
+            "diameter": "1,5 cm"
+          },
+          "image_description": "Illustration of a standard roller blind"
+        },
+        {
+          "description": "erhältlich für Modell A, B und CSO (gegen Aufpreis). erhältlich in den Farben: weiß, silber, creme, schwarz",
+          "specifications": {
+            "material": "Stahl",
+            "diameter": "2 cm"
+          },
+          "image_description": "Illustration of a roller blind with a thicker profile"
+        },
+        {
+          "description": "erhältlich für Modell A, B und CSO. Anwendungen bei verdunkelnden Stoffen",
+          "image_description": "Illustration of a roller blind designed for blackout fabrics"
+        },
+        {
+          "description": "Standard-Abschluss bei Modell Mini",
+          "specifications": {
+            "diameter": "8 mm"
+          },
+          "image_description": "Illustration of a mini roller blind"
+        }
+      ],
+      "page_notes": "Section 5: Doppelrollo - Abschlussarten. Unterleisten details for various models.",
+      "page_number": 120
+    },
+    {
+      "products": [
+        {
+          "name": "Klemmträger",
+          "sku": "3.150 108 721 (weiß)",
+          "price": "8,10/ St.",
+          "additional_info": "elektrische Varianten: Register 6"
+        }
+      ],
+      "page_notes": "Aufpreise for Modell A, B; Additional charges for Unterleiste Mono with various widths and prices",
+      "page_number": 121
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a detailed price list for Modell A mit Kassette 80 mm, under the category 5. Doppelrollo, with prices listed based on width (Breite) and height (Höhe) in centimeters for different PG levels (0-4).",
+      "page_number": 122
+    },
+    {
+      "products": [],
+      "page_notes": "Price list page for Modell A with Kassette 80 mm. Prices are organized by width and PG levels for different heights, showing various metrics in a table format. Page number 123 of the catalogue LUXAN 2026 Rollo.",
+      "page_number": 123
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a pricing table for Modell A mit Kassette 80 mm in section 5. DOPPELROLLO. Prices are listed based on dimensions of Breite [cm] and Höhe [cm] as well as a group PG. No specific product details or images are provided.",
+      "page_number": 124
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a price list for 'Modell A mit Kassette 80 mm', showing prices based on width (Breite [cm]) and height (Höhe [cm]) in a table format. The product is associated with the brand Luxan. No detailed product descriptions, SKUs, or images are provided.",
+      "page_number": 125
+    },
+    {
+      "products": [],
+      "page_notes": "Price table for 'Modell B mit Trägerprofil' in the '5. DOPPELROLLO' section, listing prices based on width and height in cm across various product groups (PG). It includes prices for widths of 50, 60, 70, 80, 90, and 100 cm with different PG values. Reference to additional pricing on page 119.",
+      "page_number": 126
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a table of prices for 'Modell B mit Trägerprofil' with various dimensions and price group (PG) categories. Columns are labeled with width (Breite) and rows with height (Höhe). Specific prices for each size and PG are listed in the table format. Footer mentions 'Aufpreisse Seite 119' and 'Technik & Preise | 2026'.",
+      "page_number": 127
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for 'Doppelrollo' under 'Modell B mit Trägerprofil'. It includes prices based on width and height in cm and different PG categories.",
+      "page_number": 128
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price table for Modell CSO. It includes dimensions in 'Breite [cm]' (width) and 'Höhe [cm]' (height), with various pricing groups (PG) ranging from 0 to 3, and different widths (50 cm, 60 cm, 70 cm, 80 cm, 90 cm, 100 cm). The prices are listed for each combination of width and height across different pricing groups. The bottom mentions 'Aufpreisseite Seite 121' and 'Technik & Preise | 2026', indicating the page with additional price details and referring to technical information and prices of 2026.",
+      "page_number": 129
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a price list for Modell CSO in the 5. Doppelrollo section. It includes prices for various sizes in centimeters (Breite and Höhe) with different price groups (PG).",
+      "page_number": 130
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a table of prices for 'Modell CSO' with varying widths and heights. No specific product descriptions or SKUs are provided.",
+      "page_number": 131
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains a pricing table for the Modell CSO under the DOPPELROLLO section. The table lists prices based on dimensions (Breite and Höhe in cm) and PG columns (0-3 for each Breite value of 230, 240, and 250).",
+      "page_number": 132
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains a pricing table for 'Modell Mini Typ A-R' with available system colors and size options. It includes height and width dimensions in cm and prices, with a warning note about maximum height.",
+      "page_number": 133
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains measurement instructions for double roller blinds (Doppelrollo). It includes diagrams and details for measuring both outside and inside the window recess, with notes about recommended additional width and height. There are also warnings about side overlaps for different models.",
+      "page_number": 134
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains technical drawings and measurements for the 'Modell Mini A-R (mit räumlicher Führungsschiene)'. It includes notes on installation requirements and provides example measurements for order height and width. No specific product listings or prices are present.",
+      "page_number": 135
+    },
+    {
+      "products": [
+        {
+          "name": "CB",
+          "specifications": {
+            "dimensions": "30,0 mm x 49,0 mm"
+          },
+          "image_description": "Ceiling mount with dimensions labeled."
+        },
+        {
+          "name": "WB",
+          "description": "Wandmontage",
+          "specifications": {
+            "dimensions": "20,0 mm x 87,4 mm"
+          },
+          "image_description": "Wall mount with dimensions labeled."
+        },
+        {
+          "name": "Zusätzlicher Träger",
+          "description": "Wandmontage mittels zusätzlicher Winkelträger",
+          "sku": "CS80-CB-WH+K weiß, CS80-CB-CR+K creme, CS80-CB-BL+K schwarz, CS80-CB-SL+K silber",
+          "image_description": "Additional bracket with wall mount options."
+        },
+        {
+          "name": "Montage EE",
+          "description": "Montage mit Klemmträgern",
+          "specifications": {
+            "dimensions": "34,0 mm x 17,0 mm x 54,0 mm"
+          },
+          "image_description": "Clamp mounting system with dimensions labeled."
+        }
+      ],
+      "page_notes": "Section includes ceiling and wall mounting systems for Modell A with Cassette 80 mm.",
+      "page_number": 136
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains installation instructions for Modell B, including wall and ceiling mounting procedures for a roller product. Diagrams and step-by-step illustrations are provided. There are no specific product details such as name, price, or SKU. The brand LUXAN is mentioned.",
+      "page_number": 137
+    },
+    {
+      "products": [],
+      "page_notes": "Ordering form page for Doppelrollo with various customization options like model types (A, B, CSD), colors, sizes, and installation preferences. Includes diagrams of three rollo shades labeled CSD, B, and A. Instructions for filling out installation height and safety fields are noted.",
+      "page_number": 138
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains an order form for 'Doppelrollo Mini Typ A-R' by Luxan. It includes fields for company details, date, delivery date, and commission. There are columns for item number, quantity, width and height in cm, system type, and installation height. Additional notes mention safety requirements and installation height information. An illustration of a rollo is present.",
+      "page_number": 139
+    },
+    {
+      "products": [],
+      "page_notes": "Blank page, no visible product information.",
+      "page_number": 140
+    },
+    {
+      "products": [],
+      "page_notes": "Section header page for '6. Elektro - Zubehör' with an image of a person using a level tool and an image of an electrical accessory or component.",
+      "page_number": 141
+    },
+    {
+      "products": [
+        {
+          "name": "Motor Sonesse 40 PA 6/20 für Rollosystem M/L/XL",
+          "sku": "102940",
+          "brand": "Somfy",
+          "description": "Variante: Somfy SILENT für Kabelsteuerung",
+          "price": "€ 245"
+        },
+        {
+          "name": "Motor Sonesse 40 RTS 6/20 für Rollosystem M/L/XL",
+          "sku": "1001578",
+          "brand": "Somfy",
+          "description": "Variante: Somfy SILENT RTS für Funksteuerung",
+          "price": "€ 311"
+        },
+        {
+          "name": "Motor Sonesse 40 IO 6/20 für Rollosystem M/L/XL",
+          "sku": "1003226",
+          "brand": "Somfy",
+          "description": "Variante: Somfy SILENT iO für iO-Steuerung",
+          "price": "€ 370"
+        },
+        {
+          "name": "Schalter Smoove Uno WT",
+          "sku": "1800508",
+          "brand": "Somfy",
+          "description": "Zusatzkomponenten - Kabelsteuerung",
+          "price": "€ 36"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 RTS Pure II EE",
+          "sku": "1870403",
+          "brand": "Somfy",
+          "description": "Zusatzkomponenten - Funksteuerung RTS",
+          "price": "€ 55"
+        },
+        {
+          "name": "5-Kanal-Handsender Situo 5 RTS Pure II EE",
+          "sku": "1870419",
+          "brand": "Somfy",
+          "price": "€ 98"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 VAR RTS Pure II mit Scrollrad",
+          "sku": "1811068",
+          "brand": "Somfy",
+          "price": "€ 107"
+        },
+        {
+          "name": "5-Kanal-Handsender Situo 5 VAR RTS Pure II mit Scrollrad",
+          "sku": "1811610",
+          "brand": "Somfy",
+          "price": "€ 145"
+        },
+        {
+          "name": "Wandsender Smoove Origin RTS",
+          "sku": "1811045",
+          "brand": "Somfy",
+          "price": "€ 64"
+        },
+        {
+          "name": "16-Kanal-Handsender Telis 16 RTS Pure",
+          "sku": "1811079",
+          "brand": "Somfy",
+          "price": "€ 299"
+        },
+        {
+          "name": "6-Kanal-Handsender Telis 6 Chronis RTS Pure",
+          "sku": "1805215",
+          "brand": "Somfy",
+          "price": "€ 335"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 io Pure",
+          "sku": "1800466",
+          "brand": "Somfy",
+          "description": "Zusatzkomponenten - Funksteuerung iO",
+          "price": "€ 72"
+        },
+        {
+          "name": "5-Kanal-Handsender Situo 5 io Pure",
+          "sku": "1811300",
+          "brand": "Somfy",
+          "price": "€ 100"
+        },
+        {
+          "name": "1-Kanal-Handsender Situo 1 Variation io Pure mit Scrollrad",
+          "sku": "1800471",
+          "brand": "Somfy",
+          "price": "€ 110"
+        },
+        {
+          "name": "5-Kanal-Handsender Situo 5 Variation A/M io Pure mit Scrol-Irad",
+          "sku": "1811337",
+          "brand": "Somfy",
+          "price": "€ 150"
+        },
+        {
+          "name": "Funk-Wandsender Smoove Origin io",
+          "sku": "1811066",
+          "brand": "Somfy",
+          "price": "€ 67"
+        },
+        {
+          "name": "Nina io - Multi-Kanal-Handsender mit Touch-Display",
+          "sku": "1805251",
+          "brand": "Somfy",
+          "price": "€ 418"
+        },
+        {
+          "name": "Nina Timer io - Multi-Kanal-Handsender mit Touch-Display mit Zeitschaltuhr",
+          "sku": "1811407",
+          "brand": "Somfy",
+          "price": "€ 437"
+        },
+        {
+          "name": "TaHoma Switch Pro",
+          "sku": "1870594",
+          "brand": "Somfy",
+          "price": "€ 382"
+        },
+        {
+          "name": "Akkumotor CM-45 Pull only",
+          "sku": "CM-45-PO",
+          "brand": "Coulisse",
+          "description": "Variante: Coulisse Motion Small",
+          "price": "€ 102"
+        },
+        {
+          "name": "Akkumotor CM-45 für Rollosystem S/M",
+          "sku": "CM-45",
+          "brand": "Coulisse",
+          "price": "€ 136"
+        },
+        {
+          "name": "Akkumotor CM-45 EVE Matter für Rollosystem S/M",
+          "sku": "CM-45-E",
+          "brand": "Coulisse",
+          "price": "€ 190"
+        },
+        {
+          "name": "Akkumotor 12V Radio CM-03 für Rollosystem S/ML",
+          "sku": "CM-03",
+          "brand": "Coulisse",
+          "description": "Variante: Coulisse Motion Large",
+          "price": "€ 159"
+        },
+        {
+          "name": "Akkumotor EVE Radio CM-03 für Rollosystem S/ML",
+          "sku": "CM-03-E",
+          "brand": "Coulisse",
+          "price": "€ 223"
+        },
+        {
+          "name": "Akkumotor 12V Radio CM-05 für Rollosystem M/L/XL 65",
+          "sku": "CM-05",
+          "brand": "Coulisse",
+          "price": "€ 221"
+        },
+        {
+          "name": "Akkumotor EVE Radio CM-05 für Rollosystem M/L/XL 65",
+          "sku": "CM-05-E",
+          "brand": "Coulisse",
+          "price": "€ 278"
+        },
+        {
+          "name": "Akkumotor 6 Nm 24 U/min, Endlage elektrisch für Rollosystem M/L/XL",
+          "sku": "CM-06",
+          "brand": "Coulisse",
+          "price": "€ 325"
+        },
+        {
+          "name": "Akkumotor EVE 6 Nm 24 U/min, Endlage elektrisch für Rollosystem M/L/XL",
+          "sku": "CM-06-E",
+          "brand": "Coulisse",
+          "price": "€ 392"
+        },
+        {
+          "name": "Motor Silent Radio 8 Nm 15 U/min für Rollosystem M/L/XL",
+          "sku": "CM-10-QC",
+          "brand": "Coulisse",
+          "price": "€ 249"
+        },
+        {
+          "name": "Motor Silent 8 Nm 15 U/min für Rollosystem M/L/XL",
+          "sku": "CM-10-QMC",
+          "brand": "Coulisse",
+          "price": "€ 268"
+        }
+      ],
+      "page_notes": "Section header: ELEKTRISCHE VARIANTEN, Category: ROLLO DOPPELROLLO, Sub-sections: Somfy SILENT Varianten, Zusatzkomponenten - Kabelsteuerung, Zusatzkomponenten - Funksteuerung RTS, Zusatzkomponenten - Funksteuerung iO, Coulisse Motion Variants.",
+      "page_number": 142
+    },
+    {
+      "products": [
+        {
+          "name": "1-Kanal-Handsänder",
+          "sku": "CM-11",
+          "brand": "Coulisse",
+          "price": "€ 27"
+        },
+        {
+          "name": "5-Kanal-Handsänder",
+          "sku": "CM-12",
+          "brand": "Coulisse",
+          "price": "€ 36"
+        },
+        {
+          "name": "15-Kanal-Handsänder",
+          "sku": "CM-13",
+          "brand": "Coulisse",
+          "price": "€ 50"
+        },
+        {
+          "name": "Design 4-Kanal-Wandfernbedienung",
+          "sku": "CM-16",
+          "brand": "Coulisse",
+          "price": "€ 150"
+        },
+        {
+          "name": "Design 4-Kanal Tischfernbedienung",
+          "sku": "CM-17",
+          "brand": "Coulisse",
+          "price": "€ 69"
+        },
+        {
+          "name": "Matter WiFi Bridge",
+          "sku": "CM-55",
+          "brand": "Coulisse",
+          "price": "€ 221"
+        },
+        {
+          "name": "WiFi Hub Motion - USB Ausführung",
+          "sku": "CMD-01",
+          "brand": "Coulisse",
+          "price": "€ 136"
+        },
+        {
+          "name": "Ladegerät 12 V mit USB-C Ladekabel",
+          "sku": "DC220+CM-41",
+          "brand": "Coulisse",
+          "price": "€ 29"
+        },
+        {
+          "name": "Dauerstromnetzteil 12 V (nicht in Kombination mit Akku)",
+          "sku": "CM-21-EU",
+          "brand": "Coulisse",
+          "price": "€ 34"
+        }
+      ],
+      "page_notes": "Section titled ELEKTRISCHE VARIANTEN, focusing on ROLLO DOPPELROLLO with additional accessories for Variante Motion.",
+      "page_number": 143
+    },
+    {
+      "products": [
+        {
+          "name": "MOTOR SOMFY SONESSE 40 WT 6/20",
+          "description": "Rohrmotor, der für Rollos mit 42-50-65-80 mm-Wellen geeignet ist, Motor für Kabelsteuerung.",
+          "specifications": {
+            "Spannung/Frequenz": "230 V / 50 Hz",
+            "Kabel-Typ": "VVF",
+            "Kabellänge": "2,5 m",
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "20 U/min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II"
+          },
+          "image_description": "An image of a tubular motor."
+        },
+        {
+          "name": "MOTOR SOMFY SONESSE 40 RTS 6/20",
+          "description": "Rohrmotor, der für Rollos mit 42-50-65-80 mm-Wellen geeignet ist, Motor für Funksteuerung.",
+          "specifications": {
+            "Funkfrequenz": "RTS 433,42 MHz",
+            "Spannung/Frequenz": "230 V / 50 Hz",
+            "Kabel-Typ": "VVF",
+            "Kabellänge": "3 m",
+            "Drehmoment": "6 Nm",
+            "Drehzahl": "20 U/min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II"
+          },
+          "image_description": "An image of a tubular motor."
+        },
+        {
+          "name": "MOTOR SOMFY SONESSE 40 IO 6/20",
+          "description": "Rohrmotor, der für Rollos mit 42-50-65-80 mm-Wellen geeignet ist, Motor für iO.",
+          "specifications": {
+            "Spannung/Frequenz": "230 V / 50 Hz",
+            "Kabel-Typ": "RNF",
+            "Funkfrequenz": "io 868-870 (tri band) MHz",
+            "Laufzeit": "4 min",
+            "IP-Schutzklasse": "IP44",
+            "Schutzart": "II",
+            "Endschalter-Typ": "elektronisch"
+          },
+          "image_description": "An image of a tubular motor."
+        },
+        {
+          "name": "SCHALTER SMOOVE UNO WT",
+          "description": "Abmessungen 80x80 mm, Steuerung von 230 VAC Antrieben.",
+          "specifications": {
+            "Schutzgrad": "IP40"
+          },
+          "image_description": "An image of a switch."
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN - Section of electric motor variants.",
+      "page_number": 144
+    },
+    {
+      "products": [
+        {
+          "name": "SITUO 1 RTS PURE II",
+          "description": "1-Kanal-Handsander",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with a single button."
+        },
+        {
+          "name": "SITUO 5 RTS PURE II",
+          "description": "5-Kanal-Handsander",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with five buttons."
+        },
+        {
+          "name": "SITUO 1 VAR RTS PURE II",
+          "description": "1-Kanal-Handsander, Scrollrad zur präzisen Einsteckung der Stoffbahnen",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with a single button and scroll wheel."
+        },
+        {
+          "name": "SITUO 5 VAR RTS PURE II",
+          "description": "5-Kanal-Handsander, Scrollrad zur präzisen Einsteckung der Stoffbahnen",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433,42 MHz",
+            "Funkreichweite": "20 m",
+            "Dimensionen": "136 x 42 x 17 mm"
+          },
+          "image_description": "Remote control with five buttons and scroll wheel."
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN",
+      "page_number": 145
+    },
+    {
+      "products": [
+        {
+          "name": "FUNKWANDSENDER SOMFY SMOOVE ORIGIN RTS",
+          "description": "1-Kanal-Funksteuerung, Bedienung über Drucktasten, passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen der Schalterhersteller, sowie Befestigungsplatte für andere Schalterprogramme, Vielzahl an Gestaltungsmöglichkeiten mit den Somfy Smoove Rahmen, Einzel-, Gruppen- oder Zentralbedienung möglich, AUF- und AB-Taste zum Öffnen und Schließen, 'my'-Taste zum Stoppen oder Aufrufen der Lieblingsposition, Programmiermaste auf der Rückseite des Moduls, Befestigungsplatte für einfache und flexible Wandmontage, keine UP-Dose erforderlich, LED zur Sendeanzeige, drahtlos/batteriebetrieben, daher geringster Installationsaufwand, verwendbar mit allen externen oder integrierten RTS-Empfängern.",
+          "specifications": {
+            "Funkfrequenz": "433,42 MHz",
+            "IP Schutzklasse": "IP 30",
+            "Dimensionen": "50 x 50 mm",
+            "Farbe": "Weiß"
+          },
+          "image_description": "A square wall-mounted remote control with up and down arrows."
+        },
+        {
+          "name": "FUNKSENDER SOMFY 16 TELIS RTS PURE",
+          "description": "Bis zu 16 Kanäle ansteuerbar, individuelle Namensgebung pro Kanal möglich, jedem Kanal kann ein Symbol Rollladen, Markise oder Dachfensterrollladen zugeordnet werden, AUF- und AB-Taste zum Öffnen und Schließen, die 'my'-Taste erlaubt das schnelle Aufrufen der individuellen Lieblingsposition (z.B. optimale Schattenposition), großes Display mit Digitalanzeige, verwendbar mit allen externen oder integrierten RTS-Empfängern, drahtlos/ die Telis 6 Chronis RTS wird mit zwei 1,5 V Batterien vom Typ AAA (LR3) mit Energie versorgt, Batterieanzeige, Betriebstemperatur: +0°C bis +60°C.",
+          "specifications": {
+            "Betriebstemperatur": "+0°C bis +60°C"
+          },
+          "image_description": "A remote control with a display and multiple buttons.",
+          "additional_info": "Batteriezustandsanzeige"
+        }
+      ],
+      "page_notes": "Section header: ELEKTRISCHE VARIANTEN, Category: ELEKTRO - ZUBEHÖR",
+      "page_number": 146
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER SOMFY TELIS 6 CHRONIS RTS PURE",
+          "description": "Bis zu 6 Kanäle ansteuerbar, De-/aktivieren der Sonnenfunktion, manuell pro Kanal, individuelle Benennung der Kanäle möglich, AUF- und AB-Taste zum Öffnen und Schließen.",
+          "specifications": {
+            "Schaltzeiten": "6 Schaltzeiten pro Tag",
+            "Wechsel": "Einstellung von individuellen Öffnungs- und Schließzeiten",
+            "Funkfrequenz": "433,42 MHz",
+            "Schutzgrad": "IP 30",
+            "Dimensionen": "145 x 47 x 18 mm",
+            "Farbe": "Weiß",
+            "Betriebstemperatur": "0°C bis +60°C"
+          },
+          "image_description": "Image of a handheld remote control device.",
+          "additional_info": "Voreingestellte Öffnungs- und Schließzeiten, automatische Einstellung von Uhrzeit und Datum, Batterie: 1,5 V Typ AAA (LR3), großes, übersichtliches Display."
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN section with product details and specifications.",
+      "page_number": 147
+    },
+    {
+      "products": [
+        {
+          "name": "1-KANAL-HANDSENDER SITOU 1 iO",
+          "description": "Manuelle Vor-Ort-Steuerung eines io-Antriebs oder io-Funkempfängers per Funk. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF- und AB-Taste sowie \"my\"-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. Programmiertaste auf der Rückseite des Funkhandsenders, drahtlos/ batteriebetrieben.",
+          "specifications": {
+            "Frequenz": "868 MHz",
+            "Dimensionen": "36 x 145 x 15 mm"
+          },
+          "image_description": "Remote control with a few buttons."
+        },
+        {
+          "name": "5-KANAL-HANDSENDER SITOU 5 iO",
+          "description": "Manuelle Vor-Ort-Steuerung eines io-Antriebs oder io-Funkempfängers per Funk. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF- und AB-Taste sowie \"my\"-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. Programmiertaste auf der Rückseite des Funkhandsenders, drahtlos/ batteriebetrieben.",
+          "specifications": {
+            "Frequenz": "868 MHz",
+            "Dimensionen": "36 x 145 x 15 mm"
+          },
+          "image_description": "Remote control with a few buttons."
+        },
+        {
+          "name": "HANDSENDER SITOU 1 VARIATION iO",
+          "description": "1-Kanal-Funkwandsender mit Scrollrad zum komfortablen und präzisen Einstellung der Stoffbahnen bzw. Hoch- od. Runter dimmen. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Raffstores bzw. Einschalten der Beleuchtung, \"my\"-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition, AB-Taste zum Schließen des Raffstores bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige, drahtlos/ batteriebetrieben/ Wandhalter für flexible Montage.",
+          "image_description": "Wall remote with a scroll wheel and buttons."
+        }
+      ],
+      "page_notes": "Section 6. ELEKTRO - ZUBEHÖR, ELEKTRISCHE VARIANTEN",
+      "page_number": 148
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER SITUO 5 VARIATION IO",
+          "description": "5-Kanal-Funksender mit Scrollrad zum komfortablen und präzisen Einstellung der Stoffbahnen (nützliche Funktion bei Doppelrollos) bzw. Hoch- od. Runter dimmen. Einzel-, Gruppen- oder Zentralbedienung möglich. AUF-Taste zum Öffnen des Raffstores bzw. Einschalten der Beleuchtung. „my“-Taste zum Stoppen der laufenden Bewegung oder zum Aufrufen der Lieblingsposition. AB-Taste zum Schließen des Rollos bzw. Ausschalten der Beleuchtung. Programmiertaste auf der Rückseite des Funkhandsenders. LED für Sende- und Batteriezustandsanzeige. drahtlos/ batteriebetrieben/ Wandhalter für flexible Montage. „Select“-Taste und LED Anzeige für die Kanalwahl. A/M Funktion: zum Ein-/ Ausschalten der Automatik für alle Kanäle gleichzeitig. Aktivierung/Deaktivierung des Bedienmodus für Solar-Produkte.",
+          "image_description": "Remote control with scroll wheel."
+        },
+        {
+          "name": "SCHALTER SMOOVE ORIGIN IO PURE",
+          "description": "1-Kanal- Funksender. manuelle Steuerung eines io-Funkantriebs/ io-Funkempfänger gleichzeitig per Funk. Bedienung über Drucktasten. Vielzahl an Gestaltungsmöglichkeiten mit den Einzel- oder Gruppenbedienung möglich. passend zu allen gängigen Schalterprogrammen über einen 50 x 50 mm Adapterrahmen der Schalterhersteller, sowie Befestigungsplatte für andere Schalterprogramme. AUF- und AB-Taste sowie „my“-Taste zum Stoppen oder Aufrufen der Lieblingsposition. Programmiertaste auf der Rückseite des Moduls. Befestigungsplatte für einfache und flexible Wandmontage, keine UP-Dose erforderlich. LED zur Sendeanzeige. drahtlos und batteriebetrieben, daher geringster Installationsaufwand, mit Batteriezustandsanzeige.",
+          "specifications": {
+            "Funkfrequenz": "868.95 Mhz",
+            "Dimensionen": "50 x 50 mm",
+            "IP Schutzklasse": "IP30"
+          },
+          "image_description": "Wall-mounted remote control switch."
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN section, features remote controls for blinds and lighting.",
+      "page_number": 149
+    },
+    {
+      "products": [
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA iO",
+          "description": "manuelle Bedienung: über Piktogramme können iO-Antriebe oder iO-Empfänger in die gewünschte Position gefahren werden, Bidirektionale Kommunikation zwischen Touch-Display Steuerung und iO-Antrieb/ iO-Empfänger, Rückmeldung über den ausgeführten Befehl im Display, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien: in Räumen, Gruppen, Etagen und dem kompletten Haus können Szenarien einfach erstellt werden,",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite_freies_Feld": "250 m",
+            "Anzahl_der_Kanäle": "Multi",
+            "Volt/Frequenz": "100-240 V/ 50-60 Hz",
+            "Dimensionen": "159,8 x 68 x 69,9 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz-Weiß"
+          },
+          "image_description": "Remote control with touch display"
+        },
+        {
+          "name": "HANDSENDER MIT TOUCH-DISPLAY NINA TIMER iO",
+          "description": "bidirektionale Touch-Display Steuerung mit Zeitautomatik, Bedienung der Produkte einzeln oder in Gruppen, Zuordnung der Produkte in Räume, Etagen oder Produktgruppen, präzise Ansteuerung der Produkte in jede gewünschte Position, Erstellung von Szenarien: in Räumen, Gruppen, Etagen und dem kompletten Haus können Szenarien einfach erstellt werden,",
+          "specifications": {
+            "Funkfrequenz": "io 868 - 870 MHz",
+            "Reichweite_im_Raum": "20 m",
+            "Volt/Frequenz": "100-240 V/ 50-60 Hz",
+            "Dimensionen": "150 x 90 x 60 mm",
+            "Tiefe": "45 mm",
+            "IP-Schutzklasse": "IP20",
+            "Farbe": "Schwarz"
+          },
+          "image_description": "Remote control with timer and touch display"
+        },
+        {
+          "name": "SOMFY TAHOMA SWITCH PRO",
+          "description": "individuelle Somfy Smart Home Steuerung, 24-Stunden Zugriff auf Ihr vernetztes Zuhause und eine individuelle Home-Steuerung, auch von unterwegs, kompatibel mit dem Somfy-Funkprotokollen iO, RTS, RTD, RTDS sowie weiteren Funkstandards wir EnOcean und Z-Wave, individuelle Einzel- oder Gruppensteuerung aller angeschlossenen Geräte über das Internet per PC, Tablet PC oder Smartphone mit der Somfy Pro App (iOS, Android), zeit- und tagesabhängige Aktivierung/Deaktivierung von Sensoren und Meldern, Rückmeldefunktion über ausgewählte Befehle, erweiterbar mit iO-homecontrol Komponenten, RTS-Produkte und RTD-Men; kompatibel mit vielen Haustechnikprodukten führender Hersteller.",
+          "image_description": "Smart home control device surrounded by icons"
+        }
+      ],
+      "page_notes": "Section: ELEKTRISCHE VARIANTEN - featuring remote controls and smart home devices.",
+      "page_number": 150
+    },
+    {
+      "products": [
+        {
+          "name": "MOTOR COULISSE CM-45-PO",
+          "description": "Rohrmotor 0,5 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 8 V, USB-C, Wellen: 28, 30, 35, 38, Mindestbreite (Anlage): 67 cm, Bedienung: Pull Cord.",
+          "specifications": {
+            "motor": "0,5 Nm 28 U/min",
+            "battery": "integrierter Akku 2600 mAh 8 V, USB-C",
+            "wellen": "28, 30, 35, 38",
+            "mindestbreite": "67 cm"
+          },
+          "image_description": "Image of a motor with pull cord"
+        },
+        {
+          "name": "MOTOR COULISSE CM-45",
+          "description": "Rohrmotor 0,5 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 8 V, USB-C, Wellen: 28, 30, 35, 38, Mindestbreite (Anlage): 67 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App.",
+          "specifications": {
+            "motor": "0,5 Nm 28 U/min",
+            "battery": "integrierter Akku 2600 mAh 8 V, USB-C",
+            "wellen": "28, 30, 35, 38",
+            "mindestbreite": "67 cm"
+          },
+          "image_description": "Image of a motor with pull cord, remote control, and Bluetooth app"
+        },
+        {
+          "name": "MOTOR COULISSE CM-45-E",
+          "description": "Rohrmotor 0,5 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 8 V, USB-C, Wellen: 28, 30, 35, 38, Mindestbreite (Anlage): 67 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "specifications": {
+            "motor": "0,5 Nm 28 U/min",
+            "battery": "integrierter Akku 2600 mAh 8 V, USB-C",
+            "wellen": "28, 30, 35, 38",
+            "mindestbreite": "67 cm"
+          },
+          "image_description": "Image of a motor with smart home integrations"
+        },
+        {
+          "name": "MOTOR COULISSE CM-03",
+          "description": "Rohrmotor 1,1 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 10,8 V, USB-C, Wellen [mm]: 30, 35, 38, 42, 50, Mindestbreite (Anlage): 77 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App.",
+          "specifications": {
+            "motor": "1,1 Nm 28 U/min",
+            "battery": "integrierter Akku 2600 mAh 10,8 V, USB-C",
+            "wellen": "30, 35, 38, 42, 50",
+            "mindestbreite": "77 cm"
+          },
+          "image_description": "Image of a motor with remote and Bluetooth app"
+        },
+        {
+          "name": "MOTOR COULISSE CM-03-E",
+          "description": "Rohrmotor 1,1 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 10,8 V, USB-C, Wellen [mm]: 30, 35, 38, 42, 50, Mindestbreite (Anlage): 77 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "specifications": {
+            "motor": "1,1 Nm 28 U/min",
+            "battery": "integrierter Akku 2600 mAh 10,8 V, USB-C",
+            "wellen": "30, 35, 38, 42, 50",
+            "mindestbreite": "77 cm"
+          },
+          "image_description": "Image of a motor with smart home compatibility"
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN section from LUXAN catalogue.",
+      "page_number": 151
+    },
+    {
+      "products": [
+        {
+          "name": "MOTOR COULISSE CM-05",
+          "description": "Rohrmotor 2 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 12 V, Mikro-USB, Wellen [mm]: 42, 50, 65, Mindestbreite (Anlage): 91 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App.",
+          "specifications": {
+            "motor": "2 Nm 28 U/min",
+            "power supply": "integrierter Akku 2600 mAh 12 V, Mikro-USB",
+            "shafts": "42, 50, 65 mm",
+            "minimum width": "91 cm"
+          },
+          "image_description": "Rod motor designed for a curtain system."
+        },
+        {
+          "name": "MOTOR COULISSE CM-05-E",
+          "description": "Rohrmotor 2 Nm 28 U/min, Versorgung: integrierter Akku 2600 mAh 12 V, Mikro-USB, Wellen [mm]: 42, 50, 65, Mindestbreite (Anlage): 91 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "specifications": {
+            "motor": "2 Nm 28 U/min",
+            "power supply": "integrierter Akku 2600 mAh 12 V, Mikro-USB",
+            "shafts": "42, 50, 65 mm",
+            "minimum width": "91 cm"
+          },
+          "image_description": "Rod motor with additional smart home integration."
+        },
+        {
+          "name": "MOTOR COULISSE CM-06",
+          "description": "Rohrmotor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C, Wellen [mm]: 42, 50, 65, 80, Mindestbreite (Anlage): 80 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App.",
+          "specifications": {
+            "motor": "6 Nm 24 U/min",
+            "power supply": "integrierter Akku 3200 mAh 11,1 V, USB-C",
+            "shafts": "42, 50, 65, 80 mm",
+            "minimum width": "80 cm"
+          },
+          "image_description": "Rod motor designed for a curtain system."
+        },
+        {
+          "name": "MOTOR COULISSE CM-06-E",
+          "description": "Rohrmotor 6 Nm 24 U/min, Versorgung: integrierter Akku 3200 mAh 11,1 V, USB-C, Wellen [mm]: 42, 50, 65, 80, Mindestbreite (Anlage): 80 cm, Bedienung: Pull Cord, Fernbedienung, Bluetooth App, EVE-Matter (z.B. Apple Home, Google Home, Amazon Alexa).",
+          "specifications": {
+            "motor": "6 Nm 24 U/min",
+            "power supply": "integrierter Akku 3200 mAh 11,1 V, USB-C",
+            "shafts": "42, 50, 65, 80 mm",
+            "minimum width": "80 cm"
+          },
+          "image_description": "Rod motor with additional smart home integration."
+        },
+        {
+          "name": "MOTOR COULISSE CM-10-QMC",
+          "description": "Rohrmotor 8 Nm 15 U/min, Versorgung: 230 V AC, fest verkabelt, Wellen [mm]: 50, 65, 80, Mindestbreite (Anlage): 76 cm, Bedienung: Wandschalter.",
+          "specifications": {
+            "motor": "8 Nm 15 U/min",
+            "power supply": "230 V AC, fest verkabelt",
+            "shafts": "50, 65, 80 mm",
+            "minimum width": "76 cm"
+          },
+          "image_description": "Robust rod motor with wall switch control."
+        }
+      ],
+      "page_notes": "This page contains product descriptions for various motorized curtain systems (MOTOR COULISSE) with different motor specifications, power supplies, and control options.",
+      "page_number": 152
+    },
+    {
+      "products": [
+        {
+          "name": "CM-10-QC",
+          "description": "Rohrmotor 8 Nm 15 U/min, Versorgung: 230 V AC, fest verkabelt, Wellen [mm]: 50, 65, 80, Mindestbreite (Anlage): 76 cm, Bedienung: Fernbedienung, Bluetooth App.",
+          "image_description": "Image of a tubular motor"
+        },
+        {
+          "name": "1 - KANAL HANDSENDER CM-11",
+          "description": "1-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a 1-channel remote control"
+        },
+        {
+          "name": "5 - KANAL HANDSENDER CM-12",
+          "description": "5-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a 5-channel remote control"
+        },
+        {
+          "name": "15 - KANAL HANDSENDER CM-13",
+          "description": "15-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "120 x 45 x 14 mm"
+          },
+          "image_description": "Image of a 15-channel remote control"
+        },
+        {
+          "name": "4 - KANAL WANDFERNBEDIENUNG CM-16",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "3x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "86 x 86 x 17 mm"
+          },
+          "image_description": "Image of a 4-channel wall remote control"
+        },
+        {
+          "name": "4 - KANAL TISCHFERNBEDIENUNG CM-17",
+          "description": "4-Kanal-Handsender",
+          "specifications": {
+            "Betriebsspannung": "2x 3 V-Batterie Typ CR 2430-Lithium",
+            "Sendefrequenz": "433 MHz",
+            "Funkreichweite": "30 m",
+            "Dimensionen": "70,3 x 62,7 x 52,3 mm"
+          },
+          "image_description": "Image of a 4-channel table remote control"
+        }
+      ],
+      "page_notes": "ELEKTRISCHE VARIANTEN section with remote controls and a tubular motor.",
+      "page_number": 153
+    },
+    {
+      "products": [
+        {
+          "name": "MOTION MATTER BRIDGE CM-55",
+          "description": "Die MOTION MATTER Bridge ist das Herzstück des automatischen Netzwerks in Ihrem Haus. Die Bridge eröffnet Ihnen unzählige Möglichkeiten, um Ihre Produkte über die MOTION-App zu steuern. Cloud-Verbindungen mit den führenden Smart-Home-Anwendungen ermöglichen die Sprachsteuerung und eine Vielzahl an Optionen für die Smart-Automatisierung.",
+          "specifications": {
+            "max_motors": "30",
+            "max_scenarios": "20",
+            "max_timers": "20",
+            "frequency": "433 MHz; 2,4 GHz",
+            "range": "30m",
+            "power_source": "USB-C"
+          },
+          "image_description": "A small rectangular device with cable."
+        },
+        {
+          "name": "MOTION WIFI HUB USB CMD-01",
+          "description": "Die MOTION WLAN-Bridge USB eröffnet ein automatisches Netzwerk. Sie verbinden das USB-Hub dauerhaft mit Strom, verbinden das USB-Hub auf dem Smartphone mit der MOTION-App und anschließend mit den Motoren der Produkte. Sie steuern die Produkte über die MOTION-App am Smartphone.",
+          "image_description": "A white USB hub device."
+        },
+        {
+          "name": "LADEGERÄT COULISSE 12V",
+          "sku": "DC220+CM-41",
+          "description": "Transformator 12 V, USB-C Kabel.",
+          "image_description": "A transformer and USB-C cable."
+        }
+      ],
+      "page_notes": "Section for electrical variants within the 'ELEKTRO - ZUBEHÖR' category. Page includes products with networking capabilities and charging equipment.",
+      "page_number": 154
+    },
+    {
+      "products": [],
+      "page_notes": "Page 155 contains a section header titled '7. AGB' likely indicating terms and conditions or general terms.",
+      "page_number": 155
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains terms and conditions (AGB Allgemeine Geschäftsbedingungen) of the company Luxan Krawczyk Sonnenschutzsysteme GmbH. It includes sections on general terms, offers and pricing, payment terms, and delivery terms and deadlines.",
+      "page_number": 156
+    },
+    {
+      "products": [],
+      "page_notes": "The page contains terms and conditions (AGB) related to delivery, liability, installation, and warranty for products. It includes sections on fulfillment location, delivery terms, installation requirements, and warranty guarantees.",
+      "page_number": 157
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains legal terms and conditions related to warranties, ownership rights, liability for defects, and the handling of retained goods. It is a section labeled 'AGB' (Allgemeine Geschäftsbedingungen or General Terms and Conditions) and does not contain any product information.",
+      "page_number": 158
+    },
+    {
+      "products": [],
+      "page_notes": "This page contains legal information regarding terms and conditions, liability, applicable law, and jurisdiction clauses. It is part of section AGB and is from 'Technik & Preise | 2026'.",
+      "page_number": 159
+    },
+    {
+      "products": [],
+      "page_notes": "Contact information for Luxan Krawczyk Sonnenschutzsysteme GmbH, including address, telephone, fax, email, and company registration details.",
+      "page_number": 160
     }
   ],
-  "total_products": 14
+  "total_products": 410
 }
