@@ -238,15 +238,19 @@ def main():
         print(f"Error: '{folder}' is not a directory.")
         sys.exit(1)
 
-    # Load API key from ../Converter/.env if not already set
-    env_file = folder / ".." / "Converter" / ".env"
-    if env_file.exists():
-        load_dotenv(env_file, override=False)
+    # Load API key: check local .env first, then ../Converter/.env
+    local_env = folder / ".env"
+    converter_env = folder / ".." / "Converter" / ".env"
+    for env_file in (local_env, converter_env):
+        if env_file.exists():
+            load_dotenv(env_file, override=False)
+            break
 
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         print("Error: OPENAI_API_KEY environment variable is not set.")
-        print("Set it with: export OPENAI_API_KEY='your-key-here'")
+        print("Create a .env file with: OPENAI_API_KEY=sk-your-key-here")
+        print("Or set it as an environment variable.")
         sys.exit(1)
 
     client = OpenAI(api_key=api_key)

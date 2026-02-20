@@ -5,17 +5,20 @@ set -e
 
 cd "$(dirname "$0")"
 
-# Load API key from Converter/.env if not already set
+# Load API key: check local .env first, then ../Converter/.env
 if [ -z "$OPENAI_API_KEY" ]; then
-    ENV_FILE="../Converter/.env"
-    if [ -f "$ENV_FILE" ]; then
-        export $(grep '^OPENAI_API_KEY=' "$ENV_FILE" | xargs)
-        echo "Loaded OPENAI_API_KEY from $ENV_FILE"
-    fi
+    for ENV_FILE in ".env" "../Converter/.env"; do
+        if [ -f "$ENV_FILE" ]; then
+            export $(grep '^OPENAI_API_KEY=' "$ENV_FILE" | xargs)
+            echo "Loaded OPENAI_API_KEY from $ENV_FILE"
+            break
+        fi
+    done
 fi
 
 if [ -z "$OPENAI_API_KEY" ]; then
-    echo "ERROR: OPENAI_API_KEY is not set and not found in ../Converter/.env"
+    echo "ERROR: OPENAI_API_KEY is not set."
+    echo "Create a .env file with: OPENAI_API_KEY=sk-your-key-here"
     exit 1
 fi
 

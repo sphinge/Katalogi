@@ -20,10 +20,13 @@ from .retrieval import CatalogueStore
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-# Load OPENAI_API_KEY from ../Converter/.env if not already set
-_env_file = PROJECT_ROOT.parent / "Converter" / ".env"
-if _env_file.exists():
-    load_dotenv(_env_file, override=False)
+# Load OPENAI_API_KEY: check local .env first, then ../Converter/.env
+_local_env = PROJECT_ROOT / ".env"
+_converter_env = PROJECT_ROOT.parent / "Converter" / ".env"
+for _env_file in (_local_env, _converter_env):
+    if _env_file.exists():
+        load_dotenv(_env_file, override=False)
+        break
 
 app = FastAPI(title="LUXAN Catalogue Q&A")
 
